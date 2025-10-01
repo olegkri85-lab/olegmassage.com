@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+    @apply bg-amber-50
+}
+
+
+
+
+@theme {
+    --font-display: "DM Serif Display", sans-serif; 
+}
