@@ -1,2 +1,16 @@
-User-Agent: *
-Disallow:
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow legal pages from search results
+Disallow: /legal
+Disallow: /en/legal
+Disallow: /ru/legal
+Disallow: /uk/legal
+Disallow: /dataprotection
+Disallow: /en/dataprotection
+Disallow: /ru/dataprotection
+Disallow: /uk/dataprotection
+
+# Sitemap
+Sitemap: https://massazh.me/sitemap.xml
