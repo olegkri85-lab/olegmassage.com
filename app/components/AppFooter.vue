@@ -29,9 +29,30 @@
               Zürich
             </NuxtLink>
           </li>
-          <li>Schwyz</li>
-          <li>Luzern</li>
-          <li>Zug</li>
+          <li>
+            <NuxtLink
+              :to="localePath('/locations/schwyz')"
+              class="text-gray-900 relative !no-underline hover:underline"
+            >
+              Schwyz
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink
+              :to="localePath('/locations/luzern')"
+              class="text-gray-900 relative !no-underline hover:underline"
+            >
+              Luzern
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink
+              :to="localePath('/locations/zug')"
+              class="text-gray-900 relative !no-underline hover:underline"
+            >
+              Zug
+            </NuxtLink>
+          </li>
           <li>Aargau</li>
           <li>Rapperswil (St. Gallen)</li>
         </ul>

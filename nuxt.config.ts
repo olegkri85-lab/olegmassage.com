@@ -5,12 +5,26 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
-  modules: ["@nuxt/eslint", "@nuxt/fonts", "@nuxt/scripts", "@nuxtjs/i18n"],
+  modules: [
+    "@nuxt/eslint",
+    "@nuxt/fonts",
+    "@nuxt/scripts",
+    "@nuxtjs/i18n",
+    "@nuxtjs/sitemap",
+  ],
+  site: {
+    url: 'https://massazh.me'
+  },
+  sitemap: {
+    autoLastmod: true,
+    defaults: {
+      changefreq: 'monthly',
+      priority: 0.7
+    }
+  },
   css: ["~/assets/css/main.css"],
   fonts: {
-    families: [
-      { name: "Playfair Display", provider: "google" },
-    ],
+    families: [{ name: "Playfair Display", provider: "google" }],
   },
   i18n: {
     defaultLocale: "de",
