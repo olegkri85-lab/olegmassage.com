@@ -35,7 +35,11 @@
         </h3>
         <ul>
           <li><a href="tel:+41798499274">+41 79 849 92 74</a></li>
-          <li><a href="mailto:oleg@massazh.me">oleg@massazh.me</a></li>
+          <li>
+            <a href="mailto:oleh.kryvorotko@icloud.com"
+              >oleh.kryvorotko@icloud.com</a
+            >
+          </li>
           <li>
             <a href="https://www.threads.com/@massage_in_schweiz">Threads</a>
           </li>
