@@ -1,9 +1,9 @@
 <template>
-  <div class="container">
-    <AppHeader />
-    <slot />
-    <AppFooter />
-  </div>
+  <TopBar />
+  <AppHeader />
+  <slot />
+  <AppFooter />
+  <FloatingWhatsApp />
 </template>
 
 <style scoped></style>

@@ -1,4 +1,230 @@
 {
-    "about": "About me",
-    "welcome": "Massazh by Oleg"
+  "welcome": "Welcome",
+  "meta": {
+    "home": {
+      "title": "Mobile Massage Zürichsee | Professional Massage at Your Home",
+      "description": "Professional mobile massage service in Zürichsee region. Classical massage, sports massage, relaxation massage, and cupping therapy at your home. Book now!"
+    },
+    "about": {
+      "title": "About Me | Former Olympic Gymnast & Professional Massage Therapist",
+      "description": "Meet Oleg, former Olympic gymnast for Ukraine and professional massage therapist. Expert in sports massage, classical massage, and cupping therapy in Zürich."
+    },
+    "services": {
+      "title": "Massage Services | Classical, Sports & Relaxation Massage",
+      "description": "Discover our professional massage treatments: classical massage, sports massage, relaxation massage, and cupping therapy. Mobile massage in Zürichsee region."
+    },
+    "legal": {
+      "title": "Legal Notice | Massazh.me",
+      "description": "Legal information and imprint for Massazh.me mobile massage service in the Zürichsee region, Switzerland."
+    },
+    "dataProtection": {
+      "title": "Data Protection | Massazh.me",
+      "description": "Data protection declaration for Massazh.me mobile massage service. Learn how we protect your personal data."
+    },
+    "faq": {
+      "title": "FAQ - Frequently Asked Questions | Massazh.me",
+      "description": "Answers to frequently asked questions about mobile massage service in Zürichsee region. Booking, pricing, process and more."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "faq": "Questions"
+  },
+  "footer": {
+    "serviceArea": "Service Area",
+    "contact": "Contact",
+    "info": "Info",
+    "aboutMe": "About me",
+    "faq": "Questions",
+    "legal": "Legal",
+    "dataProtection": "Data Protection",
+    "hours": "Opening Hours",
+    "hoursText": "Monday - Sunday",
+    "hoursTime": "08:00 - 20:00",
+    "flexible": "Flexible scheduling",
+    "payment": "Payment",
+    "paymentMethods": "Cash & TWINT",
+    "languages": "Languages",
+    "languagesList": "German, English, Russian, Ukrainian",
+    "whatsappCta": "Questions? Chat with us",
+    "trustBadge1": "Olympic Gymnast",
+    "trustBadge2": "5+ Years Experience",
+    "trustBadge3": "Certified"
+  },
+  "hero": {
+    "title": "Massage at Your Home",
+    "subtitle": "Zurich Lake Region",
+    "description": "I come to you with a professional massage table and all necessary equipment. Relax in your familiar surroundings while I provide you with a first-class massage – without any commute or parking hassles.",
+    "cta": "Book Appointment",
+    "ctaButton": "Get a Massage now"
+  },
+  "services": {
+    "title": "Massage Services",
+    "subtitle": "Services",
+    "description": "Discover our professional massage treatments tailored to your specific needs. From classical relaxation to targeted sports massage – I bring the perfect treatment to your home.",
+    "classical": {
+      "title": "Classical Massage",
+      "description": "Relaxing full-body or partial massage. Promotes circulation and releases muscle tension."
+    },
+    "sports": {
+      "title": "Sports Massage",
+      "description": "Ideal for active people and athletes. Supports recovery, prevents injuries, and improves muscle flexibility."
+    },
+    "relaxation": {
+      "title": "Relaxation Massage",
+      "description": "Anti-stress massage with gentle techniques. Focus on stress relief and calming body and mind."
+    },
+    "cupping": {
+      "title": "Cupping Therapy",
+      "description": "Traditional cupping therapy to relieve muscle tension, promote circulation, and support detoxification."
+    },
+    "pricing": {
+      "title": "Pricing & Terms",
+      "minOrder": "Minimum Order",
+      "minOrderValue": "1 Massage",
+      "payment": "Payment Methods",
+      "paymentMethods": "Cash or TWINT",
+      "note": "Cupping therapy can be added to any massage."
+    },
+    "duration": {
+      "massage60": "60 minutes",
+      "massage90": "90 minutes",
+      "cupping": "15 minutes"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Your Professional Massage Therapist",
+    "story": "My journey to becoming a massage therapist is unique. As a former Olympic gymnast for Ukraine and circus artist, I've spent my life understanding the human body at the highest level. Through years of athletic performance, I learned firsthand what muscles need to recover, how to prevent injuries, and the importance of proper body care. This deep, personal knowledge of the body's mechanics now informs every massage I give. I bring the discipline of an athlete and the precision of a performer to help you feel pain-free and completely relaxed. Available in German, English, and Russian."
+  },
+  "cta": {
+    "title": "Stress-free Consultation Booking",
+    "button": "Book Now",
+    "hero": "Get a Massage now",
+    "about": "Book Appointment",
+    "services": "Book Massage",
+    "nav": "Book Now",
+    "whatsappMessage": {
+      "hero": "Hi Oleg, I need a massage.",
+      "about": "Hi Oleg, I would like to book an appointment.",
+      "services": "Hi Oleg, I'm interested in a massage.",
+      "nav": "Hi Oleg, I would like to book a massage.",
+      "default": "Hi Oleg, I need a massage."
+    }
+  },
+  "legal": {
+    "title": "Legal Notice",
+    "intro": "Information according to Swiss law regarding the operator of this website.",
+    "information": {
+      "title": "Information about the Service Provider",
+      "content": "Oleg, Mobile Massage Service, Region Zürichsee, Switzerland. Email: {email}, Phone: +380 50 587 2464"
+    },
+    "liability": {
+      "title": "Liability for Content",
+      "content": "The content of our pages has been created with the greatest care. However, we cannot guarantee the accuracy, completeness and timeliness of the content. As a service provider, we are responsible for our own content on these pages. However, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity."
+    },
+    "copyright": {
+      "title": "Copyright",
+      "content": "The content and works created by the site operators on these pages are subject to Swiss copyright law. Duplication, processing, distribution and any kind of exploitation outside the limits of copyright require the written consent of the respective author or creator."
+    }
+  },
+  "dataProtection": {
+    "title": "Data Protection",
+    "intro": "The protection of your personal data is very important to us. In this data protection declaration, we inform you about the processing of personal data when using our website.",
+    "responsible": {
+      "title": "Responsible Party",
+      "content": "Responsible for data processing on this website: Oleg, Mobile Massage Service, Zürichsee Region, Email: {email}"
+    },
+    "dataCollection": {
+      "title": "Data Collection",
+      "content": "When you contact us via WhatsApp, email or phone, we collect and process the personal data you provide (name, contact details, message content) solely for the purpose of processing your inquiry and booking appointments. This data will not be shared with third parties."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "content": "You have the right to information, correction, deletion, restriction of processing, data portability and objection to the processing of your personal data. To exercise these rights, please contact us at {email}."
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "If you have questions about data protection, please contact us at: {email}"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know",
+    "items": [
+      {
+        "question": "How does mobile massage work?",
+        "answer": "I come directly to your home with a professional massage table and all necessary equipment. You don't need to prepare anything – just relax in your familiar surroundings."
+      },
+      {
+        "question": "What do I need to prepare?",
+        "answer": "You only need 2 large towels and one small towel. I bring the rest: massage table, massage oils, and all necessary materials. You need a room with about 3x3 meters of space."
+      },
+      {
+        "question": "How long does a session last?",
+        "answer": "A standard massage session lasts 60 minutes. I also offer extended 90-minute sessions. Additionally, I plan 10-15 minutes for setup and breakdown."
+      },
+      {
+        "question": "What equipment do you bring?",
+        "answer": "I bring a professional, adjustable massage table, fresh towels, high-quality massage oils, relaxation music, and cupping glasses if needed. You don't need to provide anything."
+      },
+      {
+        "question": "What areas do you serve?",
+        "answer": "I offer mobile massage throughout the Zürichsee region, including Zürich, Schwyz, Luzern, Zug, Aargau, and Rapperswil (St. Gallen). Contact me for specific locations."
+      },
+      {
+        "question": "How do I book an appointment?",
+        "answer": "It's easy! Click any 'Book Now' button and you'll be directed to WhatsApp. Alternatively, you can call me at +41 79 849 92 74."
+      },
+      {
+        "question": "What's your cancellation policy?",
+        "answer": "I ask for at least 24 hours notice for cancellations. Short-notice cancellations may incur a fee. Rescheduling is usually free of charge."
+      },
+      {
+        "question": "Do you have professional certification?",
+        "answer": "Yes! I'm a professionally trained massage therapist. Additionally, I was an Olympic gymnast for Ukraine, which gives me deep understanding of body mechanics and sports injuries."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "I accept cash payment and TWINT. Payment is made after the massage."
+      },
+      {
+        "question": "Is it safe to have a massage therapist at home?",
+        "answer": "Absolutely! I'm a professional, certified therapist with years of experience. Many clients appreciate the comfort and privacy of home massage. You can also check my reviews and references."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What My Clients Say",
+    "subtitle": "Testimonials",
+    "items": [
+      {
+        "quote": "D'Sportmassage het mer mega gholfe! Oleg weiss genau, wo d'Verspannige sitze und wie mer die löst. I ha mi danach wie neugebore gfühlt!",
+        "author": "Anna K.",
+        "location": "Zürich"
+      },
+      {
+        "quote": "Die Massage war genau das Richtige nach dem Training. Oleg versteht seinen Job wirklich – als ehemaliger Olympia-Turner weiß er, worauf es ankommt.",
+        "author": "Thomas M.",
+        "location": "Horgen"
+      },
+      {
+        "quote": "The convenience of having a professional massage at home is incredible. Everything was perfectly prepared, and I felt completely relaxed afterwards.",
+        "author": "Sarah J.",
+        "location": "Rapperswil"
+      },
+      {
+        "quote": "Олег - настоящий профессионал! Спортивный массаж помог мне восстановиться после травмы. Очень удобно, что он приезжает на дом.",
+        "author": "Дмитрий П.",
+        "location": "Meilen"
+      },
+      {
+        "quote": "Чудова розслаблююча масажна терапія! Олег дуже уважний і професійний. Рекомендую всім, хто шукає якісний масаж.",
+        "author": "Оксана В.",
+        "location": "Zürich"
+      }
+    ]
+  }
 }

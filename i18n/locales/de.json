@@ -1,4 +1,230 @@
 {
+  "welcome": "Willkommen",
+  "meta": {
+    "home": {
+      "title": "Mobile Massage Zürichsee | Professionelle Massage bei Ihnen zu Hause",
+      "description": "Professioneller mobiler Massage-Service in der Region Zürichsee. Klassische Massage, Sportmassage, Entspannungsmassage und Schröpfen bei Ihnen zu Hause. Jetzt buchen!"
+    },
+    "about": {
+      "title": "Über mich | Ehemaliger Olympiaturner & Professioneller Massagetherapeut",
+      "description": "Lernen Sie Oleg kennen, ehemaliger Olympiaturner der Ukraine und professioneller Massagetherapeut. Experte für Sportmassage, klassische Massage und Schröpfen in Zürich."
+    },
+    "services": {
+      "title": "Massagearten | Klassische, Sport & Entspannungsmassage",
+      "description": "Entdecken Sie unsere professionellen Massagebehandlungen: Klassische Massage, Sportmassage, Entspannungsmassage und Schröpftherapie. Mobile Massage in der Region Zürichsee."
+    },
+    "legal": {
+      "title": "Impressum | Massazh.me",
+      "description": "Rechtliche Informationen und Impressum für Massazh.me mobiler Massage-Service in der Region Zürichsee, Schweiz."
+    },
+    "dataProtection": {
+      "title": "Datenschutz | Massazh.me",
+      "description": "Datenschutzerklärung für Massazh.me mobiler Massage-Service. Erfahren Sie, wie wir Ihre persönlichen Daten schützen."
+    },
+    "faq": {
+      "title": "FAQ - Häufig gestellte Fragen | Massazh.me",
+      "description": "Antworten auf häufig gestellte Fragen zu mobilem Massageservice in der Region Zürichsee. Buchung, Preise, Ablauf und mehr."
+    }
+  },
+  "nav": {
+    "home": "Start",
     "about": "Über mich",
-    "welcome": "Massazh von Oleg"
+    "services": "Leistungen",
+    "faq": "Fragen"
+  },
+  "footer": {
+    "serviceArea": "Servicegebiet",
+    "contact": "Kontakt",
+    "info": "Info",
+    "aboutMe": "Über mich",
+    "faq": "Fragen",
+    "legal": "Rechtliches",
+    "dataProtection": "Datenschutz",
+    "hours": "Öffnungszeiten",
+    "hoursText": "Montag - Sonntag",
+    "hoursTime": "08:00 - 20:00",
+    "flexible": "Flexible Terminvereinbarung",
+    "payment": "Zahlung",
+    "paymentMethods": "Bar & TWINT",
+    "languages": "Sprachen",
+    "languagesList": "Deutsch, Englisch, Russisch, Ukrainisch",
+    "whatsappCta": "Fragen? Schreiben Sie uns",
+    "trustBadge1": "Olympia-Turner",
+    "trustBadge2": "5+ Jahre Erfahrung",
+    "trustBadge3": "Zertifiziert"
+  },
+  "hero": {
+    "title": "Massage bei Ihnen zu Hause",
+    "subtitle": "Region Zürichsee",
+    "description": "Ich komme zu Ihnen mit professioneller Massageliege und allem notwendigen Equipment. Entspannen Sie sich in vertrauter Umgebung, während ich Ihnen eine erstklassige Massage biete – ganz ohne Anfahrt oder Parkplatzsuche.",
+    "cta": "Termin vereinbaren",
+    "ctaButton": "Jetzt Massage buchen"
+  },
+  "services": {
+    "title": "Angebotene Massagen",
+    "subtitle": "Leistungen",
+    "description": "Entdecken Sie unsere professionellen Massagebehandlungen, die speziell auf Ihre Bedürfnisse abgestimmt sind. Von klassischer Entspannung bis zur gezielten Sportmassage – ich bringe die perfekte Behandlung zu Ihnen nach Hause.",
+    "classical": {
+      "title": "Klassische Massage",
+      "description": "Entspannende Ganzkörper- oder Teilkörpermassage. Fördert die Durchblutung und löst muskuläre Verspannungen."
+    },
+    "sports": {
+      "title": "Sportmassage",
+      "description": "Ideal für aktive Menschen und Athleten. Unterstützt die Regeneration, beugt Verletzungen vor und verbessert die Muskelflexibilität."
+    },
+    "relaxation": {
+      "title": "Entspannungsmassage",
+      "description": "Anti-Stress-Massage mit ruhigen Techniken. Fokus auf Stressabbau und Beruhigung von Körper und Geist."
+    },
+    "cupping": {
+      "title": "Schröpfen",
+      "description": "Traditionelle Schröpftherapie zur Linderung von Muskelverspannungen, Förderung der Durchblutung und Entgiftung."
+    },
+    "pricing": {
+      "title": "Preise & Konditionen",
+      "minOrder": "Mindestbestellung",
+      "minOrderValue": "1 Massage",
+      "payment": "Zahlungsmethoden",
+      "paymentMethods": "Bar oder TWINT",
+      "note": "Schröpfmassage kann zusätzlich zu jeder Massage hinzugefügt werden."
+    },
+    "duration": {
+      "massage60": "60 Minuten",
+      "massage90": "90 Minuten",
+      "cupping": "15 Minuten"
+    }
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Ihr professioneller Massagetherapeut",
+    "story": "Mein Weg zum Massagetherapeuten ist einzigartig. Als ehemaliger Olympiaturner für die Ukraine und Zirkusartist habe ich mein Leben dem Verständnis des menschlichen Körpers auf höchstem Niveau gewidmet. Durch jahrelange athletische Leistung habe ich aus erster Hand gelernt, was Muskeln zur Erholung benötigen, wie man Verletzungen vorbeugt und wie wichtig die richtige Körperpflege ist. Dieses tiefe, persönliche Wissen über die Mechanik des Körpers prägt heute jede Massage, die ich gebe. Ich bringe die Disziplin eines Athleten und die Präzision eines Künstlers mit, um Ihnen zu helfen, sich schmerzfrei und vollkommen entspannt zu fühlen. Verfügbar auf Deutsch, Englisch und Russisch."
+  },
+  "cta": {
+    "title": "Stresslose Beratung buchen",
+    "button": "Jetzt buchen",
+    "hero": "Jetzt Massage buchen",
+    "about": "Termin vereinbaren",
+    "services": "Massage buchen",
+    "nav": "Termin buchen",
+    "whatsappMessage": {
+      "hero": "Hallo Oleg, ich brauche eine Massage.",
+      "about": "Hallo Oleg, ich möchte einen Termin vereinbaren.",
+      "services": "Hallo Oleg, ich interessiere mich für eine Massage.",
+      "nav": "Hallo Oleg, ich möchte eine Massage buchen.",
+      "default": "Hallo Oleg, ich brauche eine Massage."
+    }
+  },
+  "legal": {
+    "title": "Impressum",
+    "intro": "Angaben gemäss schweizerischem Recht zum Betreiber dieser Website.",
+    "information": {
+      "title": "Angaben zum Dienstanbieter",
+      "content": "Oleg, Mobile Massage Service, Region Zürichsee, Schweiz. E-Mail: {email}, Telefon: +380 50 587 2464"
+    },
+    "liability": {
+      "title": "Haftung für Inhalte",
+      "content": "Die Inhalte unserer Seiten wurden mit grösster Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir für eigene Inhalte auf diesen Seiten verantwortlich. Wir sind jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen."
+    },
+    "copyright": {
+      "title": "Urheberrecht",
+      "content": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem schweizerischen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung ausserhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers."
+    }
+  },
+  "dataProtection": {
+    "title": "Datenschutz",
+    "intro": "Der Schutz Ihrer persönlichen Daten ist uns sehr wichtig. In dieser Datenschutzerklärung informieren wir Sie über die Verarbeitung personenbezogener Daten bei der Nutzung unserer Website.",
+    "responsible": {
+      "title": "Verantwortliche Stelle",
+      "content": "Verantwortlich für die Datenverarbeitung auf dieser Website: Oleg, Mobile Massage Service, Region Zürichsee, E-Mail: {email}"
+    },
+    "dataCollection": {
+      "title": "Datenerfassung",
+      "content": "Wenn Sie uns per WhatsApp, E-Mail oder Telefon kontaktieren, erheben und verarbeiten wir die von Ihnen mitgeteilten personenbezogenen Daten (Name, Kontaktdaten, Nachrichteninhalt) ausschliesslich zum Zweck der Bearbeitung Ihrer Anfrage und Terminvereinbarung. Diese Daten werden nicht an Dritte weitergegeben."
+    },
+    "rights": {
+      "title": "Ihre Rechte",
+      "content": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten. Zur Ausübung dieser Rechte wenden Sie sich bitte an: {email}"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "content": "Bei Fragen zum Datenschutz kontaktieren Sie uns bitte unter: {email}"
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Wie funktioniert die mobile Massage?",
+        "answer": "Ich komme direkt zu Ihnen nach Hause mit einer professionellen Massageliege und allem notwendigen Equipment. Sie müssen nichts vorbereiten – entspannen Sie sich einfach in Ihrer vertrauten Umgebung."
+      },
+      {
+        "question": "Was muss ich vorbereiten?",
+        "answer": "Sie benötigen nur 2 große Handtücher und ein kleines Handtuch. Den Rest bringe ich mit: Massageliege, Massageöle und alle notwendigen Materialien. Sie brauchen einen Raum mit etwa 3x3 Metern Platz."
+      },
+      {
+        "question": "Wie lange dauert eine Sitzung?",
+        "answer": "Eine Standard-Massage dauert 60 Minuten. Ich biete auch längere Sitzungen von 90 Minuten an. Zusätzlich plane ich 10-15 Minuten für Aufbau und Abbau ein."
+      },
+      {
+        "question": "Welche Ausrüstung bringen Sie mit?",
+        "answer": "Ich bringe eine professionelle, verstellbare Massageliege, frische Handtücher, hochwertige Massageöle, Entspannungsmusik und bei Bedarf Schröpfgläser mit. Sie müssen nichts bereitstellen."
+      },
+      {
+        "question": "Welche Gebiete bedienen Sie?",
+        "answer": "Ich biete mobile Massage in der gesamten Region Zürichsee an, einschließlich Zürich, Schwyz, Luzern, Zug, Aargau und Rapperswil (St. Gallen). Kontaktieren Sie mich für spezifische Standorte."
+      },
+      {
+        "question": "Wie buche ich einen Termin?",
+        "answer": "Ganz einfach! Klicken Sie auf einen der 'Jetzt buchen' Buttons und Sie werden direkt zu WhatsApp weitergeleitet. Alternativ können Sie mich unter +41 79 849 92 74 anrufen."
+      },
+      {
+        "question": "Was ist Ihre Stornierungsrichtlinie?",
+        "answer": "Ich bitte um mindestens 24 Stunden Vorlaufzeit für Stornierungen. Bei kurzfristigeren Absagen kann eine Stornogebühr anfallen. Terminverschiebungen sind in der Regel kostenlos möglich."
+      },
+      {
+        "question": "Haben Sie eine professionelle Zertifizierung?",
+        "answer": "Ja! Ich bin ein professionell ausgebildeter Massagetherapeut. Zusätzlich war ich olympischer Turner für die Ukraine, was mir ein tiefes Verständnis für Körpermechanik und Sportverletzungen gibt."
+      },
+      {
+        "question": "Welche Zahlungsmethoden akzeptieren Sie?",
+        "answer": "Ich akzeptiere Barzahlung und TWINT. Die Zahlung erfolgt nach der Massage."
+      },
+      {
+        "question": "Ist es sicher, einen Massagetherapeuten zu Hause zu haben?",
+        "answer": "Absolut! Ich bin ein professioneller, zertifizierter Therapeut mit langjähriger Erfahrung. Viele Kunden schätzen den Komfort und die Privatsphäre der Massage zu Hause. Sie können auch meine Bewertungen und Referenzen einsehen."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Was meine Klienten sagen",
+    "subtitle": "Erfahrungsberichte",
+    "items": [
+      {
+        "quote": "D'Sportmassage het mer mega gholfe! Oleg weiss genau, wo d'Verspannige sitze und wie mer die löst. I ha mi danach wie neugebore gfühlt!",
+        "author": "Anna K.",
+        "location": "Zürich"
+      },
+      {
+        "quote": "Die Massage war genau das Richtige nach dem Training. Oleg versteht seinen Job wirklich – als ehemaliger Olympia-Turner weiß er, worauf es ankommt.",
+        "author": "Thomas M.",
+        "location": "Horgen"
+      },
+      {
+        "quote": "The convenience of having a professional massage at home is incredible. Everything was perfectly prepared, and I felt completely relaxed afterwards.",
+        "author": "Sarah J.",
+        "location": "Rapperswil"
+      },
+      {
+        "quote": "Олег - настоящий профессионал! Спортивный массаж помог мне восстановиться после травмы. Очень удобно, что он приезжает на дом.",
+        "author": "Дмитрий П.",
+        "location": "Meilen"
+      },
+      {
+        "quote": "Чудова розслаблююча масажна терапія! Олег дуже уважний і професійний. Рекомендую всім, хто шукає якісний масаж.",
+        "author": "Оксана В.",
+        "location": "Zürich"
+      }
+    ]
+  }
 }
