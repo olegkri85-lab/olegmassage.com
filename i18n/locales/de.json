@@ -226,5 +226,107 @@
         "location": "Zürich"
       }
     ]
+  },
+  "location": {
+    "zurich": {
+      "meta": {
+        "title": "Mobile Massage Zürich | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Zürich und Umgebung. Klassische Massage, Sportmassage, Entspannungsmassage direkt bei Ihnen zu Hause. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich",
+      "description": "Professioneller mobiler Massage-Service in Zürich und Umgebung. Erleben Sie entspannende Massagetherapie in Ihrem Zuhause mit einem zertifizierten Therapeuten.",
+      "areas": {
+        "title": "Wir bedienen diese Stadtteile in Zürich"
+      },
+      "why": {
+        "title": "Warum mobile Massage in Zürich wählen?"
+      },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "Erfahrener Therapeut mit olympischem Hintergrund"
+      },
+      "services": {
+        "title": "Verfügbare Massagearten in Zürich"
+      }
+    },
+    "schwyz": {
+      "meta": {
+        "title": "Mobile Massage Schwyz | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Schwyz und Umgebung. Klassische Massage, Sportmassage, Entspannungsmassage direkt bei Ihnen zu Hause. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Schwyz",
+      "description": "Professioneller mobiler Massage-Service in Schwyz und Umgebung. Erleben Sie entspannende Massagetherapie in Ihrem Zuhause mit einem zertifizierten Therapeuten.",
+      "areas": {
+        "title": "Wir bedienen diese Gebiete in Schwyz"
+      },
+      "why": {
+        "title": "Warum mobile Massage in Schwyz wählen?"
+      },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "Erfahrener Therapeut mit olympischem Hintergrund"
+      },
+      "services": {
+        "title": "Verfügbare Massagearten in Schwyz"
+      }
+    },
+    "zug": {
+      "meta": {
+        "title": "Mobile Massage Zug | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Zug und Umgebung. Klassische Massage, Sportmassage, Entspannungsmassage direkt bei Ihnen zu Hause. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zug",
+      "description": "Professioneller mobiler Massage-Service in Zug und Umgebung. Erleben Sie entspannende Massagetherapie in Ihrem Zuhause mit einem zertifizierten Therapeuten.",
+      "areas": {
+        "title": "Wir bedienen diese Gebiete in Zug"
+      },
+      "why": {
+        "title": "Warum mobile Massage in Zug wählen?"
+      },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "Erfahrener Therapeut mit olympischem Hintergrund"
+      },
+      "services": {
+        "title": "Verfügbare Massagearten in Zug"
+      }
+    },
+    "luzern": {
+      "meta": {
+        "title": "Mobile Massage Luzern | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Luzern und Umgebung. Klassische Massage, Sportmassage, Entspannungsmassage direkt bei Ihnen zu Hause. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Luzern",
+      "description": "Professioneller mobiler Massage-Service in Luzern und Umgebung. Erleben Sie entspannende Massagetherapie in Ihrem Zuhause mit einem zertifizierten Therapeuten.",
+      "areas": {
+        "title": "Wir bedienen diese Gebiete in Luzern"
+      },
+      "why": {
+        "title": "Warum mobile Massage in Luzern wählen?"
+      },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "Erfahrener Therapeut mit olympischem Hintergrund"
+      },
+      "services": {
+        "title": "Verfügbare Massagearten in Luzern"
+      }
+    }
   }
 }

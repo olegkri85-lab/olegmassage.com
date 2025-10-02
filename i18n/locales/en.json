@@ -226,5 +226,107 @@
         "location": "Zürich"
       }
     ]
+  },
+  "location": {
+    "zurich": {
+      "meta": {
+        "title": "Mobile Massage Zurich | Professional At-Home Service",
+        "description": "Professional mobile massage in Zurich and surrounding areas. Classical massage, sports massage, relaxation massage directly at your home. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zurich",
+      "description": "Professional mobile massage service in Zurich and surrounding areas. Experience relaxing massage therapy in your home with a certified therapist.",
+      "areas": {
+        "title": "We serve these areas in Zurich"
+      },
+      "why": {
+        "title": "Why choose mobile massage in Zurich?"
+      },
+      "benefits": {
+        "1": "No travel needed - I come to you",
+        "2": "Relax in your familiar environment",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "Experienced therapist with Olympic background"
+      },
+      "services": {
+        "title": "Available massage types in Zurich"
+      }
+    },
+    "schwyz": {
+      "meta": {
+        "title": "Mobile Massage Schwyz | Professional At-Home Service",
+        "description": "Professional mobile massage in Schwyz and surrounding areas. Classical massage, sports massage, relaxation massage directly at your home. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Schwyz",
+      "description": "Professional mobile massage service in Schwyz and surrounding areas. Experience relaxing massage therapy in your home with a certified therapist.",
+      "areas": {
+        "title": "We serve these areas in Schwyz"
+      },
+      "why": {
+        "title": "Why choose mobile massage in Schwyz?"
+      },
+      "benefits": {
+        "1": "No travel needed - I come to you",
+        "2": "Relax in your familiar environment",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "Experienced therapist with Olympic background"
+      },
+      "services": {
+        "title": "Available massage types in Schwyz"
+      }
+    },
+    "zug": {
+      "meta": {
+        "title": "Mobile Massage Zug | Professional At-Home Service",
+        "description": "Professional mobile massage in Zug and surrounding areas. Classical massage, sports massage, relaxation massage directly at your home. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zug",
+      "description": "Professional mobile massage service in Zug and surrounding areas. Experience relaxing massage therapy in your home with a certified therapist.",
+      "areas": {
+        "title": "We serve these areas in Zug"
+      },
+      "why": {
+        "title": "Why choose mobile massage in Zug?"
+      },
+      "benefits": {
+        "1": "No travel needed - I come to you",
+        "2": "Relax in your familiar environment",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "Experienced therapist with Olympic background"
+      },
+      "services": {
+        "title": "Available massage types in Zug"
+      }
+    },
+    "luzern": {
+      "meta": {
+        "title": "Mobile Massage Lucerne | Professional At-Home Service",
+        "description": "Professional mobile massage in Lucerne and surrounding areas. Classical massage, sports massage, relaxation massage directly at your home. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Lucerne",
+      "description": "Professional mobile massage service in Lucerne and surrounding areas. Experience relaxing massage therapy in your home with a certified therapist.",
+      "areas": {
+        "title": "We serve these areas in Lucerne"
+      },
+      "why": {
+        "title": "Why choose mobile massage in Lucerne?"
+      },
+      "benefits": {
+        "1": "No travel needed - I come to you",
+        "2": "Relax in your familiar environment",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "Experienced therapist with Olympic background"
+      },
+      "services": {
+        "title": "Available massage types in Lucerne"
+      }
+    }
   }
 }
