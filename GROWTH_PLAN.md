@@ -3,10 +3,11 @@
 ## 📊 Current Status
 - ✅ Multilingual website (DE, EN, RU, UK)
 - ✅ Mobile-responsive design
-- ✅ Basic SEO (meta tags, sitemap, structured data)
-- ✅ Service pages with clear offerings
+- ✅ Core On-Page SEO: titles, meta, canonical, hreflang on key pages
+- ✅ Sitemap via module (auto, i18n-aware)
+- ✅ Service and location pages structured
 - ✅ Social proof (testimonials)
-- ✅ Clear CTA buttons
+- ✅ Clear CTA buttons with WhatsApp tracking (UTM, city-aware)
 
 ## 🎯 Goals
 1. **Increase organic traffic** by 300% in 6 months
@@ -124,12 +125,12 @@
 
 ### 3.3 Location Pages (Local SEO)
 **Why:** Rank for city-specific searches
-- [ ] `/locations/zurich` - Massage in Zürich
-- [ ] `/locations/schwyz` - Massage in Schwyz
-- [ ] `/locations/zug` - Massage in Zug
-- [ ] `/locations/luzern` - Massage in Luzern
-- [ ] `/locations/aargau` - Massage in Aargau
-- [ ] `/locations/rapperswil` - Massage in Rapperswil
+- [x] `/locations/zurich` - Massage in Zürich
+- [x] `/locations/schwyz` - Massage in Schwyz
+- [x] `/locations/zug` - Massage in Zug
+- [x] `/locations/luzern` - Massage in Luzern
+- [x] `/locations/aargau` - Massage in Aargau
+- [x] `/locations/rapperswil-jona` - Massage in Rapperswil/Jona
 
 Each location page includes:
 - Local area description
@@ -139,6 +140,11 @@ Each location page includes:
 - Local landmarks/areas served
 - Schema markup with geo-coordinates
 
+Next enhancements (per city):
+- [ ] Add 2–3 city-specific testimonials
+- [ ] Add neighborhood list refinements and short intro unique per city
+- [ ] Add internal links from services to relevant city pages
+
 ---
 
 ## Phase 4: Conversion Optimization (Week 9-10)
@@ -147,6 +153,7 @@ Each location page includes:
 ### 4.1 Booking Flow Improvements
 - [x] Add WhatsApp icon to all CTA buttons - **COMPLETED**
 - [x] Add floating WhatsApp button (sticky on mobile) - **COMPLETED**
+- [x] Append UTM + city context to WhatsApp links - **COMPLETED**
 - [ ] Add "Book Now" popup with phone/WhatsApp options
 - [ ] A/B test CTA button text
 - [ ] Add urgency elements ("Available slots this week")
@@ -187,6 +194,11 @@ Each location page includes:
 - [ ] Add FAQ schema on FAQ page
 - [ ] Add HowTo schema for preparation guides
 
+### 5.4 Indexing & Sitemaps
+- [x] Install and configure `@nuxtjs/sitemap` with site URL - **COMPLETED**
+- [x] Enable i18n-aware alternates in sitemap - **COMPLETED**
+- [ ] Add `/sitemap.xml` to robots.txt (post-deploy)
+
 ### 5.3 Internal Linking Strategy
 - [ ] Link from blog posts to service pages
 - [ ] Link from location pages to services
@@ -199,7 +211,7 @@ Each location page includes:
 ## Phase 6: Off-Site SEO & Marketing (Ongoing)
 *Priority: MEDIUM - External growth*
 
-### 6.1 Google My Business
+### 6.1 Google Business Profile (GMB/GBP)
 - [ ] Create/optimize Google My Business listing
 - [ ] Add all service areas
 - [ ] Upload professional photos
@@ -249,6 +261,11 @@ Each location page includes:
 - [ ] Test service descriptions
 - [ ] Test testimonial placements
 
+### 7.4 Local SEO Measurement
+- [ ] Track WhatsApp clicks per city (UTM `utm_content=<city>`)
+- [ ] Monitor impressions/clicks per city in Search Console
+- [ ] Track top queries per city ("mobile massage zürich", etc.)
+
 ### 7.3 Heatmaps & User Behavior
 - [ ] Install Hotjar or similar
 - [ ] Analyze user scroll depth
@@ -288,9 +305,9 @@ Each location page includes:
 3. ✅ Add schema markup for pricing (Offer schema) - **COMPLETED**
 4. ✅ Add WhatsApp icon to CTA buttons - **COMPLETED**
 5. ✅ Add floating WhatsApp button - **COMPLETED**
-6. ⏳ Create location pages for each city (HIGH PRIORITY - Local SEO)
+6. ✅ Create location pages for each city (first 6 cities) - **COMPLETED**
 7. ⏳ Add "How It Works" section to homepage
-8. ⏳ Optimize Google My Business (requires client)
+8. ⏳ Optimize Google Business Profile (requires client)
 9. ⏳ Request reviews from existing clients (requires client)
 10. ⏳ Write first 3 blog posts
 
@@ -305,7 +322,7 @@ Each location page includes:
 
 ### Conversion Goals
 - Booking rate: 3% → 5%
-- WhatsApp clicks: 50 → 150/month
+- WhatsApp clicks: 50 → 150/month (with per-city breakdown)
 - Phone calls: 20 → 60/month
 
 ### Authority Goals
