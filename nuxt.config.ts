@@ -7,6 +7,11 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxt/eslint", "@nuxt/fonts", "@nuxt/scripts", "@nuxtjs/i18n"],
   css: ["~/assets/css/main.css"],
+  fonts: {
+    families: [
+      { name: "Playfair Display", provider: "google" },
+    ],
+  },
   i18n: {
     defaultLocale: "de",
     strategy: "prefix",
@@ -14,8 +19,8 @@ export default defineNuxtConfig({
       { code: "en", name: "English", file: "en.json" },
       { code: "de", name: "Deutsch", file: "de.json" },
       { code: "ru", name: "Русский", file: "ru.json" },
+      { code: "uk", name: "Українська", file: "uk.json" },
     ],
-    langDir: "locales",
   },
   vite: {
     plugins: [tailwindcss()],
