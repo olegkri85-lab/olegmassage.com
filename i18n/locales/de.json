@@ -327,6 +327,44 @@
       "services": {
         "title": "Verfügbare Massagearten in Luzern"
       }
+    },
+    "aargau": {
+      "meta": {
+        "title": "Mobile Massage Aargau | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage im Kanton Aargau. Klassische Massage, Sportmassage, Entspannungsmassage direkt bei Ihnen zu Hause. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Aargau",
+      "description": "Professioneller mobiler Massage-Service im Kanton Aargau. Erleben Sie entspannende Massagetherapie in Ihrem Zuhause mit einem zertifizierten Therapeuten.",
+      "areas": { "title": "Wir bedienen diese Regionen in Aargau" },
+      "why": { "title": "Warum mobile Massage in Aargau wählen?" },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "Erfahrener Therapeut mit olympischem Hintergrund"
+      },
+      "services": { "title": "Verfügbare Massagearten in Aargau" }
+    },
+    "rapperswilJona": {
+      "meta": {
+        "title": "Mobile Massage Rapperswil-Jona | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Rapperswil-Jona und Umgebung. Klassische Massage, Sportmassage, Entspannungsmassage direkt bei Ihnen zu Hause. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Rapperswil-Jona",
+      "description": "Professioneller mobiler Massage-Service in Rapperswil-Jona und Umgebung. Erleben Sie entspannende Massagetherapie in Ihrem Zuhause mit einem zertifizierten Therapeuten.",
+      "areas": { "title": "Wir bedienen diese Regionen in Rapperswil-Jona" },
+      "why": { "title": "Warum mobile Massage in Rapperswil-Jona wählen?" },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "Erfahrener Therapeut mit olympischem Hintergrund"
+      },
+      "services": { "title": "Verfügbare Massagearten in Rapperswil-Jona" }
     }
   }
 }

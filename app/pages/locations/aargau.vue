@@ -4,36 +4,48 @@
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
       <div class="max-w-4xl">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
-          Mobile Massage in Aargau
+          {{ t("location.aargau.subtitle") || t("location.zurich.subtitle") }}
         </p>
-        <h1 class="text-5xl md:text-6xl lg:text-7xl font-display text-white mb-8">
-          Mobile Massage in Aargau
+        <h1
+          class="text-5xl md:text-6xl lg:text-7xl font-display text-white mb-8"
+        >
+          {{ t("location.aargau.title") }}
         </h1>
         <p class="text-lg md:text-xl text-white/90 leading-relaxed mb-8">
-          Professionelle mobile Massage direkt zu Ihnen nach Hause im Kanton Aargau. Sport-, klassische und Entspannungsmassage.
+          {{ t("location.aargau.description") }}
         </p>
         <CtaButton variant="hero" />
       </div>
     </section>
 
     <!-- Service Areas -->
-    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]">
+    <section
+      class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
+    >
       <div class="max-w-4xl">
         <h2 class="text-3xl md:text-4xl lg:text-5xl font-display mb-8">
-          Regionen in Aargau
+          {{ t("location.aargau.areas.title") }}
         </h2>
         <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-12">
-          <div v-for="area in areas" :key="area" class="bg-white p-4 rounded-lg">
+          <div
+            v-for="area in areas"
+            :key="area"
+            class="bg-white p-4 rounded-lg"
+          >
             <p class="text-base md:text-lg">{{ area }}</p>
           </div>
         </div>
 
         <div class="bg-white rounded-2xl p-8 md:p-12 mb-12">
           <h3 class="text-2xl md:text-3xl font-display text-gray-900 mb-6">
-            Warum mobile Massage in Aargau?
+            {{ t("location.aargau.why.title") }}
           </h3>
           <ul class="space-y-4 text-base md:text-lg text-gray-700">
-            <li v-for="(benefit, index) in benefits" :key="index" class="flex items-start gap-3">
+            <li
+              v-for="(benefit, index) in benefits"
+              :key="index"
+              class="flex items-start gap-3"
+            >
               <span class="text-[hsl(var(--accent-hsl))] text-xl">✓</span>
               <span>{{ benefit }}</span>
             </li>
@@ -46,28 +58,51 @@
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
       <div class="max-w-4xl">
         <h2 class="text-3xl md:text-4xl lg:text-5xl font-display mb-8">
-          Leistungen in Aargau
+          {{ t("location.aargau.services.title") }}
         </h2>
         <div class="grid md:grid-cols-2 gap-6 mb-12">
           <div class="bg-gray-50 p-6 rounded-lg">
-            <h3 class="text-xl md:text-2xl font-display mb-4">Klassische Massage</h3>
-            <p class="text-gray-700 mb-4">Entspannung und Regeneration für den ganzen Körper.</p>
-            <p class="font-bold text-[hsl(var(--accent-hsl))]">60 Min — 100 CHF • 90 Min — 150 CHF</p>
+            <h3 class="text-xl md:text-2xl font-display mb-4">
+              Klassische Massage
+            </h3>
+            <p class="text-gray-700 mb-4">
+              Entspannung und Regeneration für den ganzen Körper.
+            </p>
+            <p class="font-bold text-[hsl(var(--accent-hsl))]">
+              60 Min — 100 CHF • 90 Min — 150 CHF
+            </p>
           </div>
           <div class="bg-gray-50 p-6 rounded-lg">
             <h3 class="text-xl md:text-2xl font-display mb-4">Sportmassage</h3>
-            <p class="text-gray-700 mb-4">Gezielte Massage für Sportler zur Leistungssteigerung und Erholung.</p>
-            <p class="font-bold text-[hsl(var(--accent-hsl))]">60 Min — 100 CHF • 90 Min — 150 CHF</p>
+            <p class="text-gray-700 mb-4">
+              Gezielte Massage für Sportler zur Leistungssteigerung und
+              Erholung.
+            </p>
+            <p class="font-bold text-[hsl(var(--accent-hsl))]">
+              60 Min — 100 CHF • 90 Min — 150 CHF
+            </p>
           </div>
           <div class="bg-gray-50 p-6 rounded-lg">
-            <h3 class="text-xl md:text-2xl font-display mb-4">Entspannungsmassage</h3>
-            <p class="text-gray-700 mb-4">Stressabbau und Wohlbefinden in Ihrer gewohnten Umgebung.</p>
-            <p class="font-bold text-[hsl(var(--accent-hsl))]">60 Min — 100 CHF • 90 Min — 150 CHF</p>
+            <h3 class="text-xl md:text-2xl font-display mb-4">
+              Entspannungsmassage
+            </h3>
+            <p class="text-gray-700 mb-4">
+              Stressabbau und Wohlbefinden in Ihrer gewohnten Umgebung.
+            </p>
+            <p class="font-bold text-[hsl(var(--accent-hsl))]">
+              60 Min — 100 CHF • 90 Min — 150 CHF
+            </p>
           </div>
           <div class="bg-gray-50 p-6 rounded-lg">
-            <h3 class="text-xl md:text-2xl font-display mb-4">Schröpftherapie</h3>
-            <p class="text-gray-700 mb-4">Fördert die Durchblutung und lockert das Gewebe.</p>
-            <p class="font-bold text-[hsl(var(--accent-hsl))]">15 Min — 30 CHF</p>
+            <h3 class="text-xl md:text-2xl font-display mb-4">
+              Schröpftherapie
+            </h3>
+            <p class="text-gray-700 mb-4">
+              Fördert die Durchblutung und lockert das Gewebe.
+            </p>
+            <p class="font-bold text-[hsl(var(--accent-hsl))]">
+              15 Min — 30 CHF
+            </p>
           </div>
         </div>
       </div>
@@ -79,6 +114,7 @@
 </template>
 
 <script setup lang="ts">
+const { t } = useI18n();
 const localePath = useLocalePath();
 
 const areas = [
@@ -94,25 +130,28 @@ const areas = [
 ];
 
 const benefits = [
-  "Bequem zu Hause – keine Anfahrt nötig",
-  "Flexible Termine auch abends und am Wochenende",
-  "Professionelles Equipment inklusive",
-  "Individuell abgestimmte Behandlung",
-  "Transparente Preise ohne versteckte Kosten",
+  t("location.aargau.benefits.1"),
+  t("location.aargau.benefits.2"),
+  t("location.aargau.benefits.3"),
+  t("location.aargau.benefits.4"),
+  t("location.aargau.benefits.5"),
 ];
 
 useHead(() => ({
-  title: "Mobile Massage in Aargau | Sport-, klassische und Entspannungsmassage",
+  title: t("location.aargau.meta.title"),
   meta: [
-    { name: "description", content: "Mobile Massage in Aargau – Sportmassage, klassische Massage, Entspannungsmassage und Schröpfen. Jetzt per WhatsApp buchen." },
-    { property: "og:title", content: "Mobile Massage in Aargau" },
-    { property: "og:description", content: "Professionelle mobile Massage im Kanton Aargau. Jetzt Termin buchen." },
+    { name: "description", content: t("location.aargau.meta.description") },
+    { property: "og:title", content: t("location.aargau.meta.title") },
+    { property: "og:description", content: t("location.aargau.meta.description") },
     { property: "og:type", content: "website" },
   ],
   link: [
     { rel: "canonical", href: `https://massazh.me${localePath("/locations/aargau")}` },
+    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/locations/aargau", "de")}` },
+    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/locations/aargau", "en")}` },
+    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/locations/aargau", "ru")}` },
+    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/locations/aargau", "uk")}` },
+    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/locations/aargau")}` },
   ],
 }));
 </script>
-
-

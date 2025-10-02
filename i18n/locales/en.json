@@ -327,6 +327,44 @@
       "services": {
         "title": "Available massage types in Lucerne"
       }
+    },
+    "aargau": {
+      "meta": {
+        "title": "Mobile Massage Aargau | Professional At-Home Service",
+        "description": "Professional mobile massage in Aargau canton. Classical, sports, and relaxation massage directly at your home. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Aargau",
+      "description": "Professional mobile massage service in Aargau. Experience relaxing massage therapy at home with a certified therapist.",
+      "areas": { "title": "We serve these regions in Aargau" },
+      "why": { "title": "Why choose mobile massage in Aargau?" },
+      "benefits": {
+        "1": "No travel needed - I come to you",
+        "2": "Relax in your familiar environment",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "Experienced therapist with Olympic background"
+      },
+      "services": { "title": "Available massage types in Aargau" }
+    },
+    "rapperswilJona": {
+      "meta": {
+        "title": "Mobile Massage Rapperswil-Jona | Professional At-Home Service",
+        "description": "Professional mobile massage in Rapperswil-Jona and surrounding areas. Classical, sports, and relaxation massage directly at your home. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Rapperswil-Jona",
+      "description": "Professional mobile massage service in Rapperswil-Jona and surrounding areas. Experience relaxing massage therapy at home with a certified therapist.",
+      "areas": { "title": "We serve these regions in Rapperswil-Jona" },
+      "why": { "title": "Why choose mobile massage in Rapperswil-Jona?" },
+      "benefits": {
+        "1": "No travel needed - I come to you",
+        "2": "Relax in your familiar environment",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "Experienced therapist with Olympic background"
+      },
+      "services": { "title": "Available massage types in Rapperswil-Jona" }
     }
   }
 }
