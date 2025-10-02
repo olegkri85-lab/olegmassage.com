@@ -134,6 +134,18 @@ const zurichAreas = [
   "Hottingen",
   "Wipkingen",
   "Höngg",
+  "Meilen",
+  "Kilchberg",
+  "Küsnacht",
+  "Thalwil",
+  "Adliswil",
+  "Rüschlikon",
+  "Zollikon",
+  "Herrliberg",
+  "Erlenbach",
+  "Horgen",
+  "Wädenswil",
+  "Stäfa",
 ];
 
 const benefits = computed(() => [

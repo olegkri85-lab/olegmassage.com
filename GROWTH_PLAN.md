@@ -179,7 +179,6 @@ Next enhancements (per city):
 *Priority: MEDIUM - Technical improvements*
 
 ### 5.1 Performance Optimization
-- [ ] Optimize images (WebP format)
 - [ ] Lazy loading for all images
 - [ ] Minimize JavaScript bundles
 - [ ] Add service worker for caching
