@@ -21,8 +21,15 @@
           {{ t("footer.serviceArea") }}
         </h3>
         <ul>
+          <li>
+            <NuxtLink
+              :to="localePath('/location/zurich')"
+              class="text-gray-900 relative !no-underline hover:underline"
+            >
+              Zürich
+            </NuxtLink>
+          </li>
           <li>Schwyz</li>
-          <li>Zürich</li>
           <li>Luzern</li>
           <li>Zug</li>
           <li>Aargau</li>
