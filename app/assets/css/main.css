@@ -1,12 +1,36 @@
 @import "tailwindcss";
 
-body {
-    @apply bg-amber-50
+@font-face {
+    font-family: 'Mollie Glaston';
+    src: url('/fonts/Mollie Glaston.otf') format('opentype'),
+         url('/fonts/Mollie Glaston.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
-
-
-
 
 @theme {
-    --font-display: "DM Serif Display", sans-serif; 
+    /* Typography */
+    --font-display: "Yeseva One", serif;
+    --font-caption: "Mollie Glaston", serif;
+
+    /* Colors - HSL */
+    --white-hsl: 0, 0%, 100%;
+    --black-hsl: 0, 0%, 0%;
+    --safeLightAccent-hsl: 0, 0%, 100%;
+    --safeDarkAccent-hsl: 218.18, 37.29%, 23.14%;
+    --safeInverseAccent-hsl: 0, 0%, 100%;
+    --safeInverseLightAccent-hsl: 0, 0%, 0%;
+    --safeInverseDarkAccent-hsl: 0, 0%, 100%;
+    --accent-hsl: 218.18, 37.29%, 23.14%;
+    --lightAccent-hsl: 60, 7.46%, 86.86%;
+    --darkAccent-hsl: 330, 2.44%, 16.08%;
 }
+
+body {
+    font-family: var(--font-family-sans);
+    @apply bg-white;
+    min-width: 380px;
+}
+
+
