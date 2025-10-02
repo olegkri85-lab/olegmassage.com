@@ -40,13 +40,13 @@ const { whatsappLink } = useWhatsapp(props.textKey);
 const variantClasses = computed(() => {
   switch (props.variant) {
     case "primary":
-      return "bg-[#8BC34A] text-[hsl(var(--accent-hsl))] hover:bg-[#689F38] hover:text-white hover:scale-105";
+      return "bg-[#25D366] text-[hsl(var(--accent-hsl))] hover:bg-[#1DA955] hover:text-white hover:scale-105";
     case "secondary":
-      return "bg-cyan-600 text-white hover:bg-cyan-700 hover:-translate-y-0.5";
+      return "bg-[#25D366] text-white hover:bg-[#1DA955] hover:-translate-y-0.5";
     case "hero":
-      return "bg-[#F5F5F5] text-[hsl(var(--accent-hsl))] hover:bg-cyan-600 hover:text-white hover:scale-105";
+      return "bg-[#25D366] text-[hsl(var(--accent-hsl))] hover:bg-[#1DA955] hover:text-white hover:scale-105";
     case "nav":
-      return "bg-[#8BC34A] text-[hsl(var(--accent-hsl))] hover:bg-[#689F38] hover:text-white hover:scale-105";
+      return "bg-[#25D366] text-[hsl(var(--accent-hsl))] hover:bg-[#1DA955] hover:text-white hover:scale-105";
     default:
       return "bg-white text-[hsl(var(--accent-hsl))] hover:bg-cyan-600 hover:text-white hover:scale-105";
   }
