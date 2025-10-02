@@ -25,7 +25,4 @@ export default defineNuxtConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  routeRules: {
-    '/location/**': { redirect: { to: '/locations/**', statusCode: 301 } },
-  },
 });
