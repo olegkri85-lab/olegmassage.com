@@ -146,7 +146,7 @@ Each location page includes:
 
 ### 4.1 Booking Flow Improvements
 - [x] Add WhatsApp icon to all CTA buttons - **COMPLETED**
-- [ ] Add floating WhatsApp button (sticky on mobile)
+- [x] Add floating WhatsApp button (sticky on mobile) - **COMPLETED**
 - [ ] Add "Book Now" popup with phone/WhatsApp options
 - [ ] A/B test CTA button text
 - [ ] Add urgency elements ("Available slots this week")
@@ -287,12 +287,12 @@ Each location page includes:
 2. ✅ Add pricing to services page - **COMPLETED**
 3. ✅ Add schema markup for pricing (Offer schema) - **COMPLETED**
 4. ✅ Add WhatsApp icon to CTA buttons - **COMPLETED**
-5. ⏳ Add floating WhatsApp button
-6. ⏳ Optimize Google My Business
-7. ⏳ Request reviews from existing clients
-8. ⏳ Create location pages for each city
-9. ⏳ Write first 3 blog posts
-10. ⏳ Add "How It Works" section to homepage
+5. ✅ Add floating WhatsApp button - **COMPLETED**
+6. ⏳ Create location pages for each city (HIGH PRIORITY - Local SEO)
+7. ⏳ Add "How It Works" section to homepage
+8. ⏳ Optimize Google My Business (requires client)
+9. ⏳ Request reviews from existing clients (requires client)
+10. ⏳ Write first 3 blog posts
 
 ---
 
@@ -366,8 +366,12 @@ Each location page includes:
    - [x] Create FAQ page - **COMPLETED**
    - [x] Add pricing to services page - **COMPLETED**
    - [x] Add schema markup for pricing - **COMPLETED**
-   - [ ] Set up Google My Business
-   - [ ] Request reviews from 10 recent clients
+   - [x] Add WhatsApp icon to CTA buttons - **COMPLETED**
+   - [x] Add floating WhatsApp button - **COMPLETED**
+   - [ ] Create location pages (Zürich, Schwyz, Zug)
+   - [ ] Add "How It Works" section
+   - [ ] Set up Google My Business (requires client)
+   - [ ] Request reviews from 10 recent clients (requires client)
 
 2. **Next Week:**
    - [ ] Create Contact page

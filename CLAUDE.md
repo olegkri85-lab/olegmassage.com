@@ -53,7 +53,7 @@ npm run generate
 - File-based routing via `app/pages/` directory
 - Layout system with default layout wrapping AppHeader, content slot, and AppFooter
 - Scoped styles in Vue components
-- i18n locale files should be in `app/locales/` directory (to be created when needed)
+- i18n locale files should be in `i18n/locales/` directory (to be created when needed)
 
 ### Styling
 - Tailwind CSS v4 is integrated via Vite plugin
