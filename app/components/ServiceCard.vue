@@ -1,0 +1,35 @@
+<template>
+  <article class="flex flex-col gap-8 h-full">
+    <div class="w-full">
+      <ImagePlaceholder
+        :ratio="imageRatio"
+        :src="image"
+        :alt="title"
+        :label="imageLabel"
+        loading="lazy"
+      />
+    </div>
+    <div class="flex flex-col gap-4 flex-1">
+      <h3 class="text-2xl md:text-3xl lg:text-4xl font-display text-gray-900 break-words hyphens-auto">{{ title }}</h3>
+      <p class="text-base md:text-lg lg:text-xl leading-relaxed text-gray-600">{{ description }}</p>
+      <div v-if="duration || price" class="mt-auto space-y-2">
+        <p v-if="duration" class="text-base md:text-lg text-gray-700">
+          <strong>{{ duration }}</strong>
+        </p>
+        <p v-if="price" class="text-2xl md:text-3xl font-display text-[hsl(var(--accent-hsl))] font-bold">{{ price }}</p>
+      </div>
+    </div>
+  </article>
+</template>
+
+<script setup lang="ts">
+defineProps<{
+  title: string
+  description: string
+  duration?: string
+  price?: string
+  image?: string
+  imageLabel?: string
+  imageRatio?: '16/9' | '4/3' | '3/2' | '1/1' | '2/3'
+}>()
+</script>
