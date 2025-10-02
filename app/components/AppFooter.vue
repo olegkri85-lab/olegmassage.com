@@ -23,7 +23,7 @@
         <ul>
           <li>
             <NuxtLink
-              :to="localePath('/location/zurich')"
+              :to="localePath('/locations/zurich')"
               class="text-gray-900 relative !no-underline hover:underline"
             >
               Zürich

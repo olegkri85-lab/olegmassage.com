@@ -157,13 +157,13 @@ useHead(() => ({
   link: [
     {
       rel: "canonical",
-      href: `https://massazh.me${localePath("/location/luzern")}`,
+      href: `https://massazh.me${localePath("/locations/luzern")}`,
     },
-    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/location/luzern", "de")}` },
-    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/location/luzern", "en")}` },
-    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/location/luzern", "ru")}` },
-    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/location/luzern", "uk")}` },
-    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/location/luzern")}` },
+    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/locations/luzern", "de")}` },
+    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/locations/luzern", "en")}` },
+    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/locations/luzern", "ru")}` },
+    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/locations/luzern", "uk")}` },
+    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/locations/luzern")}` },
   ],
   script: [
     {

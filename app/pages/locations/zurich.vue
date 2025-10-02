@@ -4,15 +4,15 @@
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
       <div class="max-w-4xl">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
-          {{ t("location.schwyz.subtitle") }}
+          {{ t("location.zurich.subtitle") }}
         </p>
         <h1
           class="text-5xl md:text-6xl lg:text-7xl font-display text-white mb-8"
         >
-          {{ t("location.schwyz.title") }}
+          {{ t("location.zurich.title") }}
         </h1>
         <p class="text-lg md:text-xl text-white/90 leading-relaxed mb-8">
-          {{ t("location.schwyz.description") }}
+          {{ t("location.zurich.description") }}
         </p>
         <CtaButton variant="hero" />
       </div>
@@ -24,11 +24,11 @@
     >
       <div class="max-w-4xl">
         <h2 class="text-3xl md:text-4xl lg:text-5xl font-display mb-8">
-          {{ t("location.schwyz.areas.title") }}
+          {{ t("location.zurich.areas.title") }}
         </h2>
         <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-12">
           <div
-            v-for="area in schwyzAreas"
+            v-for="area in zurichAreas"
             :key="area"
             class="bg-white p-4 rounded-lg"
           >
@@ -38,7 +38,7 @@
 
         <div class="bg-white rounded-2xl p-8 md:p-12 mb-12">
           <h3 class="text-2xl md:text-3xl font-display text-gray-900 mb-6">
-            {{ t("location.schwyz.why.title") }}
+            {{ t("location.zurich.why.title") }}
           </h3>
           <ul class="space-y-4 text-base md:text-lg text-gray-700">
             <li
@@ -58,7 +58,7 @@
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
       <div class="max-w-4xl">
         <h2 class="text-3xl md:text-4xl lg:text-5xl font-display mb-8">
-          {{ t("location.schwyz.services.title") }}
+          {{ t("location.zurich.services.title") }}
         </h2>
         <div class="grid md:grid-cols-2 gap-6 mb-12">
           <div class="bg-gray-50 p-6 rounded-lg">
@@ -121,47 +121,70 @@
 const { t } = useI18n();
 const localePath = useLocalePath();
 
-const schwyzAreas = [
-  "Schwyz",
-  "Brunnen",
-  "Einsiedeln",
-  "Küssnacht",
-  "Arth",
-  "Goldau",
-  "Steinen",
-  "Sattel",
-  "Ibach",
+const zurichAreas = [
+  "Zürich Zentrum",
+  "Zürich Nord",
+  "Zürich West",
+  "Zürich Ost",
+  "Oerlikon",
+  "Altstetten",
+  "Wiedikon",
+  "Enge",
+  "Seefeld",
+  "Hottingen",
+  "Wipkingen",
+  "Höngg",
 ];
 
 const benefits = computed(() => [
-  t("location.schwyz.benefits.1"),
-  t("location.schwyz.benefits.2"),
-  t("location.schwyz.benefits.3"),
-  t("location.schwyz.benefits.4"),
-  t("location.schwyz.benefits.5"),
+  t("location.zurich.benefits.1"),
+  t("location.zurich.benefits.2"),
+  t("location.zurich.benefits.3"),
+  t("location.zurich.benefits.4"),
+  t("location.zurich.benefits.5"),
 ]);
 
 useHead(() => ({
-  title: t("location.schwyz.meta.title"),
+  title: t("location.zurich.meta.title"),
   meta: [
-    { name: "description", content: t("location.schwyz.meta.description") },
-    { property: "og:title", content: t("location.schwyz.meta.title") },
+    { name: "description", content: t("location.zurich.meta.description") },
+    { property: "og:title", content: t("location.zurich.meta.title") },
     {
       property: "og:description",
-      content: t("location.schwyz.meta.description"),
+      content: t("location.zurich.meta.description"),
     },
     { property: "og:type", content: "website" },
   ],
   link: [
     {
       rel: "canonical",
-      href: `https://massazh.me${localePath("/location/schwyz")}`,
+      href: `https://massazh.me${localePath("/locations/zurich")}`,
     },
-    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/location/schwyz", "de")}` },
-    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/location/schwyz", "en")}` },
-    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/location/schwyz", "ru")}` },
-    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/location/schwyz", "uk")}` },
-    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/location/schwyz")}` },
+    {
+      rel: "alternate",
+      hreflang: "de",
+      href: `https://massazh.me${localePath("/locations/zurich", "de")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "en",
+      href: `https://massazh.me${localePath("/locations/zurich", "en")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "ru",
+      href: `https://massazh.me${localePath("/locations/zurich", "ru")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "uk",
+      href: `https://massazh.me${localePath("/locations/zurich", "uk")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "x-default",
+      href: `https://massazh.me${localePath("/locations/zurich")}`,
+    },
   ],
   script: [
     {
@@ -169,8 +192,8 @@ useHead(() => ({
       children: JSON.stringify({
         "@context": "https://schema.org",
         "@type": "Service",
-        name: t("location.schwyz.title"),
-        description: t("location.schwyz.description"),
+        name: t("location.zurich.title"),
+        description: t("location.zurich.description"),
         provider: {
           "@type": "LocalBusiness",
           name: "Massazh.me",
@@ -179,12 +202,14 @@ useHead(() => ({
           email: "oleh.kryvorotko@icloud.com",
           areaServed: {
             "@type": "City",
-            name: "Schwyz",
+            name: "Zürich",
+            "@id": "https://www.wikidata.org/wiki/Q72",
           },
         },
         areaServed: {
           "@type": "City",
-          name: "Schwyz",
+          name: "Zürich",
+          "@id": "https://www.wikidata.org/wiki/Q72",
         },
         availableChannel: {
           "@type": "ServiceChannel",

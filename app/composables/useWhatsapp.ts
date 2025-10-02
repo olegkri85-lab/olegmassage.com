@@ -12,8 +12,8 @@ export const useWhatsapp = (ctaKey?: string) => {
     const messageKey = `cta.whatsappMessage.${messageType}`;
     const baseMessage = t(messageKey);
 
-    // Infer city from route path: /location/{city}
-    const city = typeof route.path === 'string' && route.path.startsWith('/location/')
+    // Infer city from route path: /locations/{city}
+    const city = typeof route.path === 'string' && route.path.startsWith('/locations/')
       ? route.path.split('/')[2]
       : undefined;
 
