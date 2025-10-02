@@ -53,8 +53,22 @@
               Zug
             </NuxtLink>
           </li>
-          <li>Aargau</li>
-          <li>Rapperswil (St. Gallen)</li>
+          <li>
+            <NuxtLink
+              :to="localePath('/locations/aargau')"
+              class="text-gray-900 relative !no-underline hover:underline"
+            >
+              Aargau
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink
+              :to="localePath('/locations/rapperswil-jona')"
+              class="text-gray-900 relative !no-underline hover:underline"
+            >
+              Rapperswil / Jona
+            </NuxtLink>
+          </li>
         </ul>
       </div>
       <div>
