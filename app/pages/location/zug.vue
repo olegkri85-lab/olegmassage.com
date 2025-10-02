@@ -157,6 +157,11 @@ useHead(() => ({
       rel: "canonical",
       href: `https://massazh.me${localePath("/location/zug")}`,
     },
+    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/location/zug", "de")}` },
+    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/location/zug", "en")}` },
+    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/location/zug", "ru")}` },
+    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/location/zug", "uk")}` },
+    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/location/zug")}` },
   ],
   script: [
     {

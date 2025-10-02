@@ -118,6 +118,8 @@
 </template>
 
 <script setup lang="ts">
+import { computed } from 'vue';
+import { useHead, useI18n, useLocalePath } from '#imports';
 const { t } = useI18n();
 const localePath = useLocalePath();
 
@@ -157,6 +159,11 @@ useHead(() => ({
       rel: "canonical",
       href: `https://massazh.me${localePath("/location/luzern")}`,
     },
+    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/location/luzern", "de")}` },
+    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/location/luzern", "en")}` },
+    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/location/luzern", "ru")}` },
+    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/location/luzern", "uk")}` },
+    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/location/luzern")}` },
   ],
   script: [
     {

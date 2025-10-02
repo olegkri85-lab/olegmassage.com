@@ -160,6 +160,11 @@ useHead(() => ({
       rel: "canonical",
       href: `https://massazh.me${localePath("/location/zurich")}`,
     },
+    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/location/zurich", "de")}` },
+    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/location/zurich", "en")}` },
+    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/location/zurich", "ru")}` },
+    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/location/zurich", "uk")}` },
+    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/location/zurich")}` },
   ],
   script: [
     {

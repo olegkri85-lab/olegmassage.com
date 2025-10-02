@@ -1,19 +1,30 @@
 export const useWhatsapp = (ctaKey?: string) => {
   const { t } = useI18n();
+  const route = useRoute();
 
   const phone = "380505872464";
 
   const whatsappLink = computed(() => {
-    // Extract the specific CTA type (e.g., "hero", "about", "nav") from the key
     const ctaType = ctaKey?.split('.')[1];
-
-    // Map the CTA type to WhatsApp message key
     const validTypes = ['hero', 'about', 'services', 'nav'];
     const messageType = ctaType && validTypes.includes(ctaType) ? ctaType : 'default';
 
     const messageKey = `cta.whatsappMessage.${messageType}`;
-    const message = encodeURIComponent(t(messageKey));
-    return `https://wa.me/${phone}?text=${message}`;
+    const baseMessage = t(messageKey);
+
+    // Infer city from route path: /location/{city}
+    const city = typeof route.path === 'string' && route.path.startsWith('/location/')
+      ? route.path.split('/')[2]
+      : undefined;
+
+    const citySuffix = city ? ` (City: ${city})` : '';
+    const message = encodeURIComponent(`${baseMessage}${citySuffix}`);
+
+    const utm = city
+      ? `&utm_source=website&utm_medium=whatsapp&utm_campaign=locations&utm_content=${encodeURIComponent(city)}`
+      : `&utm_source=website&utm_medium=whatsapp&utm_campaign=global`;
+
+    return `https://wa.me/${phone}?text=${message}${utm}`;
   });
 
   return {
