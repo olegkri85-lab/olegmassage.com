@@ -21,46 +21,7 @@
     <section
       class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
     >
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-16 sm:gap-12">
-        <ServiceCard
-          :title="t('services.classical.title')"
-          :description="t('services.classical.description')"
-          :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
-            'services.duration.massage90'
-          )} — 150 CHF`"
-          image="/images/services/classical-massage.jpg"
-          image-ratio="4/3"
-          image-label="Professional therapist performing classical full-body massage with therapeutic techniques to relieve muscle tension and improve circulation"
-        />
-        <ServiceCard
-          :title="t('services.sports.title')"
-          :description="t('services.sports.description')"
-          :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
-            'services.duration.massage90'
-          )} — 150 CHF`"
-          image="/images/services/sports-massage.jpg"
-          image-ratio="4/3"
-          image-label="Athletic sports massage session focusing on muscle recovery, injury prevention, and flexibility improvement for active individuals and athletes"
-        />
-        <ServiceCard
-          :title="t('services.relaxation.title')"
-          :description="t('services.relaxation.description')"
-          :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
-            'services.duration.massage90'
-          )} — 150 CHF`"
-          image="/images/services/relaxation-massage.jpg"
-          image-ratio="4/3"
-          image-label="Soothing relaxation massage with gentle techniques and warm oils for stress relief and deep body-mind relaxation"
-        />
-        <ServiceCard
-          :title="t('services.cupping.title')"
-          :description="t('services.cupping.description')"
-          :duration="`${t('services.duration.cupping')} — 30 CHF`"
-          image="/images/services/cupping-therapy.png"
-          image-ratio="4/3"
-          image-label="Traditional cupping therapy treatment using suction cups to relieve muscle tension, promote blood circulation, and support body detoxification"
-        />
-      </div>
+      <ServicesGrid show-pricing />
 
       <!-- Pricing Info -->
       <div class="mt-16 max-w-3xl mx-auto">
@@ -241,6 +202,121 @@ useHead(() => ({
               referenceQuantity: {
                 "@type": "QuantitativeValue",
                 value: "90",
+                unitCode: "MIN",
+              },
+            },
+            availability: "https://schema.org/InStock",
+            seller: {
+              "@type": "LocalBusiness",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
+            },
+          },
+          {
+            "@type": "Offer",
+            name: t("services.anticellulite.title"),
+            description: t("services.anticellulite.description"),
+            price: "100",
+            priceCurrency: "CHF",
+            priceSpecification: {
+              "@type": "UnitPriceSpecification",
+              price: "100",
+              priceCurrency: "CHF",
+              referenceQuantity: {
+                "@type": "QuantitativeValue",
+                value: "60",
+                unitCode: "MIN",
+              },
+            },
+            availability: "https://schema.org/InStock",
+            seller: {
+              "@type": "LocalBusiness",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
+            },
+          },
+          {
+            "@type": "Offer",
+            name: `${t("services.anticellulite.title")} (90 min)`,
+            description: t("services.anticellulite.description"),
+            price: "150",
+            priceCurrency: "CHF",
+            priceSpecification: {
+              "@type": "UnitPriceSpecification",
+              price: "150",
+              priceCurrency: "CHF",
+              referenceQuantity: {
+                "@type": "QuantitativeValue",
+                value: "90",
+                unitCode: "MIN",
+              },
+            },
+            availability: "https://schema.org/InStock",
+            seller: {
+              "@type": "LocalBusiness",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
+            },
+          },
+          {
+            "@type": "Offer",
+            name: t("services.pregnancy.title"),
+            description: t("services.pregnancy.description"),
+            price: "100",
+            priceCurrency: "CHF",
+            priceSpecification: {
+              "@type": "UnitPriceSpecification",
+              price: "100",
+              priceCurrency: "CHF",
+              referenceQuantity: {
+                "@type": "QuantitativeValue",
+                value: "60",
+                unitCode: "MIN",
+              },
+            },
+            availability: "https://schema.org/InStock",
+            seller: {
+              "@type": "LocalBusiness",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
+            },
+          },
+          {
+            "@type": "Offer",
+            name: `${t("services.pregnancy.title")} (90 min)`,
+            description: t("services.pregnancy.description"),
+            price: "150",
+            priceCurrency: "CHF",
+            priceSpecification: {
+              "@type": "UnitPriceSpecification",
+              price: "150",
+              priceCurrency: "CHF",
+              referenceQuantity: {
+                "@type": "QuantitativeValue",
+                value: "90",
+                unitCode: "MIN",
+              },
+            },
+            availability: "https://schema.org/InStock",
+            seller: {
+              "@type": "LocalBusiness",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
+            },
+          },
+          {
+            "@type": "Offer",
+            name: t("services.children.title"),
+            description: t("services.children.description"),
+            price: "100",
+            priceCurrency: "CHF",
+            priceSpecification: {
+              "@type": "UnitPriceSpecification",
+              price: "100",
+              priceCurrency: "CHF",
+              referenceQuantity: {
+                "@type": "QuantitativeValue",
+                value: "60",
                 unitCode: "MIN",
               },
             },
