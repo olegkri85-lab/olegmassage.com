@@ -66,19 +66,31 @@
     "description": "Discover our professional massage treatments tailored to your specific needs. From classical relaxation to targeted sports massage – I bring the perfect treatment to your home.",
     "classical": {
       "title": "Classical Massage",
-      "description": "Relaxing full-body or partial massage. Promotes circulation and releases muscle tension."
+      "description": "Ideal when your body needs rest. Gentle yet deep movements relieve tension, improve circulation, and restore lightness. After a session, you'll feel as if you've shed a few pounds of fatigue – straighter back, freer breathing, brighter mood. Classical massage suits everyone who wants to restore energy and feel the balance between body and mind."
     },
     "sports": {
       "title": "Sports Massage",
-      "description": "Ideal for active people and athletes. Supports recovery, prevents injuries, and improves muscle flexibility."
+      "description": "For those who live actively: sports, physical work, intensive training. This massage helps muscles recover faster, release tension, regain flexibility and energy. It improves endurance and makes the body more alive and responsive. Ideal before or after workouts – so you don't just train, but enjoy it."
     },
-    "relaxation": {
-      "title": "Relaxation Massage",
-      "description": "Anti-stress massage with gentle techniques. Focus on stress relief and calming body and mind."
+    "anticellulite": {
+      "title": "Anti-Cellulite Massage",
+      "description": "Not just fighting cellulite – it's a real upgrade for your body. Intensive techniques activate metabolism, improve lymph flow, and remove excess fluid. Skin becomes smoother, firmer, and more alive. After just a few sessions, you'll feel lightness, firmness, and confidence in your body."
+    },
+    "pregnancy": {
+      "title": "Pregnancy Massage",
+      "description": "Gentle, caring, safe. Helps relieve tension in back and legs, reduce swelling, and improve sleep. Everything is done gently, in a comfortable position, using natural oils. This massage is not just body care, but a moment of peace and connection with your baby."
+    },
+    "children": {
+      "title": "Children's Massage",
+      "description": "Light, kind, and beneficial. Helps children develop muscles, improves sleep, digestion, and mood. Performed in a playful manner – without pain or fear. This massage is not only health care, but also a way to give children a feeling of love and safety."
     },
     "cupping": {
-      "title": "Cupping Therapy",
-      "description": "Traditional cupping therapy to relieve muscle tension, promote circulation, and support detoxification."
+      "title": "Cupping Massage",
+      "description": "A powerful tool for recovery and vitality. Vacuum cups activate circulation, improve metabolism, and effectively fight cellulite. Also excellent for back pain and muscle tension. After the treatment, the body feels light, and skin becomes firm and elastic."
+    },
+    "relaxation": {
+      "title": "Relax Massage",
+      "description": "If you just want to switch off your mind and feel fatigue disappear – this is what you need. Smooth, rhythmic movements, pleasant aromas, and complete relaxation. Just one hour – and the body fills with calm, thoughts become clearer. The perfect way to let go of everything unnecessary and restore inner harmony."
     },
     "pricing": {
       "title": "Pricing & Terms",

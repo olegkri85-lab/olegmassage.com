@@ -66,19 +66,31 @@
     "description": "Entdecken Sie unsere professionellen Massagebehandlungen, die speziell auf Ihre Bedürfnisse abgestimmt sind. Von klassischer Entspannung bis zur gezielten Sportmassage – ich bringe die perfekte Behandlung zu Ihnen nach Hause.",
     "classical": {
       "title": "Klassische Massage",
-      "description": "Entspannende Ganzkörper- oder Teilkörpermassage. Fördert die Durchblutung und löst muskuläre Verspannungen."
+      "description": "Ideal, wenn Ihr Körper nach Erholung verlangt. Sanfte, aber tiefgreifende Bewegungen lösen Verspannungen, fördern die Durchblutung und bringen Leichtigkeit zurück. Nach der Sitzung fühlen Sie sich, als hätten Sie ein paar Kilogramm Müdigkeit abgeworfen – der Rücken gerader, die Atmung freier, die Stimmung heller. Die Klassik eignet sich für jeden, der Kraft tanken und die Balance zwischen Körper und Geist wiederfinden möchte."
     },
     "sports": {
       "title": "Sportmassage",
-      "description": "Ideal für aktive Menschen und Athleten. Unterstützt die Regeneration, beugt Verletzungen vor und verbessert die Muskelflexibilität."
+      "description": "Für alle, die aktiv leben: Sport, körperliche Arbeit, intensive Trainings. Diese Massage hilft den Muskeln, sich schneller zu erholen, Verspannungen zu lösen und Flexibilität sowie Energie zurückzugewinnen. Sie verbessert die Ausdauer und macht den Körper lebendiger und reaktionsfähiger. Ideal vor oder nach Belastungen – damit Sie nicht nur trainieren, sondern es mit Freude tun."
     },
-    "relaxation": {
-      "title": "Entspannungsmassage",
-      "description": "Anti-Stress-Massage mit ruhigen Techniken. Fokus auf Stressabbau und Beruhigung von Körper und Geist."
+    "anticellulite": {
+      "title": "Anti-Cellulite-Massage",
+      "description": "Nicht nur \"Kampf gegen Cellulite\" – sondern ein echtes Upgrade für Ihren Körper. Intensive Techniken aktivieren den Stoffwechsel, verbessern den Lymphfluss und leiten überschüssige Flüssigkeit ab. Die Haut wird glatter, straffer und lebendiger. Schon nach wenigen Sitzungen spüren Sie ein Gefühl von Leichtigkeit, Straffheit und neuem Selbstbewusstsein."
+    },
+    "pregnancy": {
+      "title": "Schwangerschaftsmassage",
+      "description": "Sanft, fürsorglich, sicher. Hilft, Verspannungen in Rücken und Beinen zu lösen, Schwellungen zu reduzieren und den Schlaf zu verbessern. Alles wird behutsam ausgeführt, in bequemer Position, mit natürlichen Ölen. Diese Massage ist nicht nur Körperpflege, sondern auch ein Moment der Ruhe und Verbindung mit Ihrem Baby."
+    },
+    "children": {
+      "title": "Kindermassage",
+      "description": "Leicht, liebevoll und wohltuend. Hilft dem Kind, Muskeln zu entwickeln, verbessert Schlaf, Verdauung und Stimmung. Wird spielerisch durchgeführt – ohne Schmerzen und Angst. Diese Massage ist nicht nur Gesundheitsfürsorge, sondern auch eine Möglichkeit, dem Kind ein Gefühl von Liebe und Geborgenheit zu geben."
     },
     "cupping": {
-      "title": "Schröpfen",
-      "description": "Traditionelle Schröpftherapie zur Linderung von Muskelverspannungen, Förderung der Durchblutung und Entgiftung."
+      "title": "Schröpfmassage",
+      "description": "Ein kraftvolles Mittel für Regeneration und Vitalität. Vakuumschröpfgläser aktivieren die Durchblutung, verbessern den Stoffwechsel und bekämpfen effektiv Cellulite. Hilft auch hervorragend bei Rückenschmerzen und Muskelverspannungen. Nach der Behandlung fühlt sich der Körper leicht an und die Haut wird straffer und elastischer."
+    },
+    "relaxation": {
+      "title": "Relax-Massage",
+      "description": "Wenn Sie einfach abschalten und spüren möchten, wie die Müdigkeit verschwindet – ist das genau das Richtige. Fließende, rhythmische Bewegungen, angenehme Düfte und völlige Entspannung. Nur eine Stunde – und der Körper füllt sich mit Ruhe, die Gedanken werden klarer. Der perfekte Weg, alles Überflüssige loszulassen und innere Harmonie wiederzufinden."
     },
     "pricing": {
       "title": "Preise & Konditionen",
