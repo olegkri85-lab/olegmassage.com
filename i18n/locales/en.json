@@ -14,15 +14,15 @@
       "description": "Discover our professional massage treatments: classical massage, sports massage, relaxation massage, and cupping therapy. Mobile massage in Zürichsee region."
     },
     "legal": {
-      "title": "Legal Notice | Massazh.me",
-      "description": "Legal information and imprint for Massazh.me mobile massage service in the Zürichsee region, Switzerland."
+      "title": "Legal Notice | olegmassage.com",
+      "description": "Legal information and imprint for olegmassage.com mobile massage service in the Zürichsee region, Switzerland."
     },
     "dataProtection": {
-      "title": "Data Protection | Massazh.me",
-      "description": "Data protection declaration for Massazh.me mobile massage service. Learn how we protect your personal data."
+      "title": "Data Protection | olegmassage.com",
+      "description": "Data protection declaration for olegmassage.com mobile massage service. Learn how we protect your personal data."
     },
     "faq": {
-      "title": "FAQ - Frequently Asked Questions | Massazh.me",
+      "title": "FAQ - Frequently Asked Questions | olegmassage.com",
       "description": "Answers to frequently asked questions about mobile massage service in Zürichsee region. Booking, pricing, process and more."
     }
   },
@@ -106,6 +106,7 @@
     "about": "Book Appointment",
     "services": "Book Massage",
     "nav": "Book Now",
+    "whatsapp": "Contact via WhatsApp",
     "whatsappMessage": {
       "hero": "Hi Oleg, I need a massage.",
       "about": "Hi Oleg, I would like to book an appointment.",

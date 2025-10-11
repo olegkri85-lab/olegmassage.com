@@ -28,7 +28,7 @@ useHead({
       links.push({
         rel: "alternate",
         hreflang: loc.code,
-        href: `https://massazh.me${switchLocalePath(loc.code)}`,
+        href: `https://olegmassage.com${switchLocalePath(loc.code)}`,
       });
     });
 
@@ -36,7 +36,7 @@ useHead({
     links.push({
       rel: "alternate",
       hreflang: "x-default",
-      href: `https://massazh.me${switchLocalePath("de")}`,
+      href: `https://olegmassage.com${switchLocalePath("de")}`,
     });
 
     return links;

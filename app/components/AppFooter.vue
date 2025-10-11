@@ -10,7 +10,7 @@
         <span
           class="font-display text-2xl md:text-3xl lg:text-4xl -tracking-tight font-black leading-tight"
         >
-          Massazh.me
+          olegmassage.com
         </span>
       </NuxtLink>
     </div>

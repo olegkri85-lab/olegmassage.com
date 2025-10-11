@@ -4,7 +4,10 @@
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
       <div class="max-w-4xl">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
-          {{ t("location.rapperswilJona.subtitle") || t("location.zurich.subtitle") }}
+          {{
+            t("location.rapperswilJona.subtitle") ||
+            t("location.zurich.subtitle")
+          }}
         </p>
         <h1
           class="text-5xl md:text-6xl lg:text-7xl font-display text-white mb-8"
@@ -140,18 +143,63 @@ const benefits = [
 useHead(() => ({
   title: t("location.rapperswilJona.meta.title"),
   meta: [
-    { name: "description", content: t("location.rapperswilJona.meta.description") },
+    {
+      name: "description",
+      content: t("location.rapperswilJona.meta.description"),
+    },
     { property: "og:title", content: t("location.rapperswilJona.meta.title") },
-    { property: "og:description", content: t("location.rapperswilJona.meta.description") },
+    {
+      property: "og:description",
+      content: t("location.rapperswilJona.meta.description"),
+    },
     { property: "og:type", content: "website" },
   ],
   link: [
-    { rel: "canonical", href: `https://massazh.me${localePath("/locations/rapperswil-jona")}` },
-    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/locations/rapperswil-jona", "de")}` },
-    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/locations/rapperswil-jona", "en")}` },
-    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/locations/rapperswil-jona", "ru")}` },
-    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/locations/rapperswil-jona", "uk")}` },
-    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/locations/rapperswil-jona")}` },
+    {
+      rel: "canonical",
+      href: `https://olegmassage.com${localePath(
+        "/locations/rapperswil-jona"
+      )}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "de",
+      href: `https://olegmassage.com${localePath(
+        "/locations/rapperswil-jona",
+        "de"
+      )}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "en",
+      href: `https://olegmassage.com${localePath(
+        "/locations/rapperswil-jona",
+        "en"
+      )}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "ru",
+      href: `https://olegmassage.com${localePath(
+        "/locations/rapperswil-jona",
+        "ru"
+      )}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "uk",
+      href: `https://olegmassage.com${localePath(
+        "/locations/rapperswil-jona",
+        "uk"
+      )}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "x-default",
+      href: `https://olegmassage.com${localePath(
+        "/locations/rapperswil-jona"
+      )}`,
+    },
   ],
 }));
 </script>

@@ -142,16 +142,42 @@ useHead(() => ({
   meta: [
     { name: "description", content: t("location.aargau.meta.description") },
     { property: "og:title", content: t("location.aargau.meta.title") },
-    { property: "og:description", content: t("location.aargau.meta.description") },
+    {
+      property: "og:description",
+      content: t("location.aargau.meta.description"),
+    },
     { property: "og:type", content: "website" },
   ],
   link: [
-    { rel: "canonical", href: `https://massazh.me${localePath("/locations/aargau")}` },
-    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/locations/aargau", "de")}` },
-    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/locations/aargau", "en")}` },
-    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/locations/aargau", "ru")}` },
-    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/locations/aargau", "uk")}` },
-    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/locations/aargau")}` },
+    {
+      rel: "canonical",
+      href: `https://olegmassage.com${localePath("/locations/aargau")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "de",
+      href: `https://olegmassage.com${localePath("/locations/aargau", "de")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "en",
+      href: `https://olegmassage.com${localePath("/locations/aargau", "en")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "ru",
+      href: `https://olegmassage.com${localePath("/locations/aargau", "ru")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "uk",
+      href: `https://olegmassage.com${localePath("/locations/aargau", "uk")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "x-default",
+      href: `https://olegmassage.com${localePath("/locations/aargau")}`,
+    },
   ],
 }));
 </script>

@@ -118,8 +118,8 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue';
-import { useHead, useI18n, useLocalePath } from '#imports';
+import { computed } from "vue";
+import { useHead, useI18n, useLocalePath } from "#imports";
 const { t } = useI18n();
 const localePath = useLocalePath();
 
@@ -157,13 +157,33 @@ useHead(() => ({
   link: [
     {
       rel: "canonical",
-      href: `https://massazh.me${localePath("/locations/luzern")}`,
+      href: `https://olegmassage.com${localePath("/locations/luzern")}`,
     },
-    { rel: "alternate", hreflang: "de", href: `https://massazh.me${localePath("/locations/luzern", "de")}` },
-    { rel: "alternate", hreflang: "en", href: `https://massazh.me${localePath("/locations/luzern", "en")}` },
-    { rel: "alternate", hreflang: "ru", href: `https://massazh.me${localePath("/locations/luzern", "ru")}` },
-    { rel: "alternate", hreflang: "uk", href: `https://massazh.me${localePath("/locations/luzern", "uk")}` },
-    { rel: "alternate", hreflang: "x-default", href: `https://massazh.me${localePath("/locations/luzern")}` },
+    {
+      rel: "alternate",
+      hreflang: "de",
+      href: `https://olegmassage.com${localePath("/locations/luzern", "de")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "en",
+      href: `https://olegmassage.com${localePath("/locations/luzern", "en")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "ru",
+      href: `https://olegmassage.com${localePath("/locations/luzern", "ru")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "uk",
+      href: `https://olegmassage.com${localePath("/locations/luzern", "uk")}`,
+    },
+    {
+      rel: "alternate",
+      hreflang: "x-default",
+      href: `https://olegmassage.com${localePath("/locations/luzern")}`,
+    },
   ],
   script: [
     {
@@ -175,8 +195,8 @@ useHead(() => ({
         description: t("location.luzern.description"),
         provider: {
           "@type": "LocalBusiness",
-          name: "Massazh.me",
-          url: "https://massazh.me",
+          name: "olegmassage.com",
+          url: "https://olegmassage.com",
           telephone: "+41798499274",
           email: "oleh.kryvorotko@icloud.com",
           areaServed: {
@@ -190,7 +210,7 @@ useHead(() => ({
         },
         availableChannel: {
           "@type": "ServiceChannel",
-          serviceUrl: "https://massazh.me",
+          serviceUrl: "https://olegmassage.com",
           servicePhone: "+41798499274",
         },
       }),

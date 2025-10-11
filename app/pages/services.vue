@@ -25,7 +25,9 @@
         <ServiceCard
           :title="t('services.classical.title')"
           :description="t('services.classical.description')"
-          :duration="`${t('services.duration.massage60')} — 100 CHF • ${t('services.duration.massage90')} — 150 CHF`"
+          :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
+            'services.duration.massage90'
+          )} — 150 CHF`"
           image="/images/services/classical-massage.jpg"
           image-ratio="4/3"
           image-label="Professional therapist performing classical full-body massage with therapeutic techniques to relieve muscle tension and improve circulation"
@@ -33,7 +35,9 @@
         <ServiceCard
           :title="t('services.sports.title')"
           :description="t('services.sports.description')"
-          :duration="`${t('services.duration.massage60')} — 100 CHF • ${t('services.duration.massage90')} — 150 CHF`"
+          :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
+            'services.duration.massage90'
+          )} — 150 CHF`"
           image="/images/services/sports-massage.jpg"
           image-ratio="4/3"
           image-label="Athletic sports massage session focusing on muscle recovery, injury prevention, and flexibility improvement for active individuals and athletes"
@@ -41,7 +45,9 @@
         <ServiceCard
           :title="t('services.relaxation.title')"
           :description="t('services.relaxation.description')"
-          :duration="`${t('services.duration.massage60')} — 100 CHF • ${t('services.duration.massage90')} — 150 CHF`"
+          :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
+            'services.duration.massage90'
+          )} — 150 CHF`"
           image="/images/services/relaxation-massage.jpg"
           image-ratio="4/3"
           image-label="Soothing relaxation massage with gentle techniques and warm oils for stress relief and deep body-mind relaxation"
@@ -97,7 +103,7 @@ useHead(() => ({
   link: [
     {
       rel: "canonical",
-      href: `https://massazh.me${localePath("/services")}`,
+      href: `https://olegmassage.com${localePath("/services")}`,
     },
   ],
   script: [
@@ -126,8 +132,8 @@ useHead(() => ({
             availability: "https://schema.org/InStock",
             seller: {
               "@type": "LocalBusiness",
-              name: "Massazh.me",
-              url: "https://massazh.me",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
             },
           },
           {
@@ -149,8 +155,8 @@ useHead(() => ({
             availability: "https://schema.org/InStock",
             seller: {
               "@type": "LocalBusiness",
-              name: "Massazh.me",
-              url: "https://massazh.me",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
             },
           },
           {
@@ -172,8 +178,8 @@ useHead(() => ({
             availability: "https://schema.org/InStock",
             seller: {
               "@type": "LocalBusiness",
-              name: "Massazh.me",
-              url: "https://massazh.me",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
             },
           },
           {
@@ -195,8 +201,8 @@ useHead(() => ({
             availability: "https://schema.org/InStock",
             seller: {
               "@type": "LocalBusiness",
-              name: "Massazh.me",
-              url: "https://massazh.me",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
             },
           },
           {
@@ -218,8 +224,8 @@ useHead(() => ({
             availability: "https://schema.org/InStock",
             seller: {
               "@type": "LocalBusiness",
-              name: "Massazh.me",
-              url: "https://massazh.me",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
             },
           },
           {
@@ -241,8 +247,8 @@ useHead(() => ({
             availability: "https://schema.org/InStock",
             seller: {
               "@type": "LocalBusiness",
-              name: "Massazh.me",
-              url: "https://massazh.me",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
             },
           },
           {
@@ -259,8 +265,8 @@ useHead(() => ({
             availability: "https://schema.org/InStock",
             seller: {
               "@type": "LocalBusiness",
-              name: "Massazh.me",
-              url: "https://massazh.me",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
             },
           },
         ],

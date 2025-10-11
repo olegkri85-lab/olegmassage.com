@@ -16,17 +16,17 @@ const { t } = useI18n();
 const localePath = useLocalePath();
 
 useHead(() => ({
-  title: t('meta.about.title'),
+  title: t("meta.about.title"),
   meta: [
-    { name: 'description', content: t('meta.about.description') },
-    { property: 'og:title', content: t('meta.about.title') },
-    { property: 'og:description', content: t('meta.about.description') },
-    { property: 'og:type', content: 'profile' }
+    { name: "description", content: t("meta.about.description") },
+    { property: "og:title", content: t("meta.about.title") },
+    { property: "og:description", content: t("meta.about.description") },
+    { property: "og:type", content: "profile" },
   ],
   link: [
     {
-      rel: 'canonical',
-      href: `https://massazh.me${localePath('/about')}`,
+      rel: "canonical",
+      href: `https://olegmassage.com${localePath("/about")}`,
     },
   ],
 }));

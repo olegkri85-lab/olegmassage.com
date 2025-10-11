@@ -170,32 +170,32 @@ useHead(() => ({
   link: [
     {
       rel: "canonical",
-      href: `https://massazh.me${localePath("/locations/zurich")}`,
+      href: `https://olegmassage.com${localePath("/locations/zurich")}`,
     },
     {
       rel: "alternate",
       hreflang: "de",
-      href: `https://massazh.me${localePath("/locations/zurich", "de")}`,
+      href: `https://olegmassage.com${localePath("/locations/zurich", "de")}`,
     },
     {
       rel: "alternate",
       hreflang: "en",
-      href: `https://massazh.me${localePath("/locations/zurich", "en")}`,
+      href: `https://olegmassage.com${localePath("/locations/zurich", "en")}`,
     },
     {
       rel: "alternate",
       hreflang: "ru",
-      href: `https://massazh.me${localePath("/locations/zurich", "ru")}`,
+      href: `https://olegmassage.com${localePath("/locations/zurich", "ru")}`,
     },
     {
       rel: "alternate",
       hreflang: "uk",
-      href: `https://massazh.me${localePath("/locations/zurich", "uk")}`,
+      href: `https://olegmassage.com${localePath("/locations/zurich", "uk")}`,
     },
     {
       rel: "alternate",
       hreflang: "x-default",
-      href: `https://massazh.me${localePath("/locations/zurich")}`,
+      href: `https://olegmassage.com${localePath("/locations/zurich")}`,
     },
   ],
   script: [
@@ -208,8 +208,8 @@ useHead(() => ({
         description: t("location.zurich.description"),
         provider: {
           "@type": "LocalBusiness",
-          name: "Massazh.me",
-          url: "https://massazh.me",
+          name: "olegmassage.com",
+          url: "https://olegmassage.com",
           telephone: "+41798499274",
           email: "oleh.kryvorotko@icloud.com",
           areaServed: {
@@ -225,7 +225,7 @@ useHead(() => ({
         },
         availableChannel: {
           "@type": "ServiceChannel",
-          serviceUrl: "https://massazh.me",
+          serviceUrl: "https://olegmassage.com",
           servicePhone: "+41798499274",
         },
       }),

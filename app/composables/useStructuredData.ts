@@ -4,13 +4,13 @@ export const useStructuredData = () => {
   const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "@id": "https://massazh.me/#organization",
+    "@id": "https://olegmassage.com/#organization",
     name: "Massazh - Mobile Massage Service",
     description:
       "Professional mobile massage service in Zürichsee region. Specialized in sports massage, classical massage, relaxation massage, and cupping therapy.",
-    url: "https://massazh.me",
-    logo: "https://massazh.me/logo.png",
-    image: "https://massazh.me/images/me.jpeg",
+    url: "https://olegmassage.com",
+    logo: "https://olegmassage.com/logo.png",
+    image: "https://olegmassage.com/images/me.jpeg",
     telephone: "+380505872464",
     email: "oleh.kryvorotko@icloud.com",
     priceRange: "CHF 120-150",
@@ -106,12 +106,12 @@ export const useStructuredData = () => {
   const personSchema = {
     "@context": "https://schema.org",
     "@type": "Person",
-    "@id": "https://massazh.me/#person",
+    "@id": "https://olegmassage.com/#person",
     name: "Oleg",
     jobTitle: "Professional Massage Therapist",
     description:
       "Former Olympic gymnast for Ukraine and circus artist with expert knowledge in sports massage, classical massage, and cupping therapy.",
-    image: "https://massazh.me/images/me.jpeg",
+    image: "https://olegmassage.com/images/me.jpeg",
     alumniOf: "Olympic Team Ukraine - Gymnastics",
     knowsAbout: [
       "Sports Massage",
@@ -137,13 +137,13 @@ export const useStructuredData = () => {
   const websiteSchema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "@id": "https://massazh.me/#website",
-    url: "https://massazh.me",
+    "@id": "https://olegmassage.com/#website",
+    url: "https://olegmassage.com",
     name: "Massazh - Mobile Massage Zürichsee",
     description: "Professional mobile massage service in Zürichsee region",
     inLanguage: ["de", "en", "ru"],
     publisher: {
-      "@id": "https://massazh.me/#organization",
+      "@id": "https://olegmassage.com/#organization",
     },
   };
 

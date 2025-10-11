@@ -14,15 +14,15 @@
       "description": "Entdecken Sie unsere professionellen Massagebehandlungen: Klassische Massage, Sportmassage, Entspannungsmassage und Schröpftherapie. Mobile Massage in der Region Zürichsee."
     },
     "legal": {
-      "title": "Impressum | Massazh.me",
-      "description": "Rechtliche Informationen und Impressum für Massazh.me mobiler Massage-Service in der Region Zürichsee, Schweiz."
+      "title": "Impressum | olegmassage.com",
+      "description": "Rechtliche Informationen und Impressum für olegmassage.com mobiler Massage-Service in der Region Zürichsee, Schweiz."
     },
     "dataProtection": {
-      "title": "Datenschutz | Massazh.me",
-      "description": "Datenschutzerklärung für Massazh.me mobiler Massage-Service. Erfahren Sie, wie wir Ihre persönlichen Daten schützen."
+      "title": "Datenschutz | olegmassage.com",
+      "description": "Datenschutzerklärung für olegmassage.com mobiler Massage-Service. Erfahren Sie, wie wir Ihre persönlichen Daten schützen."
     },
     "faq": {
-      "title": "FAQ - Häufig gestellte Fragen | Massazh.me",
+      "title": "FAQ - Häufig gestellte Fragen | olegmassage.com",
       "description": "Antworten auf häufig gestellte Fragen zu mobilem Massageservice in der Region Zürichsee. Buchung, Preise, Ablauf und mehr."
     }
   },
@@ -106,6 +106,7 @@
     "about": "Termin vereinbaren",
     "services": "Massage buchen",
     "nav": "Termin buchen",
+    "whatsapp": "Über WhatsApp kontaktieren",
     "whatsappMessage": {
       "hero": "Hallo Oleg, ich brauche eine Massage.",
       "about": "Hallo Oleg, ich möchte einen Termin vereinbaren.",

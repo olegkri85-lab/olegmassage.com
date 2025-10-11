@@ -1,4 +1,4 @@
-# Massazh.me Growth & SEO Strategy Plan
+# olegmassage.com Growth & SEO Strategy Plan
 
 ## 📊 Current Status
 - ✅ Multilingual website (DE, EN, RU, UK)

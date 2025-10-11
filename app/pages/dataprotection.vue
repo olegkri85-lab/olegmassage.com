@@ -76,7 +76,7 @@ useHead(() => ({
   link: [
     {
       rel: "canonical",
-      href: `https://massazh.me${localePath("/dataprotection")}`,
+      href: `https://olegmassage.com${localePath("/dataprotection")}`,
     },
   ],
 }));

@@ -155,32 +155,32 @@ useHead(() => ({
   link: [
     {
       rel: "canonical",
-      href: `https://massazh.me${localePath("/locations/zug")}`,
+      href: `https://olegmassage.com${localePath("/locations/zug")}`,
     },
     {
       rel: "alternate",
       hreflang: "de",
-      href: `https://massazh.me${localePath("/locations/zug", "de")}`,
+      href: `https://olegmassage.com${localePath("/locations/zug", "de")}`,
     },
     {
       rel: "alternate",
       hreflang: "en",
-      href: `https://massazh.me${localePath("/locations/zug", "en")}`,
+      href: `https://olegmassage.com${localePath("/locations/zug", "en")}`,
     },
     {
       rel: "alternate",
       hreflang: "ru",
-      href: `https://massazh.me${localePath("/locations/zug", "ru")}`,
+      href: `https://olegmassage.com${localePath("/locations/zug", "ru")}`,
     },
     {
       rel: "alternate",
       hreflang: "uk",
-      href: `https://massazh.me${localePath("/locations/zug", "uk")}`,
+      href: `https://olegmassage.com${localePath("/locations/zug", "uk")}`,
     },
     {
       rel: "alternate",
       hreflang: "x-default",
-      href: `https://massazh.me${localePath("/locations/zug")}`,
+      href: `https://olegmassage.com${localePath("/locations/zug")}`,
     },
   ],
   script: [
@@ -193,8 +193,8 @@ useHead(() => ({
         description: t("location.zug.description"),
         provider: {
           "@type": "LocalBusiness",
-          name: "Massazh.me",
-          url: "https://massazh.me",
+          name: "olegmassage.com",
+          url: "https://olegmassage.com",
           telephone: "+41798499274",
           email: "oleh.kryvorotko@icloud.com",
           areaServed: {
@@ -208,7 +208,7 @@ useHead(() => ({
         },
         availableChannel: {
           "@type": "ServiceChannel",
-          serviceUrl: "https://massazh.me",
+          serviceUrl: "https://olegmassage.com",
           servicePhone: "+41798499274",
         },
       }),

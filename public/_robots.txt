@@ -13,4 +13,4 @@ Disallow: /ru/dataprotection
 Disallow: /uk/dataprotection
 
 # Sitemap
-Sitemap: https://massazh.me/sitemap.xml
+Sitemap: https://olegmassage.com/sitemap.xml
