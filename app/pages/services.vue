@@ -21,7 +21,7 @@
     <section
       class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
     >
-      <ServicesGrid show-pricing />
+      <ServicesGrid />
 
       <!-- Pricing Info -->
       <div class="mt-16 max-w-3xl mx-auto">
