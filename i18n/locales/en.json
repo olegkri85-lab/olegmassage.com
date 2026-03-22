@@ -34,6 +34,7 @@
     "home": "Home",
     "about": "About",
     "services": "Services",
+    "prices": "Prices",
     "certificates": "Certificates",
     "faq": "Questions"
   },
@@ -466,6 +467,32 @@
         "description": "Certificate for Anatomy and Physiology. 26 academic hours at the PROFMED school."
       }
     }
+  },
+  "pricing": {
+    "title": "Prices",
+    "subtitle": "Massage Prices",
+    "description": "Transparent pricing for all massage treatments. I come to your home — professional equipment and premium oils included.",
+    "award": "1st Place SMC",
+    "meta": {
+      "title": "Massage Prices Zurich | Mobile Massage from 100 CHF | olegmassage.com",
+      "description": "Massage prices in Zurich and surroundings. Swedish Massage from 120 CHF, Classical Massage from 100 CHF, Sports Massage 140 CHF. Mobile massage at your home. Winner of Swiss Massage Championship 2026."
+    },
+    "mobile": {
+      "title": "Mobile Service",
+      "text": "I come to your home with a professional massage table and all equipment."
+    },
+    "addon": {
+      "title": "Add-on",
+      "text": "Cupping therapy can be added to any massage."
+    },
+    "swedish": { "summary": "Deep relaxation and recovery. 1st Place Swiss Massage Championship 2026." },
+    "classical": { "summary": "Relieves tension, improves circulation, restores energy." },
+    "sports": { "summary": "For athletes and active people. Muscle recovery and flexibility." },
+    "relaxation": { "summary": "Stress relief, mental calm, and complete relaxation." },
+    "anticellulite": { "summary": "Activates metabolism, improves lymph flow, firms skin." },
+    "pregnancy": { "summary": "Gentle and safe from the 2nd trimester. Relieves back pain." },
+    "children": { "summary": "Playful and gentle. Supports development and improves sleep." },
+    "cupping": { "summary": "Add-on to any massage. Improves circulation and releases tension." }
   },
   "servicePages": {
     "relatedServices": "Other Massage Types",

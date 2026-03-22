@@ -34,6 +34,7 @@
     "home": "Start",
     "about": "Über mich",
     "services": "Leistungen",
+    "prices": "Preise",
     "certificates": "Zertifikate",
     "faq": "Fragen"
   },
@@ -466,6 +467,32 @@
         "description": "Zertifikat für Anatomie und Physiologie des Menschen. 26 akademische Stunden an der Schule PROFMED."
       }
     }
+  },
+  "pricing": {
+    "title": "Preise",
+    "subtitle": "Massage Preise",
+    "description": "Transparente Preise für alle Massagebehandlungen. Ich komme zu Ihnen nach Hause — professionelle Ausrüstung und hochwertige Öle inklusive.",
+    "award": "1. Platz SMC",
+    "meta": {
+      "title": "Massage Preise Zürich | Mobile Massage ab 100 CHF | olegmassage.com",
+      "description": "Massage Preise in Zürich und Umgebung. Schwedische Massage ab 120 CHF, Klassische Massage ab 100 CHF, Sportmassage 140 CHF. Mobile Massage bei Ihnen zu Hause. Preisträger Swiss Massage Championship 2026."
+    },
+    "mobile": {
+      "title": "Mobiler Service",
+      "text": "Ich komme zu Ihnen nach Hause mit professioneller Massageliege und allem Equipment."
+    },
+    "addon": {
+      "title": "Zusatzleistung",
+      "text": "Schröpfmassage kann zu jeder Massage hinzugefügt werden."
+    },
+    "swedish": { "summary": "Tiefe Entspannung und Regeneration. 1. Platz Swiss Massage Championship 2026." },
+    "classical": { "summary": "Löst Verspannungen, verbessert Durchblutung, stellt Energie wieder her." },
+    "sports": { "summary": "Für Sportler und aktive Menschen. Muskelregeneration und Flexibilität." },
+    "relaxation": { "summary": "Stressabbau, mentale Ruhe und völlige Entspannung." },
+    "anticellulite": { "summary": "Aktiviert Stoffwechsel, verbessert Lymphfluss, strafft die Haut." },
+    "pregnancy": { "summary": "Sanft und sicher ab dem 2. Trimester. Lindert Rückenschmerzen." },
+    "children": { "summary": "Spielerisch und sanft. Fördert Entwicklung und verbessert Schlaf." },
+    "cupping": { "summary": "Zusätzlich zu jeder Massage. Verbessert Durchblutung und löst Verspannungen." }
   },
   "servicePages": {
     "relatedServices": "Andere Massagearten",

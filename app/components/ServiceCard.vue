@@ -1,6 +1,15 @@
 <template>
   <article class="flex flex-col gap-8 h-full">
-    <div class="w-full">
+    <NuxtLink v-if="link" :to="link" class="w-full block !no-underline group/img">
+      <ImagePlaceholder
+        :ratio="imageRatio"
+        :src="image"
+        :alt="title"
+        :label="imageLabel"
+        loading="lazy"
+      />
+    </NuxtLink>
+    <div v-else class="w-full">
       <ImagePlaceholder
         :ratio="imageRatio"
         :src="image"
@@ -10,7 +19,10 @@
       />
     </div>
     <div class="flex flex-col gap-4 flex-1">
-      <h3 class="text-2xl md:text-3xl lg:text-4xl font-display text-gray-900 break-words hyphens-auto">{{ title }}</h3>
+      <NuxtLink v-if="link" :to="link" class="!no-underline">
+        <h3 class="text-2xl md:text-3xl lg:text-4xl font-display text-gray-900 break-words hyphens-auto hover:text-[hsl(var(--accent-hsl))] transition-colors">{{ title }}</h3>
+      </NuxtLink>
+      <h3 v-else class="text-2xl md:text-3xl lg:text-4xl font-display text-gray-900 break-words hyphens-auto">{{ title }}</h3>
       <p class="text-base md:text-lg lg:text-xl leading-relaxed text-gray-600">{{ description }}</p>
       <div v-if="duration || price" class="mt-auto space-y-2">
         <p v-if="duration" class="text-base md:text-lg text-gray-700">

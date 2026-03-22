@@ -91,6 +91,7 @@ const isOpen = ref(false);
 const navLinks = [
   { to: "/", label: "nav.home" },
   { to: "/services", label: "nav.services" },
+  { to: "/preise", label: "nav.prices" },
   { to: "/about", label: "nav.about" },
   { to: "/certificates", label: "nav.certificates" },
   { to: "/faq", label: "nav.faq" },
