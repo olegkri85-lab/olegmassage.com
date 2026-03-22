@@ -15,34 +15,25 @@
       </NuxtLink>
     </div>
 
-    <div class="grid md:grid-cols-6 gap-12 mb-12">
-      <div class="md:col-span-2">
-        <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-4">
-          {{ t("footer.serviceArea") }}
-        </h3>
-        <div class="grid grid-cols-2 gap-x-8">
-          <ul>
-            <li v-for="loc in locationCol1" :key="loc.to">
-              <NuxtLink
-                :to="localePath(loc.to)"
-                class="text-gray-900 relative !no-underline hover:underline"
-              >
-                {{ loc.name }}
-              </NuxtLink>
-            </li>
-          </ul>
-          <ul>
-            <li v-for="loc in locationCol2" :key="loc.to">
-              <NuxtLink
-                :to="localePath(loc.to)"
-                class="text-gray-900 relative !no-underline hover:underline"
-              >
-                {{ loc.name }}
-              </NuxtLink>
-            </li>
-          </ul>
-        </div>
+    <!-- Service Areas -->
+    <div class="mb-12">
+      <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-4">
+        {{ t("footer.serviceArea") }}
+      </h3>
+      <div class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-8 gap-x-6 gap-y-1">
+        <NuxtLink
+          v-for="loc in [...locationCol1, ...locationCol2]"
+          :key="loc.to"
+          :to="localePath(loc.to)"
+          class="text-gray-900 !no-underline hover:underline"
+        >
+          {{ loc.name }}
+        </NuxtLink>
       </div>
+    </div>
+
+    <!-- Other Footer Columns -->
+    <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-12 mb-12">
       <div>
         <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-4">
           {{ t("footer.contact") }}
