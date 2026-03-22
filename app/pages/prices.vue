@@ -335,7 +335,7 @@ useHead(() => ({
   link: [
     {
       rel: "canonical",
-      href: `https://olegmassage.com${localePath("/preise")}`,
+      href: `https://olegmassage.com${localePath("/prices")}`,
     },
   ],
   script: [

@@ -623,6 +623,116 @@
       "services": {
         "title": "Verfügbare Massagearten in Herrliberg"
       }
+    },
+    "rueschlikon": {
+      "meta": {
+        "title": "Mobile Massage Rüschlikon | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Rüschlikon am Zürichsee. Schwedische Massage, Klassische Massage, Sportmassage direkt bei Ihnen zu Hause. Preisträger Swiss Massage Championship 2026. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Rüschlikon",
+      "description": "Professioneller mobiler Massage-Service in Rüschlikon und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
+      "why": {
+        "title": "Warum mobile Massage in Rüschlikon wählen?"
+      },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Rüschlikon",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
+      },
+      "services": {
+        "title": "Verfügbare Massagearten in Rüschlikon"
+      }
+    },
+    "zollikon": {
+      "meta": {
+        "title": "Mobile Massage Zollikon | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Zollikon am Zürichsee. Schwedische Massage, Klassische Massage, Sportmassage direkt bei Ihnen zu Hause. Preisträger Swiss Massage Championship 2026. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zollikon",
+      "description": "Professioneller mobiler Massage-Service in Zollikon und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
+      "why": {
+        "title": "Warum mobile Massage in Zollikon wählen?"
+      },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Zollikon",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
+      },
+      "services": {
+        "title": "Verfügbare Massagearten in Zollikon"
+      }
+    },
+    "oerlikon": {
+      "meta": {
+        "title": "Mobile Massage Oerlikon | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Zürich-Oerlikon. Schwedische Massage, Klassische Massage, Sportmassage direkt bei Ihnen zu Hause. Preisträger Swiss Massage Championship 2026. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Oerlikon",
+      "description": "Professioneller mobiler Massage-Service in Zürich-Oerlikon und Umgebung. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
+      "why": {
+        "title": "Warum mobile Massage in Oerlikon wählen?"
+      },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Oerlikon",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
+      },
+      "services": {
+        "title": "Verfügbare Massagearten in Oerlikon"
+      }
+    },
+    "hoengg": {
+      "meta": {
+        "title": "Mobile Massage Höngg | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Zürich-Höngg. Schwedische Massage, Klassische Massage, Sportmassage direkt bei Ihnen zu Hause. Preisträger Swiss Massage Championship 2026. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Höngg",
+      "description": "Professioneller mobiler Massage-Service in Zürich-Höngg und Umgebung. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
+      "why": {
+        "title": "Warum mobile Massage in Höngg wählen?"
+      },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Höngg",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
+      },
+      "services": {
+        "title": "Verfügbare Massagearten in Höngg"
+      }
+    },
+    "wipkingen": {
+      "meta": {
+        "title": "Mobile Massage Wipkingen | Professionell zu Ihnen nach Hause",
+        "description": "Professionelle mobile Massage in Zürich-Wipkingen. Schwedische Massage, Klassische Massage, Sportmassage direkt bei Ihnen zu Hause. Preisträger Swiss Massage Championship 2026. Jetzt buchen!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Wipkingen",
+      "description": "Professioneller mobiler Massage-Service in Zürich-Wipkingen und Umgebung. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
+      "why": {
+        "title": "Warum mobile Massage in Wipkingen wählen?"
+      },
+      "benefits": {
+        "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Wipkingen",
+        "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
+        "3": "Flexible Terminvereinbarung, auch abends und am Wochenende",
+        "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
+        "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
+      },
+      "services": {
+        "title": "Verfügbare Massagearten in Wipkingen"
+      }
     }
   },
   "certificates": {

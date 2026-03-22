@@ -148,6 +148,11 @@ const locationCol2 = [
   { to: "/locations/zug", name: "Zug" },
   { to: "/locations/aargau", name: "Aargau" },
   { to: "/locations/rapperswil-jona", name: "Rapperswil-Jona" },
+  { to: "/locations/rueschlikon", name: "Rüschlikon" },
+  { to: "/locations/zollikon", name: "Zollikon" },
+  { to: "/locations/oerlikon", name: "Oerlikon" },
+  { to: "/locations/hoengg", name: "Höngg" },
+  { to: "/locations/wipkingen", name: "Wipkingen" },
 ];
 </script>
 

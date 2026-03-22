@@ -88,6 +88,11 @@ export const useBreadcrumbs = () => {
         adliswil: "location.adliswil.title",
         erlenbach: "location.erlenbach.title",
         herrliberg: "location.herrliberg.title",
+        rueschlikon: "location.rueschlikon.title",
+        zollikon: "location.zollikon.title",
+        oerlikon: "location.oerlikon.title",
+        hoengg: "location.hoengg.title",
+        wipkingen: "location.wipkingen.title",
       };
 
       for (const [slug, titleKey] of Object.entries(locationMap)) {
@@ -105,7 +110,7 @@ export const useBreadcrumbs = () => {
     const standaloneMap: Record<string, string> = {
       "/about": "nav.about",
       "/faq": "nav.faq",
-      "/preise": "nav.prices",
+      "/prices": "nav.prices",
     };
 
     for (const [pagePath, titleKey] of Object.entries(standaloneMap)) {

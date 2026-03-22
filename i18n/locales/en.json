@@ -623,6 +623,116 @@
       "services": {
         "title": "Available massage types in Herrliberg"
       }
+    },
+    "rueschlikon": {
+      "meta": {
+        "title": "Mobile Massage Rüschlikon | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Rüschlikon on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Rüschlikon",
+      "description": "Professional mobile massage service in Rüschlikon and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": {
+        "title": "Why choose mobile massage in Rüschlikon?"
+      },
+      "benefits": {
+        "1": "No travel needed - I come to you in Rüschlikon",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": {
+        "title": "Available massage types in Rüschlikon"
+      }
+    },
+    "zollikon": {
+      "meta": {
+        "title": "Mobile Massage Zollikon | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Zollikon on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zollikon",
+      "description": "Professional mobile massage service in Zollikon and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": {
+        "title": "Why choose mobile massage in Zollikon?"
+      },
+      "benefits": {
+        "1": "No travel needed - I come to you in Zollikon",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": {
+        "title": "Available massage types in Zollikon"
+      }
+    },
+    "oerlikon": {
+      "meta": {
+        "title": "Mobile Massage Oerlikon | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Zürich-Oerlikon. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Oerlikon",
+      "description": "Professional mobile massage service in Zürich-Oerlikon and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": {
+        "title": "Why choose mobile massage in Oerlikon?"
+      },
+      "benefits": {
+        "1": "No travel needed - I come to you in Oerlikon",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": {
+        "title": "Available massage types in Oerlikon"
+      }
+    },
+    "hoengg": {
+      "meta": {
+        "title": "Mobile Massage Höngg | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Zürich-Höngg. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Höngg",
+      "description": "Professional mobile massage service in Zürich-Höngg and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": {
+        "title": "Why choose mobile massage in Höngg?"
+      },
+      "benefits": {
+        "1": "No travel needed - I come to you in Höngg",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": {
+        "title": "Available massage types in Höngg"
+      }
+    },
+    "wipkingen": {
+      "meta": {
+        "title": "Mobile Massage Wipkingen | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Zürich-Wipkingen. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Wipkingen",
+      "description": "Professional mobile massage service in Zürich-Wipkingen and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": {
+        "title": "Why choose mobile massage in Wipkingen?"
+      },
+      "benefits": {
+        "1": "No travel needed - I come to you in Wipkingen",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": {
+        "title": "Available massage types in Wipkingen"
+      }
     }
   },
   "certificates": {
