@@ -391,6 +391,186 @@
         "5": "Experienced therapist with Olympic background"
       },
       "services": { "title": "Available massage types in Rapperswil-Jona" }
+    },
+    "meilen": {
+      "meta": {
+        "title": "Mobile Massage Meilen | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Meilen on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Meilen",
+      "description": "Professional mobile massage service in Meilen and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Meilen?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Meilen",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Meilen" }
+    },
+    "horgen": {
+      "meta": {
+        "title": "Mobile Massage Horgen | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Horgen on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Horgen",
+      "description": "Professional mobile massage service in Horgen and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Horgen?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Horgen",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Horgen" }
+    },
+    "kuesnacht": {
+      "meta": {
+        "title": "Mobile Massage Küsnacht | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Küsnacht on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Küsnacht",
+      "description": "Professional mobile massage service in Küsnacht and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Küsnacht?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Küsnacht",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Küsnacht" }
+    },
+    "waedenswil": {
+      "meta": {
+        "title": "Mobile Massage Wädenswil | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Wädenswil on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Wädenswil",
+      "description": "Professional mobile massage service in Wädenswil and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Wädenswil?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Wädenswil",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Wädenswil" }
+    },
+    "staefa": {
+      "meta": {
+        "title": "Mobile Massage Stäfa | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Stäfa on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Stäfa",
+      "description": "Professional mobile massage service in Stäfa and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Stäfa?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Stäfa",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Stäfa" }
+    },
+    "thalwil": {
+      "meta": {
+        "title": "Mobile Massage Thalwil | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Thalwil on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Thalwil",
+      "description": "Professional mobile massage service in Thalwil and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Thalwil?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Thalwil",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Thalwil" }
+    },
+    "kilchberg": {
+      "meta": {
+        "title": "Mobile Massage Kilchberg | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Kilchberg on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Kilchberg",
+      "description": "Professional mobile massage service in Kilchberg and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kilchberg?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kilchberg",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kilchberg" }
+    },
+    "adliswil": {
+      "meta": {
+        "title": "Mobile Massage Adliswil | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Adliswil on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Adliswil",
+      "description": "Professional mobile massage service in Adliswil and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Adliswil?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Adliswil",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Adliswil" }
+    },
+    "erlenbach": {
+      "meta": {
+        "title": "Mobile Massage Erlenbach | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Erlenbach on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Erlenbach",
+      "description": "Professional mobile massage service in Erlenbach and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Erlenbach?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Erlenbach",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Erlenbach" }
+    },
+    "herrliberg": {
+      "meta": {
+        "title": "Mobile Massage Herrliberg | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Herrliberg on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026. Book now!"
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Herrliberg",
+      "description": "Professional mobile massage service in Herrliberg and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Herrliberg?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Herrliberg",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Herrliberg" }
     }
   },
   "certificates": {
