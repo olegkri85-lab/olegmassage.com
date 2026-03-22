@@ -96,6 +96,13 @@ export const useStructuredData = () => {
         },
       ],
     },
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "5.0",
+      reviewCount: "5",
+      bestRating: "5",
+      worstRating: "1",
+    },
     sameAs: [
       "https://www.facebook.com/profile.php?id=100079107851071",
       "https://www.instagram.com/massage_in_schweiz/",
