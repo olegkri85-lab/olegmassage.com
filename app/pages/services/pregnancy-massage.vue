@@ -71,6 +71,37 @@
           </p>
         </div>
 
+        <!-- Ideal For -->
+        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+          <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
+            {{ t("servicePages.pregnancy.idealFor.title") }}
+          </h2>
+          <p class="text-lg text-gray-700 leading-relaxed">
+            {{ t("servicePages.pregnancy.idealFor.description") }}
+          </p>
+        </div>
+
+        <!-- Frequency -->
+        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+          <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
+            {{ t("servicePages.pregnancy.frequency.title") }}
+          </h2>
+          <p class="text-lg text-gray-700 leading-relaxed">
+            {{ t("servicePages.pregnancy.frequency.description") }}
+          </p>
+        </div>
+
+        <!-- Preparation -->
+        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+          <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
+            {{ t("servicePages.pregnancy.preparation.title") }}
+          </h2>
+          <p class="text-lg text-gray-700 leading-relaxed">
+            {{ t("servicePages.pregnancy.preparation.description") }}
+          </p>
+        </div>
+
+        <!-- Booking CTA -->
         <div class="text-center">
           <CtaButton variant="primary" size="lg">
             {{ t("cta.services") }}

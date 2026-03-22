@@ -362,8 +362,12 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Aargau",
       "description": "Professioneller mobiler Massage-Service im Kanton Aargau. Erleben Sie entspannende Massagetherapie in Ihrem Zuhause mit einem zertifizierten Therapeuten.",
-      "areas": { "title": "Wir bedienen diese Regionen in Aargau" },
-      "why": { "title": "Warum mobile Massage in Aargau wählen?" },
+      "areas": {
+        "title": "Wir bedienen diese Regionen in Aargau"
+      },
+      "why": {
+        "title": "Warum mobile Massage in Aargau wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -371,7 +375,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "Erfahrener Therapeut mit olympischem Hintergrund"
       },
-      "services": { "title": "Verfügbare Massagearten in Aargau" }
+      "services": {
+        "title": "Verfügbare Massagearten in Aargau"
+      }
     },
     "rapperswilJona": {
       "meta": {
@@ -381,8 +387,12 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Rapperswil-Jona",
       "description": "Professioneller mobiler Massage-Service in Rapperswil-Jona und Umgebung. Erleben Sie entspannende Massagetherapie in Ihrem Zuhause mit einem zertifizierten Therapeuten.",
-      "areas": { "title": "Wir bedienen diese Regionen in Rapperswil-Jona" },
-      "why": { "title": "Warum mobile Massage in Rapperswil-Jona wählen?" },
+      "areas": {
+        "title": "Wir bedienen diese Regionen in Rapperswil-Jona"
+      },
+      "why": {
+        "title": "Warum mobile Massage in Rapperswil-Jona wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -390,7 +400,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "Erfahrener Therapeut mit olympischem Hintergrund"
       },
-      "services": { "title": "Verfügbare Massagearten in Rapperswil-Jona" }
+      "services": {
+        "title": "Verfügbare Massagearten in Rapperswil-Jona"
+      }
     },
     "meilen": {
       "meta": {
@@ -400,7 +412,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Meilen",
       "description": "Professioneller mobiler Massage-Service in Meilen und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Meilen wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Meilen wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Meilen",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -408,7 +422,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Meilen" }
+      "services": {
+        "title": "Verfügbare Massagearten in Meilen"
+      }
     },
     "horgen": {
       "meta": {
@@ -418,7 +434,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Horgen",
       "description": "Professioneller mobiler Massage-Service in Horgen und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Horgen wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Horgen wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Horgen",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -426,7 +444,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Horgen" }
+      "services": {
+        "title": "Verfügbare Massagearten in Horgen"
+      }
     },
     "kuesnacht": {
       "meta": {
@@ -436,7 +456,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Küsnacht",
       "description": "Professioneller mobiler Massage-Service in Küsnacht und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Küsnacht wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Küsnacht wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Küsnacht",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -444,7 +466,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Küsnacht" }
+      "services": {
+        "title": "Verfügbare Massagearten in Küsnacht"
+      }
     },
     "waedenswil": {
       "meta": {
@@ -454,7 +478,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Wädenswil",
       "description": "Professioneller mobiler Massage-Service in Wädenswil und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Wädenswil wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Wädenswil wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Wädenswil",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -462,7 +488,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Wädenswil" }
+      "services": {
+        "title": "Verfügbare Massagearten in Wädenswil"
+      }
     },
     "staefa": {
       "meta": {
@@ -472,7 +500,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Stäfa",
       "description": "Professioneller mobiler Massage-Service in Stäfa und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Stäfa wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Stäfa wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Stäfa",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -480,7 +510,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Stäfa" }
+      "services": {
+        "title": "Verfügbare Massagearten in Stäfa"
+      }
     },
     "thalwil": {
       "meta": {
@@ -490,7 +522,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Thalwil",
       "description": "Professioneller mobiler Massage-Service in Thalwil und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Thalwil wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Thalwil wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Thalwil",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -498,7 +532,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Thalwil" }
+      "services": {
+        "title": "Verfügbare Massagearten in Thalwil"
+      }
     },
     "kilchberg": {
       "meta": {
@@ -508,7 +544,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Kilchberg",
       "description": "Professioneller mobiler Massage-Service in Kilchberg und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Kilchberg wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Kilchberg wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Kilchberg",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -516,7 +554,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Kilchberg" }
+      "services": {
+        "title": "Verfügbare Massagearten in Kilchberg"
+      }
     },
     "adliswil": {
       "meta": {
@@ -526,7 +566,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Adliswil",
       "description": "Professioneller mobiler Massage-Service in Adliswil und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Adliswil wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Adliswil wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Adliswil",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -534,7 +576,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Adliswil" }
+      "services": {
+        "title": "Verfügbare Massagearten in Adliswil"
+      }
     },
     "erlenbach": {
       "meta": {
@@ -544,7 +588,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Erlenbach",
       "description": "Professioneller mobiler Massage-Service in Erlenbach und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Erlenbach wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Erlenbach wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Erlenbach",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -552,7 +598,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Erlenbach" }
+      "services": {
+        "title": "Verfügbare Massagearten in Erlenbach"
+      }
     },
     "herrliberg": {
       "meta": {
@@ -562,7 +610,9 @@
       "subtitle": "Mobile Massage Service",
       "title": "Massage Herrliberg",
       "description": "Professioneller mobiler Massage-Service in Herrliberg und Umgebung am Zürichsee. Preisträger der 5. Schweizer Massage-Meisterschaft 2026. Ich komme mit professioneller Massageliege zu Ihnen nach Hause.",
-      "why": { "title": "Warum mobile Massage in Herrliberg wählen?" },
+      "why": {
+        "title": "Warum mobile Massage in Herrliberg wählen?"
+      },
       "benefits": {
         "1": "Keine Anfahrt nötig - ich komme zu Ihnen nach Herrliberg",
         "2": "Entspannen Sie in Ihrer vertrauten Umgebung",
@@ -570,7 +620,9 @@
         "4": "Professionelle Ausrüstung und hochwertige Öle inklusive",
         "5": "1. Platz Swiss Massage Championship 2026 — Schwedische Massage"
       },
-      "services": { "title": "Verfügbare Massagearten in Herrliberg" }
+      "services": {
+        "title": "Verfügbare Massagearten in Herrliberg"
+      }
     }
   },
   "certificates": {
@@ -665,14 +717,30 @@
       "title": "Zusatzleistung",
       "text": "Schröpfmassage kann zu jeder Massage hinzugefügt werden."
     },
-    "swedish": { "summary": "Tiefe Entspannung und Regeneration. 1. Platz Swiss Massage Championship 2026." },
-    "classical": { "summary": "Löst Verspannungen, verbessert Durchblutung, stellt Energie wieder her." },
-    "sports": { "summary": "Für Sportler und aktive Menschen. Muskelregeneration und Flexibilität." },
-    "relaxation": { "summary": "Stressabbau, mentale Ruhe und völlige Entspannung." },
-    "anticellulite": { "summary": "Aktiviert Stoffwechsel, verbessert Lymphfluss, strafft die Haut." },
-    "pregnancy": { "summary": "Sanft und sicher ab dem 2. Trimester. Lindert Rückenschmerzen." },
-    "children": { "summary": "Spielerisch und sanft. Fördert Entwicklung und verbessert Schlaf." },
-    "cupping": { "summary": "Zusätzlich zu jeder Massage. Verbessert Durchblutung und löst Verspannungen." }
+    "swedish": {
+      "summary": "Tiefe Entspannung und Regeneration. 1. Platz Swiss Massage Championship 2026."
+    },
+    "classical": {
+      "summary": "Löst Verspannungen, verbessert Durchblutung, stellt Energie wieder her."
+    },
+    "sports": {
+      "summary": "Für Sportler und aktive Menschen. Muskelregeneration und Flexibilität."
+    },
+    "relaxation": {
+      "summary": "Stressabbau, mentale Ruhe und völlige Entspannung."
+    },
+    "anticellulite": {
+      "summary": "Aktiviert Stoffwechsel, verbessert Lymphfluss, strafft die Haut."
+    },
+    "pregnancy": {
+      "summary": "Sanft und sicher ab dem 2. Trimester. Lindert Rückenschmerzen."
+    },
+    "children": {
+      "summary": "Spielerisch und sanft. Fördert Entwicklung und verbessert Schlaf."
+    },
+    "cupping": {
+      "summary": "Zusätzlich zu jeder Massage. Verbessert Durchblutung und löst Verspannungen."
+    }
   },
   "servicePages": {
     "relatedServices": "Andere Massagearten",
@@ -691,6 +759,18 @@
       "whatToExpect": {
         "title": "Was Sie von einer Sitzung erwarten können",
         "description": "Die Schwedische Massage kombiniert sanfte, rhythmische Techniken mit tieferer Einwirkung auf Problemzonen. Die Behandlung ist ideal für Menschen mit einem stressigen Lebensstil, sitzender Arbeit sowie für alle, die qualitative Regeneration und regelmäßige Körperpflege suchen."
+      },
+      "idealFor": {
+        "title": "Für wen ist Schwedische Massage geeignet?",
+        "description": "Ideal für Menschen mit stressigem Alltag, sitzender Büroarbeit oder chronischen Verspannungen. Besonders empfohlen für alle, die regelmässige Körperpflege und Regeneration suchen. Auch perfekt als Einstieg für Massage-Neulinge."
+      },
+      "frequency": {
+        "title": "Wie oft sollte man Schwedische Massage bekommen?",
+        "description": "Für optimale Ergebnisse empfehle ich 1-2 Sitzungen pro Woche über einen Zeitraum von 4-6 Wochen. Zur Erhaltung genügt eine Sitzung alle 2-4 Wochen. Bei akuten Beschwerden kann eine intensivere Frequenz sinnvoll sein."
+      },
+      "preparation": {
+        "title": "Tipps vor und nach der Massage",
+        "description": "Trinken Sie vor der Massage ausreichend Wasser. Essen Sie mindestens eine Stunde vorher nichts Schweres. Nach der Massage: Ruhen Sie sich 10-15 Minuten aus, trinken Sie viel Wasser und vermeiden Sie intensive körperliche Aktivität für den Rest des Tages."
       }
     },
     "classical": {
@@ -708,6 +788,18 @@
       "whatToExpect": {
         "title": "Was Sie von einer Sitzung erwarten können",
         "description": "Die klassische Massage umfasst sanfte, aber tiefe Techniken, die alle wichtigen Muskelgruppen bearbeiten. Die Sitzung beginnt mit der Erwärmung des Gewebes und geht allmählich zu tieferen Techniken über. Es werden professionelle Öle verwendet, die auf Ihren Hauttyp abgestimmt sind."
+      },
+      "idealFor": {
+        "title": "Für wen ist Klassische Massage geeignet?",
+        "description": "Geeignet für praktisch jeden: von Büroangestellten mit Rückenschmerzen bis zu Senioren mit eingeschränkter Beweglichkeit. Besonders wirksam bei allgemeiner Müdigkeit, Spannungskopfschmerzen und Schlafproblemen."
+      },
+      "frequency": {
+        "title": "Wie oft sollte man Klassische Massage bekommen?",
+        "description": "Zur Vorbeugung empfehle ich eine Sitzung alle 2-3 Wochen. Bei chronischen Beschwerden sind 1-2 Sitzungen pro Woche für 4-8 Wochen ideal. Danach kann die Frequenz auf monatlich reduziert werden."
+      },
+      "preparation": {
+        "title": "Tipps vor und nach der Massage",
+        "description": "Kommen Sie entspannt zur Massage — vermeiden Sie vorher Stress und Hetze. Tragen Sie bequeme Kleidung. Nach der Sitzung: Gönnen Sie sich Ruhe, trinken Sie Wasser und nehmen Sie ein warmes Bad, um die Wirkung zu verstärken."
       }
     },
     "sports": {
@@ -725,6 +817,18 @@
       "whatToExpect": {
         "title": "Was Sie von einer Sitzung erwarten können",
         "description": "Sportmassage kombiniert tiefe Gewebetechniken mit gezielter Arbeit an Problemzonen. Als ehemaliger Olympiaturner verstehe ich die Bedürfnisse aktiver Menschen. Die Behandlung wird an Ihren Trainingsplan angepasst – ob zur Vorbereitung oder Regeneration."
+      },
+      "idealFor": {
+        "title": "Für wen ist Sportmassage geeignet?",
+        "description": "Für Sportler aller Leistungsstufen — vom Hobbysportler bis zum Profi. Auch ideal für Menschen mit körperlich anspruchsvoller Arbeit. Besonders wirksam bei Muskelkater, eingeschränkter Beweglichkeit und zur Verletzungsprävention."
+      },
+      "frequency": {
+        "title": "Wie oft sollte man Sportmassage bekommen?",
+        "description": "Vor Wettkämpfen: 2-3 Tage vorher. Nach intensivem Training: innerhalb von 24-48 Stunden. Regelmässig trainierende Sportler profitieren von wöchentlichen Sitzungen. In der Ruhephase genügt alle 2-3 Wochen."
+      },
+      "preparation": {
+        "title": "Tipps vor und nach der Massage",
+        "description": "Planen Sie die Massage nicht direkt nach dem Training — warten Sie mindestens 2 Stunden. Informieren Sie mich über aktuelle Verletzungen oder Schmerzen. Nach der Massage: Leichtes Dehnen und viel Wasser trinken. Vermeiden Sie intensives Training für 24 Stunden."
       }
     },
     "anticellulite": {
@@ -742,6 +846,18 @@
       "whatToExpect": {
         "title": "Was Sie von einer Sitzung erwarten können",
         "description": "Intensive, dynamische Techniken wirken auf tiefe Gewebeschichten. Die Massage regt den Lymphfluss an und hilft dem Körper, überschüssige Flüssigkeit auszuscheiden. Sie spüren bereits nach der ersten Sitzung ein Gefühl von Leichtigkeit. Für optimale Ergebnisse empfehle ich eine Kur von 8-12 Sitzungen."
+      },
+      "idealFor": {
+        "title": "Für wen ist Anti-Cellulite-Massage geeignet?",
+        "description": "Für Frauen und Männer, die ihr Hautbild verbessern, Wassereinlagerungen reduzieren und ihren Körper straffen möchten. Besonders effektiv in Kombination mit gesunder Ernährung und regelmässiger Bewegung."
+      },
+      "frequency": {
+        "title": "Wie oft sollte man Anti-Cellulite-Massage bekommen?",
+        "description": "Für sichtbare Ergebnisse empfehle ich eine Kur von 8-12 Sitzungen, 2-3 Mal pro Woche. Danach zur Erhaltung 1-2 Sitzungen pro Monat. Die ersten Verbesserungen sind oft schon nach 3-4 Sitzungen spürbar."
+      },
+      "preparation": {
+        "title": "Tipps vor und nach der Massage",
+        "description": "Trinken Sie viel Wasser vor und nach der Behandlung — das unterstützt die Entgiftung. Vermeiden Sie Koffein und Alkohol am Tag der Massage. Regelmässige Bewegung zwischen den Sitzungen verstärkt den Effekt deutlich."
       }
     },
     "pregnancy": {
@@ -759,6 +875,18 @@
       "whatToExpect": {
         "title": "Was Sie von einer Sitzung erwarten können",
         "description": "Alle Techniken werden behutsam und in bequemer Seitenlage ausgeführt. Ich verwende spezielle Kissen für optimalen Komfort und natürliche Öle ohne künstliche Zusätze. Die Massage ist ab dem zweiten Trimester sicher und hilft Ihnen, diese besondere Zeit entspannt zu genießen."
+      },
+      "idealFor": {
+        "title": "Für wen ist Schwangerschaftsmassage geeignet?",
+        "description": "Für werdende Mütter ab dem zweiten Trimester. Hilft bei typischen Schwangerschaftsbeschwerden wie Rückenschmerzen, geschwollenen Beinen und Schlafproblemen. Bitte konsultieren Sie vorher Ihren Arzt bei Risikoschwangerschaften."
+      },
+      "frequency": {
+        "title": "Wie oft sollte man Schwangerschaftsmassage bekommen?",
+        "description": "Im zweiten Trimester: alle 2-3 Wochen. Im dritten Trimester: wöchentlich, wenn gewünscht. Die Massage wird individuell an die jeweilige Schwangerschaftsphase angepasst."
+      },
+      "preparation": {
+        "title": "Tipps vor und nach der Massage",
+        "description": "Teilen Sie mir mit, in welcher Schwangerschaftswoche Sie sind. Essen Sie vor der Massage einen leichten Snack. Ich verwende spezielle Kissen für optimalen Komfort in der Seitenlage. Ruhen Sie sich nach der Massage aus."
       }
     },
     "children": {
@@ -776,6 +904,18 @@
       "whatToExpect": {
         "title": "Was Sie von einer Sitzung erwarten können",
         "description": "Die Massage wird spielerisch und mit viel Zuwendung durchgeführt. Alles geschieht in dem Tempo, das für Ihr Kind angenehm ist – ohne Zwang und Stress. Sie können während der Sitzung dabei sein und die Techniken auch selbst erlernen, um sie zu Hause anzuwenden."
+      },
+      "idealFor": {
+        "title": "Für wen ist Kindermassage geeignet?",
+        "description": "Für Babys ab 3 Monaten und Kinder jeden Alters. Besonders hilfreich bei Schlafproblemen, Verdauungsbeschwerden, motorischen Entwicklungsverzögerungen und für hyperaktive Kinder, die Entspannung brauchen."
+      },
+      "frequency": {
+        "title": "Wie oft sollte man Kindermassage durchführen?",
+        "description": "Für Babys: 2-3 kurze Sitzungen pro Woche. Für ältere Kinder: 1-2 Mal pro Woche. Ich zeige Ihnen auch Techniken, die Sie selbst zu Hause anwenden können, um die Massage zwischen den Terminen fortzusetzen."
+      },
+      "preparation": {
+        "title": "Tipps vor und nach der Massage",
+        "description": "Stellen Sie sicher, dass Ihr Kind nicht hungrig oder übermüdet ist. Die Massage findet in einem warmen, ruhigen Raum statt. Sie können während der gesamten Sitzung dabei sein. Bringen Sie das Lieblingsspielzeug Ihres Kindes mit."
       }
     },
     "cupping": {
@@ -793,6 +933,18 @@
       "whatToExpect": {
         "title": "Was Sie von einer Sitzung erwarten können",
         "description": "Vakuum-Schröpfgläser erzeugen einen Unterdruck, der die Durchblutung stark anregt und Verspannungen löst. Die Methode kann Spuren hinterlassen (rote Kreise), die nach wenigen Tagen verschwinden. Schröpfen kann als eigenständige Behandlung oder als Ergänzung zu anderen Massagen durchgeführt werden."
+      },
+      "idealFor": {
+        "title": "Für wen ist Schröpfmassage geeignet?",
+        "description": "Für Menschen mit chronischen Rücken- und Nackenschmerzen, Muskelverspannungen und Durchblutungsstörungen. Auch wirksam bei Cellulite und zur allgemeinen Entgiftung. Nicht geeignet bei Blutverdünnern oder empfindlicher Haut."
+      },
+      "frequency": {
+        "title": "Wie oft sollte man Schröpfmassage bekommen?",
+        "description": "Als Ergänzung zu einer Massage: bei jeder Sitzung möglich. Als eigenständige Behandlung: alle 1-2 Wochen. Die Spuren (rote Kreise) verschwinden nach 3-7 Tagen — planen Sie entsprechend."
+      },
+      "preparation": {
+        "title": "Tipps vor und nach der Massage",
+        "description": "Trinken Sie viel Wasser vor und nach der Behandlung. Beachten Sie, dass Schröpfen vorübergehende Verfärbungen hinterlassen kann — tragen Sie bei Bedarf bedeckende Kleidung. Vermeiden Sie heisse Duschen für 24 Stunden nach der Behandlung."
       }
     },
     "relaxation": {
@@ -810,6 +962,18 @@
       "whatToExpect": {
         "title": "Was Sie von einer Sitzung erwarten können",
         "description": "Fließende, rhythmische Bewegungen mit angenehmem Druck schaffen eine Atmosphäre vollkommener Entspannung. Ich verwende aromatische Öle und sanfte Musik, um alle Sinne anzusprechen. Nach einer Stunde fühlen Sie sich erfrischt, zentriert und bereit, die Welt mit neuer Energie zu erleben."
+      },
+      "idealFor": {
+        "title": "Für wen ist Entspannungsmassage geeignet?",
+        "description": "Für alle, die Stress abbauen und innere Ruhe finden möchten. Besonders empfohlen nach langen Arbeitswochen, bei Burnout-Gefährdung, Schlafstörungen oder einfach als regelmässiges Selbstfürsorge-Ritual."
+      },
+      "frequency": {
+        "title": "Wie oft sollte man Entspannungsmassage bekommen?",
+        "description": "Für maximalen Anti-Stress-Effekt: wöchentlich oder alle zwei Wochen. Als Selbstfürsorge-Ritual: monatlich. Viele Klienten erleben die besten Ergebnisse mit einer regelmässigen Routine."
+      },
+      "preparation": {
+        "title": "Tipps vor und nach der Massage",
+        "description": "Nehmen Sie sich nach der Massage Zeit — planen Sie keine stressigen Termine danach. Dimmen Sie das Licht und spielen Sie leise Musik, um die Atmosphäre zu verstärken. Schalten Sie Ihr Telefon stumm und geniessen Sie die vollkommene Ruhe."
       }
     }
   }
