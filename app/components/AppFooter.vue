@@ -15,61 +15,33 @@
       </NuxtLink>
     </div>
 
-    <div class="grid md:grid-cols-5 gap-12 mb-12">
-      <div>
+    <div class="grid md:grid-cols-6 gap-12 mb-12">
+      <div class="md:col-span-2">
         <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-4">
           {{ t("footer.serviceArea") }}
         </h3>
-        <ul>
-          <li>
-            <NuxtLink
-              :to="localePath('/locations/zurich')"
-              class="text-gray-900 relative !no-underline hover:underline"
-            >
-              Zürich
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink
-              :to="localePath('/locations/schwyz')"
-              class="text-gray-900 relative !no-underline hover:underline"
-            >
-              Schwyz
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink
-              :to="localePath('/locations/luzern')"
-              class="text-gray-900 relative !no-underline hover:underline"
-            >
-              Luzern
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink
-              :to="localePath('/locations/zug')"
-              class="text-gray-900 relative !no-underline hover:underline"
-            >
-              Zug
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink
-              :to="localePath('/locations/aargau')"
-              class="text-gray-900 relative !no-underline hover:underline"
-            >
-              Aargau
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink
-              :to="localePath('/locations/rapperswil-jona')"
-              class="text-gray-900 relative !no-underline hover:underline"
-            >
-              Rapperswil / Jona
-            </NuxtLink>
-          </li>
-        </ul>
+        <div class="grid grid-cols-2 gap-x-8">
+          <ul>
+            <li v-for="loc in locationCol1" :key="loc.to">
+              <NuxtLink
+                :to="localePath(loc.to)"
+                class="text-gray-900 relative !no-underline hover:underline"
+              >
+                {{ loc.name }}
+              </NuxtLink>
+            </li>
+          </ul>
+          <ul>
+            <li v-for="loc in locationCol2" :key="loc.to">
+              <NuxtLink
+                :to="localePath(loc.to)"
+                class="text-gray-900 relative !no-underline hover:underline"
+              >
+                {{ loc.name }}
+              </NuxtLink>
+            </li>
+          </ul>
+        </div>
       </div>
       <div>
         <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-4">
@@ -164,6 +136,28 @@
 <script setup lang="ts">
 const { t } = useI18n();
 const localePath = useLocalePath();
+
+const locationCol1 = [
+  { to: "/locations/zurich", name: "Zürich" },
+  { to: "/locations/meilen", name: "Meilen" },
+  { to: "/locations/horgen", name: "Horgen" },
+  { to: "/locations/kuesnacht", name: "Küsnacht" },
+  { to: "/locations/thalwil", name: "Thalwil" },
+  { to: "/locations/kilchberg", name: "Kilchberg" },
+  { to: "/locations/waedenswil", name: "Wädenswil" },
+  { to: "/locations/staefa", name: "Stäfa" },
+];
+
+const locationCol2 = [
+  { to: "/locations/adliswil", name: "Adliswil" },
+  { to: "/locations/erlenbach", name: "Erlenbach" },
+  { to: "/locations/herrliberg", name: "Herrliberg" },
+  { to: "/locations/schwyz", name: "Schwyz" },
+  { to: "/locations/luzern", name: "Luzern" },
+  { to: "/locations/zug", name: "Zug" },
+  { to: "/locations/aargau", name: "Aargau" },
+  { to: "/locations/rapperswil-jona", name: "Rapperswil-Jona" },
+];
 </script>
 
 <style scoped></style>
