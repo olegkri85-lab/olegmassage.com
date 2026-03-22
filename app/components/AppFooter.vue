@@ -20,12 +20,12 @@
       <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-4">
         {{ t("footer.serviceArea") }}
       </h3>
-      <div class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-8 gap-x-6 gap-y-1">
+      <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-x-6 gap-y-1">
         <NuxtLink
           v-for="loc in [...locationCol1, ...locationCol2]"
           :key="loc.to"
           :to="localePath(loc.to)"
-          class="text-gray-900 !no-underline hover:underline"
+          class="text-gray-900 !no-underline hover:underline whitespace-nowrap"
         >
           {{ loc.name }}
         </NuxtLink>
@@ -33,7 +33,7 @@
     </div>
 
     <!-- Other Footer Columns -->
-    <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-12 mb-12">
+    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12 mb-12">
       <div>
         <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-4">
           {{ t("footer.contact") }}
@@ -41,8 +41,8 @@
         <ul>
           <li><a href="tel:+41798499274">+41 79 849 92 74</a></li>
           <li>
-            <a href="mailto:oleh.kryvorotko@icloud.com"
-              >oleh.kryvorotko@icloud.com</a
+            <a href="mailto:oleh.kryvorotko@icloud.com" class="break-all"
+              >oleh.kryvorotko@icloud.com</
             >
           </li>
           <li>
