@@ -15,7 +15,11 @@ export default defineNuxtConfig({
     "@nuxtjs/sitemap",
     "@nuxtjs/seo",
     "@nuxtjs/robots",
+    "nuxt-gtag",
   ],
+  gtag: {
+    id: "G-5531K77FDF",
+  },
   site: {
     url: "https://olegmassage.com",
   },

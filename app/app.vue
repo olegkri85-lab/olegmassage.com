@@ -4,13 +4,11 @@
     <NuxtLayout>
       <NuxtPage :key="$route.fullPath" />
     </NuxtLayout>
-    <Analytics />
   </div>
 </template>
 
 <script setup lang="ts">
 const { locale } = useI18n();
-import { Analytics } from "@vercel/analytics/nuxt";
 
 const { organizationSchema, personSchema, websiteSchema } = useStructuredData();
 
