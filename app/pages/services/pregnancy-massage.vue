@@ -156,7 +156,7 @@ useHead(() => ({
     { property: "og:type", content: "website" },
     {
       property: "og:image",
-      content: "https://olegmassage.com/images/services/pregnancy-massage.jpeg",
+      content: "https://olegmassage.com/images/og/pregnancy-massage.jpeg",
     },
   ],
   link: [

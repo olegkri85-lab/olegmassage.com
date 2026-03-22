@@ -93,6 +93,10 @@ useHead(() => ({
       name: "description",
       content: t("certificates.smc1stPlace.meta.description"),
     },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/smc-1st-place.jpeg",
+    },
   ],
   link: [
     {

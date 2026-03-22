@@ -148,6 +148,10 @@ useHead(() => ({
       content: t("meta.certificates.description"),
     },
     { property: "og:type", content: "website" },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/smc-1st-place.jpeg",
+    },
   ],
   link: [
     {

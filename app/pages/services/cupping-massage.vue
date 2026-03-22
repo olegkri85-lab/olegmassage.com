@@ -160,7 +160,7 @@ useHead(() => ({
     {
       property: "og:image",
       content:
-        "https://olegmassage.com/images/services/large/cupping-therapy.jpeg",
+        "https://olegmassage.com/images/og/cupping-therapy.jpeg",
     },
   ],
   link: [

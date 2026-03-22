@@ -22,6 +22,10 @@ useHead(() => ({
     { property: "og:title", content: t("meta.about.title") },
     { property: "og:description", content: t("meta.about.description") },
     { property: "og:type", content: "profile" },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/championship-action.jpeg",
+    },
   ],
   link: [
     {

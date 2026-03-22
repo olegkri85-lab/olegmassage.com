@@ -60,6 +60,10 @@ useHead(() => ({
     { property: "og:title", content: t("meta.services.title") },
     { property: "og:description", content: t("meta.services.description") },
     { property: "og:type", content: "website" },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/services-index.jpeg",
+    },
   ],
   link: [
     {

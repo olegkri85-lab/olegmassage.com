@@ -157,7 +157,7 @@ useHead(() => ({
     {
       property: "og:image",
       content:
-        "https://olegmassage.com/images/services/large/classical-massage.jpeg",
+        "https://olegmassage.com/images/og/classical-massage.jpeg",
     },
   ],
   link: [

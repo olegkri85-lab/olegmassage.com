@@ -108,6 +108,10 @@ useHead(() => ({
       name: "description",
       content: t("meta.faq.description"),
     },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/championship-action.jpeg",
+    },
   ],
   link: [
     {
