@@ -167,6 +167,10 @@
       "title": "Datenerfassung",
       "content": "Wenn Sie uns per WhatsApp, E-Mail oder Telefon kontaktieren, erheben und verarbeiten wir die von Ihnen mitgeteilten personenbezogenen Daten (Name, Kontaktdaten, Nachrichteninhalt) ausschliesslich zum Zweck der Bearbeitung Ihrer Anfrage und Terminvereinbarung. Diese Daten werden nicht an Dritte weitergegeben."
     },
+    "googleAnalytics": {
+      "title": "Google Analytics",
+      "content": "Diese Website verwendet Google Analytics, einen Webanalysedienst der Google LLC («Google»). Google Analytics verwendet Cookies, die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Wir haben die IP-Anonymisierung aktiviert, sodass Ihre IP-Adresse von Google innerhalb der EU/des EWR zuvor gekürzt wird. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Sie können die Erfassung durch Google Analytics verhindern, indem Sie in Ihren Browsereinstellungen Cookies deaktivieren oder ein Browser-Add-on zur Deaktivierung von Google Analytics verwenden."
+    },
     "rights": {
       "title": "Ihre Rechte",
       "content": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten. Zur Ausübung dieser Rechte wenden Sie sich bitte an: {email}"
@@ -1167,6 +1171,105 @@
       "meta": {
         "title": "Anatomie & Physiologie Zertifikat — PROFMED | olegmassage.com",
         "description": "Zertifikat für Anatomie und Physiologie des Menschen. 26 akademische Stunden an der Schule PROFMED."
+      }
+    }
+  },
+  "guide": {
+    "subtitle": "Ratgeber",
+    "whichMassage": {
+      "meta": {
+        "title": "Welche Massage passt zu mir? | Ratgeber | olegmassage.com",
+        "description": "Finden Sie die perfekte Massage für Ihre Bedürfnisse. Von Stressabbau über Sportverletzungen bis zur Schwangerschaft — unser Ratgeber hilft Ihnen bei der Wahl."
+      },
+      "title": "Welche Massage passt zu mir?",
+      "description": "Jeder Mensch ist anders und jede Massage hat ihre besonderen Stärken. Hier finden Sie heraus, welche Massage am besten zu Ihren Bedürfnissen passt.",
+      "stress": {
+        "title": "Sie sind gestresst und brauchen Entspannung?",
+        "description": "Die Relax-Massage ist Ihr idealer Begleiter. Fliessende, rhythmische Bewegungen mit angenehmen Düften lösen mentale Anspannung und schenken Ihnen innere Ruhe. Perfekt nach einer langen Arbeitswoche."
+      },
+      "backPain": {
+        "title": "Sie haben Rückenschmerzen oder Verspannungen?",
+        "description": "Die Klassische Massage zielt genau auf Ihre Problemzonen. Sanfte, aber tiefgreifende Techniken lösen Verspannungen, verbessern die Durchblutung und bringen Leichtigkeit zurück."
+      },
+      "athlete": {
+        "title": "Sie sind sportlich aktiv?",
+        "description": "Die Sportmassage unterstützt Ihre Regeneration und beugt Verletzungen vor. Ideal vor Wettkämpfen zur Vorbereitung oder danach zur schnelleren Erholung."
+      },
+      "skin": {
+        "title": "Sie möchten Ihr Hautbild verbessern?",
+        "description": "Die Anti-Cellulite-Massage aktiviert den Stoffwechsel, verbessert den Lymphfluss und strafft die Haut. Sichtbare Ergebnisse schon nach wenigen Sitzungen."
+      },
+      "pregnant": {
+        "title": "Sie sind schwanger?",
+        "description": "Die Schwangerschaftsmassage ist ab dem zweiten Trimester sicher und hilft bei Rückenschmerzen, Schwellungen und Schlafproblemen. Alles wird behutsam in bequemer Seitenlage ausgeführt."
+      },
+      "child": {
+        "title": "Ihr Kind braucht Entspannung?",
+        "description": "Die Kindermassage wird spielerisch und liebevoll durchgeführt. Sie unterstützt die Entwicklung, verbessert den Schlaf und gibt Ihrem Kind ein Gefühl von Geborgenheit."
+      },
+      "chronic": {
+        "title": "Sie haben chronische Schmerzen?",
+        "description": "Die Schröpfmassage aktiviert die Durchblutung intensiv und löst selbst tiefe Verspannungen und Triggerpunkte. Kann als eigenständige Behandlung oder Ergänzung gebucht werden."
+      },
+      "premium": {
+        "title": "Sie suchen die beste Massage-Erfahrung?",
+        "description": "Die Schwedische Massage vereint tiefe Entspannung mit therapeutischer Wirkung. Ausgezeichnet mit dem 1. Platz am Swiss Massage Championship 2026 — meine Spezialdisziplin."
+      }
+    },
+    "firstMassage": {
+      "meta": {
+        "title": "Ihre erste Massage — Was Sie erwartet | Ratgeber | olegmassage.com",
+        "description": "Alles, was Sie vor Ihrer ersten mobilen Massage wissen müssen. Von der Buchung bis zum Ablauf — Schritt für Schritt erklärt."
+      },
+      "title": "Ihre erste Massage",
+      "description": "Sie haben noch nie eine mobile Massage gehabt? Kein Problem — hier erfahren Sie Schritt für Schritt, wie alles abläuft.",
+      "booking": {
+        "title": "1. Buchung per WhatsApp",
+        "description": "Schreiben Sie mir einfach eine Nachricht über WhatsApp. Wir besprechen Ihre Wünsche, wählen die passende Massage aus und vereinbaren einen Termin, der in Ihren Zeitplan passt — auch abends und am Wochenende."
+      },
+      "preparation": {
+        "title": "2. Vorbereitung zu Hause",
+        "description": "Sie brauchen nur 2 grosse und 1 kleines Handtuch sowie einen Raum von ca. 3x3 Metern. Den Rest bringe ich mit: professionelle Massageliege, hochwertige Öle und entspannende Musik."
+      },
+      "arrival": {
+        "title": "3. Aufbau und Begrüssung",
+        "description": "Ich komme 10-15 Minuten vor dem Termin, um alles aufzubauen. Wir besprechen kurz Ihre aktuellen Beschwerden, Wünsche und eventuelle Einschränkungen."
+      },
+      "during": {
+        "title": "4. Während der Massage",
+        "description": "Entspannen Sie sich vollkommen. Die Massage dauert 60 oder 90 Minuten. Sie können jederzeit Feedback geben — mehr oder weniger Druck, bestimmte Bereiche betonen oder auslassen."
+      },
+      "after": {
+        "title": "5. Nach der Massage",
+        "description": "Trinken Sie viel Wasser und gönnen Sie sich Ruhe. Die Zahlung erfolgt bequem bar oder per TWINT. Ich baue alles ab und hinterlasse Ihren Raum so, wie ich ihn vorgefunden habe."
+      }
+    },
+    "mobileVsStudio": {
+      "meta": {
+        "title": "Mobile Massage vs. Studio — Vorteile im Vergleich | olegmassage.com",
+        "description": "Warum ist mobile Massage besser als ein Studio-Besuch? Kein Stress, keine Anfahrt, keine Parkplatzsuche. Entspannung beginnt schon bei Ihnen zu Hause."
+      },
+      "title": "Mobile Massage vs. Studio",
+      "description": "Warum entscheiden sich immer mehr Menschen für mobile Massage statt für einen Studio-Besuch? Hier sind die wichtigsten Unterschiede.",
+      "mobile": {
+        "title": "Mobile Massage",
+        "1": "Keine Anfahrt — ich komme zu Ihnen nach Hause",
+        "2": "Kein Stress mit Parkplatzsuche oder ÖV",
+        "3": "Entspannung beginnt sofort in vertrauter Umgebung",
+        "4": "Flexible Termine, auch abends und am Wochenende",
+        "5": "Nach der Massage direkt ins eigene Bett oder aufs Sofa",
+        "6": "Professionelle Ausrüstung — gleiche Qualität wie im Studio"
+      },
+      "studio": {
+        "title": "Studio-Massage",
+        "1": "Anfahrt und Rückfahrt kosten Zeit und Energie",
+        "2": "Parkplatzsuche oder Warten auf den ÖV",
+        "3": "Fixe Öffnungszeiten, weniger Flexibilität",
+        "4": "Entspannung geht auf dem Heimweg oft verloren"
+      },
+      "conclusion": {
+        "title": "Fazit",
+        "description": "Mobile Massage spart Ihnen Zeit, Stress und lässt die Entspannung viel länger nachwirken. Sie müssen sich um nichts kümmern — ich bringe alles mit und hinterlasse Ihren Raum so, wie ich ihn vorgefunden habe. Als Preisträger des Swiss Massage Championship 2026 garantiere ich Ihnen professionelle Qualität auf höchstem Niveau."
       }
     }
   },
