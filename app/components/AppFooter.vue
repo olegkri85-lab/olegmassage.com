@@ -42,7 +42,7 @@
           <li><a href="tel:+41798499274">+41 79 849 92 74</a></li>
           <li>
             <a href="mailto:oleh.kryvorotko@icloud.com" class="break-all"
-              >oleh.kryvorotko@icloud.com</
+              >oleh.kryvorotko@icloud.com</a
             >
           </li>
           <li>
