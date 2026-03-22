@@ -153,49 +153,14 @@ useHead(() => ({
       content: t("location.rapperswilJona.meta.description"),
     },
     { property: "og:type", content: "website" },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/championship-action.jpeg",
+    },
   ],
   link: [
     {
       rel: "canonical",
-      href: `https://olegmassage.com${localePath(
-        "/locations/rapperswil-jona"
-      )}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "de",
-      href: `https://olegmassage.com${localePath(
-        "/locations/rapperswil-jona",
-        "de"
-      )}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "en",
-      href: `https://olegmassage.com${localePath(
-        "/locations/rapperswil-jona",
-        "en"
-      )}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "ru",
-      href: `https://olegmassage.com${localePath(
-        "/locations/rapperswil-jona",
-        "ru"
-      )}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "uk",
-      href: `https://olegmassage.com${localePath(
-        "/locations/rapperswil-jona",
-        "uk"
-      )}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "x-default",
       href: `https://olegmassage.com${localePath(
         "/locations/rapperswil-jona"
       )}`,

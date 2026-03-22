@@ -151,35 +151,14 @@ useHead(() => ({
       content: t("location.zug.meta.description"),
     },
     { property: "og:type", content: "website" },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/championship-action.jpeg",
+    },
   ],
   link: [
     {
       rel: "canonical",
-      href: `https://olegmassage.com${localePath("/locations/zug")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "de",
-      href: `https://olegmassage.com${localePath("/locations/zug", "de")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "en",
-      href: `https://olegmassage.com${localePath("/locations/zug", "en")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "ru",
-      href: `https://olegmassage.com${localePath("/locations/zug", "ru")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "uk",
-      href: `https://olegmassage.com${localePath("/locations/zug", "uk")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "x-default",
       href: `https://olegmassage.com${localePath("/locations/zug")}`,
     },
   ],

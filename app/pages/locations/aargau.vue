@@ -147,35 +147,14 @@ useHead(() => ({
       content: t("location.aargau.meta.description"),
     },
     { property: "og:type", content: "website" },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/championship-action.jpeg",
+    },
   ],
   link: [
     {
       rel: "canonical",
-      href: `https://olegmassage.com${localePath("/locations/aargau")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "de",
-      href: `https://olegmassage.com${localePath("/locations/aargau", "de")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "en",
-      href: `https://olegmassage.com${localePath("/locations/aargau", "en")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "ru",
-      href: `https://olegmassage.com${localePath("/locations/aargau", "ru")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "uk",
-      href: `https://olegmassage.com${localePath("/locations/aargau", "uk")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "x-default",
       href: `https://olegmassage.com${localePath("/locations/aargau")}`,
     },
   ],

@@ -153,35 +153,14 @@ useHead(() => ({
       content: t("location.luzern.meta.description"),
     },
     { property: "og:type", content: "website" },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/championship-action.jpeg",
+    },
   ],
   link: [
     {
       rel: "canonical",
-      href: `https://olegmassage.com${localePath("/locations/luzern")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "de",
-      href: `https://olegmassage.com${localePath("/locations/luzern", "de")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "en",
-      href: `https://olegmassage.com${localePath("/locations/luzern", "en")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "ru",
-      href: `https://olegmassage.com${localePath("/locations/luzern", "ru")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "uk",
-      href: `https://olegmassage.com${localePath("/locations/luzern", "uk")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "x-default",
       href: `https://olegmassage.com${localePath("/locations/luzern")}`,
     },
   ],

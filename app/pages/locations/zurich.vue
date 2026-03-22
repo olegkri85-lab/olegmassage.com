@@ -166,35 +166,14 @@ useHead(() => ({
       content: t("location.zurich.meta.description"),
     },
     { property: "og:type", content: "website" },
+    {
+      property: "og:image",
+      content: "https://olegmassage.com/images/og/championship-action.jpeg",
+    },
   ],
   link: [
     {
       rel: "canonical",
-      href: `https://olegmassage.com${localePath("/locations/zurich")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "de",
-      href: `https://olegmassage.com${localePath("/locations/zurich", "de")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "en",
-      href: `https://olegmassage.com${localePath("/locations/zurich", "en")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "ru",
-      href: `https://olegmassage.com${localePath("/locations/zurich", "ru")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "uk",
-      href: `https://olegmassage.com${localePath("/locations/zurich", "uk")}`,
-    },
-    {
-      rel: "alternate",
-      hreflang: "x-default",
       href: `https://olegmassage.com${localePath("/locations/zurich")}`,
     },
   ],

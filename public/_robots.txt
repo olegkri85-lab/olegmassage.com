@@ -12,5 +12,8 @@ Disallow: /en/dataprotection
 Disallow: /ru/dataprotection
 Disallow: /uk/dataprotection
 
+# AI / LLM discovery
+Allow: /llms.txt
+
 # Sitemap
 Sitemap: https://olegmassage.com/sitemap.xml
