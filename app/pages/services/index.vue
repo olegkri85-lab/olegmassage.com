@@ -80,6 +80,52 @@ useHead(() => ({
         itemListElement: [
           {
             "@type": "Offer",
+            name: t("services.swedish.title"),
+            description: t("services.swedish.description"),
+            price: "120",
+            priceCurrency: "CHF",
+            priceSpecification: {
+              "@type": "UnitPriceSpecification",
+              price: "120",
+              priceCurrency: "CHF",
+              referenceQuantity: {
+                "@type": "QuantitativeValue",
+                value: "60",
+                unitCode: "MIN",
+              },
+            },
+            availability: "https://schema.org/InStock",
+            seller: {
+              "@type": "LocalBusiness",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
+            },
+          },
+          {
+            "@type": "Offer",
+            name: `${t("services.swedish.title")} (90 min)`,
+            description: t("services.swedish.description"),
+            price: "160",
+            priceCurrency: "CHF",
+            priceSpecification: {
+              "@type": "UnitPriceSpecification",
+              price: "160",
+              priceCurrency: "CHF",
+              referenceQuantity: {
+                "@type": "QuantitativeValue",
+                value: "90",
+                unitCode: "MIN",
+              },
+            },
+            availability: "https://schema.org/InStock",
+            seller: {
+              "@type": "LocalBusiness",
+              name: "olegmassage.com",
+              url: "https://olegmassage.com",
+            },
+          },
+          {
+            "@type": "Offer",
             name: t("services.classical.title"),
             description: t("services.classical.description"),
             price: "100",
@@ -128,11 +174,11 @@ useHead(() => ({
             "@type": "Offer",
             name: t("services.sports.title"),
             description: t("services.sports.description"),
-            price: "100",
+            price: "140",
             priceCurrency: "CHF",
             priceSpecification: {
               "@type": "UnitPriceSpecification",
-              price: "100",
+              price: "140",
               priceCurrency: "CHF",
               referenceQuantity: {
                 "@type": "QuantitativeValue",
@@ -149,36 +195,13 @@ useHead(() => ({
           },
           {
             "@type": "Offer",
-            name: `${t("services.sports.title")} (90 min)`,
-            description: t("services.sports.description"),
-            price: "150",
-            priceCurrency: "CHF",
-            priceSpecification: {
-              "@type": "UnitPriceSpecification",
-              price: "150",
-              priceCurrency: "CHF",
-              referenceQuantity: {
-                "@type": "QuantitativeValue",
-                value: "90",
-                unitCode: "MIN",
-              },
-            },
-            availability: "https://schema.org/InStock",
-            seller: {
-              "@type": "LocalBusiness",
-              name: "olegmassage.com",
-              url: "https://olegmassage.com",
-            },
-          },
-          {
-            "@type": "Offer",
             name: t("services.relaxation.title"),
             description: t("services.relaxation.description"),
-            price: "100",
+            price: "120",
             priceCurrency: "CHF",
             priceSpecification: {
               "@type": "UnitPriceSpecification",
-              price: "100",
+              price: "120",
               priceCurrency: "CHF",
               referenceQuantity: {
                 "@type": "QuantitativeValue",
@@ -197,11 +220,11 @@ useHead(() => ({
             "@type": "Offer",
             name: `${t("services.relaxation.title")} (90 min)`,
             description: t("services.relaxation.description"),
-            price: "150",
+            price: "160",
             priceCurrency: "CHF",
             priceSpecification: {
               "@type": "UnitPriceSpecification",
-              price: "150",
+              price: "160",
               priceCurrency: "CHF",
               referenceQuantity: {
                 "@type": "QuantitativeValue",
@@ -228,30 +251,7 @@ useHead(() => ({
               priceCurrency: "CHF",
               referenceQuantity: {
                 "@type": "QuantitativeValue",
-                value: "60",
-                unitCode: "MIN",
-              },
-            },
-            availability: "https://schema.org/InStock",
-            seller: {
-              "@type": "LocalBusiness",
-              name: "olegmassage.com",
-              url: "https://olegmassage.com",
-            },
-          },
-          {
-            "@type": "Offer",
-            name: `${t("services.anticellulite.title")} (90 min)`,
-            description: t("services.anticellulite.description"),
-            price: "150",
-            priceCurrency: "CHF",
-            priceSpecification: {
-              "@type": "UnitPriceSpecification",
-              price: "150",
-              priceCurrency: "CHF",
-              referenceQuantity: {
-                "@type": "QuantitativeValue",
-                value: "90",
+                value: "45",
                 unitCode: "MIN",
               },
             },
@@ -266,38 +266,15 @@ useHead(() => ({
             "@type": "Offer",
             name: t("services.pregnancy.title"),
             description: t("services.pregnancy.description"),
-            price: "100",
+            price: "120",
             priceCurrency: "CHF",
             priceSpecification: {
               "@type": "UnitPriceSpecification",
-              price: "100",
+              price: "120",
               priceCurrency: "CHF",
               referenceQuantity: {
                 "@type": "QuantitativeValue",
                 value: "60",
-                unitCode: "MIN",
-              },
-            },
-            availability: "https://schema.org/InStock",
-            seller: {
-              "@type": "LocalBusiness",
-              name: "olegmassage.com",
-              url: "https://olegmassage.com",
-            },
-          },
-          {
-            "@type": "Offer",
-            name: `${t("services.pregnancy.title")} (90 min)`,
-            description: t("services.pregnancy.description"),
-            price: "150",
-            priceCurrency: "CHF",
-            priceSpecification: {
-              "@type": "UnitPriceSpecification",
-              price: "150",
-              priceCurrency: "CHF",
-              referenceQuantity: {
-                "@type": "QuantitativeValue",
-                value: "90",
                 unitCode: "MIN",
               },
             },

@@ -55,7 +55,7 @@
     "languagesList": "German, English, Russian, Ukrainian",
     "whatsappCta": "Questions? Chat with us",
     "trustBadge1": "Olympic Gymnast",
-    "trustBadge2": "5+ Years Experience",
+    "trustBadge2": "1st Place SMC 2026",
     "trustBadge3": "Certified"
   },
   "hero": {
@@ -112,6 +112,7 @@
       "note": "Cupping therapy can be added to any massage."
     },
     "duration": {
+      "massage45": "45 minutes",
       "massage60": "60 minutes",
       "massage90": "90 minutes",
       "cupping": "15 minutes"
@@ -120,7 +121,7 @@
   "about": {
     "title": "About Me",
     "subtitle": "Your Professional Massage Therapist",
-    "story": "My journey to becoming a massage therapist is unique. As a former Olympic gymnast for Ukraine and circus artist, I've spent my life understanding the human body at the highest level. Through years of athletic performance, I learned firsthand what muscles need to recover, how to prevent injuries, and the importance of proper body care. This deep, personal knowledge of the body's mechanics now informs every massage I give. I bring the discipline of an athlete and the precision of a performer to help you feel pain-free and completely relaxed. Available in German, English, and Russian."
+    "story": "My journey to becoming a massage therapist is unique. As a former Olympic gymnast for Ukraine and circus artist, I've spent my life understanding the human body at the highest level. In 2026, I became a participant and prize-winner of the 5th Swiss Massage Championship, taking 1st place in the Swedish Massage category. Through years of athletic performance, I learned firsthand what muscles need to recover, how to prevent injuries, and the importance of proper body care. This deep, personal knowledge of the body's mechanics now informs every massage I give. I bring the discipline of an athlete and the precision of a performer to help you feel pain-free and completely relaxed. Available in German, English, and Russian."
   },
   "cta": {
     "title": "Stress-free Consultation Booking",
@@ -471,7 +472,7 @@
     "swedish": {
       "meta": {
         "title": "Swedish Massage Zurich | Deep Relaxation and Recovery",
-        "description": "Professional Swedish massage at your home in Zurich. Deep relaxation, recovery, improved circulation. 100 CHF (60 min) • 150 CHF (90 min). Book now!"
+        "description": "Professional Swedish massage at your home in Zurich. Deep relaxation, recovery, improved circulation. 120 CHF (60 min) • 160 CHF (90 min). Book now!"
       },
       "benefits": {
         "title": "Benefits of Swedish Massage",
@@ -505,7 +506,7 @@
     "sports": {
       "meta": {
         "title": "Sports Massage Zurich | Professional Recovery for Athletes",
-        "description": "Sports massage at your home in Zurich. Enhances recovery, releases tension, increases flexibility. Perfect before and after training. 100 CHF (60 min) • 150 CHF (90 min)."
+        "description": "Sports massage at your home in Zurich. Enhances recovery, releases tension, increases flexibility. Perfect before and after training. 140 CHF (60 min)."
       },
       "benefits": {
         "title": "Benefits of Sports Massage",
@@ -522,7 +523,7 @@
     "anticellulite": {
       "meta": {
         "title": "Anti-Cellulite Massage Zurich | Effective Body Firming",
-        "description": "Anti-cellulite massage at your home in Zurich. Activates metabolism, improves skin appearance, firms tissue. Visible results after just a few sessions. Book now!"
+        "description": "Anti-cellulite massage at your home in Zurich. Activates metabolism, improves skin appearance, firms tissue. 100 CHF (45 min). Visible results after just a few sessions. Book now!"
       },
       "benefits": {
         "title": "Benefits of Anti-Cellulite Massage",
@@ -539,7 +540,7 @@
     "pregnancy": {
       "meta": {
         "title": "Pregnancy Massage Zurich | Safe Relaxation for Expectant Mothers",
-        "description": "Gentle pregnancy massage at your home in Zurich. Relieves back pain, reduces swelling, improves sleep. Safe from the 2nd trimester onwards."
+        "description": "Gentle pregnancy massage at your home in Zurich. Relieves back pain, reduces swelling, improves sleep. 120 CHF (60 min). Safe from the 2nd trimester onwards."
       },
       "benefits": {
         "title": "Benefits of Pregnancy Massage",
@@ -590,7 +591,7 @@
     "relaxation": {
       "meta": {
         "title": "Relaxation Massage Zurich | Pure Recovery for Body and Mind",
-        "description": "Relaxation massage at your home in Zurich. Stress relief, mental calm, complete relaxation. Perfect after a long day. 100 CHF (60 min) • 150 CHF (90 min)."
+        "description": "Relaxation massage at your home in Zurich. Stress relief, mental calm, complete relaxation. Perfect after a long day. 120 CHF (60 min) • 160 CHF (90 min)."
       },
       "benefits": {
         "title": "Benefits of Relaxation Massage",

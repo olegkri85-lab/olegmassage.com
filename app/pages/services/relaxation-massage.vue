@@ -20,8 +20,8 @@
               {{ t("services.pricing.title") }}
             </p>
             <p class="text-2xl md:text-3xl font-display font-bold">
-              {{ t("services.duration.massage60") }} — 100 CHF<br />
-              {{ t("services.duration.massage90") }} — 150 CHF
+              {{ t("services.duration.massage60") }} — 120 CHF<br />
+              {{ t("services.duration.massage90") }} — 160 CHF
             </p>
           </div>
         </div>
@@ -189,7 +189,7 @@ useHead(() => ({
         offers: [
           {
             "@type": "Offer",
-            price: "100",
+            price: "120",
             priceCurrency: "CHF",
             description: `${t("services.relaxation.title")} - ${t(
               "services.duration.massage60"
@@ -198,7 +198,7 @@ useHead(() => ({
           },
           {
             "@type": "Offer",
-            price: "150",
+            price: "160",
             priceCurrency: "CHF",
             description: `${t("services.relaxation.title")} - ${t(
               "services.duration.massage90"

@@ -20,8 +20,7 @@
               {{ t("services.pricing.title") }}
             </p>
             <p class="text-2xl md:text-3xl font-display font-bold">
-              {{ t("services.duration.massage60") }} — 100 CHF<br />
-              {{ t("services.duration.massage90") }} — 150 CHF
+              {{ t("services.duration.massage60") }} — 140 CHF
             </p>
           </div>
         </div>
@@ -183,19 +182,10 @@ useHead(() => ({
         offers: [
           {
             "@type": "Offer",
-            price: "100",
+            price: "140",
             priceCurrency: "CHF",
             description: `${t("services.sports.title")} - ${t(
               "services.duration.massage60"
-            )}`,
-            availability: "https://schema.org/InStock",
-          },
-          {
-            "@type": "Offer",
-            price: "150",
-            priceCurrency: "CHF",
-            description: `${t("services.sports.title")} - ${t(
-              "services.duration.massage90"
             )}`,
             availability: "https://schema.org/InStock",
           },

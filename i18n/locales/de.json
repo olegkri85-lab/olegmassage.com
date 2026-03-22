@@ -55,7 +55,7 @@
     "languagesList": "Deutsch, Englisch, Russisch, Ukrainisch",
     "whatsappCta": "Fragen? Schreiben Sie uns",
     "trustBadge1": "Olympia-Turner",
-    "trustBadge2": "5+ Jahre Erfahrung",
+    "trustBadge2": "1. Platz SMC 2026",
     "trustBadge3": "Zertifiziert"
   },
   "hero": {
@@ -112,6 +112,7 @@
       "note": "Schröpfmassage kann zusätzlich zu jeder Massage hinzugefügt werden."
     },
     "duration": {
+      "massage45": "45 Minuten",
       "massage60": "60 Minuten",
       "massage90": "90 Minuten",
       "cupping": "15 Minuten"
@@ -120,7 +121,7 @@
   "about": {
     "title": "Über mich",
     "subtitle": "Ihr professioneller Massagetherapeut",
-    "story": "Mein Weg zum Massagetherapeuten ist einzigartig. Als ehemaliger Olympiaturner für die Ukraine und Zirkusartist habe ich mein Leben dem Verständnis des menschlichen Körpers auf höchstem Niveau gewidmet. Durch jahrelange athletische Leistung habe ich aus erster Hand gelernt, was Muskeln zur Erholung benötigen, wie man Verletzungen vorbeugt und wie wichtig die richtige Körperpflege ist. Dieses tiefe, persönliche Wissen über die Mechanik des Körpers prägt heute jede Massage, die ich gebe. Ich bringe die Disziplin eines Athleten und die Präzision eines Künstlers mit, um Ihnen zu helfen, sich schmerzfrei und vollkommen entspannt zu fühlen. Verfügbar auf Deutsch, Englisch und Russisch."
+    "story": "Mein Weg zum Massagetherapeuten ist einzigartig. Als ehemaliger Olympiaturner für die Ukraine und Zirkusartist habe ich mein Leben dem Verständnis des menschlichen Körpers auf höchstem Niveau gewidmet. 2026 wurde ich Teilnehmer und Preisträger der 5. Schweizer Massage-Meisterschaft (Swiss Massage Championship) und gewann den 1. Platz in der Kategorie Schwedische Massage. Durch jahrelange athletische Leistung habe ich aus erster Hand gelernt, was Muskeln zur Erholung benötigen, wie man Verletzungen vorbeugt und wie wichtig die richtige Körperpflege ist. Dieses tiefe, persönliche Wissen über die Mechanik des Körpers prägt heute jede Massage, die ich gebe. Ich bringe die Disziplin eines Athleten und die Präzision eines Künstlers mit, um Ihnen zu helfen, sich schmerzfrei und vollkommen entspannt zu fühlen. Verfügbar auf Deutsch, Englisch und Russisch."
   },
   "cta": {
     "title": "Stresslose Beratung buchen",
@@ -471,7 +472,7 @@
     "swedish": {
       "meta": {
         "title": "Schwedische Massage Zürich | Tiefe Entspannung und Regeneration",
-        "description": "Professionelle Schwedische Massage bei Ihnen zu Hause in Zürich. Tiefe Entspannung, Regeneration, verbesserte Durchblutung. 100 CHF (60 Min) • 150 CHF (90 Min). Jetzt buchen!"
+        "description": "Professionelle Schwedische Massage bei Ihnen zu Hause in Zürich. Tiefe Entspannung, Regeneration, verbesserte Durchblutung. 120 CHF (60 Min) • 160 CHF (90 Min). Jetzt buchen!"
       },
       "benefits": {
         "title": "Vorteile der Schwedischen Massage",
@@ -505,7 +506,7 @@
     "sports": {
       "meta": {
         "title": "Sportmassage Zürich | Professionelle Erholung für Athleten",
-        "description": "Sportmassage zu Hause in Zürich. Verbessert Erholung, löst Verspannungen, steigert Flexibilität. Perfekt vor und nach dem Training. 100 CHF (60 Min) • 150 CHF (90 Min)."
+        "description": "Sportmassage zu Hause in Zürich. Verbessert Erholung, löst Verspannungen, steigert Flexibilität. Perfekt vor und nach dem Training. 140 CHF (60 Min)."
       },
       "benefits": {
         "title": "Vorteile der Sportmassage",
@@ -522,7 +523,7 @@
     "anticellulite": {
       "meta": {
         "title": "Anti-Cellulite-Massage Zürich | Effektive Körperstraffung",
-        "description": "Anti-Cellulite-Massage zu Hause in Zürich. Aktiviert Stoffwechsel, verbessert Hautbild, strafft Gewebe. Sichtbare Ergebnisse nach wenigen Sitzungen. Jetzt buchen!"
+        "description": "Anti-Cellulite-Massage zu Hause in Zürich. Aktiviert Stoffwechsel, verbessert Hautbild, strafft Gewebe. 100 CHF (45 Min). Sichtbare Ergebnisse nach wenigen Sitzungen. Jetzt buchen!"
       },
       "benefits": {
         "title": "Vorteile der Anti-Cellulite-Massage",
@@ -539,7 +540,7 @@
     "pregnancy": {
       "meta": {
         "title": "Schwangerschaftsmassage Zürich | Sichere Entspannung für werdende Mütter",
-        "description": "Sanfte Schwangerschaftsmassage zu Hause in Zürich. Lindert Rückenschmerzen, reduziert Schwellungen, verbessert den Schlaf. Sicher ab dem 2. Trimester."
+        "description": "Sanfte Schwangerschaftsmassage zu Hause in Zürich. Lindert Rückenschmerzen, reduziert Schwellungen, verbessert den Schlaf. 120 CHF (60 Min). Sicher ab dem 2. Trimester."
       },
       "benefits": {
         "title": "Vorteile der Schwangerschaftsmassage",
@@ -590,7 +591,7 @@
     "relaxation": {
       "meta": {
         "title": "Entspannungsmassage Zürich | Pure Erholung für Körper und Geist",
-        "description": "Entspannungsmassage zu Hause in Zürich. Stressabbau, mentale Ruhe, völlige Entspannung. Perfekt nach einem langen Tag. 100 CHF (60 Min) • 150 CHF (90 Min)."
+        "description": "Entspannungsmassage zu Hause in Zürich. Stressabbau, mentale Ruhe, völlige Entspannung. Perfekt nach einem langen Tag. 120 CHF (60 Min) • 160 CHF (90 Min)."
       },
       "benefits": {
         "title": "Vorteile der Entspannungsmassage",

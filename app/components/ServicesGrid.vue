@@ -3,9 +3,9 @@
     <ServiceCard
       :title="t('services.swedish.title')"
       :description="t('services.swedish.description')"
-      :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
+      :duration="`${t('services.duration.massage60')} — 120 CHF • ${t(
         'services.duration.massage90'
-      )} — 150 CHF`"
+      )} — 160 CHF`"
       image="/images/services/large/swedish-massage.jpeg"
       image-ratio="4/3"
       image-label="Professional Swedish massage therapy session with gentle rhythmic techniques for deep relaxation and body recovery"
@@ -27,9 +27,7 @@
     <ServiceCard
       :title="t('services.sports.title')"
       :description="t('services.sports.description')"
-      :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
-        'services.duration.massage90'
-      )} — 150 CHF`"
+      :duration="`${t('services.duration.massage60')} — 140 CHF`"
       image="/images/services/large/sports-massage.jpeg"
       image-ratio="4/3"
       image-label="Athletic sports massage session focusing on muscle recovery, injury prevention, and flexibility improvement for active individuals and athletes"
@@ -39,9 +37,7 @@
     <ServiceCard
       :title="t('services.anticellulite.title')"
       :description="t('services.anticellulite.description')"
-      :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
-        'services.duration.massage90'
-      )} — 150 CHF`"
+      :duration="`${t('services.duration.massage45')} — 100 CHF`"
       image="/images/services/large/anticellulite-massage.jpeg"
       image-ratio="4/3"
       image-label="Intensive anti-cellulite massage treatment to improve lymph flow, boost metabolism, and firm skin texture"
@@ -51,9 +47,7 @@
     <ServiceCard
       :title="t('services.pregnancy.title')"
       :description="t('services.pregnancy.description')"
-      :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
-        'services.duration.massage90'
-      )} — 150 CHF`"
+      :duration="`${t('services.duration.massage60')} — 120 CHF`"
       image="/images/services/large/pregnancy-massage.jpeg"
       image-ratio="4/3"
       image-label="Gentle and safe pregnancy massage for expecting mothers, reducing back pain and swelling"
@@ -83,9 +77,9 @@
     <ServiceCard
       :title="t('services.relaxation.title')"
       :description="t('services.relaxation.description')"
-      :duration="`${t('services.duration.massage60')} — 100 CHF • ${t(
+      :duration="`${t('services.duration.massage60')} — 120 CHF • ${t(
         'services.duration.massage90'
-      )} — 150 CHF`"
+      )} — 160 CHF`"
       image="/images/services/large/relaxation-massage.jpeg"
       image-ratio="4/3"
       image-label="Soothing relaxation massage with gentle techniques and warm oils for stress relief and deep body-mind relaxation"
