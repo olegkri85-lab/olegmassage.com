@@ -1,8 +1,8 @@
 # olegmassage.com — Mobile Massage Service, Zürich Region, Switzerland
 
-> Oleh Kryvorotko (Oleg) is a professional mobile massage therapist based in the Zürich Lake region, Switzerland. Former Olympic gymnast for Ukraine and circus artist. Winner of 1st Place at the 5th Swiss Massage Championship 2026 in the Swedish Massage category.
+> Oleh Kryvorotko (Oleg) is a professional mobile massage therapist based in the Zürich Lake region, Switzerland. Former Olympic gymnast for Ukraine and circus artist. Winner of 1st Place at the 5th Swiss Massage Championship 2026 in the Swedish Massage category. Google rating: 5.0 (5 reviews).
 
-## Services
+## Services & Prices
 
 - **Swedish Massage** — 60 min 120 CHF, 90 min 160 CHF. Award-winning technique (1st Place SMC 2026). Deep relaxation, recovery, and body harmonization.
 - **Classical Massage** — 60 min 100 CHF, 90 min 150 CHF. Relieves tension, improves circulation, restores energy.
@@ -15,11 +15,18 @@
 
 ## How It Works
 
-Oleg comes to your home with a professional massage table and all necessary equipment. No need to travel — relax in your own environment.
+Oleg comes to your home with a professional massage table and all necessary equipment. No need to travel — relax in your own environment. You need only 2 large towels, 1 small towel, and a room of about 3x3 meters.
 
 ## Service Areas
 
-Zürich (all districts), Meilen, Horgen, Küsnacht, Thalwil, Wädenswil, Stäfa, Kilchberg, Zollikon, Erlenbach, Rüschlikon, Adliswil, Herrliberg, Schwyz, Luzern, Zug, Aargau, Rapperswil-Jona.
+### Zürich City (all 12 Kreise)
+Kreis 1 (Altstadt), Kreis 2 (Enge/Wollishofen), Kreis 3 (Wiedikon), Kreis 4 (Aussersihl), Kreis 5 (Industriequartier), Kreis 6 (Unterstrass), Kreis 7 (Fluntern/Hottingen), Kreis 8 (Seefeld/Riesbach), Kreis 9 (Altstetten/Albisrieden), Kreis 10 (Höngg/Wipkingen), Kreis 11 (Oerlikon/Seebach/Affoltern), Kreis 12 (Schwamendingen).
+
+### Zürichsee Gemeinden
+Meilen, Horgen, Küsnacht, Thalwil, Kilchberg, Wädenswil, Stäfa, Adliswil, Erlenbach, Herrliberg, Rüschlikon, Zollikon, Männedorf, Uetikon am See, Oetwil am See, Richterswil, Au ZH.
+
+### Wider Region
+Schwyz, Luzern, Zug, Aargau, Rapperswil-Jona, Wollerau, Freienbach, Pfäffikon SZ.
 
 ## Credentials
 
@@ -39,10 +46,20 @@ Zürich (all districts), Meilen, Horgen, Küsnacht, Thalwil, Wädenswil, Stäfa,
 - Payment: Cash, TWINT
 - Languages: German, English, Russian, Ukrainian
 
-## Links
+## Website Structure
 
 - [Services](https://olegmassage.com/services)
+- [Prices](https://olegmassage.com/prices)
 - [About](https://olegmassage.com/about)
 - [Certificates](https://olegmassage.com/certificates)
 - [FAQ](https://olegmassage.com/faq)
+- [Guide: Which Massage is Right for Me?](https://olegmassage.com/guide/which-massage)
+- [Guide: Your First Massage](https://olegmassage.com/guide/first-massage)
+- [Guide: Mobile vs Studio](https://olegmassage.com/guide/mobile-vs-studio)
+- [Guide: How Often Should You Get a Massage?](https://olegmassage.com/guide/massage-frequency)
+- [Guide: Does Massage Help with Back Pain?](https://olegmassage.com/guide/massage-for-back-pain)
+- [Guide: Swedish vs Classical Massage](https://olegmassage.com/guide/swedish-vs-classical)
+- [Guide: Massage During Pregnancy](https://olegmassage.com/guide/massage-during-pregnancy)
+- [Guide: Benefits of Mobile Massage](https://olegmassage.com/guide/benefits-of-mobile-massage)
 - [Instagram](https://www.instagram.com/massage_in_schweiz/)
+- [Facebook](https://www.facebook.com/profile.php?id=100079107851071)
