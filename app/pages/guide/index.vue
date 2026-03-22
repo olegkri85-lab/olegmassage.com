@@ -64,6 +64,31 @@ const articles = [
     titleKey: "guide.mobileVsStudio.title",
     descKey: "guide.mobileVsStudio.description",
   },
+  {
+    to: "/guide/massage-frequency",
+    titleKey: "guide.massageFrequency.title",
+    descKey: "guide.massageFrequency.intro",
+  },
+  {
+    to: "/guide/massage-for-back-pain",
+    titleKey: "guide.backPain.title",
+    descKey: "guide.backPain.intro",
+  },
+  {
+    to: "/guide/swedish-vs-classical",
+    titleKey: "guide.swedishVsClassical.title",
+    descKey: "guide.swedishVsClassical.intro",
+  },
+  {
+    to: "/guide/massage-during-pregnancy",
+    titleKey: "guide.pregnancyMassage.title",
+    descKey: "guide.pregnancyMassage.intro",
+  },
+  {
+    to: "/guide/benefits-of-mobile-massage",
+    titleKey: "guide.mobileBenefits.title",
+    descKey: "guide.mobileBenefits.intro",
+  },
 ];
 
 useHead(() => ({

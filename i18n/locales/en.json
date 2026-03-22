@@ -1280,6 +1280,174 @@
         "title": "Conclusion",
         "description": "Mobile massage saves you time, stress, and lets relaxation last much longer. You don't have to worry about anything — I bring everything and leave your room as I found it. As a winner of the Swiss Massage Championship 2026, I guarantee professional quality at the highest level."
       }
+    },
+    "massageFrequency": {
+      "meta": {
+        "title": "How Often Should You Get a Massage? | Optimal Frequency | olegmassage.com",
+        "description": "How often should you get a massage? The ideal frequency depends on your goals: stress relief, sports recovery, pain management, or prevention."
+      },
+      "title": "How Often Should You Get a Massage?",
+      "intro": "The ideal massage frequency depends on your personal goals and lifestyle. Here you'll find specific recommendations for every situation.",
+      "general": {
+        "title": "General Recommendation",
+        "description": "For most people, a massage every 2-4 weeks is ideal for preventing tension and promoting overall well-being. Consistency matters more than frequency — your body adapts to regular treatment and benefits more in the long run."
+      },
+      "stress": {
+        "title": "For Stress and Burnout Prevention",
+        "description": "When stress dominates your daily life, I recommend weekly sessions for 4-6 weeks to start. After that, you can reduce to every 2 weeks. Relaxation massage and Swedish massage are particularly effective here — they measurably lower cortisol levels and promote endorphin release."
+      },
+      "sport": {
+        "title": "For Athletes and Active People",
+        "description": "Athletes who train regularly benefit from weekly sports massages. Before competitions, I recommend a session 2-3 days prior. After intense workouts, within 24-48 hours. During rest periods, every 2-3 weeks is sufficient."
+      },
+      "pain": {
+        "title": "For Chronic Pain",
+        "description": "For chronic back or neck pain, we start with 2 sessions per week for 3-4 weeks. Once the pain subsides, we gradually reduce to weekly, then to every 2 weeks. Cupping massage can be a powerful complement in these cases."
+      },
+      "pregnancy": {
+        "title": "During Pregnancy",
+        "description": "From the second trimester onwards, I recommend a gentle pregnancy massage every 2-3 weeks. In the third trimester, weekly sessions are possible if needed. The massage is individually adapted to each phase of pregnancy."
+      },
+      "maintenance": {
+        "title": "For Prevention and Self-Care",
+        "description": "Even without acute issues, a monthly massage is an excellent investment in your health. It prevents tension, improves sleep quality, and strengthens the immune system. Many of my regular clients have been coming for years — and report significantly fewer sick days."
+      }
+    },
+    "backPain": {
+      "meta": {
+        "title": "Does Massage Help with Back Pain? | Guide | olegmassage.com",
+        "description": "Learn how massage helps with back pain. Which massage types are most effective and how often you should get treated."
+      },
+      "title": "Does Massage Help with Back Pain?",
+      "intro": "Back pain is the leading cause of missed work days in Switzerland. Massage is one of the most effective non-pharmaceutical treatments available.",
+      "causes": {
+        "title": "Common Causes of Back Pain",
+        "description": "Prolonged sitting at a desk, lack of exercise, poor posture, stress, and one-sided strain — these are the most common triggers. Muscles shorten and harden, fascia becomes adhesive, and pain becomes chronic. Massage breaks this vicious cycle."
+      },
+      "whichMassage": {
+        "title": "Which Massage Works Best?",
+        "description": "Choosing the right massage depends on the type and intensity of your back pain. Here's an overview of the most effective options."
+      },
+      "classical": {
+        "title": "Classical Massage for General Back Pain",
+        "description": "Classical massage is the all-rounder for back pain. It releases tension throughout the entire back musculature, improves circulation, and promotes recovery. Ideal for mild to moderate discomfort and as regular prevention."
+      },
+      "sports": {
+        "title": "Sports Massage for Deep-Seated Tension",
+        "description": "When surface-level techniques aren't enough, sports massage steps in. With targeted deep tissue pressure and specialized techniques, even stubborn knots and adhesions are released. Particularly effective for pain between the shoulder blades and in the lower back."
+      },
+      "cupping": {
+        "title": "Cupping Massage for Chronic Issues",
+        "description": "Cupping massage creates strong suction that dramatically increases blood flow to affected areas. Especially effective for chronic conditions that only partially respond to regular massage. Can be added as a complement to any massage session."
+      },
+      "frequency": {
+        "title": "How Often for Back Pain?",
+        "description": "For acute issues, I recommend 2 sessions per week for 2-3 weeks. For chronic pain, a long-term approach with weekly sessions over 6-8 weeks is more effective. For prevention afterwards, one session every 2-4 weeks is sufficient."
+      },
+      "prevention": {
+        "title": "Preventing Back Pain",
+        "description": "Regular massage combined with movement is the best protection against back pain. Stand up briefly every hour, stretch regularly, and invest in an ergonomic workspace. A monthly massage keeps your muscles supple and prevents adhesions."
+      }
+    },
+    "swedishVsClassical": {
+      "meta": {
+        "title": "Swedish vs. Classical Massage — The Difference | olegmassage.com",
+        "description": "What's the difference between Swedish and Classical massage? Techniques, effects, and which massage is better suited for you."
+      },
+      "title": "Swedish vs. Classical Massage — The Difference",
+      "intro": "Both massage styles are therapeutically valuable but differ in technique, goals, and effects. As a winner of the Swiss Massage Championship 2026 in the Swedish Massage category, I'll explain the differences.",
+      "overview": {
+        "title": "Similarities and Differences",
+        "description": "Both massage styles use oil and work with the entire body. The main difference lies in technique: Swedish massage uses five specific stroke techniques in a set sequence, while Classical massage is more flexible in addressing individual problem areas."
+      },
+      "swedish": {
+        "title": "What Makes Swedish Massage Special?",
+        "description": "Swedish massage was developed in the 19th century by Per Henrik Ling and is the most widely practiced massage form in the world. It combines effleurage (long strokes), petrissage (kneading), friction (rubbing), tapotement (tapping), and vibration in a harmonious sequence. The result is deep relaxation with simultaneous therapeutic benefits."
+      },
+      "classical": {
+        "title": "What Makes Classical Massage Special?",
+        "description": "Classical massage is the European approach, more closely aligned with medical principles. It's more flexible in technique selection and focuses specifically on the areas that need the most attention. It's often recommended by doctors and physiotherapists."
+      },
+      "techniques": {
+        "title": "Techniques Compared",
+        "description": "Swedish massage follows a systematic full-body protocol — each area is treated in a specific order. Classical massage is more adaptive — I can spend more time on problem areas and adjust techniques spontaneously. Both use similar foundational strokes but apply them differently."
+      },
+      "whenSwedish": {
+        "title": "When Is Swedish Massage the Better Choice?",
+        "description": "Choose Swedish massage when you're looking for a holistic treatment that addresses body and mind equally. Ideal for stress relief, general recovery, improved sleep quality, and as a regular wellness ritual. Especially recommended for massage newcomers."
+      },
+      "whenClassical": {
+        "title": "When Is Classical Massage the Better Choice?",
+        "description": "Choose Classical massage when you want to work on specific issues — such as neck tension, lower back pain, or limited mobility. Here I can focus the treatment more strongly on your specific problems."
+      },
+      "verdict": {
+        "title": "My Recommendation",
+        "description": "Both massages are excellent. If you're unsure, start with Swedish massage — it offers the best overall experience and deepest relaxation. For targeted issues, we then switch to Classical massage. As the winner of the Swiss Massage Championship in the Swedish Massage category, I can offer both forms at the highest level."
+      }
+    },
+    "pregnancyMassage": {
+      "meta": {
+        "title": "Massage During Pregnancy — When Is It Safe? | olegmassage.com",
+        "description": "Everything about massage during pregnancy: when it's safe, the benefits, which techniques are used. Professional prenatal massage at your home."
+      },
+      "title": "Massage During Pregnancy — When Is It Safe?",
+      "intro": "Massage during pregnancy is safe from the second trimester and offers numerous benefits for mother and baby. Here's everything you need to know.",
+      "safety": {
+        "title": "When Is Prenatal Massage Safe?",
+        "description": "Prenatal massage is safe from week 13 (the start of the second trimester). Massage is avoided during the first trimester as a precaution. For high-risk pregnancies, please consult your doctor or midwife beforehand."
+      },
+      "benefits": {
+        "title": "Benefits of Prenatal Massage",
+        "description": "Prenatal massage relieves back pain (the most common complaint), reduces swelling in legs and feet, improves sleep quality, lowers stress hormones, and strengthens the emotional bond with your baby. Studies also show a reduction in anxiety and depression."
+      },
+      "trimester": {
+        "title": "Massage by Trimester",
+        "description": "In the second trimester, the focus is on relieving back pain and muscle tension. In the third trimester, we concentrate on swollen legs, hip pain, and general relaxation. The massage is performed in a comfortable side-lying position, supported by special cushions."
+      },
+      "techniques": {
+        "title": "Which Techniques Are Used?",
+        "description": "I use exclusively gentle techniques with light to moderate pressure. Certain pressure points and areas are deliberately avoided. Only natural oils without artificial additives are used. The entire treatment is designed to provide maximum relaxation with complete safety."
+      },
+      "contraindications": {
+        "title": "When Should You Avoid Massage?",
+        "description": "Massage is not recommended in cases of: bleeding, preeclampsia, placenta previa, premature contractions, fever, or acute infections. If you're unsure, discuss it with your doctor. I always ask about your current health status before each treatment."
+      },
+      "frequency": {
+        "title": "How Often During Pregnancy?",
+        "description": "In the second trimester, I recommend a session every 2-3 weeks. In the third trimester, weekly massage is possible, especially as issues like back pain or swelling increase. Many of my clients particularly appreciate mobile massage — they don't have to travel to a studio and can rest immediately afterwards."
+      }
+    },
+    "mobileBenefits": {
+      "meta": {
+        "title": "Benefits of Mobile Massage in Zurich | olegmassage.com",
+        "description": "Why mobile massage in Zurich is increasingly popular: no commute, relaxation at home, flexible scheduling. Professional quality without compromise."
+      },
+      "title": "Benefits of Mobile Massage",
+      "intro": "More and more people in Zurich are choosing mobile massage over studio visits. The reasons are compelling.",
+      "convenience": {
+        "title": "No Commute — Save Time",
+        "description": "In Zurich, just getting to a massage studio can take 30-60 minutes round trip. With mobile massage, you save all that time. I come to you with a professional massage table, high-quality oils, and all necessary equipment. Especially during rush hour and bad weather, this is an enormous advantage."
+      },
+      "comfort": {
+        "title": "Relaxation in Familiar Surroundings",
+        "description": "In your own home, it's easier to fully relax. No unfamiliar environment, no strange sounds, no waiting in a reception area. After the massage, you can go straight to your sofa or bed — the relaxation doesn't fade on the journey home."
+      },
+      "hygiene": {
+        "title": "Hygiene and Cleanliness",
+        "description": "I bring fresh towels, sanitized equipment, and new oils to every session. You benefit from the hygiene of your own home combined with professional standards. After the massage, I leave your space exactly as I found it."
+      },
+      "flexibility": {
+        "title": "Flexible Scheduling",
+        "description": "Massage studios have fixed opening hours. I offer appointments Monday through Sunday, 08:00 to 20:00 — including evenings and weekends. Perfect for professionals with packed schedules or families who need flexible timing."
+      },
+      "aftercare": {
+        "title": "Optimal Aftercare",
+        "description": "An often underestimated benefit: after a mobile massage, you can rest immediately. Drink a glass of water, lie down, fall asleep. No driving, no subway, no journey home. The therapeutic effects of the massage can unfold to their full potential."
+      },
+      "zurich": {
+        "title": "Mobile Massage in the Zurich Region",
+        "description": "I offer mobile massage throughout Zurich, along Lake Zurich, and in the surrounding cantons. From Kreis 1 to Kreis 12, from Meilen to Wadenswil, from Schwyz to Rapperswil — I come to you. As a winner of the Swiss Massage Championship 2026, I guarantee professional quality at the highest level, right at your doorstep."
+      }
     }
   },
   "pricing": {
@@ -1340,7 +1508,7 @@
       },
       "whatToExpect": {
         "title": "What to Expect from a Session",
-        "description": "Swedish massage combines gentle, rhythmic techniques with deeper pressure on problem areas. The treatment is ideal for people with stressful lifestyles, sedentary work, and anyone seeking quality recovery and regular body care."
+        "description": "The session begins with a brief discussion of your current concerns and preferences. I then work with the five classic Swedish massage techniques: effleurage (gentle stroking), petrissage (kneading), friction, tapotement (tapping), and vibration. The treatment follows a proven sequence — from the back through the legs to the arms and neck.\n\nThe pressure is individually adjusted to your sensitivity. Most clients find the massage pleasantly relaxing with a soothing deep effect. After the session, you'll feel light and released. Mild muscle soreness the next day is possible but rare — Swedish massage is gentler than sports massage.\n\nI use high-quality, natural massage oils without artificial fragrances. For sensitive skin or allergies, I adjust the products accordingly. I bring my professional massage table — you only need to prepare two large towels.\n\nMany clients notice a clear improvement in tension and sleep quality after just the first session. For lasting results with chronic issues, I recommend a cycle of 4-6 sessions."
       },
       "idealFor": {
         "title": "Who is Swedish Massage for?",
@@ -1369,7 +1537,7 @@
       },
       "whatToExpect": {
         "title": "What to Expect from a Session",
-        "description": "Classical massage includes gentle yet deep techniques that work all major muscle groups. The session begins with warming up the tissues and gradually transitions to deeper techniques. Professional oils selected for your skin type are used."
+        "description": "The classical massage begins with gentle tissue warming through stroking movements. Gradually, I transition to deeper techniques — kneading, rubbing, and targeted pressure point work. Each muscle group is systematically treated: back, shoulders, neck, arms, and legs. I continuously adjust the intensity based on your feedback.\n\nThe treatment feels soothing and releasing. At particularly tense spots, you may feel brief, pleasant pressure pain — this is a sign that the tension is releasing. After the massage, you'll feel relaxed and more mobile. Mild muscle soreness the following day is normal with severe tension and subsides quickly.\n\nI work with professional massage oils tailored to your skin type. When needed, I also use warming oils for particularly tense areas. All equipment — massage table, oils, fresh covers — I bring with me.\n\nMany clients report noticeable relief from neck and back pain after just the first session. For chronic issues, the full effect becomes apparent after 3-4 regular sessions."
       },
       "idealFor": {
         "title": "Who is Classical Massage for?",
@@ -1398,7 +1566,7 @@
       },
       "whatToExpect": {
         "title": "What to Expect from a Session",
-        "description": "Sports massage combines deep tissue techniques with targeted work on problem areas. As a former Olympic gymnast, I understand the needs of active individuals. The treatment is adapted to your training schedule – whether for preparation or recovery."
+        "description": "As a former Olympic gymnast, I understand the needs of a strained body from personal experience. The sports massage begins with an analysis of your current training load and problem areas. Then I work specifically with deep tissue techniques, trigger point therapy, and fascial work on the affected muscle groups.\n\nSports massage is more intense than a classical massage. At tense spots, the pressure may be felt as brief, releasing pain — I communicate constantly with you and adjust the intensity. After the treatment, your muscles feel released and more mobile. Mild soreness the next day is normal and shows that the deep layers were reached.\n\nI use special sports massage oils that can have warming or cooling effects — depending on your needs. For acute injuries, I work without oil using targeted mobilisation techniques. My massage table is suitable for all body sizes and weight classes.\n\nThe effect is immediately noticeable: more mobility and less tension. For optimal athletic performance, I recommend regular sessions as a fixed part of your training plan — before competitions for preparation, afterwards for recovery."
       },
       "idealFor": {
         "title": "Who is Sports Massage for?",
@@ -1427,7 +1595,7 @@
       },
       "whatToExpect": {
         "title": "What to Expect from a Session",
-        "description": "Intensive, dynamic techniques work on deep tissue layers. The massage stimulates lymph flow and helps the body eliminate excess fluid. You'll feel a sense of lightness after the very first session. For optimal results, I recommend a course of 8-12 sessions."
+        "description": "The anti-cellulite massage uses intensive, dynamic techniques that specifically target the deep tissue layers. I work with vigorous kneading, rolling, and suction movements that activate lymph flow and strongly stimulate circulation in the affected areas. Typical treatment zones are thighs, buttocks, abdomen, and upper arms.\n\nThe massage is more intense than a relaxation massage — you'll feel noticeable pressure and vigorous tissue work. This is intentional and necessary for the effect. The skin may be slightly reddened after treatment, which subsides within a few hours. Bruising is rare with proper technique.\n\nI use special anti-cellulite oils with circulation-boosting ingredients. Additionally, I use cupping glasses when needed to enhance the effect. Between sessions, I recommend drinking plenty of water and light exercise.\n\nFirst results — a feeling of lightness and firmer skin — are noticeable after the very first session. Visible changes in skin appearance show after 6-8 sessions. For optimal results, I recommend a course of 10-12 sessions combined with healthy nutrition and exercise."
       },
       "idealFor": {
         "title": "Who is Anti-Cellulite Massage for?",
@@ -1456,7 +1624,7 @@
       },
       "whatToExpect": {
         "title": "What to Expect from a Session",
-        "description": "All techniques are performed gently and in a comfortable side-lying position. I use special cushions for optimal comfort and natural oils without artificial additives. The massage is safe from the second trimester onwards and helps you enjoy this special time in a relaxed way."
+        "description": "Your safety and wellbeing come first. The pregnancy massage is performed exclusively in a comfortable side-lying position — I use special positioning cushions that optimally support your belly, back, and legs. This allows you to fully relax without any pressure on your abdomen.\n\nThe techniques are gentle and flowing, with special focus on typical problem areas during pregnancy: lower back, hips, swollen legs, and tense shoulders. The pressure is noticeably lighter than a classical massage. No pressure points that could trigger contractions are stimulated. The massage is safe from the second trimester onwards.\n\nI exclusively use natural, fragrance-free oils without essential additives — safe for you and your baby. All products are dermatologically tested and hypoallergenic. Please inform me about any special sensitivities or complications.\n\nMost expectant mothers report immediate relief from back pain and swollen legs. Sleep often improves after just the first session. Regular massages in the third trimester can make the overall pregnancy experience noticeably more comfortable."
       },
       "idealFor": {
         "title": "Who is Pregnancy Massage for?",
@@ -1558,5 +1726,104 @@
         "description": "Give yourself time after the massage — don't schedule stressful appointments afterwards. Dim the lights and play soft music to enhance the atmosphere. Put your phone on silent and enjoy complete peace."
       }
     }
+  },
+  "serviceTestimonials": {
+    "title": "What our clients say",
+    "swedish": [
+      {
+        "quote": "The Swedish massage with Oleg was a completely different experience than at a studio. Being at home, I could relax immediately afterwards and the effect lasted much longer. I've been sleeping noticeably better since.",
+        "author": "Claudia R.",
+        "location": "Küsnacht"
+      },
+      {
+        "quote": "As Swiss champion in Swedish massage, you can immediately feel the difference. Every stroke is perfect, the rhythm is consistent and the pressure intensity is just right.",
+        "author": "Markus B.",
+        "location": "Meilen"
+      }
+    ],
+    "classical": [
+      {
+        "quote": "Since I've been getting regular classical massage from Oleg, my chronic neck pain from office work has almost completely disappeared. My doctor is impressed.",
+        "author": "Stefan L.",
+        "location": "Wädenswil"
+      },
+      {
+        "quote": "I'm 68 and had severe back problems. After six sessions of classical massage, I can work in the garden again without pain. Very empathetic and professional.",
+        "author": "Monika H.",
+        "location": "Stäfa"
+      }
+    ],
+    "sports": [
+      {
+        "quote": "I train CrossFit five times a week. Oleg's sports massage has completely changed my recovery — less soreness, more mobility and zero downtime.",
+        "author": "Patrick W.",
+        "location": "Zürich"
+      },
+      {
+        "quote": "As a former Olympic gymnast, I know what a good sports massage should feel like. Oleg understands an athlete's body like no one else. Absolutely recommended.",
+        "author": "Nadja S.",
+        "location": "Horgen"
+      }
+    ],
+    "anticellulite": [
+      {
+        "quote": "After 10 sessions of anti-cellulite massage, I can see a real difference on my thighs. Combined with exercise, it has truly produced visible results.",
+        "author": "Laura M.",
+        "location": "Thalwil"
+      },
+      {
+        "quote": "I was sceptical at first, but the results speak for themselves. My skin is firmer and water retention has noticeably decreased. Oleg also explains exactly what he's doing and why.",
+        "author": "Sabine K.",
+        "location": "Rapperswil"
+      }
+    ],
+    "pregnancy": [
+      {
+        "quote": "In my third trimester, I could barely sleep because of back pain. After the pregnancy massage with Oleg, I finally slept through the night again. So gentle and caring!",
+        "author": "Nina F.",
+        "location": "Männedorf"
+      },
+      {
+        "quote": "As a midwife, I recommend Oleg to my patients. He knows the anatomy well, works safely and his patients feel completely comfortable. Mobile massage is ideal for pregnant women.",
+        "author": "Dr. Sandra W.",
+        "location": "Zürich"
+      }
+    ],
+    "children": [
+      {
+        "quote": "Our son (4 years) has ADHD and difficulty falling asleep. Since Oleg has been giving him regular children's massage, he falls asleep much faster. Oleg is so loving with children.",
+        "author": "Meier Family",
+        "location": "Erlenbach"
+      },
+      {
+        "quote": "My daughter had leg pain after a growth spurt. Oleg helped her with gentle massage and showed me techniques I can use at home. Very patient and child-friendly.",
+        "author": "Jelena P.",
+        "location": "Adliswil"
+      }
+    ],
+    "cupping": [
+      {
+        "quote": "I had a stubborn trigger point in my shoulder blade that no regular massage could resolve. One cupping session with Oleg and it was gone. Incredibly effective.",
+        "author": "Daniel T.",
+        "location": "Zollikon"
+      },
+      {
+        "quote": "Cupping combined with classical massage is the perfect combo for me. The red circles fade after a few days, but the relief lasts for weeks.",
+        "author": "Irina V.",
+        "location": "Pfäffikon"
+      }
+    ],
+    "relaxation": [
+      {
+        "quote": "After a burnout, the relaxation massage with Oleg became my weekly ritual. It helped me calm down and find myself again. Better than any therapy.",
+        "author": "Michael G.",
+        "location": "Herrliberg"
+      },
+      {
+        "quote": "I give my husband a relaxation massage with Oleg every month. He comes home completely transformed every time — calm, relaxed and in a great mood. Best gift ever.",
+        "author": "Andrea Z.",
+        "location": "Rüschlikon"
+      }
+    ]
   }
 }
