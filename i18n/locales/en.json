@@ -35,6 +35,7 @@
     "about": "About",
     "services": "Services",
     "prices": "Prices",
+    "guide": "Guide",
     "certificates": "Certificates",
     "faq": "Questions"
   },
@@ -1176,6 +1177,14 @@
   },
   "guide": {
     "subtitle": "Guide",
+    "index": {
+      "title": "Massage Guide",
+      "description": "Helpful tips and information about massage. Find the right massage for your needs, learn what to expect at your first massage, and why mobile massage is the better choice.",
+      "meta": {
+        "title": "Massage Guide | Tips & Information | olegmassage.com",
+        "description": "Helpful guide articles about massage. Which massage is right for me? What to expect at your first massage? Mobile massage vs. studio."
+      }
+    },
     "whichMassage": {
       "meta": {
         "title": "Which Massage is Right for Me? | Guide | olegmassage.com",

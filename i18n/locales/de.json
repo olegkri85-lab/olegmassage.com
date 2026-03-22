@@ -35,6 +35,7 @@
     "about": "Über mich",
     "services": "Leistungen",
     "prices": "Preise",
+    "guide": "Ratgeber",
     "certificates": "Zertifikate",
     "faq": "Fragen"
   },
@@ -1176,6 +1177,14 @@
   },
   "guide": {
     "subtitle": "Ratgeber",
+    "index": {
+      "title": "Massage Ratgeber",
+      "description": "Hilfreiche Tipps und Informationen rund um Massage. Finden Sie die richtige Massage für Ihre Bedürfnisse, erfahren Sie, was Sie bei Ihrer ersten Massage erwartet, und warum mobile Massage die bessere Wahl ist.",
+      "meta": {
+        "title": "Massage Ratgeber | Tipps & Informationen | olegmassage.com",
+        "description": "Hilfreiche Ratgeber-Artikel rund um Massage. Welche Massage passt zu mir? Was erwartet mich bei der ersten Massage? Mobile Massage vs. Studio."
+      }
+    },
     "whichMassage": {
       "meta": {
         "title": "Welche Massage passt zu mir? | Ratgeber | olegmassage.com",
