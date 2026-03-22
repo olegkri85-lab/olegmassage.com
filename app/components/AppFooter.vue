@@ -16,19 +16,39 @@
     </div>
 
     <!-- Service Areas -->
-    <div class="mb-12">
-      <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-4">
-        {{ t("footer.serviceArea") }}
-      </h3>
-      <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-x-6 gap-y-1">
-        <NuxtLink
-          v-for="loc in [...locationCol1, ...locationCol2]"
-          :key="loc.to"
-          :to="localePath(loc.to)"
-          class="text-gray-900 !no-underline hover:underline whitespace-nowrap"
-        >
-          {{ loc.name }}
-        </NuxtLink>
+    <div class="mb-12 space-y-6">
+      <div>
+        <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-3">
+          Massage in Zürich
+        </h3>
+        <div class="flex flex-wrap gap-x-1 gap-y-0.5 text-sm">
+          <template v-for="(loc, i) in kreise" :key="loc.to">
+            <NuxtLink :to="localePath(loc.to)" class="text-gray-700 !no-underline hover:underline hover:text-gray-900 whitespace-nowrap">{{ loc.name }}</NuxtLink>
+            <span v-if="i < kreise.length - 1" class="text-gray-400">|</span>
+          </template>
+        </div>
+      </div>
+      <div>
+        <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-3">
+          Massage am Zürichsee
+        </h3>
+        <div class="flex flex-wrap gap-x-1 gap-y-0.5 text-sm">
+          <template v-for="(loc, i) in zuerichsee" :key="loc.to">
+            <NuxtLink :to="localePath(loc.to)" class="text-gray-700 !no-underline hover:underline hover:text-gray-900 whitespace-nowrap">{{ loc.name }}</NuxtLink>
+            <span v-if="i < zuerichsee.length - 1" class="text-gray-400">|</span>
+          </template>
+        </div>
+      </div>
+      <div>
+        <h3 class="font-display text-lg md:text-xl lg:text-2xl mb-3">
+          Massage in der Region
+        </h3>
+        <div class="flex flex-wrap gap-x-1 gap-y-0.5 text-sm">
+          <template v-for="(loc, i) in regions" :key="loc.to">
+            <NuxtLink :to="localePath(loc.to)" class="text-gray-700 !no-underline hover:underline hover:text-gray-900 whitespace-nowrap">{{ loc.name }}</NuxtLink>
+            <span v-if="i < regions.length - 1" class="text-gray-400">|</span>
+          </template>
+        </div>
       </div>
     </div>
 
@@ -120,7 +140,7 @@
   <div
     class="px-8 xl:px-16 text-center text-white bg-black text-xs md:text-sm py-2"
   >
-    made by Dix Consulting
+    made by <a href="https://dix.consulting/" target="_blank" rel="noopener noreferrer" class="text-white hover:underline">Dix Consulting</a>
   </div>
 </template>
 
@@ -128,8 +148,23 @@
 const { t } = useI18n();
 const localePath = useLocalePath();
 
-const locationCol1 = [
+const kreise = [
   { to: "/locations/zurich", name: "Zürich" },
+  { to: "/locations/kreis-1", name: "Kreis 1 (Altstadt)" },
+  { to: "/locations/kreis-2", name: "Kreis 2 (Enge)" },
+  { to: "/locations/kreis-3", name: "Kreis 3 (Wiedikon)" },
+  { to: "/locations/kreis-4", name: "Kreis 4 (Aussersihl)" },
+  { to: "/locations/kreis-5", name: "Kreis 5 (Industrie)" },
+  { to: "/locations/kreis-6", name: "Kreis 6 (Unterstrass)" },
+  { to: "/locations/kreis-7", name: "Kreis 7 (Fluntern)" },
+  { to: "/locations/kreis-8", name: "Kreis 8 (Seefeld)" },
+  { to: "/locations/kreis-9", name: "Kreis 9 (Altstetten)" },
+  { to: "/locations/kreis-10", name: "Kreis 10 (Höngg)" },
+  { to: "/locations/kreis-11", name: "Kreis 11 (Oerlikon)" },
+  { to: "/locations/kreis-12", name: "Kreis 12 (Schwamendingen)" },
+];
+
+const zuerichsee = [
   { to: "/locations/meilen", name: "Meilen" },
   { to: "/locations/horgen", name: "Horgen" },
   { to: "/locations/kuesnacht", name: "Küsnacht" },
@@ -137,22 +172,27 @@ const locationCol1 = [
   { to: "/locations/kilchberg", name: "Kilchberg" },
   { to: "/locations/waedenswil", name: "Wädenswil" },
   { to: "/locations/staefa", name: "Stäfa" },
-];
-
-const locationCol2 = [
   { to: "/locations/adliswil", name: "Adliswil" },
   { to: "/locations/erlenbach", name: "Erlenbach" },
   { to: "/locations/herrliberg", name: "Herrliberg" },
+  { to: "/locations/rueschlikon", name: "Rüschlikon" },
+  { to: "/locations/zollikon", name: "Zollikon" },
+  { to: "/locations/maennedorf", name: "Männedorf" },
+  { to: "/locations/uetikon", name: "Uetikon am See" },
+  { to: "/locations/oetwil", name: "Oetwil am See" },
+  { to: "/locations/richterswil", name: "Richterswil" },
+  { to: "/locations/au", name: "Au ZH" },
+];
+
+const regions = [
   { to: "/locations/schwyz", name: "Schwyz" },
   { to: "/locations/luzern", name: "Luzern" },
   { to: "/locations/zug", name: "Zug" },
   { to: "/locations/aargau", name: "Aargau" },
   { to: "/locations/rapperswil-jona", name: "Rapperswil-Jona" },
-  { to: "/locations/rueschlikon", name: "Rüschlikon" },
-  { to: "/locations/zollikon", name: "Zollikon" },
-  { to: "/locations/oerlikon", name: "Oerlikon" },
-  { to: "/locations/hoengg", name: "Höngg" },
-  { to: "/locations/wipkingen", name: "Wipkingen" },
+  { to: "/locations/wollerau", name: "Wollerau" },
+  { to: "/locations/freienbach", name: "Freienbach" },
+  { to: "/locations/pfaeffikon", name: "Pfäffikon SZ" },
 ];
 </script>
 

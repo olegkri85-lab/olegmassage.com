@@ -733,6 +733,366 @@
       "services": {
         "title": "Available massage types in Wipkingen"
       }
+    },
+    "kreis1": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 1 (Altstadt) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 1 (Altstadt). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 1",
+      "description": "Professional mobile massage service in Zürich Kreis 1 (Altstadt, Lindenhof, City). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 1?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 1",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 1" }
+    },
+    "kreis2": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 2 (Enge/Wollishofen) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 2 (Enge/Wollishofen). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 2",
+      "description": "Professional mobile massage service in Zürich Kreis 2 (Enge, Wollishofen, Leimbach). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 2?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 2",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 2" }
+    },
+    "kreis3": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 3 (Wiedikon) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 3 (Wiedikon). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 3",
+      "description": "Professional mobile massage service in Zürich Kreis 3 (Wiedikon, Friesenberg, Alt-Wiedikon). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 3?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 3",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 3" }
+    },
+    "kreis4": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 4 (Aussersihl) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 4 (Aussersihl). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 4",
+      "description": "Professional mobile massage service in Zürich Kreis 4 (Aussersihl, Hard, Langstrasse). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 4?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 4",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 4" }
+    },
+    "kreis5": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 5 (Industriequartier) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 5 (Industriequartier). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 5",
+      "description": "Professional mobile massage service in Zürich Kreis 5 (Industriequartier, Gewerbeschule, Escher Wyss). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 5?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 5",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 5" }
+    },
+    "kreis6": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 6 (Unterstrass) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 6 (Unterstrass). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 6",
+      "description": "Professional mobile massage service in Zürich Kreis 6 (Unterstrass, Oberstrass). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 6?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 6",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 6" }
+    },
+    "kreis7": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 7 (Fluntern/Hottingen) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 7 (Fluntern/Hottingen). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 7",
+      "description": "Professional mobile massage service in Zürich Kreis 7 (Fluntern, Hottingen, Hirslanden, Witikon). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 7?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 7",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 7" }
+    },
+    "kreis8": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 8 (Seefeld/Riesbach) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 8 (Seefeld/Riesbach). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 8",
+      "description": "Professional mobile massage service in Zürich Kreis 8 (Seefeld, Riesbach, Mühlebach). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 8?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 8",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 8" }
+    },
+    "kreis9": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 9 (Altstetten/Albisrieden) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 9 (Altstetten/Albisrieden). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 9",
+      "description": "Professional mobile massage service in Zürich Kreis 9 (Altstetten, Albisrieden). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 9?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 9",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 9" }
+    },
+    "kreis10": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 10 (Höngg/Wipkingen) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 10 (Höngg/Wipkingen). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 10",
+      "description": "Professional mobile massage service in Zürich Kreis 10 (Höngg, Wipkingen). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 10?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 10",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 10" }
+    },
+    "kreis11": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 11 (Oerlikon/Seebach/Affoltern) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 11 (Oerlikon/Seebach/Affoltern). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 11",
+      "description": "Professional mobile massage service in Zürich Kreis 11 (Oerlikon, Seebach, Affoltern). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 11?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 11",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 11" }
+    },
+    "kreis12": {
+      "meta": {
+        "title": "Mobile Massage Zürich Kreis 12 (Schwamendingen) | At Your Home",
+        "description": "Professional mobile massage in Zürich Kreis 12 (Schwamendingen). Swedish Massage, Sports Massage, Classical Massage at your home. 1st Place Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Zürich Kreis 12",
+      "description": "Professional mobile massage service in Zürich Kreis 12 (Schwamendingen, Hirzenbach, Saatlen). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Kreis 12?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Kreis 12",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Kreis 12" }
+    },
+    "maennedorf": {
+      "meta": {
+        "title": "Mobile Massage Männedorf | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Männedorf on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Männedorf",
+      "description": "Professional mobile massage service in Männedorf and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Männedorf?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Männedorf",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Männedorf" }
+    },
+    "uetikon": {
+      "meta": {
+        "title": "Mobile Massage Uetikon am See | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Uetikon am See. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Uetikon am See",
+      "description": "Professional mobile massage service in Uetikon am See and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Uetikon am See?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Uetikon am See",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Uetikon am See" }
+    },
+    "oetwil": {
+      "meta": {
+        "title": "Mobile Massage Oetwil am See | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Oetwil am See. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Oetwil am See",
+      "description": "Professional mobile massage service in Oetwil am See and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Oetwil am See?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Oetwil am See",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Oetwil am See" }
+    },
+    "richterswil": {
+      "meta": {
+        "title": "Mobile Massage Richterswil | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Richterswil on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Richterswil",
+      "description": "Professional mobile massage service in Richterswil and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Richterswil?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Richterswil",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Richterswil" }
+    },
+    "wollerau": {
+      "meta": {
+        "title": "Mobile Massage Wollerau | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Wollerau. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Wollerau",
+      "description": "Professional mobile massage service in Wollerau and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Wollerau?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Wollerau",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Wollerau" }
+    },
+    "freienbach": {
+      "meta": {
+        "title": "Mobile Massage Freienbach | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Freienbach. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Freienbach",
+      "description": "Professional mobile massage service in Freienbach and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Freienbach?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Freienbach",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Freienbach" }
+    },
+    "pfaeffikon": {
+      "meta": {
+        "title": "Mobile Massage Pfäffikon SZ | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Pfäffikon SZ. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Pfäffikon SZ",
+      "description": "Professional mobile massage service in Pfäffikon SZ and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Pfäffikon?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Pfäffikon",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Pfäffikon" }
+    },
+    "au": {
+      "meta": {
+        "title": "Mobile Massage Au ZH | Professional Massage at Your Home",
+        "description": "Professional mobile massage in Au ZH on Lake Zurich. Swedish Massage, Classical Massage, Sports Massage at your home. Winner of Swiss Massage Championship 2026."
+      },
+      "subtitle": "Mobile Massage Service",
+      "title": "Massage Au ZH",
+      "description": "Professional mobile massage service in Au ZH and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "why": { "title": "Why choose mobile massage in Au?" },
+      "benefits": {
+        "1": "No travel needed - I come to you in Au",
+        "2": "Relax in your familiar surroundings",
+        "3": "Flexible scheduling, including evenings and weekends",
+        "4": "Professional equipment and premium oils included",
+        "5": "1st Place Swiss Massage Championship 2026 — Swedish Massage"
+      },
+      "services": { "title": "Available massage types in Au" }
     }
   },
   "certificates": {
