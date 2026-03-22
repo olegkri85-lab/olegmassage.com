@@ -18,7 +18,7 @@
     <section
       class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
     >
-      <div class="max-w-4xl mx-auto">
+      <div class="max-w-2xl">
         <div class="space-y-4">
           <div
             v-for="(item, index) in faqItems"

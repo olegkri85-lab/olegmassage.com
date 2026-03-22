@@ -21,6 +21,10 @@
       "title": "Data Protection | olegmassage.com",
       "description": "Data protection declaration for olegmassage.com mobile massage service. Learn how we protect your personal data."
     },
+    "certificates": {
+      "title": "Certificates & Awards | olegmassage.com",
+      "description": "Professional certificates and awards. 1st Place at Swiss Massage Championship 2026 in Swedish Massage category. Certified massage therapist."
+    },
     "faq": {
       "title": "FAQ - Frequently Asked Questions | olegmassage.com",
       "description": "Answers to frequently asked questions about mobile massage service in Zürichsee region. Booking, pricing, process and more."
@@ -30,6 +34,7 @@
     "home": "Home",
     "about": "About",
     "services": "Services",
+    "certificates": "Certificates",
     "faq": "Questions"
   },
   "footer": {
@@ -58,12 +63,18 @@
     "subtitle": "Zurich Lake Region",
     "description": "I come to you with a professional massage table and all necessary equipment. Relax in your familiar surroundings while I provide you with a first-class massage – without any commute or parking hassles.",
     "cta": "Book Appointment",
-    "ctaButton": "Get a Massage now"
+    "ctaButton": "Get a Massage now",
+    "award": "1st Place — Swiss Massage Championship 2026"
   },
   "services": {
     "title": "Massage Services",
     "subtitle": "Services",
     "description": "Discover our professional massage treatments tailored to your specific needs. From classical relaxation to targeted sports massage – I bring the perfect treatment to your home.",
+    "learnMore": "Learn more",
+    "swedish": {
+      "title": "Swedish Massage",
+      "description": "Swedish massage is a classic therapeutic treatment aimed at deep relaxation, recovery, and harmonizing the body. Gentle, rhythmic techniques combined with deeper pressure help release accumulated tension, improve circulation, and restore the body's natural state of balance."
+    },
     "classical": {
       "title": "Classical Massage",
       "description": "Ideal when your body needs rest. Gentle yet deep movements relieve tension, improve circulation, and restore lightness. After a session, you'll feel as if you've shed a few pounds of fatigue – straighter back, freer breathing, brighter mood. Classical massage suits everyone who wants to restore energy and feel the balance between body and mind."
@@ -378,6 +389,220 @@
         "5": "Experienced therapist with Olympic background"
       },
       "services": { "title": "Available massage types in Rapperswil-Jona" }
+    }
+  },
+  "certificates": {
+    "title": "Certificates & Awards",
+    "subtitle": "Professional Qualifications",
+    "championship": {
+      "title": "Swiss Massage Championship 2026",
+      "badge": "1st Place — Swedish Massage"
+    },
+    "training": {
+      "title": "Professional Training"
+    },
+    "smc1stPlace": {
+      "title": "1st Place — Swedish Massage",
+      "description": "Awarded 1st Place in the Swedish Massage category at the Swiss Massage Championship 2026 in Zurich, Switzerland.",
+      "detailsTitle": "Award Details",
+      "detail1": "Competition: Swiss Massage Championship (SMC) 2026",
+      "detail2": "Category: Swedish Massage",
+      "detail3": "Result: 1st Place",
+      "detail4": "Date: 15 March 2026, Zurich, Switzerland",
+      "aboutTitle": "About the Competition",
+      "aboutText": "The Swiss Massage Championship is organized by the International Association of Facial Massage and Wellness (IAFMW) and the IMA Association. The competition brings together the best massage therapists who demonstrate their skills before an international jury. The 1st place confirms the highest level of professionalism and expertise in Swedish Massage.",
+      "meta": {
+        "title": "1st Place Swiss Massage Championship 2026 | olegmassage.com",
+        "description": "1st Place in the Swedish Massage category at the Swiss Massage Championship 2026 in Zurich. Certified massage therapist with Olympic background."
+      }
+    },
+    "smcParticipation": {
+      "title": "Certificate of Participation — SMC 2026",
+      "description": "Official recognition of participation at the Swiss Massage Championship 2026 in Zurich.",
+      "detailsTitle": "Certificate Details",
+      "detail1": "Event: Swiss Massage Championship 2026",
+      "detail2": "Date: 15 March 2026, Zurich, Switzerland",
+      "detail3": "Issued by: IAFMW-Association and IMA Association",
+      "meta": {
+        "title": "Certificate of Participation SMC 2026 | olegmassage.com",
+        "description": "Official participation certificate at the Swiss Massage Championship 2026 in Zurich, Switzerland."
+      }
+    },
+    "smcWorkshops": {
+      "title": "Workshops Day — SMC 2026",
+      "description": "Successful completion of the special training course «Workshops Day with the Judges of SMC 2026» at the Swiss Academy Massage & Aesthetics.",
+      "detailsTitle": "Course Details",
+      "detail1": "Course: Workshops Day with the Judges of SMC 2026",
+      "detail2": "Provider: Swiss Academy Massage & Aesthetics (SA & MA)",
+      "detail3": "Date: 14 March 2026",
+      "meta": {
+        "title": "SMC 2026 Workshops Day Certificate | olegmassage.com",
+        "description": "Certificate for completing the Workshops Day with the Judges of Swiss Massage Championship 2026."
+      }
+    },
+    "profmedClassic": {
+      "title": "Classic Massage — PROFMED",
+      "description": "Theoretical and practical course «Classic massage with the basics of human anatomy and physiology» at the School of professional massage PROFMED. 70 academic hours.",
+      "detailsTitle": "Course Details",
+      "detail1": "Program: Classic massage with the basics of human anatomy and physiology",
+      "detail2": "Duration: 70 academic hours (theory and practice)",
+      "detail3": "School: PROFMED — School of professional massage",
+      "detail4": "Completed: March 10, 2022",
+      "meta": {
+        "title": "Classic Massage Certificate — PROFMED | olegmassage.com",
+        "description": "Certificate for classic massage with the basics of anatomy and physiology. 70 academic hours at the PROFMED school."
+      }
+    },
+    "profmedAnatomy": {
+      "title": "Anatomy & Physiology — PROFMED",
+      "description": "Theoretical course «Anatomy and Physiology» at the School of professional massage PROFMED. 26 academic hours.",
+      "detailsTitle": "Course Details",
+      "detail1": "Program: Anatomy and Physiology",
+      "detail2": "Duration: 26 academic hours",
+      "detail3": "School: PROFMED — School of professional massage, Completed: February 24, 2022",
+      "meta": {
+        "title": "Anatomy & Physiology Certificate — PROFMED | olegmassage.com",
+        "description": "Certificate for Anatomy and Physiology. 26 academic hours at the PROFMED school."
+      }
+    }
+  },
+  "servicePages": {
+    "relatedServices": "Other Massage Types",
+    "swedish": {
+      "meta": {
+        "title": "Swedish Massage Zurich | Deep Relaxation and Recovery",
+        "description": "Professional Swedish massage at your home in Zurich. Deep relaxation, recovery, improved circulation. 100 CHF (60 min) • 150 CHF (90 min). Book now!"
+      },
+      "benefits": {
+        "title": "Benefits of Swedish Massage",
+        "1": "Deep relaxation of muscles and nervous system",
+        "2": "Improved blood circulation and tissue nourishment",
+        "3": "Reduced stress and inner tension levels",
+        "4": "Improved sleep quality and overall well-being"
+      },
+      "whatToExpect": {
+        "title": "What to Expect from a Session",
+        "description": "Swedish massage combines gentle, rhythmic techniques with deeper pressure on problem areas. The treatment is ideal for people with stressful lifestyles, sedentary work, and anyone seeking quality recovery and regular body care."
+      }
+    },
+    "classical": {
+      "meta": {
+        "title": "Classical Massage Zurich | Professional Relaxing Massage Therapy",
+        "description": "Professional classical massage at your home in Zurich. Relieves tension, improves circulation, restores energy. 100 CHF (60 min) • 150 CHF (90 min). Book now!"
+      },
+      "benefits": {
+        "title": "Benefits of Classical Massage",
+        "1": "Relieves muscle tension and spasms",
+        "2": "Improves blood circulation and lymph flow",
+        "3": "Promotes deep relaxation",
+        "4": "Restores energy and vitality"
+      },
+      "whatToExpect": {
+        "title": "What to Expect from a Session",
+        "description": "Classical massage includes gentle yet deep techniques that work all major muscle groups. The session begins with warming up the tissues and gradually transitions to deeper techniques. Professional oils selected for your skin type are used."
+      }
+    },
+    "sports": {
+      "meta": {
+        "title": "Sports Massage Zurich | Professional Recovery for Athletes",
+        "description": "Sports massage at your home in Zurich. Enhances recovery, releases tension, increases flexibility. Perfect before and after training. 100 CHF (60 min) • 150 CHF (90 min)."
+      },
+      "benefits": {
+        "title": "Benefits of Sports Massage",
+        "1": "Accelerates muscle recovery after training",
+        "2": "Improves flexibility and range of motion",
+        "3": "Prevents injuries and overuse",
+        "4": "Enhances athletic performance"
+      },
+      "whatToExpect": {
+        "title": "What to Expect from a Session",
+        "description": "Sports massage combines deep tissue techniques with targeted work on problem areas. As a former Olympic gymnast, I understand the needs of active individuals. The treatment is adapted to your training schedule – whether for preparation or recovery."
+      }
+    },
+    "anticellulite": {
+      "meta": {
+        "title": "Anti-Cellulite Massage Zurich | Effective Body Firming",
+        "description": "Anti-cellulite massage at your home in Zurich. Activates metabolism, improves skin appearance, firms tissue. Visible results after just a few sessions. Book now!"
+      },
+      "benefits": {
+        "title": "Benefits of Anti-Cellulite Massage",
+        "1": "Activates metabolism and fat breakdown",
+        "2": "Improves lymphatic drainage and detoxification",
+        "3": "Firms and smooths the skin",
+        "4": "Visibly reduces cellulite and water retention"
+      },
+      "whatToExpect": {
+        "title": "What to Expect from a Session",
+        "description": "Intensive, dynamic techniques work on deep tissue layers. The massage stimulates lymph flow and helps the body eliminate excess fluid. You'll feel a sense of lightness after the very first session. For optimal results, I recommend a course of 8-12 sessions."
+      }
+    },
+    "pregnancy": {
+      "meta": {
+        "title": "Pregnancy Massage Zurich | Safe Relaxation for Expectant Mothers",
+        "description": "Gentle pregnancy massage at your home in Zurich. Relieves back pain, reduces swelling, improves sleep. Safe from the 2nd trimester onwards."
+      },
+      "benefits": {
+        "title": "Benefits of Pregnancy Massage",
+        "1": "Relieves back and leg pain",
+        "2": "Reduces swelling and water retention",
+        "3": "Improves sleep quality and well-being",
+        "4": "Promotes relaxation and connection with baby"
+      },
+      "whatToExpect": {
+        "title": "What to Expect from a Session",
+        "description": "All techniques are performed gently and in a comfortable side-lying position. I use special cushions for optimal comfort and natural oils without artificial additives. The massage is safe from the second trimester onwards and helps you enjoy this special time in a relaxed way."
+      }
+    },
+    "children": {
+      "meta": {
+        "title": "Children's Massage Zurich | Loving Health Care",
+        "description": "Children's massage at your home in Zurich. Promotes healthy development, improves sleep and digestion. Playful and gentle. For babies and children of all ages."
+      },
+      "benefits": {
+        "title": "Benefits of Children's Massage",
+        "1": "Supports muscle and bone development",
+        "2": "Improves sleep and digestion",
+        "3": "Strengthens immune system and health",
+        "4": "Promotes emotional bonding and security"
+      },
+      "whatToExpect": {
+        "title": "What to Expect from a Session",
+        "description": "The massage is performed playfully and with great care. Everything happens at a pace that is comfortable for your child – without pressure or stress. You can be present during the session and also learn the techniques yourself to apply them at home."
+      }
+    },
+    "cupping": {
+      "meta": {
+        "title": "Cupping Massage Zurich | Traditional Therapy for Modern Problems",
+        "description": "Cupping massage at your home in Zurich. Relieves back pain, fights cellulite, improves circulation. Can be added to any massage (15 min)."
+      },
+      "benefits": {
+        "title": "Benefits of Cupping Massage",
+        "1": "Activates intensive circulation and regeneration",
+        "2": "Relieves chronic back and neck pain",
+        "3": "Effectively fights cellulite and water retention",
+        "4": "Releases deep muscle tension and trigger points"
+      },
+      "whatToExpect": {
+        "title": "What to Expect from a Session",
+        "description": "Vacuum cupping glasses create negative pressure that strongly stimulates circulation and releases tension. The method may leave marks (red circles) that disappear after a few days. Cupping can be performed as a standalone treatment or as a complement to other massages."
+      }
+    },
+    "relaxation": {
+      "meta": {
+        "title": "Relaxation Massage Zurich | Pure Recovery for Body and Mind",
+        "description": "Relaxation massage at your home in Zurich. Stress relief, mental calm, complete relaxation. Perfect after a long day. 100 CHF (60 min) • 150 CHF (90 min)."
+      },
+      "benefits": {
+        "title": "Benefits of Relaxation Massage",
+        "1": "Reduces stress and mental strain",
+        "2": "Promotes deep, restful sleep",
+        "3": "Brings inner peace and clarity",
+        "4": "Strengthens emotional well-being"
+      },
+      "whatToExpect": {
+        "title": "What to Expect from a Session",
+        "description": "Flowing, rhythmic movements with pleasant pressure create an atmosphere of complete relaxation. I use aromatic oils and gentle music to engage all senses. After an hour, you'll feel refreshed, centered, and ready to experience the world with renewed energy."
+      }
     }
   }
 }

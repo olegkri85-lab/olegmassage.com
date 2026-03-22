@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     "@nuxtjs/i18n",
     "@nuxtjs/sitemap",
     "@nuxtjs/seo",
+    "@nuxtjs/robots",
   ],
   site: {
     url: "https://olegmassage.com",

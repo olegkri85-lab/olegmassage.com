@@ -2,7 +2,7 @@
   <div class="container mx-auto bg-gray-200">
     <NuxtRouteAnnouncer />
     <NuxtLayout>
-      <NuxtPage />
+      <NuxtPage :key="$route.fullPath" />
     </NuxtLayout>
     <Analytics />
   </div>

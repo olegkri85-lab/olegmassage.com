@@ -1,6 +1,6 @@
 <template>
   <!-- Desktop Navigation -->
-  <nav class="hidden sm:flex gap-8 items-center">
+  <nav class="hidden lg:flex gap-8 items-center">
     <NuxtLink
       v-for="link in navLinks"
       :key="link.to"
@@ -15,7 +15,7 @@
   <!-- Mobile Navigation -->
   <button
     @click="isOpen = !isOpen"
-    class="sm:hidden flex flex-col gap-1.5 p-2"
+    class="lg:hidden flex flex-col gap-1.5 p-2"
     :aria-label="isOpen ? 'Close menu' : 'Open menu'"
   >
     <span
@@ -41,7 +41,7 @@
   >
     <div
       v-if="isOpen"
-      class="sm:hidden fixed inset-0 bg-black/50 z-40"
+      class="lg:hidden fixed inset-0 bg-black/50 z-40"
       @click="isOpen = false"
     ></div>
   </Transition>
@@ -55,7 +55,7 @@
   >
     <nav
       v-if="isOpen"
-      class="sm:hidden fixed top-0 right-0 bottom-0 w-64 bg-white z-50 p-8 flex flex-col gap-8"
+      class="lg:hidden fixed top-0 right-0 bottom-0 w-64 bg-white z-50 p-8 flex flex-col gap-8"
     >
       <button
         @click="isOpen = false"
@@ -92,6 +92,7 @@ const navLinks = [
   { to: "/", label: "nav.home" },
   { to: "/services", label: "nav.services" },
   { to: "/about", label: "nav.about" },
+  { to: "/certificates", label: "nav.certificates" },
   { to: "/faq", label: "nav.faq" },
 ];
 </script>

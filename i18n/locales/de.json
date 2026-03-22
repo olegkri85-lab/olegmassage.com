@@ -21,6 +21,10 @@
       "title": "Datenschutz | olegmassage.com",
       "description": "Datenschutzerklärung für olegmassage.com mobiler Massage-Service. Erfahren Sie, wie wir Ihre persönlichen Daten schützen."
     },
+    "certificates": {
+      "title": "Zertifikate & Auszeichnungen | olegmassage.com",
+      "description": "Professionelle Zertifikate und Auszeichnungen. 1. Platz Swiss Massage Championship 2026 in der Kategorie Schwedische Massage. Zertifizierter Massagetherapeut."
+    },
     "faq": {
       "title": "FAQ - Häufig gestellte Fragen | olegmassage.com",
       "description": "Antworten auf häufig gestellte Fragen zu mobilem Massageservice in der Region Zürichsee. Buchung, Preise, Ablauf und mehr."
@@ -30,6 +34,7 @@
     "home": "Start",
     "about": "Über mich",
     "services": "Leistungen",
+    "certificates": "Zertifikate",
     "faq": "Fragen"
   },
   "footer": {
@@ -58,12 +63,18 @@
     "subtitle": "Region Zürichsee",
     "description": "Ich komme zu Ihnen mit professioneller Massageliege und allem notwendigen Equipment. Entspannen Sie sich in vertrauter Umgebung, während ich Ihnen eine erstklassige Massage biete – ganz ohne Anfahrt oder Parkplatzsuche.",
     "cta": "Termin vereinbaren",
-    "ctaButton": "Jetzt Massage buchen"
+    "ctaButton": "Jetzt Massage buchen",
+    "award": "1. Platz — Swiss Massage Championship 2026"
   },
   "services": {
     "title": "Angebotene Massagen",
     "subtitle": "Leistungen",
     "description": "Entdecken Sie unsere professionellen Massagebehandlungen, die speziell auf Ihre Bedürfnisse abgestimmt sind. Von klassischer Entspannung bis zur gezielten Sportmassage – ich bringe die perfekte Behandlung zu Ihnen nach Hause.",
+    "learnMore": "Mehr erfahren",
+    "swedish": {
+      "title": "Schwedische Massage",
+      "description": "Die Schwedische Massage ist eine klassische therapeutische Behandlung, die auf tiefe Entspannung, Regeneration und Harmonisierung des Körpers abzielt. Sanfte, rhythmische Techniken in Kombination mit tieferer Einwirkung helfen, angestaute Verspannungen zu lösen, die Durchblutung zu verbessern und dem Körper sein natürliches Gleichgewicht zurückzugeben."
+    },
     "classical": {
       "title": "Klassische Massage",
       "description": "Ideal, wenn Ihr Körper nach Erholung verlangt. Sanfte, aber tiefgreifende Bewegungen lösen Verspannungen, fördern die Durchblutung und bringen Leichtigkeit zurück. Nach der Sitzung fühlen Sie sich, als hätten Sie ein paar Kilogramm Müdigkeit abgeworfen – der Rücken gerader, die Atmung freier, die Stimmung heller. Die Klassik eignet sich für jeden, der Kraft tanken und die Balance zwischen Körper und Geist wiederfinden möchte."
@@ -378,6 +389,220 @@
         "5": "Erfahrener Therapeut mit olympischem Hintergrund"
       },
       "services": { "title": "Verfügbare Massagearten in Rapperswil-Jona" }
+    }
+  },
+  "certificates": {
+    "title": "Zertifikate & Auszeichnungen",
+    "subtitle": "Professionelle Qualifikationen",
+    "championship": {
+      "title": "Swiss Massage Championship 2026",
+      "badge": "1. Platz — Schwedische Massage"
+    },
+    "training": {
+      "title": "Professionelle Ausbildung"
+    },
+    "smc1stPlace": {
+      "title": "1. Platz — Schwedische Massage",
+      "description": "Ausgezeichnet mit dem 1. Platz in der Kategorie Schwedische Massage beim Swiss Massage Championship 2026 in Zürich, Schweiz.",
+      "detailsTitle": "Details der Auszeichnung",
+      "detail1": "Wettbewerb: Swiss Massage Championship (SMC) 2026",
+      "detail2": "Kategorie: Schwedische Massage",
+      "detail3": "Ergebnis: 1. Platz",
+      "detail4": "Datum: 15. März 2026, Zürich, Schweiz",
+      "aboutTitle": "Über den Wettbewerb",
+      "aboutText": "Das Swiss Massage Championship wird von der International Association of Facial Massage and Wellness (IAFMW) und der IMA Association organisiert. Der Wettbewerb bringt die besten Massagetherapeuten zusammen, die ihr Können vor einer internationalen Jury unter Beweis stellen. Der 1. Platz bestätigt höchste Professionalität und Expertise in der Schwedischen Massage.",
+      "meta": {
+        "title": "1. Platz Swiss Massage Championship 2026 | olegmassage.com",
+        "description": "1. Platz in der Kategorie Schwedische Massage beim Swiss Massage Championship 2026 in Zürich. Zertifizierter Massagetherapeut mit olympischem Hintergrund."
+      }
+    },
+    "smcParticipation": {
+      "title": "Teilnahmezertifikat — SMC 2026",
+      "description": "Offizielle Anerkennung der Teilnahme am Swiss Massage Championship 2026 in Zürich.",
+      "detailsTitle": "Zertifikatdetails",
+      "detail1": "Veranstaltung: Swiss Massage Championship 2026",
+      "detail2": "Datum: 15. März 2026, Zürich, Schweiz",
+      "detail3": "Ausgestellt von: IAFMW-Association und IMA Association",
+      "meta": {
+        "title": "Teilnahmezertifikat SMC 2026 | olegmassage.com",
+        "description": "Offizielle Teilnahmebestätigung am Swiss Massage Championship 2026 in Zürich, Schweiz."
+      }
+    },
+    "smcWorkshops": {
+      "title": "Workshops Day — SMC 2026",
+      "description": "Erfolgreicher Abschluss des speziellen Trainingskurses «Workshops Day mit den Juroren des SMC 2026» an der Swiss Academy Massage & Aesthetics.",
+      "detailsTitle": "Kursdetails",
+      "detail1": "Kurs: Workshops Day mit den Juroren des SMC 2026",
+      "detail2": "Anbieter: Swiss Academy Massage & Aesthetics (SA & MA)",
+      "detail3": "Datum: 14. März 2026",
+      "meta": {
+        "title": "SMC 2026 Workshops Day Zertifikat | olegmassage.com",
+        "description": "Zertifikat für den Abschluss des Workshops Day mit den Juroren des Swiss Massage Championship 2026."
+      }
+    },
+    "profmedClassic": {
+      "title": "Klassische Massage — PROFMED",
+      "description": "Theoretischer und praktischer Kurs «Klassische Massage mit Grundlagen der menschlichen Anatomie und Physiologie» an der Schule für professionelle Massage PROFMED. 70 akademische Stunden.",
+      "detailsTitle": "Kursdetails",
+      "detail1": "Programm: Klassische Massage mit Grundlagen der menschlichen Anatomie und Physiologie",
+      "detail2": "Umfang: 70 akademische Stunden (Theorie und Praxis)",
+      "detail3": "Schule: PROFMED — Schule für professionelle Massage",
+      "detail4": "Abschluss: 10. März 2022",
+      "meta": {
+        "title": "Klassische Massage Zertifikat — PROFMED | olegmassage.com",
+        "description": "Zertifikat für klassische Massage mit Grundlagen der Anatomie und Physiologie. 70 akademische Stunden an der Schule PROFMED."
+      }
+    },
+    "profmedAnatomy": {
+      "title": "Anatomie & Physiologie — PROFMED",
+      "description": "Theoretischer Kurs «Anatomie und Physiologie des Menschen» an der Schule für professionelle Massage PROFMED. 26 akademische Stunden.",
+      "detailsTitle": "Kursdetails",
+      "detail1": "Programm: Anatomie und Physiologie des Menschen",
+      "detail2": "Umfang: 26 akademische Stunden",
+      "detail3": "Schule: PROFMED — Schule für professionelle Massage, Abschluss: 24. Februar 2022",
+      "meta": {
+        "title": "Anatomie & Physiologie Zertifikat — PROFMED | olegmassage.com",
+        "description": "Zertifikat für Anatomie und Physiologie des Menschen. 26 akademische Stunden an der Schule PROFMED."
+      }
+    }
+  },
+  "servicePages": {
+    "relatedServices": "Andere Massagearten",
+    "swedish": {
+      "meta": {
+        "title": "Schwedische Massage Zürich | Tiefe Entspannung und Regeneration",
+        "description": "Professionelle Schwedische Massage bei Ihnen zu Hause in Zürich. Tiefe Entspannung, Regeneration, verbesserte Durchblutung. 100 CHF (60 Min) • 150 CHF (90 Min). Jetzt buchen!"
+      },
+      "benefits": {
+        "title": "Vorteile der Schwedischen Massage",
+        "1": "Tiefe Entspannung der Muskeln und des Nervensystems",
+        "2": "Verbesserte Durchblutung und Gewebeernährung",
+        "3": "Reduzierung von Stress und innerer Anspannung",
+        "4": "Verbesserung der Schlafqualität und des allgemeinen Wohlbefindens"
+      },
+      "whatToExpect": {
+        "title": "Was Sie von einer Sitzung erwarten können",
+        "description": "Die Schwedische Massage kombiniert sanfte, rhythmische Techniken mit tieferer Einwirkung auf Problemzonen. Die Behandlung ist ideal für Menschen mit einem stressigen Lebensstil, sitzender Arbeit sowie für alle, die qualitative Regeneration und regelmäßige Körperpflege suchen."
+      }
+    },
+    "classical": {
+      "meta": {
+        "title": "Klassische Massage Zürich | Professionelle Entspannende Massagetherapie",
+        "description": "Professionelle klassische Massage bei Ihnen zu Hause in Zürich. Löst Verspannungen, verbessert Durchblutung, stellt Energie wieder her. 100 CHF (60 Min) • 150 CHF (90 Min). Jetzt buchen!"
+      },
+      "benefits": {
+        "title": "Vorteile der klassischen Massage",
+        "1": "Löst Muskelverspannungen und Krämpfe",
+        "2": "Verbessert Durchblutung und Lymphfluss",
+        "3": "Fördert tiefe Entspannung",
+        "4": "Stellt Energie und Vitalität wieder her"
+      },
+      "whatToExpect": {
+        "title": "Was Sie von einer Sitzung erwarten können",
+        "description": "Die klassische Massage umfasst sanfte, aber tiefe Techniken, die alle wichtigen Muskelgruppen bearbeiten. Die Sitzung beginnt mit der Erwärmung des Gewebes und geht allmählich zu tieferen Techniken über. Es werden professionelle Öle verwendet, die auf Ihren Hauttyp abgestimmt sind."
+      }
+    },
+    "sports": {
+      "meta": {
+        "title": "Sportmassage Zürich | Professionelle Erholung für Athleten",
+        "description": "Sportmassage zu Hause in Zürich. Verbessert Erholung, löst Verspannungen, steigert Flexibilität. Perfekt vor und nach dem Training. 100 CHF (60 Min) • 150 CHF (90 Min)."
+      },
+      "benefits": {
+        "title": "Vorteile der Sportmassage",
+        "1": "Beschleunigt Muskelregeneration nach Training",
+        "2": "Verbessert Flexibilität und Bewegungsumfang",
+        "3": "Beugt Verletzungen und Überlastung vor",
+        "4": "Steigert sportliche Leistungsfähigkeit"
+      },
+      "whatToExpect": {
+        "title": "Was Sie von einer Sitzung erwarten können",
+        "description": "Sportmassage kombiniert tiefe Gewebetechniken mit gezielter Arbeit an Problemzonen. Als ehemaliger Olympiaturner verstehe ich die Bedürfnisse aktiver Menschen. Die Behandlung wird an Ihren Trainingsplan angepasst – ob zur Vorbereitung oder Regeneration."
+      }
+    },
+    "anticellulite": {
+      "meta": {
+        "title": "Anti-Cellulite-Massage Zürich | Effektive Körperstraffung",
+        "description": "Anti-Cellulite-Massage zu Hause in Zürich. Aktiviert Stoffwechsel, verbessert Hautbild, strafft Gewebe. Sichtbare Ergebnisse nach wenigen Sitzungen. Jetzt buchen!"
+      },
+      "benefits": {
+        "title": "Vorteile der Anti-Cellulite-Massage",
+        "1": "Aktiviert Stoffwechsel und Fettabbau",
+        "2": "Verbessert Lymphdrainage und Entgiftung",
+        "3": "Strafft und glättet die Haut",
+        "4": "Reduziert sichtbar Cellulite und Wassereinlagerungen"
+      },
+      "whatToExpect": {
+        "title": "Was Sie von einer Sitzung erwarten können",
+        "description": "Intensive, dynamische Techniken wirken auf tiefe Gewebeschichten. Die Massage regt den Lymphfluss an und hilft dem Körper, überschüssige Flüssigkeit auszuscheiden. Sie spüren bereits nach der ersten Sitzung ein Gefühl von Leichtigkeit. Für optimale Ergebnisse empfehle ich eine Kur von 8-12 Sitzungen."
+      }
+    },
+    "pregnancy": {
+      "meta": {
+        "title": "Schwangerschaftsmassage Zürich | Sichere Entspannung für werdende Mütter",
+        "description": "Sanfte Schwangerschaftsmassage zu Hause in Zürich. Lindert Rückenschmerzen, reduziert Schwellungen, verbessert den Schlaf. Sicher ab dem 2. Trimester."
+      },
+      "benefits": {
+        "title": "Vorteile der Schwangerschaftsmassage",
+        "1": "Lindert Rücken- und Beinschmerzen",
+        "2": "Reduziert Schwellungen und Wassereinlagerungen",
+        "3": "Verbessert Schlafqualität und Wohlbefinden",
+        "4": "Fördert Entspannung und Verbindung zum Baby"
+      },
+      "whatToExpect": {
+        "title": "Was Sie von einer Sitzung erwarten können",
+        "description": "Alle Techniken werden behutsam und in bequemer Seitenlage ausgeführt. Ich verwende spezielle Kissen für optimalen Komfort und natürliche Öle ohne künstliche Zusätze. Die Massage ist ab dem zweiten Trimester sicher und hilft Ihnen, diese besondere Zeit entspannt zu genießen."
+      }
+    },
+    "children": {
+      "meta": {
+        "title": "Kindermassage Zürich | Liebevolle Gesundheitsfürsorge",
+        "description": "Kindermassage zu Hause in Zürich. Fördert gesunde Entwicklung, verbessert Schlaf und Verdauung. Spielerisch und sanft. Für Babys und Kinder jeden Alters."
+      },
+      "benefits": {
+        "title": "Vorteile der Kindermassage",
+        "1": "Unterstützt Muskel- und Knochenentwicklung",
+        "2": "Verbessert Schlaf und Verdauung",
+        "3": "Stärkt Immunsystem und Gesundheit",
+        "4": "Fördert emotionale Bindung und Geborgenheit"
+      },
+      "whatToExpect": {
+        "title": "Was Sie von einer Sitzung erwarten können",
+        "description": "Die Massage wird spielerisch und mit viel Zuwendung durchgeführt. Alles geschieht in dem Tempo, das für Ihr Kind angenehm ist – ohne Zwang und Stress. Sie können während der Sitzung dabei sein und die Techniken auch selbst erlernen, um sie zu Hause anzuwenden."
+      }
+    },
+    "cupping": {
+      "meta": {
+        "title": "Schröpfmassage Zürich | Traditionelle Therapie für moderne Probleme",
+        "description": "Schröpfmassage zu Hause in Zürich. Lindert Rückenschmerzen, bekämpft Cellulite, verbessert Durchblutung. Kann zu jeder Massage hinzugefügt werden (15 Min)."
+      },
+      "benefits": {
+        "title": "Vorteile der Schröpfmassage",
+        "1": "Aktiviert intensive Durchblutung und Regeneration",
+        "2": "Lindert chronische Rücken- und Nackenschmerzen",
+        "3": "Bekämpft effektiv Cellulite und Wassereinlagerungen",
+        "4": "Löst tiefe Muskelverspannungen und Triggerpunkte"
+      },
+      "whatToExpect": {
+        "title": "Was Sie von einer Sitzung erwarten können",
+        "description": "Vakuum-Schröpfgläser erzeugen einen Unterdruck, der die Durchblutung stark anregt und Verspannungen löst. Die Methode kann Spuren hinterlassen (rote Kreise), die nach wenigen Tagen verschwinden. Schröpfen kann als eigenständige Behandlung oder als Ergänzung zu anderen Massagen durchgeführt werden."
+      }
+    },
+    "relaxation": {
+      "meta": {
+        "title": "Entspannungsmassage Zürich | Pure Erholung für Körper und Geist",
+        "description": "Entspannungsmassage zu Hause in Zürich. Stressabbau, mentale Ruhe, völlige Entspannung. Perfekt nach einem langen Tag. 100 CHF (60 Min) • 150 CHF (90 Min)."
+      },
+      "benefits": {
+        "title": "Vorteile der Entspannungsmassage",
+        "1": "Reduziert Stress und mentale Belastung",
+        "2": "Fördert tiefen, erholsamen Schlaf",
+        "3": "Bringt innere Ruhe und Klarheit",
+        "4": "Stärkt emotionales Wohlbefinden"
+      },
+      "whatToExpect": {
+        "title": "Was Sie von einer Sitzung erwarten können",
+        "description": "Fließende, rhythmische Bewegungen mit angenehmem Druck schaffen eine Atmosphäre vollkommener Entspannung. Ich verwende aromatische Öle und sanfte Musik, um alle Sinne anzusprechen. Nach einer Stunde fühlen Sie sich erfrischt, zentriert und bereit, die Welt mit neuer Energie zu erleben."
+      }
     }
   }
 }
