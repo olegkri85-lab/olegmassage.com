@@ -15,9 +15,9 @@ export default defineNuxtConfig({
     "@nuxtjs/sitemap",
     "@nuxtjs/seo",
     "@nuxtjs/robots",
-    "@nuxtjs/google-analytics",
+    "nuxt-gtag",
   ],
-  googleAnalytics: {
+  gtag: {
     id: "G-5531K77FDF",
   },
   site: {
