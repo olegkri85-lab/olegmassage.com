@@ -34,6 +34,15 @@
 
           <div>
             <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-4">
+              {{ t("dataProtection.googleAnalytics.title") }}
+            </h2>
+            <p class="text-base text-gray-700 leading-relaxed">
+              {{ t("dataProtection.googleAnalytics.content") }}
+            </p>
+          </div>
+
+          <div>
+            <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-4">
               {{ t("dataProtection.rights.title") }}
             </h2>
             <p class="text-base text-gray-700 leading-relaxed">

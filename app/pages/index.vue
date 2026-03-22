@@ -39,6 +39,9 @@
     <!-- Services Section -->
     <ServicesSection />
 
+    <!-- Testimonials Section -->
+    <Testimonials />
+
     <!-- CTA Section -->
     <CallToAction />
   </div>

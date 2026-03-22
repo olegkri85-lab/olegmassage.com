@@ -68,8 +68,12 @@
           <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
             {{ t("servicePages.sports.whatToExpect.title") }}
           </h2>
-          <p class="text-lg text-gray-700 leading-relaxed">
-            {{ t("servicePages.sports.whatToExpect.description") }}
+          <p
+            v-for="(paragraph, i) in t('servicePages.sports.whatToExpect.description').split('\n\n')"
+            :key="i"
+            class="text-lg text-gray-700 leading-relaxed mb-4 last:mb-0"
+          >
+            {{ paragraph }}
           </p>
         </div>
 
@@ -102,6 +106,9 @@
             {{ t("servicePages.sports.preparation.description") }}
           </p>
         </div>
+
+        <!-- Testimonials -->
+        <ServiceTestimonials service-key="sports" />
 
         <!-- Booking CTA -->
         <div class="text-center">

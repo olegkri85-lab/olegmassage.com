@@ -99,10 +99,78 @@ export const useStructuredData = () => {
     aggregateRating: {
       "@type": "AggregateRating",
       ratingValue: "5.0",
-      reviewCount: "5",
+      reviewCount: "6",
       bestRating: "5",
       worstRating: "1",
     },
+    review: [
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Anna K." },
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: "5",
+          bestRating: "5",
+        },
+        reviewBody:
+          "D'Sportmassage het mer mega gholfe! Oleg weiss genau, wo d'Verspannige sitze und wie mer die löst. I ha mi danach wie neugebore gfühlt!",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Thomas M." },
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: "5",
+          bestRating: "5",
+        },
+        reviewBody:
+          "Die Massage war genau das Richtige nach dem Training. Oleg versteht seinen Job wirklich – als ehemaliger Olympia-Turner weiß er, worauf es ankommt.",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Sarah J." },
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: "5",
+          bestRating: "5",
+        },
+        reviewBody:
+          "The convenience of having a professional massage at home is incredible. Everything was perfectly prepared, and I felt completely relaxed afterwards.",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Дмитрий П." },
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: "5",
+          bestRating: "5",
+        },
+        reviewBody:
+          "Олег - настоящий профессионал! Спортивный массаж помог мне восстановиться после травмы. Очень удобно, что он приезжает на дом.",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Оксана В." },
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: "5",
+          bestRating: "5",
+        },
+        reviewBody:
+          "Чудова розслаблююча масажна терапія! Олег дуже уважний і професійний. Рекомендую всім, хто шукає якісний масаж.",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Aleksej D." },
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: "5",
+          bestRating: "5",
+        },
+        reviewBody:
+          "Ich arbeite als IT-Profi und Sitzen macht meinen Rücken kaputt. Wenn es wieder anfängt weh zu tun, rufe ich sofort Oleg an.",
+      },
+    ],
     sameAs: [
       "https://www.facebook.com/profile.php?id=100079107851071",
       "https://www.instagram.com/massage_in_schweiz/",
