@@ -3,7 +3,7 @@ export const useStructuredData = () => {
 
   const organizationSchema = {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": ["LocalBusiness", "HealthAndBeautyBusiness"],
     "@id": "https://olegmassage.com/#organization",
     name: "Massazh - Mobile Massage Service",
     description:
