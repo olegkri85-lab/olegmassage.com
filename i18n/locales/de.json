@@ -162,7 +162,7 @@
     "intro": "Angaben gemäss schweizerischem Recht zum Betreiber dieser Website.",
     "information": {
       "title": "Angaben zum Dienstanbieter",
-      "content": "Oleg, Mobile Massage Service, Region Zürichsee, Schweiz. E-Mail: {email}, Telefon: +380 50 587 2464"
+      "content": "Oleg, Mobile Massage Service, Region Zürichsee, Schweiz. E-Mail: {email}, Telefon: +41 79 849 92 74"
     },
     "liability": {
       "title": "Haftung für Inhalte",
@@ -290,6 +290,8 @@
     ]
   },
   "location": {
+    "nearbyTitle": "Auch in der Nähe",
+    "faqTitle": "Häufig gestellte Fragen",
     "zurich": {
       "meta": {
         "title": "Mobile Massage Zürich | Professionell zu Ihnen nach Hause",
