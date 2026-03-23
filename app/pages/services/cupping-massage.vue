@@ -34,7 +34,7 @@
           <div>
             <NuxtImg
               src="/images/services/large/cupping-therapy.jpeg"
-              :alt="t('services.cupping.title')"
+              :alt="t('services.cupping.altText')"
               loading="lazy"
               format="webp"
               quality="80"

@@ -34,7 +34,7 @@
           <div>
             <NuxtImg
               src="/images/services/large/anticellulite-massage.jpeg"
-              :alt="t('services.anticellulite.title')"
+              :alt="t('services.anticellulite.altText')"
               loading="lazy"
               format="webp"
               quality="80"

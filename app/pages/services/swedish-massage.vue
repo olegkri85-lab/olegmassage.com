@@ -35,7 +35,7 @@
           <div>
             <NuxtImg
               src="/images/services/large/swedish-massage.jpeg"
-              :alt="t('services.swedish.title')"
+              :alt="t('services.swedish.altText')"
               loading="lazy"
               format="webp"
               quality="80"

@@ -26,7 +26,7 @@
         <div class="overflow-hidden">
           <NuxtImg
             src="/images/me.jpeg"
-            alt="Professional massage therapist"
+            :alt="t('images.portrait')"
             loading="eager"
             fetchpriority="high"
             format="webp"

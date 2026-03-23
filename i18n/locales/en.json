@@ -68,6 +68,10 @@
     "ctaButton": "Get a Massage now",
     "award": "1st Place, Swiss Massage Championship 2026"
   },
+  "images": {
+    "championship": "Oleg Kryvorotko at the Swiss Massage Championship 2026 in Zurich, 1st Place Swedish Massage",
+    "portrait": "Oleg Kryvorotko, professional massage therapist and former Olympic gymnast"
+  },
   "services": {
     "title": "Massage Services",
     "subtitle": "Services",
@@ -75,35 +79,43 @@
     "learnMore": "Learn more",
     "swedish": {
       "title": "Swedish Massage",
-      "description": "Swedish massage is a classic therapeutic treatment aimed at deep relaxation, recovery, and harmonizing the body. Gentle, rhythmic techniques combined with deeper pressure help release accumulated tension, improve circulation, and restore the body's natural state of balance."
+      "description": "Swedish massage is a classic therapeutic treatment aimed at deep relaxation, recovery, and harmonizing the body. Gentle, rhythmic techniques combined with deeper pressure help release accumulated tension, improve circulation, and restore the body's natural state of balance.",
+      "altText": "Professional massage therapist performing Swedish massage at home in Zurich"
     },
     "classical": {
       "title": "Classical Massage",
-      "description": "Ideal when your body needs rest. Gentle yet deep movements relieve tension, improve circulation, and restore lightness. After a session, you'll feel as if you've shed a few pounds of fatigue – straighter back, freer breathing, brighter mood. Classical massage suits everyone who wants to restore energy and feel the balance between body and mind."
+      "description": "Ideal when your body needs rest. Gentle yet deep movements relieve tension, improve circulation, and restore lightness. After a session, you'll feel as if you've shed a few pounds of fatigue – straighter back, freer breathing, brighter mood. Classical massage suits everyone who wants to restore energy and feel the balance between body and mind.",
+      "altText": "Classical full-body massage with therapeutic techniques to relieve muscle tension"
     },
     "sports": {
       "title": "Sports Massage",
-      "description": "For those who live actively: sports, physical work, intensive training. This massage helps muscles recover faster, release tension, regain flexibility and energy. It improves endurance and makes the body more alive and responsive. Ideal before or after workouts – so you don't just train, but enjoy it."
+      "description": "For those who live actively: sports, physical work, intensive training. This massage helps muscles recover faster, release tension, regain flexibility and energy. It improves endurance and makes the body more alive and responsive. Ideal before or after workouts – so you don't just train, but enjoy it.",
+      "altText": "Sports massage for muscle recovery and injury prevention for athletes"
     },
     "anticellulite": {
       "title": "Anti-Cellulite Massage",
-      "description": "Not just fighting cellulite – it's a real upgrade for your body. Intensive techniques activate metabolism, improve lymph flow, and remove excess fluid. Skin becomes smoother, firmer, and more alive. After just a few sessions, you'll feel lightness, firmness, and confidence in your body."
+      "description": "Not just fighting cellulite – it's a real upgrade for your body. Intensive techniques activate metabolism, improve lymph flow, and remove excess fluid. Skin becomes smoother, firmer, and more alive. After just a few sessions, you'll feel lightness, firmness, and confidence in your body.",
+      "altText": "Intensive anti-cellulite massage to improve lymph flow and firm skin texture"
     },
     "pregnancy": {
       "title": "Pregnancy Massage",
-      "description": "Gentle, caring, safe. Helps relieve tension in back and legs, reduce swelling, and improve sleep. Everything is done gently, in a comfortable position, using natural oils. This massage is not just body care, but a moment of peace and connection with your baby."
+      "description": "Gentle, caring, safe. Helps relieve tension in back and legs, reduce swelling, and improve sleep. Everything is done gently, in a comfortable position, using natural oils. This massage is not just body care, but a moment of peace and connection with your baby.",
+      "altText": "Gentle and safe pregnancy massage in comfortable side-lying position at home"
     },
     "children": {
       "title": "Children's Massage",
-      "description": "Light, kind, and beneficial. Helps children develop muscles, improves sleep, digestion, and mood. Performed in a playful manner – without pain or fear. This massage is not only health care, but also a way to give children a feeling of love and safety."
+      "description": "Light, kind, and beneficial. Helps children develop muscles, improves sleep, digestion, and mood. Performed in a playful manner – without pain or fear. This massage is not only health care, but also a way to give children a feeling of love and safety.",
+      "altText": "Playful and gentle children's massage supporting development and wellbeing"
     },
     "cupping": {
       "title": "Cupping Massage",
-      "description": "A powerful tool for recovery and vitality. Vacuum cups activate circulation, improve metabolism, and effectively fight cellulite. Also excellent for back pain and muscle tension. After the treatment, the body feels light, and skin becomes firm and elastic."
+      "description": "A powerful tool for recovery and vitality. Vacuum cups activate circulation, improve metabolism, and effectively fight cellulite. Also excellent for back pain and muscle tension. After the treatment, the body feels light, and skin becomes firm and elastic.",
+      "altText": "Traditional cupping therapy with vacuum cups to promote blood circulation"
     },
     "relaxation": {
       "title": "Relax Massage",
-      "description": "If you just want to switch off your mind and feel fatigue disappear – this is what you need. Smooth, rhythmic movements, pleasant aromas, and complete relaxation. Just one hour – and the body fills with calm, thoughts become clearer. The perfect way to let go of everything unnecessary and restore inner harmony."
+      "description": "If you just want to switch off your mind and feel fatigue disappear – this is what you need. Smooth, rhythmic movements, pleasant aromas, and complete relaxation. Just one hour – and the body fills with calm, thoughts become clearer. The perfect way to let go of everything unnecessary and restore inner harmony.",
+      "altText": "Relaxing massage with gentle techniques and warm oils for deep stress relief"
     },
     "pricing": {
       "title": "Pricing & Terms",

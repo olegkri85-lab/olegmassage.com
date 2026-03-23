@@ -68,6 +68,10 @@
     "ctaButton": "Jetzt Massage buchen",
     "award": "1. Platz - Swiss Massage Championship 2026"
   },
+  "images": {
+    "championship": "Oleg Kryvorotko bei der Swiss Massage Championship 2026 in Zürich, 1. Platz Schwedische Massage",
+    "portrait": "Oleg Kryvorotko, professioneller Massagetherapeut und ehemaliger Olympiaturner"
+  },
   "services": {
     "title": "Angebotene Massagen",
     "subtitle": "Leistungen",
@@ -75,35 +79,43 @@
     "learnMore": "Mehr erfahren",
     "swedish": {
       "title": "Schwedische Massage",
-      "description": "Die Schwedische Massage ist eine klassische therapeutische Behandlung, die auf tiefe Entspannung, Regeneration und Harmonisierung des Körpers abzielt. Sanfte, rhythmische Techniken in Kombination mit tieferer Einwirkung helfen, angestaute Verspannungen zu lösen, die Durchblutung zu verbessern und dem Körper sein natürliches Gleichgewicht zurückzugeben."
+      "description": "Die Schwedische Massage ist eine klassische therapeutische Behandlung, die auf tiefe Entspannung, Regeneration und Harmonisierung des Körpers abzielt. Sanfte, rhythmische Techniken in Kombination mit tieferer Einwirkung helfen, angestaute Verspannungen zu lösen, die Durchblutung zu verbessern und dem Körper sein natürliches Gleichgewicht zurückzugeben.",
+      "altText": "Professioneller Massagetherapeut führt Schwedische Massage zu Hause in Zürich durch"
     },
     "classical": {
       "title": "Klassische Massage",
-      "description": "Ideal, wenn Ihr Körper nach Erholung verlangt. Sanfte, aber tiefgreifende Bewegungen lösen Verspannungen, fördern die Durchblutung und bringen Leichtigkeit zurück. Nach der Sitzung fühlen Sie sich, als hätten Sie ein paar Kilogramm Müdigkeit abgeworfen – der Rücken gerader, die Atmung freier, die Stimmung heller. Die Klassik eignet sich für jeden, der Kraft tanken und die Balance zwischen Körper und Geist wiederfinden möchte."
+      "description": "Ideal, wenn Ihr Körper nach Erholung verlangt. Sanfte, aber tiefgreifende Bewegungen lösen Verspannungen, fördern die Durchblutung und bringen Leichtigkeit zurück. Nach der Sitzung fühlen Sie sich, als hätten Sie ein paar Kilogramm Müdigkeit abgeworfen – der Rücken gerader, die Atmung freier, die Stimmung heller. Die Klassik eignet sich für jeden, der Kraft tanken und die Balance zwischen Körper und Geist wiederfinden möchte.",
+      "altText": "Klassische Ganzkörpermassage mit therapeutischen Techniken zur Lösung von Muskelverspannungen"
     },
     "sports": {
       "title": "Sportmassage",
-      "description": "Für alle, die aktiv leben: Sport, körperliche Arbeit, intensive Trainings. Diese Massage hilft den Muskeln, sich schneller zu erholen, Verspannungen zu lösen und Flexibilität sowie Energie zurückzugewinnen. Sie verbessert die Ausdauer und macht den Körper lebendiger und reaktionsfähiger. Ideal vor oder nach Belastungen – damit Sie nicht nur trainieren, sondern es mit Freude tun."
+      "description": "Für alle, die aktiv leben: Sport, körperliche Arbeit, intensive Trainings. Diese Massage hilft den Muskeln, sich schneller zu erholen, Verspannungen zu lösen und Flexibilität sowie Energie zurückzugewinnen. Sie verbessert die Ausdauer und macht den Körper lebendiger und reaktionsfähiger. Ideal vor oder nach Belastungen – damit Sie nicht nur trainieren, sondern es mit Freude tun.",
+      "altText": "Sportmassage zur Muskelregeneration und Verletzungsvorbeugung für Athleten"
     },
     "anticellulite": {
       "title": "Anti-Cellulite-Massage",
-      "description": "Nicht nur \"Kampf gegen Cellulite\" – sondern ein echtes Upgrade für Ihren Körper. Intensive Techniken aktivieren den Stoffwechsel, verbessern den Lymphfluss und leiten überschüssige Flüssigkeit ab. Die Haut wird glatter, straffer und lebendiger. Schon nach wenigen Sitzungen spüren Sie ein Gefühl von Leichtigkeit, Straffheit und neuem Selbstbewusstsein."
+      "description": "Nicht nur \"Kampf gegen Cellulite\" – sondern ein echtes Upgrade für Ihren Körper. Intensive Techniken aktivieren den Stoffwechsel, verbessern den Lymphfluss und leiten überschüssige Flüssigkeit ab. Die Haut wird glatter, straffer und lebendiger. Schon nach wenigen Sitzungen spüren Sie ein Gefühl von Leichtigkeit, Straffheit und neuem Selbstbewusstsein.",
+      "altText": "Intensive Anti-Cellulite-Massage zur Verbesserung des Lymphflusses und der Hautstraffung"
     },
     "pregnancy": {
       "title": "Schwangerschaftsmassage",
-      "description": "Sanft, fürsorglich, sicher. Hilft, Verspannungen in Rücken und Beinen zu lösen, Schwellungen zu reduzieren und den Schlaf zu verbessern. Alles wird behutsam ausgeführt, in bequemer Position, mit natürlichen Ölen. Diese Massage ist nicht nur Körperpflege, sondern auch ein Moment der Ruhe und Verbindung mit Ihrem Baby."
+      "description": "Sanft, fürsorglich, sicher. Hilft, Verspannungen in Rücken und Beinen zu lösen, Schwellungen zu reduzieren und den Schlaf zu verbessern. Alles wird behutsam ausgeführt, in bequemer Position, mit natürlichen Ölen. Diese Massage ist nicht nur Körperpflege, sondern auch ein Moment der Ruhe und Verbindung mit Ihrem Baby.",
+      "altText": "Sanfte und sichere Schwangerschaftsmassage in bequemer Seitenlage zu Hause"
     },
     "children": {
       "title": "Kindermassage",
-      "description": "Leicht, liebevoll und wohltuend. Hilft dem Kind, Muskeln zu entwickeln, verbessert Schlaf, Verdauung und Stimmung. Wird spielerisch durchgeführt – ohne Schmerzen und Angst. Diese Massage ist nicht nur Gesundheitsfürsorge, sondern auch eine Möglichkeit, dem Kind ein Gefühl von Liebe und Geborgenheit zu geben."
+      "description": "Leicht, liebevoll und wohltuend. Hilft dem Kind, Muskeln zu entwickeln, verbessert Schlaf, Verdauung und Stimmung. Wird spielerisch durchgeführt – ohne Schmerzen und Angst. Diese Massage ist nicht nur Gesundheitsfürsorge, sondern auch eine Möglichkeit, dem Kind ein Gefühl von Liebe und Geborgenheit zu geben.",
+      "altText": "Spielerische und sanfte Kindermassage zur Förderung der Entwicklung und des Wohlbefindens"
     },
     "cupping": {
       "title": "Schröpfmassage",
-      "description": "Ein kraftvolles Mittel für Regeneration und Vitalität. Vakuumschröpfgläser aktivieren die Durchblutung, verbessern den Stoffwechsel und bekämpfen effektiv Cellulite. Hilft auch hervorragend bei Rückenschmerzen und Muskelverspannungen. Nach der Behandlung fühlt sich der Körper leicht an und die Haut wird straffer und elastischer."
+      "description": "Ein kraftvolles Mittel für Regeneration und Vitalität. Vakuumschröpfgläser aktivieren die Durchblutung, verbessern den Stoffwechsel und bekämpfen effektiv Cellulite. Hilft auch hervorragend bei Rückenschmerzen und Muskelverspannungen. Nach der Behandlung fühlt sich der Körper leicht an und die Haut wird straffer und elastischer.",
+      "altText": "Traditionelle Schröpfmassage mit Vakuumgläsern zur Förderung der Durchblutung"
     },
     "relaxation": {
       "title": "Relax-Massage",
-      "description": "Wenn Sie einfach abschalten und spüren möchten, wie die Müdigkeit verschwindet – ist das genau das Richtige. Fließende, rhythmische Bewegungen, angenehme Düfte und völlige Entspannung. Nur eine Stunde – und der Körper füllt sich mit Ruhe, die Gedanken werden klarer. Der perfekte Weg, alles Überflüssige loszulassen und innere Harmonie wiederzufinden."
+      "description": "Wenn Sie einfach abschalten und spüren möchten, wie die Müdigkeit verschwindet – ist das genau das Richtige. Fließende, rhythmische Bewegungen, angenehme Düfte und völlige Entspannung. Nur eine Stunde – und der Körper füllt sich mit Ruhe, die Gedanken werden klarer. Der perfekte Weg, alles Überflüssige loszulassen und innere Harmonie wiederzufinden.",
+      "altText": "Entspannende Relax-Massage mit sanften Techniken und warmen Ölen für tiefen Stressabbau"
     },
     "pricing": {
       "title": "Preise & Konditionen",

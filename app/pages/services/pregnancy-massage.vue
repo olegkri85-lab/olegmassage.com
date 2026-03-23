@@ -32,7 +32,7 @@
           <div>
             <NuxtImg
               src="/images/services/large/pregnancy-massage.jpeg"
-              :alt="t('services.pregnancy.title')"
+              :alt="t('services.pregnancy.altText')"
               loading="lazy"
               format="webp"
               quality="80"

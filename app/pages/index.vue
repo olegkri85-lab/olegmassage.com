@@ -26,7 +26,7 @@
           <div class="relative">
             <NuxtImg
               src="/images/championship-action.jpeg"
-              :alt="t('hero.award')"
+              :alt="t('images.championship')"
               loading="eager"
               fetchpriority="high"
               format="webp"
