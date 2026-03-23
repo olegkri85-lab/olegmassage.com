@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto bg-gray-200">
+  <div>
     <NuxtRouteAnnouncer />
     <NuxtLayout>
       <NuxtPage :key="$route.fullPath" />

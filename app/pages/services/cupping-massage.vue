@@ -20,7 +20,7 @@
               {{ t("services.pricing.title") }}
             </p>
             <p class="text-2xl md:text-3xl font-display font-bold">
-              15 min — 30 CHF
+              15 min, 30 CHF
             </p>
           </div>
         </div>
@@ -108,8 +108,14 @@
           </p>
         </div>
 
+        <!-- Contraindications -->
+        <ServiceContraindications service-key="cupping" />
+
         <!-- Testimonials -->
         <ServiceTestimonials service-key="cupping" />
+
+        <!-- FAQ -->
+        <ServiceFaq service-key="cupping" />
 
         <!-- Booking CTA -->
         <div class="text-center">

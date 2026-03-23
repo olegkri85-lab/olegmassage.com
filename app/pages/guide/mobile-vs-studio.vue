@@ -34,7 +34,7 @@
             </h2>
             <ul class="space-y-4 text-lg text-gray-700">
               <li v-for="i in 4" :key="i" class="flex items-start gap-3">
-                <span class="text-gray-400 text-2xl">—</span>
+                <span class="text-gray-400 text-2xl">-</span>
                 <span>{{ t(`guide.mobileVsStudio.studio.${i}`) }}</span>
               </li>
             </ul>

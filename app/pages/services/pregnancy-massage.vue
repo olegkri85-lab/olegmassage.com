@@ -19,7 +19,7 @@
               {{ t("services.pricing.title") }}
             </p>
             <p class="text-2xl md:text-3xl font-display font-bold">
-              {{ t("services.duration.massage60") }} — 120 CHF
+              {{ t("services.duration.massage60") }}, 120 CHF
             </p>
           </div>
         </div>
@@ -105,8 +105,14 @@
           </p>
         </div>
 
+        <!-- Contraindications -->
+        <ServiceContraindications service-key="pregnancy" />
+
         <!-- Testimonials -->
         <ServiceTestimonials service-key="pregnancy" />
+
+        <!-- FAQ -->
+        <ServiceFaq service-key="pregnancy" />
 
         <!-- Booking CTA -->
         <div class="text-center">

@@ -189,21 +189,21 @@ export const useStructuredData = () => {
       "Former Olympic gymnast for Ukraine and circus artist. 1st Place winner at the 5th Swiss Massage Championship 2026 in Swedish Massage category. Expert in sports massage, classical massage, Swedish massage, and cupping therapy.",
     image: "https://olegmassage.com/images/me.jpeg",
     alumniOf: "Olympic Team Ukraine - Gymnastics",
-    award: "1st Place — Swiss Massage Championship 2026, Swedish Massage Category",
+    award: "1st Place, Swiss Massage Championship 2026, Swedish Massage Category",
     hasCredential: [
       {
         "@type": "EducationalOccupationalCredential",
-        name: "1st Place, Swiss Massage Championship 2026 — Swedish Massage",
+        name: "1st Place, Swiss Massage Championship 2026, Swedish Massage",
         dateCreated: "2026-03-15",
       },
       {
         "@type": "EducationalOccupationalCredential",
-        name: "Classic Massage with Basics of Human Anatomy and Physiology — PROFMED",
+        name: "Classic Massage with Basics of Human Anatomy and Physiology, PROFMED",
         dateCreated: "2022-03-10",
       },
       {
         "@type": "EducationalOccupationalCredential",
-        name: "Anatomy and Physiology — PROFMED",
+        name: "Anatomy and Physiology, PROFMED",
         dateCreated: "2022-02-24",
       },
     ],

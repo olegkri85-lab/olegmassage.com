@@ -55,6 +55,9 @@ npm run generate
 - Scoped styles in Vue components
 - i18n locale files should be in `i18n/locales/` directory (to be created when needed)
 
+### Content Rules
+- **Never use em dashes (—)** in any text content, i18n translations, or copy. Use commas, periods, colons, or hyphens (-) instead.
+
 ### Styling
 - Tailwind CSS v4 is integrated via Vite plugin
 - Global styles in `app/assets/css/main.css`
