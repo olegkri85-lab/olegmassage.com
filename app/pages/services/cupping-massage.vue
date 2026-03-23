@@ -1,73 +1,95 @@
 <template>
   <div class="bg-gray-50">
-    <!-- Hero Section -->
-    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
+    <!-- Product Hero: Image + Sticky Sidebar -->
+    <section class="py-16 px-8 xl:py-24 xl:px-16 bg-white">
       <div class="container mx-auto">
-        <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
+        <p class="text-xs md:text-sm uppercase tracking-widest text-gray-500 mb-4">
           {{ t("services.subtitle") }}
         </p>
-        <h1
-          class="text-5xl md:text-6xl lg:text-7xl font-display text-white mb-8"
-        >
-          {{ t("services.cupping.title") }}
-        </h1>
-        <p class="text-lg md:text-xl text-white/90 leading-relaxed mb-8">
-          {{ t("services.cupping.description") }}
-        </p>
-        <div class="flex flex-wrap gap-4 items-center">
-          <div class="text-white">
-            <p class="text-sm uppercase tracking-wide mb-1">
-              {{ t("services.pricing.title") }}
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
+          <!-- Left: Image + Title -->
+          <div class="lg:col-span-7">
+            <h1 class="text-4xl md:text-5xl lg:text-6xl font-display text-gray-900 mb-6">
+              {{ t("services.cupping.title") }}
+            </h1>
+            <p class="text-lg text-gray-600 leading-relaxed mb-8 lg:hidden">
+              {{ t("services.cupping.description") }}
             </p>
-            <p class="text-2xl md:text-3xl font-display font-bold">
-              15 min, 30 CHF
+            <NuxtImg
+              src="/images/services/large/cupping-therapy.jpeg"
+              :alt="t('services.cupping.altText')"
+              loading="eager"
+              quality="80"
+              class="w-full rounded-2xl object-cover"
+              style="aspect-ratio: 4/3"
+            />
+            <p class="text-lg text-gray-600 leading-relaxed mt-8 hidden lg:block">
+              {{ t("services.cupping.description") }}
             </p>
+          </div>
+
+          <!-- Right: Sticky Purchase Card -->
+          <div class="lg:col-span-5">
+            <div class="lg:sticky lg:top-8 space-y-6">
+              <!-- Single Session Prices -->
+              <div class="bg-gray-50 rounded-2xl p-6">
+                <h2 class="text-sm uppercase tracking-wider text-gray-500 mb-4">
+                  {{ t("services.pricing.title") }}
+                </h2>
+                <div class="space-y-3">
+                  <div class="flex items-center justify-between">
+                    <span class="text-lg text-gray-700">{{ t("services.duration.cupping") }}</span>
+                    <span class="text-2xl font-bold text-gray-900">30 CHF</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- CTA Buttons -->
+              <div class="space-y-3">
+                <CtaButton variant="primary" size="md" text-key="cta.services" class="w-full" />
+                <a
+                  href="mailto:oleh.kryvorotko@icloud.com?subject=Cupping%20Massage"
+                  class="!no-underline w-full inline-flex items-center justify-center gap-2 bg-gray-100 text-gray-800 py-4 px-8 text-base font-medium hover:bg-gray-200 transition-colors"
+                >
+                  {{ t("gutschein.orderEmail") }}
+                </a>
+              </div>
+
+              <!-- Trust Signals -->
+              <div class="flex flex-col gap-2 text-sm text-gray-500">
+                <div class="flex items-center gap-2">
+                  <span class="text-[hsl(var(--accent-hsl))]">✓</span>
+                  {{ t("pricing.mobile.text") }}
+                </div>
+                <div class="flex items-center gap-2">
+                  <span class="text-[hsl(var(--accent-hsl))]">✓</span>
+                  {{ t("services.pricing.paymentMethods") }}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Service Details -->
-    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="container mx-auto">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
-          <div>
-            <NuxtImg
-              src="/images/services/large/cupping-therapy.jpeg"
-              :alt="t('services.cupping.altText')"
-              loading="lazy"
-              quality="80"
-              class="w-full h-full object-cover"
-              style="aspect-ratio: 4/3"
-            />
-          </div>
-          <div class="space-y-6">
-            <h2 class="text-3xl md:text-4xl font-display text-gray-900">
-              {{ t("servicePages.cupping.benefits.title") }}
-            </h2>
-            <ul class="space-y-4 text-lg text-gray-700">
-              <li class="flex items-start gap-3">
-                <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
-                <span>{{ t("servicePages.cupping.benefits.1") }}</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
-                <span>{{ t("servicePages.cupping.benefits.2") }}</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
-                <span>{{ t("servicePages.cupping.benefits.3") }}</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
-                <span>{{ t("servicePages.cupping.benefits.4") }}</span>
-              </li>
-            </ul>
-          </div>
+    <!-- Content Sections -->
+    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-gray-50">
+      <div class="container mx-auto max-w-4xl">
+        <!-- Benefits -->
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
+          <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
+            {{ t("servicePages.cupping.benefits.title") }}
+          </h2>
+          <ul class="space-y-4 text-lg text-gray-700">
+            <li v-for="i in 4" :key="i" class="flex items-start gap-3">
+              <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
+              <span>{{ t(`servicePages.cupping.benefits.${i}`) }}</span>
+            </li>
+          </ul>
         </div>
 
         <!-- What to Expect -->
-        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
           <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
             {{ t("servicePages.cupping.whatToExpect.title") }}
           </h2>
@@ -81,7 +103,7 @@
         </div>
 
         <!-- Ideal For -->
-        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
           <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
             {{ t("servicePages.cupping.idealFor.title") }}
           </h2>
@@ -91,7 +113,7 @@
         </div>
 
         <!-- Frequency -->
-        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
           <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
             {{ t("servicePages.cupping.frequency.title") }}
           </h2>
@@ -101,7 +123,7 @@
         </div>
 
         <!-- Preparation -->
-        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
           <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
             {{ t("servicePages.cupping.preparation.title") }}
           </h2>
@@ -118,13 +140,6 @@
 
         <!-- FAQ -->
         <ServiceFaq service-key="cupping" />
-
-        <!-- Booking CTA -->
-        <div class="text-center">
-          <CtaButton variant="primary" size="lg">
-            {{ t("cta.services") }}
-          </CtaButton>
-        </div>
       </div>
     </section>
 
@@ -151,22 +166,13 @@
 
     <!-- Related Services -->
     <RelatedServices :services="[
-      { slug: 'sports-massage', key: 'sports', image: 'sports-massage.jpeg' },
       { slug: 'classical-massage', key: 'classical', image: 'classical-massage.jpeg' },
-      { slug: 'anticellulite-massage', key: 'anticellulite', image: 'anticellulite-massage.jpeg' },
+      { slug: 'sports-massage', key: 'sports', image: 'sports-massage.jpeg' },
+      { slug: 'swedish-massage', key: 'swedish', image: 'swedish-massage.jpeg' },
     ]" />
-
-    <!-- Gift Voucher Banner -->
-    <!-- 10-Session Package -->
-    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="container mx-auto">
-        <ServicePackage service-key="cupping" />
-      </div>
-    </section>
 
     <GiftVoucherBanner />
 
-    <!-- CTA Section -->
     <CallToAction />
   </div>
 </template>
@@ -196,13 +202,15 @@ useHead(() => ({
     {
       property: "og:image",
       content:
-        "https://olegmassage.com/images/og/cupping-therapy.jpeg",
+        "https://olegmassage.com/images/og/cupping-massage.jpeg",
     },
   ],
   link: [
     {
       rel: "canonical",
-      href: `https://olegmassage.com${localePath("/services/cupping-massage")}`,
+      href: `https://olegmassage.com${localePath(
+        "/services/cupping-massage"
+      )}`,
     },
   ],
   script: [
@@ -228,7 +236,9 @@ useHead(() => ({
             "@type": "Offer",
             price: "30",
             priceCurrency: "CHF",
-            description: `${t("services.cupping.title")} - 15 min`,
+            description: `${t("services.cupping.title")} - ${t(
+              "services.duration.cupping"
+            )}`,
             availability: "https://schema.org/InStock",
           },
         ],
