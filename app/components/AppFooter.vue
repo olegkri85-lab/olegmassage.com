@@ -103,6 +103,22 @@
           </li>
           <li>
             <NuxtLink
+              :to="localePath('/guide')"
+              class="text-gray-900 relative !no-underline"
+            >
+              {{ t("nav.guide") }}
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink
+              :to="localePath('/certificates')"
+              class="text-gray-900 relative !no-underline"
+            >
+              {{ t("nav.certificates") }}
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink
               :to="localePath('/faq')"
               class="text-gray-900 relative !no-underline"
             >
