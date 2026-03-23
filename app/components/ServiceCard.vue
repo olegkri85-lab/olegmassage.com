@@ -55,7 +55,6 @@ defineProps<{
   duration?: string
   price?: string
   image?: string
-  imageLabel?: string
   imageRatio?: '16/9' | '4/3' | '3/2' | '1/1' | '2/3'
   link?: string
   linkText?: string

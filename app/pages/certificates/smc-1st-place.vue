@@ -28,10 +28,13 @@
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
       <div class="max-w-5xl mx-auto">
         <div class="bg-gray-50 rounded-2xl p-6 md:p-8 mb-16">
-          <img
+          <NuxtImg
             src="/certificates/smc-1st-place.jpeg"
             :alt="t('certificates.smc1stPlace.title')"
             class="w-full h-auto rounded-xl"
+            format="webp"
+            quality="80"
+            loading="lazy"
           />
         </div>
 
@@ -69,10 +72,13 @@
         </div>
 
         <div class="bg-gray-50 rounded-2xl p-6 md:p-8">
-          <img
+          <NuxtImg
             src="/images/championship-action.jpeg"
             :alt="t('certificates.smc1stPlace.title')"
             class="w-full h-auto rounded-xl"
+            format="webp"
+            quality="80"
+            loading="lazy"
           />
         </div>
       </div>

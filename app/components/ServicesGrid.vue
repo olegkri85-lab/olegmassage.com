@@ -8,7 +8,6 @@
       )}, 160 CHF`"
       image="/images/services/large/swedish-massage.jpeg"
       image-ratio="4/3"
-      image-label="Professional Swedish massage therapy session with gentle rhythmic techniques for deep relaxation and body recovery"
       :link="localePath('/services/swedish-massage')"
       :link-text="t('services.learnMore')"
     />
@@ -20,7 +19,6 @@
       )}, 150 CHF`"
       image="/images/services/large/classical-massage.jpeg"
       image-ratio="4/3"
-      image-label="Professional therapist performing classical full-body massage with therapeutic techniques to relieve muscle tension and improve circulation"
       :link="localePath('/services/classical-massage')"
       :link-text="t('services.learnMore')"
     />
@@ -30,7 +28,6 @@
       :duration="`${t('services.duration.massage60')}, 140 CHF`"
       image="/images/services/large/sports-massage.jpeg"
       image-ratio="4/3"
-      image-label="Athletic sports massage session focusing on muscle recovery, injury prevention, and flexibility improvement for active individuals and athletes"
       :link="localePath('/services/sports-massage')"
       :link-text="t('services.learnMore')"
     />
@@ -40,7 +37,6 @@
       :duration="`${t('services.duration.massage45')}, 100 CHF`"
       image="/images/services/large/anticellulite-massage.jpeg"
       image-ratio="4/3"
-      image-label="Intensive anti-cellulite massage treatment to improve lymph flow, boost metabolism, and firm skin texture"
       :link="localePath('/services/anticellulite-massage')"
       :link-text="t('services.learnMore')"
     />
@@ -50,7 +46,6 @@
       :duration="`${t('services.duration.massage60')}, 120 CHF`"
       image="/images/services/large/pregnancy-massage.jpeg"
       image-ratio="4/3"
-      image-label="Gentle and safe pregnancy massage for expecting mothers, reducing back pain and swelling"
       :link="localePath('/services/pregnancy-massage')"
       :link-text="t('services.learnMore')"
     />
@@ -60,7 +55,6 @@
       :duration="`${t('services.duration.massage60')}, 100 CHF`"
       image="/images/services/large/children-massage.jpeg"
       image-ratio="4/3"
-      image-label="Playful and gentle children's massage supporting muscle development, sleep, and overall wellbeing"
       :link="localePath('/services/children-massage')"
       :link-text="t('services.learnMore')"
     />
@@ -70,7 +64,6 @@
       :duration="`${t('services.duration.cupping')}, 30 CHF`"
       image="/images/services/large/cupping-therapy.jpeg"
       image-ratio="4/3"
-      image-label="Traditional cupping therapy treatment using suction cups to relieve muscle tension, promote blood circulation, and support body detoxification"
       :link="localePath('/services/cupping-massage')"
       :link-text="t('services.learnMore')"
     />
@@ -82,7 +75,6 @@
       )}, 160 CHF`"
       image="/images/services/large/relaxation-massage.jpeg"
       image-ratio="4/3"
-      image-label="Soothing relaxation massage with gentle techniques and warm oils for stress relief and deep body-mind relaxation"
       :link="localePath('/services/relaxation-massage')"
       :link-text="t('services.learnMore')"
     />
