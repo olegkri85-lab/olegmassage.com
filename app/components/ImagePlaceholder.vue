@@ -1,12 +1,14 @@
 <template>
   <MediaContainer :ratio="ratio" :customRatio="customRatio">
     <div v-if="!src" class="placeholder"></div>
-    <img
+    <NuxtImg
       v-else
       :src="src"
-      :alt="alt"
-      :loading="loading"
+      :alt="alt || ''"
+      :loading="loading || 'lazy'"
       :fetchpriority="fetchpriority"
+      format="webp"
+      quality="80"
     />
   </MediaContainer>
 </template>
@@ -22,5 +24,3 @@ defineProps<{
   fetchpriority?: "high" | "low" | "auto";
 }>();
 </script>
-
-<style scoped></style>
