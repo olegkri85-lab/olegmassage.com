@@ -1,8 +1,8 @@
 <template>
   <div class="bg-[hsl(var(--accent-hsl))] text-white py-2 px-8 xl:px-16">
-    <div class="md:flex justify-between items-center text-xs md:text-sm">
+    <div class="flex justify-between items-center text-xs md:text-sm">
       <LanguageSwitcher />
-      <div class="hidden md:flex items-center gap-4">
+      <div class="flex items-center gap-4">
         <NuxtLink
           :to="localePath('/contact')"
           class="hover:text-gray-300 transition-colors !no-underline"
@@ -29,7 +29,7 @@
               d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"
             />
           </svg>
-          +41 79 849 92 74
+          <span class="hidden md:inline">+41 79 849 92 74</span>
         </a>
       </div>
     </div>
