@@ -14,7 +14,8 @@
       :aria-label="`Switch to ${locale.name}`"
       :aria-current="currentLocale === locale.code ? 'true' : undefined"
     >
-      {{ getLanguageName(locale.code) }}
+      <span class="md:hidden">{{ locale.code.toUpperCase() }}</span>
+      <span class="hidden md:inline">{{ getLanguageName(locale.code) }}</span>
     </button>
   </div>
 </template>
