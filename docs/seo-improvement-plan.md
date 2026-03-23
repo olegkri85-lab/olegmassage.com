@@ -98,58 +98,23 @@ Services index already uses `<h2>` for "Preise & Konditionen". No fix required.
 
 ---
 
-## Priority 3: Quick Wins
+## Priority 3: Quick Wins - ALL DONE
 
-### 3.1 Add Twitter Card Meta Tags
+### 3.1 Add Twitter Card Meta Tags - DONE
 
-**Problem**: OG tags present but no Twitter Card tags.
-
-**Fix**: Add to `useHead()` in layout or per-page:
-```js
-{ name: 'twitter:card', content: 'summary_large_image' },
-{ name: 'twitter:title', content: title },
-{ name: 'twitter:description', content: description },
-{ name: 'twitter:image', content: ogImage },
-```
-
-**Files to change**: `app/layouts/default.vue` or create a shared `useSeoMeta()` composable
+`useTwitterCards.ts` sets `card`, `site`, and default `image`. `@nuxtjs/seo` module auto-maps OG title/description to Twitter equivalents.
 
 ---
 
-### 3.2 Add Reviewer City to Testimonials
+### 3.2 Add Reviewer City to Testimonials - ALREADY DONE
 
-**Problem**: Testimonials lack location info, which weakens local trust signals.
-
-**Fix**: Add city/region to each testimonial in i18n files.
-
-**Example**:
-```json
-"serviceTestimonials": {
-  "swedish": {
-    "testimonial1": {
-      "text": "...",
-      "author": "Anna M.",
-      "location": "Meilen"
-    }
-  }
-}
-```
-
-**Files to change**:
-- `i18n/locales/*.json` - add `location` to each testimonial
-- Testimonial components - render location
+All testimonials already have `location` field in i18n. `ServiceTestimonials.vue` renders it.
 
 ---
 
-### 3.3 Strengthen Aggregate Rating
+### 3.3 Google Business Profile - DONE
 
-**Problem**: Only 6 reviews in Organization schema. Low count reduces credibility.
-
-**Fix**:
-- [ ] Add more reviews to structured data as real reviews come in
-- [ ] Consider Google Reviews integration or link to Google Business profile
-
-**File**: `app/composables/useStructuredData.ts`
+Added Google Maps `sameAs` link to Organization schema in `useStructuredData.ts`. Profile: 5.0 stars, 5 Google reviews.
 
 ---
 
@@ -192,10 +157,10 @@ If massage demonstration videos are created:
 
 ## Implementation Checklist
 
-### Phase 1 - Quick Wins (1-2 days)
-- [ ] Fix H3 -> H2 on services index
-- [ ] Add twitter:card meta tags
-- [ ] Add reviewer city to testimonials
+### Phase 1 - Quick Wins - DONE
+- [x] H3 -> H2 on services index (was already correct)
+- [x] Twitter card meta tags (useTwitterCards + @nuxtjs/seo)
+- [x] Reviewer city on testimonials (already implemented)
 
 ### Phase 2 - Content Fixes - DONE
 - [x] Create descriptive alt text keys for all images

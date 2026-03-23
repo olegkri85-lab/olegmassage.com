@@ -172,6 +172,7 @@ export const useStructuredData = () => {
       },
     ],
     sameAs: [
+      "https://maps.app.goo.gl/r5VDg9HPdqYeJw6z5",
       "https://www.facebook.com/profile.php?id=100079107851071",
       "https://www.instagram.com/massage_in_schweiz/",
       "https://www.threads.com/@massage_in_schweiz",

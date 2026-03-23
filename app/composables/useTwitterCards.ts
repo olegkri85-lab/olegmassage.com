@@ -3,6 +3,7 @@ export const useTwitterCards = () => {
     meta: [
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:site", content: "@massage_in_schweiz" },
+      { name: "twitter:image", content: "https://olegmassage.com/images/og/championship-action.jpeg" },
     ],
   });
 };
