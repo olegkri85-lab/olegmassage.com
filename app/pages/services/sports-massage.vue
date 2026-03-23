@@ -155,6 +155,13 @@
       { slug: 'cupping-massage', key: 'cupping', image: 'cupping-therapy.jpeg' },
     ]" />
 
+    <!-- 10-Session Package -->
+    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
+      <div class="container mx-auto">
+        <ServicePackage service-key="sports" />
+      </div>
+    </section>
+
     <GiftVoucherBanner />
 
     <CallToAction />

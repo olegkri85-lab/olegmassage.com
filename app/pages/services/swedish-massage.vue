@@ -1,74 +1,134 @@
 <template>
   <div class="bg-gray-50">
-    <!-- Hero Section -->
-    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
+    <!-- Product Hero: Image + Sticky Sidebar -->
+    <section class="py-16 px-8 xl:py-24 xl:px-16 bg-white">
       <div class="container mx-auto">
-        <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
+        <p class="text-xs md:text-sm uppercase tracking-widest text-gray-500 mb-4">
           {{ t("services.subtitle") }}
         </p>
-        <h1
-          class="text-5xl md:text-6xl lg:text-7xl font-display text-white mb-8"
-        >
-          {{ t("services.swedish.title") }}
-        </h1>
-        <p class="text-lg md:text-xl text-white/90 leading-relaxed mb-8">
-          {{ t("services.swedish.description") }}
-        </p>
-        <div class="flex flex-wrap gap-4 items-center">
-          <div class="text-white">
-            <p class="text-sm uppercase tracking-wide mb-1">
-              {{ t("services.pricing.title") }}
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
+          <!-- Left: Image + Title (mobile: title above image) -->
+          <div class="lg:col-span-7">
+            <h1 class="text-4xl md:text-5xl lg:text-6xl font-display text-gray-900 mb-6">
+              {{ t("services.swedish.title") }}
+            </h1>
+            <p class="text-lg text-gray-600 leading-relaxed mb-8 lg:hidden">
+              {{ t("services.swedish.description") }}
             </p>
-            <p class="text-2xl md:text-3xl font-display font-bold">
-              {{ t("services.duration.massage60") }}, 120 CHF<br />
-              {{ t("services.duration.massage90") }}, 160 CHF
+            <NuxtImg
+              src="/images/services/large/swedish-massage.jpeg"
+              :alt="t('services.swedish.altText')"
+              loading="eager"
+              quality="80"
+              class="w-full rounded-2xl object-cover"
+              style="aspect-ratio: 4/3"
+            />
+            <p class="text-lg text-gray-600 leading-relaxed mt-8 hidden lg:block">
+              {{ t("services.swedish.description") }}
             </p>
+          </div>
+
+          <!-- Right: Sticky Purchase Card -->
+          <div class="lg:col-span-5">
+            <div class="lg:sticky lg:top-8 space-y-6">
+              <!-- Award Badge -->
+              <div class="flex items-center gap-2">
+                <span class="inline-flex items-center gap-1 bg-yellow-400 text-gray-900 font-bold px-3 py-1 rounded-full text-xs uppercase">
+                  🏆 {{ t("pricing.award") }}
+                </span>
+              </div>
+
+              <!-- Single Session Prices -->
+              <div class="bg-gray-50 rounded-2xl p-6">
+                <h2 class="text-sm uppercase tracking-wider text-gray-500 mb-4">
+                  {{ t("services.pricing.title") }}
+                </h2>
+                <div class="space-y-3">
+                  <div class="flex items-center justify-between">
+                    <span class="text-lg text-gray-700">{{ t("services.duration.massage60") }}</span>
+                    <span class="text-2xl font-bold text-gray-900">120 CHF</span>
+                  </div>
+                  <div class="flex items-center justify-between">
+                    <span class="text-lg text-gray-700">{{ t("services.duration.massage90") }}</span>
+                    <span class="text-2xl font-bold text-gray-900">160 CHF</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 10-Session Deal -->
+              <div class="bg-[hsl(var(--lightAccent-hsl))] rounded-2xl p-6">
+                <div class="flex items-center gap-2 mb-4">
+                  <h3 class="text-sm uppercase tracking-wider text-gray-500">
+                    {{ t("pricing.packages.title") }}
+                  </h3>
+                  <span class="bg-[hsl(var(--accent-hsl))] text-white text-xs font-medium px-2 py-0.5 rounded-full">
+                    {{ t("pricing.packages.badge") }}
+                  </span>
+                </div>
+                <div class="space-y-3">
+                  <div class="flex items-center justify-between">
+                    <span class="text-base text-gray-700">10 x 60 Min</span>
+                    <div class="text-right">
+                      <span class="text-sm text-red-500 line-through">1200 CHF</span>
+                      <span class="text-xl font-bold text-gray-900 ml-2">1020 CHF</span>
+                    </div>
+                  </div>
+                  <div class="flex items-center justify-between">
+                    <span class="text-base text-gray-700">10 x 90 Min</span>
+                    <div class="text-right">
+                      <span class="text-sm text-red-500 line-through">1600 CHF</span>
+                      <span class="text-xl font-bold text-gray-900 ml-2">1360 CHF</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- CTA Buttons -->
+              <div class="space-y-3">
+                <CtaButton variant="primary" size="md" text-key="cta.services" class="w-full" />
+                <a
+                  href="mailto:oleh.kryvorotko@icloud.com?subject=Schwedische%20Massage%20buchen"
+                  class="!no-underline w-full inline-flex items-center justify-center gap-2 bg-gray-100 text-gray-800 py-4 px-8 text-base font-medium hover:bg-gray-200 transition-colors"
+                >
+                  {{ t("gutschein.orderEmail") }}
+                </a>
+              </div>
+
+              <!-- Trust Signals -->
+              <div class="flex flex-col gap-2 text-sm text-gray-500">
+                <div class="flex items-center gap-2">
+                  <span class="text-[hsl(var(--accent-hsl))]">✓</span>
+                  {{ t("pricing.mobile.text") }}
+                </div>
+                <div class="flex items-center gap-2">
+                  <span class="text-[hsl(var(--accent-hsl))]">✓</span>
+                  {{ t("services.pricing.paymentMethods") }}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Service Details -->
-    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="container mx-auto">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
-          <div>
-            <NuxtImg
-              src="/images/services/large/swedish-massage.jpeg"
-              :alt="t('services.swedish.altText')"
-              loading="lazy"
-              quality="80"
-              class="w-full h-full object-cover"
-              style="aspect-ratio: 4/3"
-            />
-          </div>
-          <div class="space-y-6">
-            <h2 class="text-3xl md:text-4xl font-display text-gray-900">
-              {{ t("servicePages.swedish.benefits.title") }}
-            </h2>
-            <ul class="space-y-4 text-lg text-gray-700">
-              <li class="flex items-start gap-3">
-                <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
-                <span>{{ t("servicePages.swedish.benefits.1") }}</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
-                <span>{{ t("servicePages.swedish.benefits.2") }}</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
-                <span>{{ t("servicePages.swedish.benefits.3") }}</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
-                <span>{{ t("servicePages.swedish.benefits.4") }}</span>
-              </li>
-            </ul>
-          </div>
+    <!-- Content Sections -->
+    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-gray-50">
+      <div class="container mx-auto max-w-4xl">
+        <!-- Benefits -->
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
+          <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
+            {{ t("servicePages.swedish.benefits.title") }}
+          </h2>
+          <ul class="space-y-4 text-lg text-gray-700">
+            <li v-for="i in 4" :key="i" class="flex items-start gap-3">
+              <span class="text-[hsl(var(--accent-hsl))] text-2xl">✓</span>
+              <span>{{ t(`servicePages.swedish.benefits.${i}`) }}</span>
+            </li>
+          </ul>
         </div>
 
         <!-- What to Expect -->
-        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
           <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
             {{ t("servicePages.swedish.whatToExpect.title") }}
           </h2>
@@ -82,7 +142,7 @@
         </div>
 
         <!-- Ideal For -->
-        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
           <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
             {{ t("servicePages.swedish.idealFor.title") }}
           </h2>
@@ -92,7 +152,7 @@
         </div>
 
         <!-- Frequency -->
-        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
           <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
             {{ t("servicePages.swedish.frequency.title") }}
           </h2>
@@ -102,7 +162,7 @@
         </div>
 
         <!-- Preparation -->
-        <div class="bg-gray-50 rounded-2xl p-8 md:p-12 mb-16">
+        <div class="bg-white rounded-2xl p-8 md:p-12 mb-8">
           <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-6">
             {{ t("servicePages.swedish.preparation.title") }}
           </h2>
@@ -119,13 +179,6 @@
 
         <!-- FAQ -->
         <ServiceFaq service-key="swedish" />
-
-        <!-- Booking CTA -->
-        <div class="text-center">
-          <CtaButton variant="primary" size="lg">
-            {{ t("cta.services") }}
-          </CtaButton>
-        </div>
       </div>
     </section>
 
@@ -157,10 +210,8 @@
       { slug: 'sports-massage', key: 'sports', image: 'sports-massage.jpeg' },
     ]" />
 
-    <!-- Gift Voucher Banner -->
     <GiftVoucherBanner />
 
-    <!-- CTA Section -->
     <CallToAction />
   </div>
 </template>

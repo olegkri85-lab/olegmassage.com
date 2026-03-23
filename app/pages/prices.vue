@@ -281,9 +281,47 @@
       </div>
     </section>
 
+    <!-- 10-Session Packages -->
+    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]">
+      <div class="container mx-auto">
+        <div class="flex items-center gap-4 mb-4">
+          <h2 class="text-3xl md:text-4xl font-display text-gray-900">
+            {{ t("pricing.packages.title") }}
+          </h2>
+          <span class="bg-[hsl(var(--accent-hsl))] text-white text-xs font-medium uppercase tracking-wider px-3 py-1 rounded-full">
+            {{ t("pricing.packages.badge") }}
+          </span>
+        </div>
+        <p class="text-lg text-gray-600 mb-10">
+          {{ t("pricing.packages.description") }}
+        </p>
+        <div class="space-y-4">
+          <div
+            v-for="pkg in packages"
+            :key="pkg.name"
+            class="flex flex-col sm:flex-row sm:items-center justify-between p-6 md:p-8 bg-white rounded-2xl"
+          >
+            <div class="mb-4 sm:mb-0">
+              <h3 class="text-xl font-display text-gray-900 mb-1">
+                {{ t(pkg.titleKey) }}
+              </h3>
+              <p class="text-sm text-gray-500">
+                {{ t("pricing.packages.sessions") }} · {{ pkg.duration }}
+              </p>
+            </div>
+            <div class="text-right whitespace-nowrap">
+              <span class="text-base text-red-500 line-through">{{ pkg.originalPrice }} CHF</span>
+              <span class="text-2xl md:text-3xl font-bold text-gray-900 ml-3">{{ pkg.price }} CHF</span>
+              <span class="block text-sm font-medium text-[hsl(var(--accent-hsl))]">{{ t("pricing.packages.badge") }} (-{{ pkg.originalPrice - pkg.price }} CHF)</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Info Section -->
     <section
-      class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
+      class="py-16 px-8 xl:py-32 xl:px-16 bg-white"
     >
       <div class="container mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -311,6 +349,8 @@
       </div>
     </section>
 
+    <GiftVoucherBanner />
+
     <!-- CTA Section -->
     <CallToAction />
   </div>
@@ -319,6 +359,16 @@
 <script setup lang="ts">
 const { t } = useI18n();
 const localePath = useLocalePath();
+
+const packages = [
+  { titleKey: "services.swedish.title", duration: "60 Min", originalPrice: 1200, price: 1020 },
+  { titleKey: "services.swedish.title", duration: "90 Min", originalPrice: 1600, price: 1360 },
+  { titleKey: "services.classical.title", duration: "60 Min", originalPrice: 1000, price: 850 },
+  { titleKey: "services.classical.title", duration: "90 Min", originalPrice: 1500, price: 1275 },
+  { titleKey: "services.sports.title", duration: "60 Min", originalPrice: 1400, price: 1190 },
+  { titleKey: "services.relaxation.title", duration: "60 Min", originalPrice: 1200, price: 1020 },
+  { titleKey: "services.relaxation.title", duration: "90 Min", originalPrice: 1600, price: 1360 },
+];
 
 useHead(() => ({
   title: t("pricing.meta.title"),

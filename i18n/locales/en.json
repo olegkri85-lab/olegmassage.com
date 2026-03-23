@@ -2345,6 +2345,12 @@
     },
     "cupping": {
       "summary": "Add-on to any massage. Improves circulation and releases tension."
+    },
+    "packages": {
+      "title": "10-Session Package: Save 15%",
+      "description": "Book 10 sessions in advance and save 15% on the total price. Ideal for regular treatments.",
+      "badge": "15% Off",
+      "sessions": "10 sessions"
     }
   },
   "servicePages": {

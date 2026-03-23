@@ -2345,6 +2345,12 @@
     },
     "cupping": {
       "summary": "Zusätzlich zu jeder Massage. Verbessert Durchblutung und löst Verspannungen."
+    },
+    "packages": {
+      "title": "10er-Abo: 15% sparen",
+      "description": "Buchen Sie 10 Sitzungen im Voraus und sparen Sie 15% auf den Gesamtpreis. Ideal für regelmässige Behandlungen.",
+      "badge": "15% Rabatt",
+      "sessions": "10 Sitzungen"
     }
   },
   "servicePages": {

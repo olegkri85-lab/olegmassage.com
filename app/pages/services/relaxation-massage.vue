@@ -158,6 +158,13 @@
     ]" />
 
     <!-- Gift Voucher Banner -->
+    <!-- 10-Session Package -->
+    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
+      <div class="container mx-auto">
+        <ServicePackage service-key="relaxation" />
+      </div>
+    </section>
+
     <GiftVoucherBanner />
 
     <!-- CTA Section -->
