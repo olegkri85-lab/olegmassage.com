@@ -261,6 +261,15 @@ useHead(() => ({
             )}`,
             availability: "https://schema.org/InStock",
           },
+          {
+            "@type": "Offer",
+            price: "1190",
+            priceCurrency: "CHF",
+            description: `${t("services.sports.title")} - 10x ${t(
+              "services.duration.massage60"
+            )} (${t("pricing.packages.badge")})`,
+            availability: "https://schema.org/InStock",
+          },
         ],
         areaServed: [
           { "@type": "City", name: "Zürich" },

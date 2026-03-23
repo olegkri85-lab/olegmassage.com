@@ -281,6 +281,24 @@ useHead(() => ({
             )}`,
             availability: "https://schema.org/InStock",
           },
+          {
+            "@type": "Offer",
+            price: "1020",
+            priceCurrency: "CHF",
+            description: `${t("services.relaxation.title")} - 10x ${t(
+              "services.duration.massage60"
+            )} (${t("pricing.packages.badge")})`,
+            availability: "https://schema.org/InStock",
+          },
+          {
+            "@type": "Offer",
+            price: "1360",
+            priceCurrency: "CHF",
+            description: `${t("services.relaxation.title")} - 10x ${t(
+              "services.duration.massage90"
+            )} (${t("pricing.packages.badge")})`,
+            availability: "https://schema.org/InStock",
+          },
         ],
         areaServed: [
           { "@type": "City", name: "Zürich" },
