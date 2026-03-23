@@ -128,6 +128,14 @@
           </li>
           <li>
             <NuxtLink
+              :to="localePath('/gift-voucher')"
+              class="text-gray-900 relative !no-underline"
+            >
+              {{ t("nav.giftVoucher") }}
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink
               :to="localePath('/legal')"
               class="text-gray-900 relative !no-underline"
             >

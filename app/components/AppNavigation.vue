@@ -96,5 +96,6 @@ const navLinks = [
   { to: "/about", label: "nav.about" },
   { to: "/certificates", label: "nav.certificates" },
   { to: "/faq", label: "nav.faq" },
+  { to: "/gift-voucher", label: "nav.giftVoucher" },
 ];
 </script>

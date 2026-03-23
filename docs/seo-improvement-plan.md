@@ -134,24 +134,19 @@ New pages/articles to create for untapped keyword clusters:
 
 ## Priority 5: Future Enhancements
 
-### 5.1 Video Schema
+### 5.1 Video Schema - REMOVED
 
-If massage demonstration videos are created:
-- Add `VideoObject` schema to relevant service pages
-- Host on YouTube, embed on site
-- Target video rich results in Google
+No videos planned.
 
-### 5.2 Google Business Profile Integration
+### 5.2 Google Business Profile Integration - DONE
 
-- Link structured data to Google Business Profile
-- Encourage and display Google Reviews
-- Add `sameAs` link to Google Maps listing
+Google Maps `sameAs` link added to Organization schema.
 
 ### 5.3 Core Web Vitals Audit
 
-- Measure LCP, FID, CLS via Google Search Console
-- Optimize largest contentful paint (hero images)
-- Check cumulative layout shift on mobile
+- [ ] Measure LCP, FID, CLS via Google Search Console
+- [ ] Optimize largest contentful paint (hero images)
+- [ ] Check cumulative layout shift on mobile
 
 ---
 

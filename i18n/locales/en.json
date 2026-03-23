@@ -41,7 +41,8 @@
     "prices": "Prices",
     "guide": "Guide",
     "certificates": "Certificates",
-    "faq": "Questions"
+    "faq": "Questions",
+    "giftVoucher": "Gift Voucher"
   },
   "footer": {
     "serviceArea": "Service Area",
@@ -3035,6 +3036,63 @@
         "name": "Cupping Therapy",
         "description": "Traditional cupping therapy to relieve muscle tension, promote circulation, and support detoxification."
       }
+    }
+  },
+  "gutschein": {
+    "meta": {
+      "title": "Massage Gift Voucher Zurich | Give the Gift of Relaxation | olegmassage.com",
+      "description": "Order a massage gift voucher online. Give the gift of professional mobile massage in the Zurich Lake region. Swedish massage, relaxation massage or free choice. Order via WhatsApp or email."
+    },
+    "subtitle": "The Perfect Gift",
+    "title": "Massage Gift Voucher",
+    "description": "Give the gift of relaxation and well-being. A massage gift voucher is the ideal present for any occasion - birthday, holiday or simply as a thank you.",
+    "options": {
+      "title": "Voucher Options",
+      "relaxation": {
+        "title": "Relaxation Massage",
+        "duration": "60 minutes",
+        "price": "120 CHF",
+        "description": "Deep relaxation for body and mind. Gentle, flowing movements release stress and bring inner calm. The most popular gift.",
+        "badge": "Popular"
+      },
+      "swedish": {
+        "title": "Swedish Massage",
+        "duration": "90 minutes",
+        "price": "160 CHF",
+        "description": "The premium experience from the winner of the Swiss Massage Championship 2026. Deep-acting full-body massage for maximum recovery.",
+        "badge": "Premium"
+      },
+      "custom": {
+        "title": "Custom Massage",
+        "duration": "your choice",
+        "price": "from 100 CHF",
+        "description": "The recipient chooses: massage type, duration and appointment. Maximum flexibility for the perfect gift.",
+        "badge": "Flexible"
+      }
+    },
+    "orderWhatsApp": "Order via WhatsApp",
+    "orderEmail": "Order via email",
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": {
+        "title": "1. Get in Touch",
+        "description": "Send me a message via WhatsApp or email with the voucher you would like to order."
+      },
+      "step2": {
+        "title": "2. Payment",
+        "description": "Pay conveniently via TWINT or bank transfer."
+      },
+      "step3": {
+        "title": "3. Receive Your Voucher",
+        "description": "You will receive a personalised voucher as a PDF by email, or as a printed card by post if preferred."
+      }
+    },
+    "referral": {
+      "title": "Refer & Save",
+      "description": "Know someone who could use a massage? Refer me and you both save CHF 20 on your next treatment. Your friend simply mentions your name when booking.",
+      "discount": "CHF 20 discount for both",
+      "shareWhatsApp": "Refer via WhatsApp",
+      "shareMessage": "Hey, I wanted to recommend Oleg's mobile massage service - award-winning massage right at your door! If you book and mention my name, we both get CHF 20 off. Check it out: https://olegmassage.com"
     }
   }
 }
