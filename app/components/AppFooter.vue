@@ -75,7 +75,7 @@
           </li>
           <li>
             <a href="https://www.instagram.com/massage_in_schweiz/" target="_blank" rel="noopener noreferrer"
-              >Instagram</
+              >Instagram</a
             >
           </li>
         </ul>
