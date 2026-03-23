@@ -87,6 +87,14 @@
         <ul>
           <li>
             <NuxtLink
+              :to="localePath('/contact')"
+              class="text-gray-900 relative !no-underline"
+            >
+              {{ t("contact.subtitle") }}
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink
               :to="localePath('/about')"
               class="text-gray-900 relative !no-underline"
             >
