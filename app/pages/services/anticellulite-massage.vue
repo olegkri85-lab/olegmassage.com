@@ -32,11 +32,14 @@
       <div class="max-w-4xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
           <div>
-            <ImagePlaceholder
-              ratio="4/3"
+            <NuxtImg
               src="/images/services/large/anticellulite-massage.jpeg"
               :alt="t('services.anticellulite.title')"
-              :label="t('services.anticellulite.title')"
+              loading="lazy"
+              format="webp"
+              quality="80"
+              class="w-full h-full object-cover"
+              style="aspect-ratio: 4/3"
             />
           </div>
           <div class="space-y-6">

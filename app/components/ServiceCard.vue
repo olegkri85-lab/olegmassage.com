@@ -1,21 +1,25 @@
 <template>
   <article class="flex flex-col gap-8 h-full">
     <NuxtLink v-if="link" :to="link" class="w-full block !no-underline group/img">
-      <ImagePlaceholder
-        :ratio="imageRatio"
+      <NuxtImg
         :src="image"
         :alt="title"
-        :label="imageLabel"
         loading="lazy"
+        format="webp"
+        quality="80"
+        class="w-full h-full object-cover"
+        :style="`aspect-ratio: ${imageRatio || '4/3'}`"
       />
     </NuxtLink>
     <div v-else class="w-full">
-      <ImagePlaceholder
-        :ratio="imageRatio"
+      <NuxtImg
         :src="image"
         :alt="title"
-        :label="imageLabel"
         loading="lazy"
+        format="webp"
+        quality="80"
+        class="w-full h-full object-cover"
+        :style="`aspect-ratio: ${imageRatio || '4/3'}`"
       />
     </div>
     <div class="flex flex-col gap-4 flex-1">

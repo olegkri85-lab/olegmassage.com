@@ -25,10 +25,14 @@
             :to="localePath('/certificates/smc-1st-place')"
             class="group bg-gray-50 rounded-2xl p-4 !no-underline transition-shadow hover:shadow-lg"
           >
-            <ImagePlaceholder
-              ratio="4/3"
+            <NuxtImg
               src="/certificates/smc-1st-place.jpeg"
               :alt="t('certificates.smc1stPlace.title')"
+              loading="lazy"
+              format="webp"
+              quality="80"
+              class="w-full h-full object-cover"
+              style="aspect-ratio: 4/3"
             />
             <div class="p-4">
               <div
@@ -48,10 +52,14 @@
             :to="localePath('/certificates/smc-participation')"
             class="group bg-gray-50 rounded-2xl p-4 !no-underline transition-shadow hover:shadow-lg"
           >
-            <ImagePlaceholder
-              ratio="4/3"
+            <NuxtImg
               src="/certificates/smc-participation.jpeg"
               :alt="t('certificates.smcParticipation.title')"
+              loading="lazy"
+              format="webp"
+              quality="80"
+              class="w-full h-full object-cover"
+              style="aspect-ratio: 4/3"
             />
             <div class="p-4">
               <h3
@@ -78,10 +86,14 @@
             :to="localePath('/certificates/profmed-classic-massage')"
             class="group bg-white rounded-2xl p-4 !no-underline transition-shadow hover:shadow-lg"
           >
-            <ImagePlaceholder
-              ratio="4/3"
+            <NuxtImg
               src="/certificates/profmed-classic-massage.jpeg"
               :alt="t('certificates.profmedClassic.title')"
+              loading="lazy"
+              format="webp"
+              quality="80"
+              class="w-full h-full object-cover"
+              style="aspect-ratio: 4/3"
             />
             <div class="p-4">
               <h3
@@ -95,10 +107,14 @@
             :to="localePath('/certificates/profmed-anatomy')"
             class="group bg-white rounded-2xl p-4 !no-underline transition-shadow hover:shadow-lg"
           >
-            <ImagePlaceholder
-              ratio="4/3"
+            <NuxtImg
               src="/certificates/profmed-anatomy.jpeg"
               :alt="t('certificates.profmedAnatomy.title')"
+              loading="lazy"
+              format="webp"
+              quality="80"
+              class="w-full h-full object-cover"
+              style="aspect-ratio: 4/3"
             />
             <div class="p-4">
               <h3
@@ -112,10 +128,14 @@
             :to="localePath('/certificates/smc-workshops')"
             class="group bg-white rounded-2xl p-4 !no-underline transition-shadow hover:shadow-lg"
           >
-            <ImagePlaceholder
-              ratio="4/3"
+            <NuxtImg
               src="/certificates/smc-workshops.jpeg"
               :alt="t('certificates.smcWorkshops.title')"
+              loading="lazy"
+              format="webp"
+              quality="80"
+              class="w-full h-full object-cover"
+              style="aspect-ratio: 4/3"
             />
             <div class="p-4">
               <h3

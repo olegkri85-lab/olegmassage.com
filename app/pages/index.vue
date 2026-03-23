@@ -24,12 +24,15 @@
             <CtaButton variant="hero" size="lg" text-key="cta.hero" />
           </div>
           <div class="relative">
-            <ImagePlaceholder
-              ratio="4/3"
+            <NuxtImg
               src="/images/championship-action.jpeg"
               :alt="t('hero.award')"
               loading="eager"
               fetchpriority="high"
+              format="webp"
+              quality="80"
+              class="w-full h-full object-cover"
+              style="aspect-ratio: 4/3"
             />
           </div>
         </div>

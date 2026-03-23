@@ -24,12 +24,15 @@
       </div>
       <div class="w-full">
         <div class="overflow-hidden">
-          <ImagePlaceholder
-            ratio="1/1"
+          <NuxtImg
             src="/images/me.jpeg"
             alt="Professional massage therapist"
-            fetchpriority="high"
             loading="eager"
+            fetchpriority="high"
+            format="webp"
+            quality="80"
+            class="w-full h-full object-cover"
+            style="aspect-ratio: 1/1"
           />
         </div>
       </div>
