@@ -144,6 +144,7 @@
   "cta": {
     "title": "Stress-free Consultation Booking",
     "button": "Book Now",
+    "ariaLabel": "Book a massage via WhatsApp",
     "hero": "Get a Massage now",
     "about": "Book Appointment",
     "services": "Book Massage",
@@ -162,7 +163,7 @@
     "intro": "Information according to Swiss law regarding the operator of this website.",
     "information": {
       "title": "Information about the Service Provider",
-      "content": "Oleh Kryvorotko, Mobile Massage Service, Lake Zurich Region, Switzerland. Email: {email}, Phone: +41 79 849 92 74"
+      "content": "Oleh Kryvorotko, Sole Proprietorship, Lustnaustrasse 21, 6417 Sattel, Switzerland. UID: CHE-132.918.724. Email: {email}, Phone: +41 79 849 92 74"
     },
     "liability": {
       "title": "Liability for Content",
@@ -178,7 +179,7 @@
     "intro": "The protection of your personal data is very important to us. In this data protection declaration, we inform you about the processing of personal data when using our website.",
     "responsible": {
       "title": "Responsible Party",
-      "content": "Responsible for data processing on this website: Oleh Kryvorotko, Mobile Massage Service, Lake Zurich Region, Switzerland. Email: {email}"
+      "content": "Responsible for data processing on this website: Oleh Kryvorotko, Lustnaustrasse 21, 6417 Sattel, Switzerland. UID: CHE-132.918.724. Email: {email}"
     },
     "dataCollection": {
       "title": "Data Collection",
@@ -299,7 +300,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zurich",
-      "description": "Professional mobile massage service in Zurich and surrounding areas. Experience relaxing massage therapy in your home with a certified therapist.",
+      "description": "Zurich, Switzerland's largest city, pulses with energy - from the Bahnhofstrasse to Lake Zurich, from the Niederdorf to the panoramic hilltop neighborhoods. Oleg brings his award-winning massage to every corner of the Limmat city, directly to your home or office. Whether Kreis 1 or Kreis 12, professional relaxation comes to you.",
       "areas": {
         "title": "We serve these areas in Zurich"
       },
@@ -315,6 +316,22 @@
       },
       "services": {
         "title": "Available massage types in Zurich"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "In which city districts of Zurich is Oleg available?",
+            "answer": "Oleg serves all city districts of Zurich, from the Old Town to Schwamendingen, from Enge to Seebach. The entire city area is covered."
+          },
+          {
+            "question": "What sets Oleg apart from massage studios in Zurich?",
+            "answer": "Oleg is the winner of the Swiss Massage Championship 2026 and offers the highest quality directly at your home. You save travel time, enjoy privacy, and can continue relaxing right after the treatment without having to drive back."
+          },
+          {
+            "question": "Can I book a massage at a hotel in Zurich?",
+            "answer": "Yes, Oleg also comes to hotels. Especially for business travelers or tourists, this is a convenient way to recover after a full day in the city."
+          }
+        ]
       }
     },
     "schwyz": {
@@ -324,7 +341,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Schwyz",
-      "description": "Professional mobile massage service in Schwyz and surrounding areas. Experience relaxing massage therapy in your home with a certified therapist.",
+      "description": "Canton Schwyz, Oleg's home around Sattel, is characterized by majestic mountains, Lake Lucerne, and a rich history as a founding canton of Switzerland. Since Oleg lives here, you benefit from particularly short travel times and flexible appointments. First-class massage in the heart of original Switzerland, directly at your home.",
       "areas": {
         "title": "We serve these areas in Schwyz"
       },
@@ -340,6 +357,22 @@
       },
       "services": {
         "title": "Available massage types in Schwyz"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Is the travel in Canton Schwyz shorter and therefore more affordable?",
+            "answer": "Yes, since Oleg lives in Sattel, travel distances in Canton Schwyz are particularly short. Places like Schwyz, Brunnen, or Goldau are reached in just a few minutes, which has a positive effect on travel costs."
+          },
+          {
+            "question": "Does Oleg also offer massages after mountain hikes?",
+            "answer": "Absolutely. Especially after hikes on the Rigi, the Mythen, or other peaks in Canton Schwyz, a recovery massage is highly recommended. Oleg can target the treatment specifically to the muscle groups that were strained."
+          },
+          {
+            "question": "Are short-notice appointments in Canton Schwyz also possible?",
+            "answer": "Since Oleg lives in the region, short-notice bookings are more feasible here than in more distant areas. Simply inquire, and often an appointment can be found on the same day."
+          }
+        ]
       }
     },
     "zug": {
@@ -349,7 +382,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zug",
-      "description": "Professional mobile massage service in Zug and surrounding areas. Experience relaxing massage therapy in your home with a certified therapist.",
+      "description": "Zug, the international business city on the lake, combines economic dynamism with a high quality of life and a beautiful lakeshore. Many professionally busy people here appreciate the ability to order professional massage directly to the office or home. Oleg is quickly in Zug from Sattel and brings you the recovery you deserve.",
       "areas": {
         "title": "We serve these areas in Zug"
       },
@@ -365,6 +398,22 @@
       },
       "services": {
         "title": "Available massage types in Zug"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Does Oleg also offer corporate massage for companies in Zug?",
+            "answer": "Yes, Oleg offers corporate massages. Whether as a regular offering for employees or as a one-time event at a company function, he comes directly to your business premises in Zug."
+          },
+          {
+            "question": "Can the massage take place in English?",
+            "answer": "Yes, Oleg speaks multiple languages. Especially in the international business world of Zug, this is a great advantage. Communication before and during the massage can easily be conducted in English."
+          },
+          {
+            "question": "How far in advance should I book in Zug?",
+            "answer": "Booking two to three days in advance is recommended, especially for evening and weekend appointments. Since Zug is close to Sattel, short-notice requests are also often feasible."
+          }
+        ]
       }
     },
     "luzern": {
@@ -374,7 +423,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Lucerne",
-      "description": "Professional mobile massage service in Lucerne and surrounding areas. Experience relaxing massage therapy in your home with a certified therapist.",
+      "description": "Lucerne, the city of lights on Lake Lucerne, enchants with the famous Chapel Bridge, the Lion Monument, and a breathtaking mountain panorama. Whether you need a massage after a day as a tourist, after work, or simply to unwind - Oleg comes to you. Lucerne is quickly reached from Sattel, so relaxation does not have to wait long.",
       "areas": {
         "title": "We serve these areas in Lucerne"
       },
@@ -390,6 +439,22 @@
       },
       "services": {
         "title": "Available massage types in Lucerne"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "How long does the journey from Sattel to Lucerne take?",
+            "answer": "Oleg reaches Lucerne from Sattel in approximately 30 to 40 minutes. The short distance allows for flexible scheduling, including evenings and weekends."
+          },
+          {
+            "question": "Can I book a massage as a complement to a Lucerne visit?",
+            "answer": "Of course. Many guests book a massage after an active day in Lucerne, whether after a Rigi excursion, a city stroll, or a museum visit. Oleg comes directly to your hotel or vacation apartment."
+          },
+          {
+            "question": "Does Oleg also treat chronic conditions, or only wellness?",
+            "answer": "Oleg offers both wellness and therapeutic massages. For chronic tension or complaints, he adapts the technique individually. As the winner of the Swiss Massage Championship 2026, he has extensive professional expertise."
+          }
+        ]
       }
     },
     "aargau": {
@@ -399,7 +464,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Aargau",
-      "description": "Professional mobile massage service in Aargau. Experience relaxing massage therapy at home with a certified therapist.",
+      "description": "Canton Aargau impresses with its diversity - from the historic thermal springs in Baden to the river landscapes of the Aare, Reuss, and Limmat to vibrant towns like Aarau and Wettingen. Oleg brings mobile massage to this varied region, adding a personal, professional component to the canton's wellness offerings, directly at your home.",
       "areas": {
         "title": "We serve these regions in Aargau"
       },
@@ -415,6 +480,22 @@
       },
       "services": {
         "title": "Available massage types in Aargau"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Which locations in Canton Aargau does Oleg serve?",
+            "answer": "Oleg travels throughout Canton Aargau, including Aarau, Baden, Wettingen, Brugg, Lenzburg, and the surrounding areas. Travel time varies depending on the location and is communicated transparently when booking."
+          },
+          {
+            "question": "Is mobile massage a good complement to the thermal baths in Baden?",
+            "answer": "Absolutely. The combination of thermal baths and professional massage is especially beneficial. Oleg can come to you after your thermal visit and deepen the relaxation with targeted muscle treatment."
+          },
+          {
+            "question": "Is there a surcharge for travel to Aargau?",
+            "answer": "Travel costs depend on the distance from Sattel to your location. When booking, you receive a transparent overview of all costs, including travel. There are no hidden fees."
+          }
+        ]
       }
     },
     "rapperswilJona": {
@@ -424,7 +505,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Rapperswil-Jona",
-      "description": "Professional mobile massage service in Rapperswil-Jona and surrounding areas. Experience relaxing massage therapy at home with a certified therapist.",
+      "description": "Rapperswil-Jona, the Rose City on the upper Lake Zurich, enchants with its medieval castle, the rose gardens, and the picturesque lakeshore. Whether after a walk across the wooden footbridge, a day at the children's zoo, or simply to unwind - Oleg comes to you at this beautiful location. The journey from Sattel is short, so you can quickly enjoy a professional massage.",
       "areas": {
         "title": "We serve these regions in Rapperswil-Jona"
       },
@@ -440,6 +521,22 @@
       },
       "services": {
         "title": "Available massage types in Rapperswil-Jona"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "How long does Oleg need from Sattel to Rapperswil-Jona?",
+            "answer": "The journey from Sattel to Rapperswil-Jona takes approximately 35 to 45 minutes. This makes the Rose City one of the easily reachable service areas."
+          },
+          {
+            "question": "Can I book a massage in a vacation apartment by the lake?",
+            "answer": "Yes, Oleg is happy to come to vacation apartments and vacation homes in Rapperswil-Jona. He brings everything needed. Especially on holiday, a massage in your own vacation accommodation is particularly relaxing."
+          },
+          {
+            "question": "Which massage types are suitable after an active day at Lake Zurich?",
+            "answer": "After activities like cycling, swimming, or hiking, a Sports Massage or Classic Massage focusing on the strained muscle groups is recommended. Oleg advises you individually before the treatment."
+          }
+        ]
       }
     },
     "meilen": {
@@ -449,7 +546,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Meilen",
-      "description": "Professional mobile massage service in Meilen and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Meilen is located on the sunny Gold Coast of Lake Zurich, surrounded by vineyards and magnificent lake views. The municipality combines rural charm with upscale living between vine-covered hillsides and the lakeshore. Oleg comes with a professional massage table directly to your home in Meilen, so you can relax in your familiar surroundings.",
       "why": {
         "title": "Why choose mobile massage in Meilen?"
       },
@@ -462,6 +559,22 @@
       },
       "services": {
         "title": "Available massage types in Meilen"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "How long does it take to travel to Meilen?",
+            "answer": "From my location in Sattel (SZ), I reach Meilen in approximately 45-50 minutes. Travel costs are already included in the price, there are no additional fees."
+          },
+          {
+            "question": "Which type of massage is particularly popular in Meilen?",
+            "answer": "Many clients in Meilen book the Swedish Massage for deep relaxation after a long workday. The Anti-Cellulite Massage and Cupping are also very popular on the Gold Coast."
+          },
+          {
+            "question": "What do I need to prepare at home for the massage?",
+            "answer": "You only need a quiet room with approximately 2x3 meters of free space. I bring everything: professional massage table, high-quality oils, and fresh linens. Simply ensure a comfortable room temperature."
+          }
+        ]
       }
     },
     "horgen": {
@@ -471,7 +584,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Horgen",
-      "description": "Professional mobile massage service in Horgen and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Horgen on the left shore of Lake Zurich combines industrial tradition with a lively town center right on the lake. The harbor, the historic factory buildings, and the ferry connection to Meilen define this versatile municipality. Oleg brings professional massage therapy directly to your home in Horgen.",
       "why": {
         "title": "Why choose mobile massage in Horgen?"
       },
@@ -484,6 +597,22 @@
       },
       "services": {
         "title": "Available massage types in Horgen"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Do you also offer evening and weekend appointments in Horgen?",
+            "answer": "Yes, I am available in Horgen from Monday to Sunday between 08:00 and 20:00. Evening and weekend appointments are particularly popular, so it is best to book early."
+          },
+          {
+            "question": "Which massages are suitable for commuters with neck tension?",
+            "answer": "For commuters from Horgen, I recommend the Classic Massage or Swedish Massage. Both techniques relieve typical tension in the neck and shoulder area caused by prolonged sitting."
+          },
+          {
+            "question": "How do I pay for the massage?",
+            "answer": "You can pay in cash or via TWINT. Payment is made directly after the treatment. Travel costs are included."
+          }
+        ]
       }
     },
     "kuesnacht": {
@@ -493,7 +622,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Küsnacht",
-      "description": "Professional mobile massage service in Küsnacht and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Kuesnacht is one of the most exclusive residential communities on the Gold Coast and is located just a few minutes from Zurich. The charming village center, the proximity to the lake, and the quiet residential neighborhoods make Kuesnacht an ideal place for relaxation. Oleg comes with all his equipment directly to your home in Kuesnacht.",
       "why": {
         "title": "Why choose mobile massage in Küsnacht?"
       },
@@ -506,6 +635,22 @@
       },
       "services": {
         "title": "Available massage types in Küsnacht"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Do I need a parking space for the massage therapist?",
+            "answer": "A parking space near your home is helpful, as I bring a massage table and equipment. If no private parking is available, a public parking space in the area will suffice."
+          },
+          {
+            "question": "Do you offer pregnancy massage in Kuesnacht?",
+            "answer": "Yes, pregnancy massage is available from the second trimester and is very popular among families in Kuesnacht. It relieves back pain, heavy legs, and promotes relaxation. Please consult with your gynecologist beforehand."
+          },
+          {
+            "question": "Can I schedule a regular appointment?",
+            "answer": "Of course. Many of my clients in Kuesnacht book a fixed weekly or biweekly appointment. Regular massages have a cumulative effect and provide lasting relaxation."
+          }
+        ]
       }
     },
     "waedenswil": {
@@ -515,7 +660,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Wädenswil",
-      "description": "Professional mobile massage service in Wädenswil and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Waedenswil on the left lakeshore is known for the ZHAW university, a long winemaking tradition, and the lively town square with views of Lake Zurich. The mix of students, families, and longtime residents gives the town its unique character. Oleg brings professional massage directly to your home in Waedenswil.",
       "why": {
         "title": "Why choose mobile massage in Wädenswil?"
       },
@@ -528,6 +673,22 @@
       },
       "services": {
         "title": "Available massage types in Wädenswil"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Are there special offers for students in Waedenswil?",
+            "answer": "The prices are the same for all clients. For students, I recommend the 60-minute Swedish Massage as an ideal introduction to stress relief."
+          },
+          {
+            "question": "Is sports massage suitable for recreational athletes?",
+            "answer": "Absolutely. There are many running and cycling groups in Waedenswil. Sports massage accelerates recovery after training, releases muscle tightness, and helps prevent injuries. It is not only for professional athletes."
+          },
+          {
+            "question": "How short-notice can I book an appointment?",
+            "answer": "Typically, booking 1-2 days in advance is possible. When there is availability, same-day appointments can also be arranged. Simply contact me by phone or WhatsApp."
+          }
+        ]
       }
     },
     "staefa": {
@@ -537,7 +698,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Stäfa",
-      "description": "Professional mobile massage service in Stäfa and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Staefa captivates with its historic village center, terraced vineyards, and beautiful location on the right shore of Lake Zurich. The village combines wine culture with modern country living and offers a magnificent view across the lake to the Alps. Oleg is happy to travel to Staefa and brings everything needed for a professional massage.",
       "why": {
         "title": "Why choose mobile massage in Stäfa?"
       },
@@ -550,6 +711,22 @@
       },
       "services": {
         "title": "Available massage types in Stäfa"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "How far is it from Sattel to Staefa?",
+            "answer": "The travel time from Sattel (SZ) to Staefa is approximately 40-45 minutes. Travel is included in the massage price, you pay no additional travel costs."
+          },
+          {
+            "question": "Which massage do you recommend after gardening?",
+            "answer": "For tension after physical work in the house and garden, the Classic Massage is excellent. It releases tightness in the back, shoulders, and arms and improves blood circulation."
+          },
+          {
+            "question": "Can the massage also take place in the garden or on the terrace?",
+            "answer": "Yes, in good weather an outdoor massage is possible, provided there is a flat, sheltered spot. Many clients in Staefa enjoy the treatment with lake views on their terrace."
+          }
+        ]
       }
     },
     "thalwil": {
@@ -559,7 +736,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Thalwil",
-      "description": "Professional mobile massage service in Thalwil and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Thalwil is a popular residential community on the left shore of Lake Zurich with excellent S-Bahn connections to Zurich. The area offers quiet living near the lake, well-maintained neighborhoods, and a charming village center. Oleg comes with a professional massage table directly to your home in Thalwil, so you can relax immediately after commuting.",
       "why": {
         "title": "Why choose mobile massage in Thalwil?"
       },
@@ -572,6 +749,22 @@
       },
       "services": {
         "title": "Available massage types in Thalwil"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Can I book a massage right after work?",
+            "answer": "Yes, evening appointments are very popular in Thalwil. I am available until 20:00. Many clients book between 18:00 and 20:00, right after arriving home, to start the evening with a massage."
+          },
+          {
+            "question": "Is a 60-minute massage enough, or should I book 90 minutes?",
+            "answer": "60 minutes is well suited for a targeted treatment of the neck, shoulders, and back. For a full-body massage or severe tension, I recommend 90 minutes so all areas can be adequately treated."
+          },
+          {
+            "question": "Is the massage also suitable for older people?",
+            "answer": "Absolutely. The Swedish Massage and the Relaxation Massage are particularly gentle and excellently suited for seniors. The pressure is individually adjusted. Mobile massage is especially ideal for older people, as there is no need to travel to a studio."
+          }
+        ]
       }
     },
     "kilchberg": {
@@ -581,7 +774,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Kilchberg",
-      "description": "Professional mobile massage service in Kilchberg and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Kilchberg, known for the Lindt chocolate factory and the chocolate museum, is an exclusive residential community directly south of Zurich on the left lakeshore. The proximity to the city, the quiet residential areas, and the lake views make Kilchberg especially attractive. Oleg brings professional massage directly to your home in Kilchberg.",
       "why": {
         "title": "Why choose mobile massage in Kilchberg?"
       },
@@ -594,6 +787,22 @@
       },
       "services": {
         "title": "Available massage types in Kilchberg"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "How does mobile massage differ from a massage studio?",
+            "answer": "With mobile massage, you do not need to travel at all. You can continue relaxing in your own home right after the treatment. I bring a professional massage table, high-quality oils, and fresh linens - the quality is identical."
+          },
+          {
+            "question": "Do you also offer children's massage in Kilchberg?",
+            "answer": "Yes, I offer gentle children's massage for school-age children. It helps with growing pains, restlessness, and promotes better sleep. A parent always stays in the room."
+          },
+          {
+            "question": "Do I need to consider anything special if I live in an apartment?",
+            "answer": "No, the massage table is lightweight and I can easily carry it into any apartment. I only need about 2x3 meters of free space. In an apartment building, I am happy to use the elevator if available."
+          }
+        ]
       }
     },
     "adliswil": {
@@ -603,7 +812,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Adliswil",
-      "description": "Professional mobile massage service in Adliswil and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Adliswil is located in the Sihl Valley, surrounded by nature, forests, and the popular excursion destination Felsenegg with its cable car. Despite its proximity to Zurich, Adliswil has maintained an independent, nature-oriented character. Oleg is happy to come to the Sihl Valley and brings professional massage therapy directly to your home in Adliswil.",
       "why": {
         "title": "Why choose mobile massage in Adliswil?"
       },
@@ -616,6 +825,22 @@
       },
       "services": {
         "title": "Available massage types in Adliswil"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Which massage is suitable after a hike to Felsenegg?",
+            "answer": "After a hike, I recommend the Sports Massage or the Classic Massage. They relieve tired leg muscles, prevent muscle soreness, and accelerate recovery. Ideally, book for the evening after your hiking day."
+          },
+          {
+            "question": "Do you also come to the higher-lying neighborhoods of Adliswil?",
+            "answer": "Yes, I come to all neighborhoods in Adliswil, including the hillside areas toward Felsenegg and the Sihl Valley. Travel is included in the price, regardless of the exact address."
+          },
+          {
+            "question": "Can I give the massage as a gift?",
+            "answer": "Yes, massage gift vouchers are a popular present. Contact me, and I will prepare a personal voucher for you. It can be redeemed for all massage types and both time options (60 or 90 minutes)."
+          }
+        ]
       }
     },
     "erlenbach": {
@@ -625,7 +850,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Erlenbach",
-      "description": "Professional mobile massage service in Erlenbach and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Erlenbach is a small, exclusive village on the Gold Coast between Kuesnacht and Herrliberg. The quiet hillside location above Lake Zurich, the well-maintained villa neighborhoods, and the proximity to Zurich make Erlenbach one of the most sought-after residential addresses. Oleg comes discreetly and professionally directly to your home in Erlenbach.",
       "why": {
         "title": "Why choose mobile massage in Erlenbach?"
       },
@@ -638,6 +863,22 @@
       },
       "services": {
         "title": "Available massage types in Erlenbach"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "How does the first massage session work?",
+            "answer": "At the first appointment, we have a brief conversation about your wishes, concerns, and any health restrictions. Then I set up the massage table, and the treatment begins. Allow approximately 15 extra minutes in addition to the massage time."
+          },
+          {
+            "question": "Is the Anti-Cellulite Massage available in Erlenbach?",
+            "answer": "Yes, the Anti-Cellulite Massage is part of my offerings and is very popular on the Gold Coast. It combines special grip techniques and cupping to improve blood circulation and firm the connective tissue."
+          },
+          {
+            "question": "Are the costs covered by health insurance?",
+            "answer": "The massage is performed as a wellness treatment and is not billed through basic health insurance. Some supplementary insurance plans reimburse part of the costs. Check your policy or ask your health insurance provider."
+          }
+        ]
       }
     },
     "herrliberg": {
@@ -647,7 +888,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Herrliberg",
-      "description": "Professional mobile massage service in Herrliberg and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Herrliberg sits above Lake Zurich on the Gold Coast and offers a unique panorama across the lake to the Glarus Alps. The municipality is characterized by spacious homes, vineyards, and a quiet, upscale atmosphere. Oleg is happy to travel to Herrliberg and brings all his equipment for a first-class massage.",
       "why": {
         "title": "Why choose mobile massage in Herrliberg?"
       },
@@ -660,6 +901,22 @@
       },
       "services": {
         "title": "Available massage types in Herrliberg"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Can the massage be booked for couples?",
+            "answer": "I treat one person per appointment. However, you are welcome to book two consecutive appointments, e.g., 60 minutes for each person. This way, you can enjoy the massage as a shared experience."
+          },
+          {
+            "question": "Which oils do you use?",
+            "answer": "I work with high-quality, hypoallergenic massage oils on a natural basis. For allergies or sensitivities, I adjust the selection. You may also provide your own preferred oil if you wish."
+          },
+          {
+            "question": "Are daytime appointments during the week possible?",
+            "answer": "Yes, I offer appointments from Monday to Sunday between 08:00 and 20:00. Morning or early afternoon appointments are often more easily available than evening and weekend slots."
+          }
+        ]
       }
     },
     "rueschlikon": {
@@ -669,7 +926,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Rüschlikon",
-      "description": "Professional mobile massage service in Rüschlikon and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Rueschlikon on the left shore of Lake Zurich is home to the IBM Research Lab and combines technology with village charm. The small municipality offers a quiet residential setting with excellent connections to Zurich and panoramic lake views. Oleg comes with professional equipment directly to your home in Rueschlikon.",
       "why": {
         "title": "Why choose mobile massage in Rüschlikon?"
       },
@@ -682,6 +939,22 @@
       },
       "services": {
         "title": "Available massage types in Rüschlikon"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Is the massage suitable for complaints from sitting at a screen all day?",
+            "answer": "Absolutely. Many of my clients in Rueschlikon work in offices or from home. The Classic Massage and Swedish Massage relieve typical screen-work complaints: tense neck, stiff shoulders, and tension headaches."
+          },
+          {
+            "question": "Can the massage take place in my home office?",
+            "answer": "Yes, as long as the room offers enough space (approximately 2x3 meters free). Many clients use a massage break during their home office day. I set up and take down quickly, so you can use the room again immediately afterward."
+          },
+          {
+            "question": "How can I book an appointment?",
+            "answer": "You can reach me by phone, WhatsApp, or through the contact form on olegmassage.com. I usually respond within a few hours and confirm your preferred appointment."
+          }
+        ]
       }
     },
     "zollikon": {
@@ -691,7 +964,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zollikon",
-      "description": "Professional mobile massage service in Zollikon and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Zollikon borders directly on Zurich's Seefeld district and is one of the lakeside communities closest to Zurich. The upscale residential areas, proximity to the lake, and excellent infrastructure make Zollikon especially popular with families and professionals. Oleg brings professional mobile massage directly to your home in Zollikon.",
       "why": {
         "title": "Why choose mobile massage in Zollikon?"
       },
@@ -704,6 +977,22 @@
       },
       "services": {
         "title": "Available massage types in Zollikon"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Why mobile massage instead of visiting a studio in Zurich?",
+            "answer": "With mobile massage, you save travel time and can stay relaxed right after the treatment. No traffic, no parking hassle, no trip home. Especially in Zollikon, where you could easily get to Zurich, many clients appreciate this convenience."
+          },
+          {
+            "question": "Do you offer massage for pregnant women in Zollikon?",
+            "answer": "Yes, pregnancy massage is available from the second trimester. It is performed in a side-lying position and relieves typical complaints such as back pain and swollen legs. Please consult with your doctor or midwife beforehand."
+          },
+          {
+            "question": "What does a mobile massage in Zollikon cost?",
+            "answer": "Everything is included in the price: travel, professional massage table, high-quality oils, and fresh linens. Payment via cash or TWINT directly after the treatment. Details can be found on the pricing page."
+          }
+        ]
       }
     },
     "oerlikon": {
@@ -713,7 +1002,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Oerlikon",
-      "description": "Professional mobile massage service in Zürich-Oerlikon and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Whether after a long day in the business district, a concert at the Hallenstadion, or a stroll in the MFO Park - Oleg brings professional massage directly to your home in Zurich-Oerlikon. Enjoy first-class relaxation in your familiar surroundings without having to navigate through the busy neighborhood.",
       "why": {
         "title": "Why choose mobile massage in Oerlikon?"
       },
@@ -726,6 +1015,22 @@
       },
       "services": {
         "title": "Available massage types in Oerlikon"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "How quickly can Oleg be in Zurich-Oerlikon?",
+            "answer": "From Sattel, Oleg reaches Zurich-Oerlikon typically within 45 to 60 minutes, depending on traffic. Appointments are arranged in advance so everything runs smoothly."
+          },
+          {
+            "question": "Can I book a massage after an event at the Hallenstadion?",
+            "answer": "Of course. Especially after a long evening of standing and sitting, a massage is ideal. Oleg accommodates your schedule, including late evening appointments."
+          },
+          {
+            "question": "Is mobile massage also suitable for office workers in Oerlikon?",
+            "answer": "Yes, massage is especially beneficial for people with office jobs. Tension in the neck, shoulders, and back from prolonged sitting is specifically treated. Oleg also comes directly to your workplace, if desired."
+          }
+        ]
       }
     },
     "hoengg": {
@@ -735,7 +1040,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Höngg",
-      "description": "Professional mobile massage service in Zürich-Höngg and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "High above the city, between the vineyards and the ETH Hoenggerberg campus, lies Zurich-Hoengg with its charming village character. Oleg comes to you in this green neighborhood and brings soothing massage directly to your home. Leave the everyday routine behind without having to leave the idyll of your hilltop village.",
       "why": {
         "title": "Why choose mobile massage in Höngg?"
       },
@@ -748,6 +1053,22 @@
       },
       "services": {
         "title": "Available massage types in Höngg"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Does Oleg also offer massages for students and staff at ETH Hoenggerberg?",
+            "answer": "Yes, Oleg is happy to treat students and university members. Especially during intensive study or research phases, massage helps release tension and improve concentration."
+          },
+          {
+            "question": "Is a massage after hiking in the Hoengg vineyards a good idea?",
+            "answer": "Absolutely. After physical activity like hiking, a massage promotes muscle recovery and helps prevent muscle soreness. Oleg tailors the treatment to your needs."
+          },
+          {
+            "question": "What parking options are there for the massage therapist in Hoengg?",
+            "answer": "Oleg is familiar with the parking options in Hoengg. He usually finds a spot nearby without any problems. If you have specific tips, feel free to share them when booking."
+          }
+        ]
       }
     },
     "wipkingen": {
@@ -757,7 +1078,7 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Wipkingen",
-      "description": "Professional mobile massage service in Zürich-Wipkingen and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
+      "description": "Wipkingen, the lively neighborhood in the Limmat valley with its cozy cafes and relaxed residential atmosphere, is the perfect place for a mobile massage. Oleg comes directly to your home and ensures you can be thoroughly pampered in your own neighborhood. No commuting, no rush, just pure relaxation.",
       "why": {
         "title": "Why choose mobile massage in Wipkingen?"
       },
@@ -770,6 +1091,22 @@
       },
       "services": {
         "title": "Available massage types in Wipkingen"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Can Oleg also use small apartments in Wipkingen for the massage?",
+            "answer": "Yes, Oleg brings his own foldable massage table and needs very little space. Even in compact city apartments, the treatment can be carried out without any issues."
+          },
+          {
+            "question": "Does Oleg also offer couples massages in Wipkingen?",
+            "answer": "Oleg treats one person at a time. If you and your partner both want a massage, two consecutive appointments can be booked."
+          },
+          {
+            "question": "How does a mobile massage in my apartment work?",
+            "answer": "Oleg comes with all the necessary equipment. He sets up the massage table, creates a pleasant atmosphere, and packs everything up again after the treatment. You do not have to worry about anything."
+          }
+        ]
       }
     },
     "kreis1": {
@@ -779,8 +1116,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 1",
-      "description": "Professional mobile massage service in Zürich Kreis 1 (Altstadt, Lindenhof, City). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 1?" },
+      "description": "In the heart of Zurich, between Bahnhofstrasse and Lindenhof, Oleg brings mobile massage directly to you. Whether you live in the historic Old Town quarter or work in the business district - after a long day in the hustle of the city, a professional massage provides well-deserved relaxation. Oleg comes with his own massage table and all the necessary equipment, so you do not have to worry about a thing.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 1?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 1",
         "2": "Relax in your familiar surroundings",
@@ -788,7 +1127,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 1" }
+      "services": {
+        "title": "Available massage types in Kreis 1"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "I live in the Old Town and have a small apartment. Do I need a lot of space for the massage?",
+            "answer": "No, Oleg only needs about 2 x 2.5 meters of free space for the massage table. Even in the compact Old Town apartments in Kreis 1, a treatment area can be set up without any problems. Oleg sets up and takes down everything himself."
+          },
+          {
+            "question": "Can Oleg also come to an office on the Bahnhofstrasse?",
+            "answer": "Yes, Oleg also offers corporate massages and treatments at the workplace. In Kreis 1, he regularly serves offices and practices. Ideally, you provide a quiet room where the massage can take place undisturbed."
+          },
+          {
+            "question": "Which massage type do you recommend for stress-related tension from office work?",
+            "answer": "For typical office tension in the neck and shoulder area, Oleg recommends the classic massage combined with targeted trigger point treatment. As the winner of the Swiss Massage Championship 2026, he tailors the treatment individually to your complaints."
+          }
+        ]
+      }
     },
     "kreis2": {
       "meta": {
@@ -797,8 +1154,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 2",
-      "description": "Professional mobile massage service in Zürich Kreis 2 (Enge, Wollishofen, Leimbach). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 2?" },
+      "description": "Kreis 2 with Enge, Wollishofen, and Leimbach is one of the quieter residential neighborhoods on the left shore of Lake Zurich. Along the Mythenquai and the green residential streets, residents enjoy a high quality of life. Oleg brings his professional massage table, high-quality oils, and everything needed directly to your home, so you can experience relaxation in your familiar surroundings.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 2?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 2",
         "2": "Relax in your familiar surroundings",
@@ -806,7 +1165,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 2" }
+      "services": {
+        "title": "Available massage types in Kreis 2"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "I live in Wollishofen. Does Oleg also come to the southern parts of the district?",
+            "answer": "Of course. Oleg serves all of Kreis 2, from Enge through Wollishofen to Leimbach. Travel is included in the price, and Oleg plans his appointments so that he arrives on time."
+          },
+          {
+            "question": "After jogging by the lake, I am often tense. Which massage suits after sports?",
+            "answer": "For those active along Lake Zurich, Oleg recommends the Sports Massage. It promotes recovery, releases muscular tightness, and helps prevent injuries. Ideally, wait about 30 minutes after training before the massage begins."
+          },
+          {
+            "question": "How do I best prepare my apartment for the appointment?",
+            "answer": "Provide a free area of about 2 x 2.5 meters and a comfortable room temperature (approximately 22-24 degrees). Oleg brings the massage table, fresh linens, and oils himself. Have comfortable clothing ready to change into."
+          }
+        ]
+      }
     },
     "kreis3": {
       "meta": {
@@ -815,8 +1192,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 3",
-      "description": "Professional mobile massage service in Zürich Kreis 3 (Wiedikon, Friesenberg, Alt-Wiedikon). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 3?" },
+      "description": "Wiedikon, Friesenberg, and Alt-Wiedikon form the family-friendly Kreis 3 at the foot of the Uetliberg. Here you live in an urban setting yet close to nature, with short distances to green spaces and a lively neighborhood culture. Oleg comes with his complete equipment directly to your apartment, so you can relax after an active family day or a hike on the Uetliberg without having to leave the house.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 3?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 3",
         "2": "Relax in your familiar surroundings",
@@ -824,7 +1203,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 3" }
+      "services": {
+        "title": "Available massage types in Kreis 3"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Can I book a massage when my children are at home?",
+            "answer": "Yes, that is no problem. Oleg is accustomed to working in a lively family environment. A quiet room where you can be undisturbed is ideal. If the children are playing next door, it does not significantly affect the treatment."
+          },
+          {
+            "question": "I have tension from hiking on the Uetliberg. Does massage help with that?",
+            "answer": "Absolutely. Especially after hikes and uphill climbs, the calves, thighs, and back are often strained. Oleg uses targeted techniques to prevent muscle soreness and accelerate recovery. A treatment in the evening after the tour is particularly effective."
+          },
+          {
+            "question": "What times is Oleg available in Kreis 3?",
+            "answer": "Oleg offers appointments from morning to evening, including weekends. In Kreis 3, weekday evening appointments are especially popular. It is best to book a few days in advance to secure your preferred time."
+          }
+        ]
+      }
     },
     "kreis4": {
       "meta": {
@@ -833,8 +1230,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 4",
-      "description": "Professional mobile massage service in Zürich Kreis 4 (Aussersihl, Hard, Langstrasse). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 4?" },
+      "description": "Kreis 4, known for the Langstrasse and the Aussersihl and Hard neighborhoods, is Zurich's most vibrant and diverse quarter. Life pulses here around the clock, and precisely for that reason, conscious recovery is all the more important. Oleg brings his professional massage table and equipment directly to your apartment in Kreis 4, so you can find a moment of calm amidst the bustle.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 4?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 4",
         "2": "Relax in your familiar surroundings",
@@ -842,7 +1241,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 4" }
+      "services": {
+        "title": "Available massage types in Kreis 4"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "I work in the restaurant industry on the Langstrasse and have irregular working hours. Are flexible appointments available?",
+            "answer": "Yes, Oleg understands the special work rhythms in Kreis 4. He also offers morning appointments and flexible time slots that fit shift work. Simply contact him with your preferred times, and he will find a suitable solution."
+          },
+          {
+            "question": "My old building apartment is on the 4th floor without an elevator. Is that a problem?",
+            "answer": "No, Oleg is prepared for this and carries his mobile massage table and equipment to higher floors as well. The typical old buildings in Kreis 4 are no obstacle. He only needs a few minutes for setup."
+          },
+          {
+            "question": "Which massage helps with tension from standing for long periods?",
+            "answer": "For people who stand a lot for work, Oleg recommends a combination of classic massage and foot reflexology treatment. The legs, lower back, and feet are specifically treated to balance out the strain."
+          }
+        ]
+      }
     },
     "kreis5": {
       "meta": {
@@ -851,8 +1268,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 5",
-      "description": "Professional mobile massage service in Zürich Kreis 5 (Industriequartier, Gewerbeschule, Escher Wyss). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 5?" },
+      "description": "Kreis 5, the former industrial quarter, has developed into one of Zurich's most creative neighborhoods. Around the Viadukt, the market hall, and numerous lofts and co-working spaces, a modern lifestyle thrives. Oleg comes with professional equipment directly to your apartment or office in Kreis 5 and ensures that creativity and well-being go hand in hand.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 5?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 5",
         "2": "Relax in your familiar surroundings",
@@ -860,7 +1279,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 5" }
+      "services": {
+        "title": "Available massage types in Kreis 5"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Can Oleg also come to a co-working space in Kreis 5?",
+            "answer": "Yes, as long as a quiet room or a separated area is available. Oleg has experience with treatments in offices and communal spaces. Ideally, check with your space operator whether a suitable room can be used."
+          },
+          {
+            "question": "How long does a typical session last, and what does it cost?",
+            "answer": "A treatment lasts either 60 or 90 minutes, depending on your preference. The exact prices can be found on the website. Included in the price are travel, setup and takedown of the massage table, and high-quality massage oils."
+          },
+          {
+            "question": "I sit at a screen all day. Which treatment do you recommend?",
+            "answer": "For the typical complaints of screen work - neck, shoulder, and back tension - Oleg recommends a classic back massage focusing on the upper back and neck area. Regular treatments every two to four weeks have a preventive effect."
+          }
+        ]
+      }
     },
     "kreis6": {
       "meta": {
@@ -869,8 +1306,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 6",
-      "description": "Professional mobile massage service in Zürich Kreis 6 (Unterstrass, Oberstrass). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 6?" },
+      "description": "In Kreis 6 with Unterstrass and Oberstrass, a diverse mix of students, lecturers, and families lives in close proximity to the ETH and the University of Zurich. The neighborhoods combine academic flair with a cozy residential character. Oleg brings his mobile massage directly to you, whether to your shared apartment, your family home, or after a long day at the university.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 6?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 6",
         "2": "Relax in your familiar surroundings",
@@ -878,7 +1317,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 6" }
+      "services": {
+        "title": "Available massage types in Kreis 6"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Can I share the appointment with my roommates so that multiple people are treated?",
+            "answer": "Yes, that is a popular option in Kreis 6. Oleg can perform several consecutive treatments at the same location. Each person receives an individual session. Simply specify the desired number of appointments when booking."
+          },
+          {
+            "question": "I am a student and have a limited budget. Is a massage still worthwhile?",
+            "answer": "Especially during intensive studying and hours of sitting, massage is a worthwhile investment in your health. Oleg offers different treatment lengths, so shorter sessions are also possible. Check the website for current offerings."
+          },
+          {
+            "question": "How quickly can Oleg set up an appointment in Kreis 6?",
+            "answer": "Typically, booking with two to three days' advance notice is possible. When there is availability, short-notice appointments on the same or next day can also be arranged. Simply contact Oleg by phone or through the online form."
+          }
+        ]
+      }
     },
     "kreis7": {
       "meta": {
@@ -887,8 +1344,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 7",
-      "description": "Professional mobile massage service in Zürich Kreis 7 (Fluntern, Hottingen, Hirslanden, Witikon). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 7?" },
+      "description": "Kreis 7 with Fluntern, Hottingen, and Witikon is situated on the quiet hillsides above the Zurichberg. Here, residents enjoy wide views, nature, and an upscale residential quality near the Zurich Zoo and the Dolder area. Oleg drives with all his equipment up to your home in the hillside neighborhoods and offers you first-class massage in the comfort of your own home.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 7?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 7",
         "2": "Relax in your familiar surroundings",
@@ -896,7 +1355,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 7" }
+      "services": {
+        "title": "Available massage types in Kreis 7"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Does Oleg also come to the higher-lying neighborhoods like Witikon?",
+            "answer": "Yes, Oleg serves all of Kreis 7, including Witikon, Fluntern, and Hottingen. He travels by car and reaches the higher elevations without any problems. Travel is included in the treatment price."
+          },
+          {
+            "question": "Which massage do you recommend for seniors?",
+            "answer": "For older individuals, a gentle classic massage with adjusted pressure is particularly suitable. Oleg tailors the treatment individually to the needs and health situation. For certain pre-existing conditions, a prior consultation with your family doctor is recommended."
+          },
+          {
+            "question": "Can the massage take place on the sofa or in bed?",
+            "answer": "Oleg always brings his own professional massage table, which provides optimal comfort and the correct working height. A treatment on the sofa or bed would be ergonomically unfavorable and would compromise the quality of the massage."
+          }
+        ]
+      }
     },
     "kreis8": {
       "meta": {
@@ -905,8 +1382,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 8",
-      "description": "Professional mobile massage service in Zürich Kreis 8 (Seefeld, Riesbach, Mühlebach). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 8?" },
+      "description": "Kreis 8 with Riesbach and the Seefeld is one of Zurich's most popular residential areas. Located directly on the lake, with trendy cafes, the opera house, and a lively nightlife scene, the neighborhood combines urban flair with recreational quality. Oleg comes with his professional massage table to your home in the Seefeld and brings the wellness oasis directly to your living room.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 8?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 8",
         "2": "Relax in your familiar surroundings",
@@ -914,7 +1393,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 8" }
+      "services": {
+        "title": "Available massage types in Kreis 8"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "After swimming in the lake, I often have a tense back. Can Oleg help?",
+            "answer": "Yes, swimming particularly strains the shoulders and back. Oleg uses targeted techniques to release typical swimmer's tension. Ideally, schedule the massage one to two hours after swimming, when the muscles have warmed up again."
+          },
+          {
+            "question": "Is it possible to book regular appointments in Kreis 8?",
+            "answer": "Yes, many clients in the Seefeld book Oleg on a regular basis, for example every two or four weeks. Regular appointments can be reserved on a priority basis, so you always get your preferred time."
+          },
+          {
+            "question": "What sets Oleg's massage apart from a spa visit?",
+            "answer": "With Oleg, you receive an individual treatment from the winner of the Swiss Massage Championship 2026, in the privacy of your own home. There are no waiting times, no travel for you, and full focus on your personal needs."
+          }
+        ]
+      }
     },
     "kreis9": {
       "meta": {
@@ -923,8 +1420,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 9",
-      "description": "Professional mobile massage service in Zürich Kreis 9 (Altstetten, Albisrieden). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 9?" },
+      "description": "Kreis 9 with Altstetten and Albisrieden is a dynamic neighborhood in western Zurich. New developments, growing families, and good transport connections make the area increasingly attractive. Oleg comes with his complete massage equipment directly to you, whether to your new apartment in Altstetten or your family home in Albisrieden.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 9?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 9",
         "2": "Relax in your familiar surroundings",
@@ -932,7 +1431,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 9" }
+      "services": {
+        "title": "Available massage types in Kreis 9"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "We just moved to Kreis 9 and are still a bit stressed from the move. Can Oleg help?",
+            "answer": "Moving stress and physical strain from lifting and carrying are an ideal occasion for a massage. Oleg releases tension in the back and shoulder area and helps you settle into your new home. He can treat you from the first furnished room onward."
+          },
+          {
+            "question": "Does Oleg also offer couples massages?",
+            "answer": "Oleg performs treatments as individual massages to give each client his full attention. However, you can easily book two consecutive appointments so that both partners are treated on the same evening."
+          },
+          {
+            "question": "Do I need to store the massage table somewhere after the appointment?",
+            "answer": "No, Oleg brings his massage table and takes it with him after the treatment. You do not need to worry about setup or takedown. Your only contribution is to provide a free space of about 2 x 2.5 meters."
+          }
+        ]
+      }
     },
     "kreis10": {
       "meta": {
@@ -941,8 +1458,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 10",
-      "description": "Professional mobile massage service in Zürich Kreis 10 (Höngg, Wipkingen). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 10?" },
+      "description": "Kreis 10 with Hoengg and Wipkingen combines city living with plenty of green space. The ETH campus Hoenggerberg, the vineyards, and the Limmat river characterize this nature-oriented neighborhood in northern Zurich. Oleg brings his professional massage directly to your home, so you can optimally recover after a stroll through the vineyards or a day at the ETH.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 10?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 10",
         "2": "Relax in your familiar surroundings",
@@ -950,7 +1469,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 10" }
+      "services": {
+        "title": "Available massage types in Kreis 10"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "I do research at ETH Hoenggerberg and often have neck pain. Which treatment is suitable?",
+            "answer": "For researchers who sit at a computer for long periods, Oleg recommends a classic massage focusing on the neck, shoulders, and upper back. Additionally, trigger point treatment can specifically release stubborn tension."
+          },
+          {
+            "question": "Does Oleg also come up to Hoengg?",
+            "answer": "Yes, Oleg serves all of Kreis 10, both Wipkingen along the Limmat and the higher-lying parts of Hoengg. Travel is included in the price, regardless of the exact address in the neighborhood."
+          },
+          {
+            "question": "Which oils and products does Oleg use?",
+            "answer": "Oleg works with high-quality, skin-friendly massage oils that are also suitable for sensitive skin. If you have allergies or intolerances, please let him know when booking so he can select the appropriate products."
+          }
+        ]
+      }
     },
     "kreis11": {
       "meta": {
@@ -959,8 +1496,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 11",
-      "description": "Professional mobile massage service in Zürich Kreis 11 (Oerlikon, Seebach, Affoltern). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 11?" },
+      "description": "Kreis 11, consisting of Affoltern, Oerlikon, and Seebach, is Zurich's most populous and diverse district. Around the Hallenstadion, the MFO Park, and the growing residential neighborhoods, a vibrant urban life is emerging. Oleg comes with his mobile practice to your home, whether in Oerlikon, Affoltern, or Seebach, and offers professional massage without travel stress for you.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 11?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 11",
         "2": "Relax in your familiar surroundings",
@@ -968,7 +1507,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 11" }
+      "services": {
+        "title": "Available massage types in Kreis 11"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "I just attended a concert at the Hallenstadion and am totally tense. Can Oleg come spontaneously?",
+            "answer": "Short-notice appointments are possible when there is availability. It is best to contact Oleg by phone to check availability. Generally, booking two to three days in advance is recommended to secure your preferred time."
+          },
+          {
+            "question": "Are there special offers for families in Kreis 11?",
+            "answer": "Oleg treats adults of all age groups. If multiple family members would like a massage, consecutive appointments on the same day can be booked. This way, the whole family saves travel time and can enjoy pampering at home."
+          },
+          {
+            "question": "How do I pay for the treatment?",
+            "answer": "Payment is made conveniently after the treatment. Oleg accepts cash and TWINT. A receipt is of course provided."
+          }
+        ]
+      }
     },
     "kreis12": {
       "meta": {
@@ -977,8 +1534,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Zürich Kreis 12",
-      "description": "Professional mobile massage service in Zürich Kreis 12 (Schwamendingen, Hirzenbach, Saatlen). Winner of the 5th Swiss Massage Championship 2026. I come to you with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Kreis 12?" },
+      "description": "Schwamendingen, Kreis 12, is known as a garden city and offers a quiet residential environment for families with its spacious green areas and parks. The expansive housing developments and the proximity to recreational areas make the neighborhood especially livable. Oleg brings his professional massage equipment directly to your home in Schwamendingen, so you can enjoy relaxation without leaving your green retreat.",
+      "why": {
+        "title": "Why choose mobile massage in Kreis 12?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Kreis 12",
         "2": "Relax in your familiar surroundings",
@@ -986,7 +1545,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Kreis 12" }
+      "services": {
+        "title": "Available massage types in Kreis 12"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "I am very active in the garden and have back pain afterward. Can massage help?",
+            "answer": "Gardening puts particular strain on the lower back, shoulders, and knees. Oleg uses targeted massage techniques to release these strained areas. Regular treatments can help prevent chronic complaints."
+          },
+          {
+            "question": "Is travel to Schwamendingen included in the price?",
+            "answer": "Yes, travel to Kreis 12 is included in the treatment price. Oleg does not charge additional travel costs within the city of Zurich. You only pay the agreed price for the massage."
+          },
+          {
+            "question": "How often should I book a massage for long-term benefits?",
+            "answer": "For lasting results, Oleg recommends treatments at intervals of one to two weeks initially. Once the complaints improve, a rhythm of three to four weeks is often sufficient to maintain well-being on a lasting basis."
+          }
+        ]
+      }
     },
     "maennedorf": {
       "meta": {
@@ -995,8 +1572,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Männedorf",
-      "description": "Professional mobile massage service in Männedorf and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Männedorf?" },
+      "description": "Maennedorf is idyllically located on the right shore of Lake Zurich between Uetikon and Staefa. The village charms with its lakeside promenade, the small harbor, and a relaxed, family-friendly atmosphere. Oleg comes with a professional massage table directly to your home in Maennedorf and provides relaxation by the lake.",
+      "why": {
+        "title": "Why choose mobile massage in Männedorf?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Männedorf",
         "2": "Relax in your familiar surroundings",
@@ -1004,7 +1583,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Männedorf" }
+      "services": {
+        "title": "Available massage types in Männedorf"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Is mobile massage also suitable for families with children?",
+            "answer": "Yes, I offer both adult massage and gentle children's massage. The children can stay in their familiar environment, and a parent is always present. Pregnancy massage for expectant mothers is also available."
+          },
+          {
+            "question": "How often should I book a massage?",
+            "answer": "For prevention, I recommend a session every 2-3 weeks. For acute tension or after sports, weekly appointments may be beneficial. Together, we will find the right rhythm for your needs."
+          },
+          {
+            "question": "Do I need to provide my own towels?",
+            "answer": "No, I bring everything that is needed: massage table, fresh linens, towels, and oils. You do not need to prepare anything except a quiet room with some free space."
+          }
+        ]
+      }
     },
     "uetikon": {
       "meta": {
@@ -1013,8 +1610,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Uetikon am See",
-      "description": "Professional mobile massage service in Uetikon am See and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Uetikon am See?" },
+      "description": "Uetikon am See has transformed from an industrial site with a chemical factory into an attractive residential community on the right shore of Lake Zurich. The former CU Chemie Uetikon site is being redeveloped, bringing fresh energy to the municipality. Oleg comes directly to your home in Uetikon and brings professional massage to your doorstep.",
+      "why": {
+        "title": "Why choose mobile massage in Uetikon am See?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Uetikon am See",
         "2": "Relax in your familiar surroundings",
@@ -1022,7 +1621,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Uetikon am See" }
+      "services": {
+        "title": "Available massage types in Uetikon am See"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Are there any travel restrictions to Uetikon?",
+            "answer": "No, Uetikon am See is easily reachable from Sattel, the travel time is approximately 40 minutes. Travel is included in the price, there are no surcharges."
+          },
+          {
+            "question": "Which massage do you recommend for stress relief?",
+            "answer": "The Swedish Massage is ideal for stress relief. It combines gentle, flowing movements with targeted pressure and promotes deep relaxation. For even more tranquility, I recommend the 90-minute version with a relaxation massage."
+          },
+          {
+            "question": "Can I cancel the massage spontaneously?",
+            "answer": "Please cancel the appointment at least 24 hours in advance. For short-notice cancellations or no-shows, I may unfortunately need to charge the full amount, as the time slot was reserved for other clients."
+          }
+        ]
+      }
     },
     "oetwil": {
       "meta": {
@@ -1031,8 +1648,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Oetwil am See",
-      "description": "Professional mobile massage service in Oetwil am See and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Oetwil am See?" },
+      "description": "Oetwil am See is a small, quiet village on the right shore of Lake Zurich near Staefa. The rural idyll, the vine-covered hillsides, and the manageable size give the village a special appeal. Oleg is happy to travel to the quieter communities on the lake and brings professional massage directly to your home in Oetwil.",
+      "why": {
+        "title": "Why choose mobile massage in Oetwil am See?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Oetwil am See",
         "2": "Relax in your familiar surroundings",
@@ -1040,7 +1659,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Oetwil am See" }
+      "services": {
+        "title": "Available massage types in Oetwil am See"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Do you also come to smaller communities like Oetwil am See?",
+            "answer": "Yes, of course. Oetwil am See is part of my regular service area around Lake Zurich. Travel is included in the price, you pay the same price as clients in larger communities."
+          },
+          {
+            "question": "Which massage is suitable for tension in the lower back?",
+            "answer": "The Classic Massage is particularly effective for lower back complaints. I can work specifically on the lumbar spine and the surrounding muscles. For chronic issues, I recommend regular appointments every 1-2 weeks."
+          },
+          {
+            "question": "How loud is the massage - will it disturb the neighbors?",
+            "answer": "The massage is practically silent. The massage table is set up quietly, and during the treatment it is completely quiet. In an apartment building or with thin walls, there are no noise issues whatsoever."
+          }
+        ]
+      }
     },
     "richterswil": {
       "meta": {
@@ -1049,8 +1686,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Richterswil",
-      "description": "Professional mobile massage service in Richterswil and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Richterswil?" },
+      "description": "Richterswil is located at the southern end of the left shore of Lake Zurich, near the border with Canton Schwyz. The historic town center, the picturesque harbor, and the proximity to the pre-Alps give Richterswil a special charm. Oleg reaches Richterswil especially quickly from his location in Sattel (SZ) and looks forward to bringing massage directly to you.",
+      "why": {
+        "title": "Why choose mobile massage in Richterswil?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Richterswil",
         "2": "Relax in your familiar surroundings",
@@ -1058,7 +1697,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Richterswil" }
+      "services": {
+        "title": "Available massage types in Richterswil"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Is Richterswil particularly easy to reach?",
+            "answer": "Yes, Richterswil is only about 25-30 minutes from my location in Sattel (SZ). This makes me especially flexible here and I can also offer short-notice appointments."
+          },
+          {
+            "question": "Is cupping suitable for back pain?",
+            "answer": "Cupping is an excellent complement to classic massage for chronic back pain. The suction cups promote blood circulation and release deep tension. Please note that the typical round discolorations remain visible for 3-7 days."
+          },
+          {
+            "question": "Can I combine multiple massage types?",
+            "answer": "Yes, combining types is very beneficial in a 90-minute session. Popular combinations include Classic Massage with Cupping, or Swedish Massage with targeted Sports Massage for problem areas. We discuss your preferences before the treatment."
+          }
+        ]
+      }
     },
     "wollerau": {
       "meta": {
@@ -1067,8 +1724,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Wollerau",
-      "description": "Professional mobile massage service in Wollerau and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Wollerau?" },
+      "description": "Wollerau, the sun-blessed municipality high above Lake Zurich, offers a unique combination of tranquility, views, and upscale residential quality. In this exclusive environment, mobile massage fits perfectly with the lifestyle. Oleg brings professional treatment directly to your home, so you can enjoy the view of the lake and mountains in complete relaxation.",
+      "why": {
+        "title": "Why choose mobile massage in Wollerau?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Wollerau",
         "2": "Relax in your familiar surroundings",
@@ -1076,7 +1735,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Wollerau" }
+      "services": {
+        "title": "Available massage types in Wollerau"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Does Oleg also offer regular appointments in Wollerau?",
+            "answer": "Yes, many clients in Wollerau book weekly or biweekly appointments. Oleg offers regular clients fixed time slots so that massage becomes a permanent part of your routine."
+          },
+          {
+            "question": "Is the travel to Wollerau far?",
+            "answer": "No, Wollerau is only about 20 to 30 minutes from Sattel. This makes the municipality one of Oleg's closest service areas, which means short travel times and low travel costs."
+          },
+          {
+            "question": "Can the massage take place outside on the terrace?",
+            "answer": "In good weather, a massage on the terrace is certainly possible, provided there is sufficient space and some wind protection. Simply discuss this option with Oleg when scheduling your appointment."
+          }
+        ]
+      }
     },
     "freienbach": {
       "meta": {
@@ -1085,8 +1762,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Freienbach",
-      "description": "Professional mobile massage service in Freienbach and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Freienbach?" },
+      "description": "The municipality of Freienbach with the districts of Pfaeffikon, Baech, Wilen, and Freienbach itself is idyllically situated on Lake Zurich in the March district. The lakeshore, the proximity to Zurich, and the high quality of life make Freienbach a sought-after place to live. Oleg reaches you quickly from Sattel and brings first-class mobile massage directly to the lakeside.",
+      "why": {
+        "title": "Why choose mobile massage in Freienbach?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Freienbach",
         "2": "Relax in your familiar surroundings",
@@ -1094,7 +1773,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Freienbach" }
+      "services": {
+        "title": "Available massage types in Freienbach"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Does Oleg serve all districts of Freienbach?",
+            "answer": "Yes, Oleg comes to all districts: Pfaeffikon, Baech, Wilen, and Freienbach. The entire municipality is in immediate proximity to his location in Sattel."
+          },
+          {
+            "question": "How does mobile massage differ from a spa visit?",
+            "answer": "With mobile massage, you enjoy complete privacy, individual attention, and do not have to drive anywhere afterward. The quality is on par with a spa, as Oleg, the winner of the Swiss Massage Championship 2026, sets the highest standards."
+          },
+          {
+            "question": "Can I also book a massage for older family members in Freienbach?",
+            "answer": "Of course. Mobile massage is especially ideal for older people, as they do not need to travel to a massage therapist. Oleg adjusts the pressure and technique to individual needs."
+          }
+        ]
+      }
     },
     "pfaeffikon": {
       "meta": {
@@ -1103,8 +1800,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Pfäffikon SZ",
-      "description": "Professional mobile massage service in Pfäffikon SZ and surroundings. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Pfäffikon?" },
+      "description": "Pfaeffikon SZ at the Seedamm is the gateway between Lake Zurich and the upper lake basin, known for the Alpamare and its convenient transport location. Whether after a day at the water park, after work, or to round off the weekend - Oleg is at your place in no time from Sattel. Enjoy professional massage in this vibrant lakeside town.",
+      "why": {
+        "title": "Why choose mobile massage in Pfäffikon?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Pfäffikon",
         "2": "Relax in your familiar surroundings",
@@ -1112,7 +1811,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Pfäffikon" }
+      "services": {
+        "title": "Available massage types in Pfäffikon"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "How quickly can Oleg be in Pfaeffikon SZ?",
+            "answer": "Pfaeffikon SZ is only about 15 to 25 minutes from Sattel. This makes it one of the quickest areas to reach, and spontaneous appointments are often possible."
+          },
+          {
+            "question": "Is a massage after visiting the Alpamare recommended?",
+            "answer": "Yes, the combination of water activities and a subsequent massage is excellent for recovery. The warmed-up muscles respond particularly well to the treatment."
+          },
+          {
+            "question": "Confusion with Pfaeffikon ZH - am I in the right place?",
+            "answer": "This page refers to Pfaeffikon in Canton Schwyz, on Lake Zurich by the Seedamm. If you live in Pfaeffikon ZH (Canton Zurich), feel free to contact Oleg as well. He also serves that region."
+          }
+        ]
+      }
     },
     "au": {
       "meta": {
@@ -1121,8 +1838,10 @@
       },
       "subtitle": "Mobile Massage Service",
       "title": "Massage Au ZH",
-      "description": "Professional mobile massage service in Au ZH and surroundings on Lake Zurich. Winner of the 5th Swiss Massage Championship 2026. I come to your home with professional massage equipment.",
-      "why": { "title": "Why choose mobile massage in Au?" },
+      "description": "Au ZH, the tranquil village on the left shore of Lake Zurich between Waedenswil and Horgen, charms with its quiet location directly on the water and its village character. Here, where life flows a little more leisurely, a mobile massage fits perfectly. Oleg comes to you by the lakeshore and brings professional relaxation to your home.",
+      "why": {
+        "title": "Why choose mobile massage in Au?"
+      },
       "benefits": {
         "1": "No travel needed - I come to you in Au",
         "2": "Relax in your familiar surroundings",
@@ -1130,7 +1849,25 @@
         "4": "Professional equipment and premium oils included",
         "5": "1st Place Swiss Massage Championship 2026, Swedish Massage"
       },
-      "services": { "title": "Available massage types in Au" }
+      "services": {
+        "title": "Available massage types in Au"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Can Oleg find small localities like Au ZH without any problems?",
+            "answer": "Yes, Oleg knows the region around Lake Zurich very well. Au ZH is reliably served. Simply provide your exact address when booking."
+          },
+          {
+            "question": "Is Au ZH easily reachable from Sattel?",
+            "answer": "The journey from Sattel to Au ZH takes approximately 35 to 45 minutes via the highway. Oleg plans the route in advance so that he arrives at your place on time."
+          },
+          {
+            "question": "Can I book a massage as a gift for someone in Au?",
+            "answer": "Yes, gift vouchers are a popular option. You can purchase a voucher for a mobile massage and give it to family or friends in Au. Contact Oleg for the details."
+          }
+        ]
+      }
     }
   },
   "certificates": {
@@ -1224,38 +1961,46 @@
         "description": "Find the perfect massage for your needs. From stress relief to sports injuries to pregnancy, our guide helps you choose."
       },
       "title": "Which Massage is Right for Me?",
-      "description": "Every person is different and every massage has its unique strengths. Find out which massage best suits your needs.",
+      "description": "Every person is different, and every massage has its particular strengths. The right choice depends on your current complaints, your lifestyle and your goals. As the winner of the Swiss Massage Championship 2026, I am happy to advise you personally in my practice and help you find the ideal treatment. Read on for an overview of the different options.",
       "stress": {
         "title": "Feeling stressed and need relaxation?",
-        "description": "The Relaxation Massage is your ideal companion. Flowing, rhythmic movements with pleasant aromas release mental tension and bring you inner peace. Perfect after a long work week."
+        "description": "The Relaxation Massage is your ideal companion for stress and mental exhaustion. Flowing, rhythmic movements with pleasant scents release mental tension and give you inner calm. I work with gentle to medium pressure to specifically calm your nervous system. The treatment typically begins in the neck and shoulder area, where stress most commonly accumulates, and then flows over the entire back down to the legs. Essential oils such as lavender or bergamot enhance the relaxing effect and positively influence your mood. After the session, many clients report improved sleep, fewer headaches and a feeling of deep serenity. Perfect after a long work week or during particularly stressful phases of life."
       },
       "backPain": {
         "title": "Back pain or muscle tension?",
-        "description": "Classical Massage targets your problem areas precisely. Gentle yet deep techniques release tension, improve circulation, and restore lightness."
+        "description": "The Classic Massage targets your problem areas precisely and is the most proven method for back pain and tension. Gentle yet deep-reaching techniques such as kneading, stroking and rubbing release tension, improve circulation and bring lightness back. At the beginning of the session, I carefully palpate the affected areas to locate hardening and trigger points. Then I work systematically from the large muscle groups to the specific problem areas. The intensity is individually adjusted to your pain sensitivity. Most clients feel a noticeable improvement in mobility after the first session. For long-term results, I recommend a series of 4-6 treatments at intervals of one to two weeks."
       },
       "athlete": {
         "title": "Physically active or athletic?",
-        "description": "Sports Massage supports your recovery and prevents injuries. Ideal before competitions for preparation or afterwards for faster recovery."
+        "description": "The Sports Massage supports your recovery and prevents injuries. I use intensive techniques such as deep tissue pressure, stretching grips and cross-fibre friction, specifically tailored to the stressed muscles. Before competitions, the focus is on activation and promoting circulation to boost your performance. After training or competition, I work on reducing lactate accumulation and accelerating muscle recovery. The Sports Massage is particularly effective for recurring problems such as runner's knee, Achilles tendon issues or shoulder tension. I adapt every treatment to your sport and training programme. Many athletes in the Schwyz region trust me as their regular massage therapist."
       },
       "skin": {
         "title": "Want to improve your skin texture?",
-        "description": "Anti-Cellulite Massage activates metabolism, improves lymph flow, and firms skin. Visible results after just a few sessions."
+        "description": "The Anti-Cellulite Massage activates metabolism, improves lymph flow and firms the skin. Through special techniques such as rhythmic kneading, vacuum effects and targeted pressure movements, microcirculation in the affected tissue areas is significantly increased. The treatment focuses on the typical problem areas: thighs, buttocks and abdomen. Waste products are released and their removal via the lymphatic system is stimulated. Visible results appear after a regular series of 6-10 sessions. The skin looks firmer, smoother and better supplied with blood. For optimal results, I recommend drinking plenty of water and incorporating light exercise into your daily routine."
       },
       "pregnant": {
         "title": "Expecting a baby?",
-        "description": "Pregnancy Massage is safe from the second trimester and helps with back pain, swelling, and sleep problems. Everything is performed gently in a comfortable side-lying position."
+        "description": "The Pregnancy Massage is safe from the second trimester onwards and helps with back pain, swelling and sleep problems. Everything is carried out gently in a comfortable side-lying position with special positioning cushions, so you and your baby are safe and comfortable at all times. The focus is on relieving the lower back, legs and shoulders - the areas most stressed during pregnancy. Gentle strokes and light pressure promote lymphatic drainage and can noticeably reduce water retention in the legs. Certain body areas and pressure points are deliberately avoided to ensure the safety of mother and child. Many expectant mothers report that they can finally sleep restfully again after the massage. The treatment can be carried out until shortly before the due date."
       },
       "child": {
         "title": "Your child needs relaxation?",
-        "description": "Children's Massage is performed playfully and lovingly. It supports development, improves sleep, and gives your child a feeling of security."
+        "description": "The Children's Massage is carried out in a playful and caring way and is suitable for children from preschool age. It supports physical and emotional development, improves sleep and gives your child a sense of security. The sessions are shorter than for adults, typically 20-30 minutes, and are adapted to your child's age and needs. I use gentle, child-friendly techniques and skin-compatible oils without strong fragrances. The Children's Massage is particularly helpful for concentration difficulties, restlessness or growing pains. A parent is present throughout the entire treatment so your child feels safe. Many parents observe positive changes in sleep behaviour and overall balance in their child after regular sessions."
       },
       "chronic": {
         "title": "Chronic pain issues?",
-        "description": "Cupping Massage intensely activates circulation and releases even deep tension and trigger points. Can be booked as a standalone treatment or add-on."
+        "description": "The Cupping Massage intensively activates circulation and releases even deep tension and trigger points. By applying special cupping glasses, a negative pressure is created that separates the tissue layers and increases local circulation many times over. This technique is particularly effective for chronic pain in the neck, shoulder and back area. The treatment can be booked as a standalone therapy or as a complement to classic massage. After the session, temporary round skin discolourations may appear, which fade completely within a few days. Many clients with long-standing pain conditions report significant and lasting improvement after a cupping massage series. I often combine the cupping technique with manual massage to achieve optimal results."
       },
       "premium": {
         "title": "Looking for the best massage experience?",
-        "description": "Swedish Massage combines deep relaxation with therapeutic effect. Awarded 1st Place at the Swiss Massage Championship 2026, my specialty."
+        "description": "The Swedish Massage combines deep relaxation with therapeutic effect and is my speciality. Awarded 1st place at the Swiss Massage Championship 2026, I offer you the highest level of massage artistry here. This technique combines five basic strokes: Effleurage (stroking), Petrissage (kneading), Friction (rubbing), Tapotement (tapping) and Vibration. Each stroke is applied precisely and with great experience to achieve both relaxing and therapeutic effects. The Swedish Massage is suitable for almost everyone, whether you are seeking relaxation, pain relief or general health improvement. A typical session lasts 60 or 90 minutes and covers the entire body. If you are unsure which massage is right for you, the Swedish Massage is always an excellent choice."
+      },
+      "howToChoose": {
+        "title": "How do I choose the right massage?",
+        "description": "Choosing the right massage begins with an honest assessment of your current situation. Ask yourself: What is my main concern? Is it about relaxation, pain relief, athletic performance or aesthetic goals? If you are unsure, a short conversation via WhatsApp is often the best first step. I will ask you targeted questions about your complaints, your lifestyle and your expectations. Based on that, I recommend the appropriate massage type and the optimal treatment duration. Keep in mind that your needs may change over time. An athlete needs a different massage during the competition phase than during the recovery phase. Don't hesitate to try different massage types, because often only in practice does it become clear which technique works best for you."
+      },
+      "combination": {
+        "title": "Combining massage types",
+        "description": "In many cases, a combination of different massage techniques is the most effective approach. For example, with clients who have back pain and high stress levels, I often start with relaxing strokes from the Relaxation Massage before addressing the specific problem areas with deeper techniques from the Classic Massage. For athletes, I combine Sports Massage with cupping to release particularly stubborn tension. The Swedish Massage can also be excellently complemented with targeted anti-cellulite strokes if you want both relaxation and skin firming at the same time. In a personal consultation beforehand, we determine together which combinations make the most sense for your situation. The advantage of my mobile practice is that I can respond flexibly to your needs without being bound to a rigid treatment scheme. This way, you receive a tailored treatment every time."
       }
     },
     "firstMassage": {
@@ -1264,26 +2009,38 @@
         "description": "Everything you need to know before your first mobile massage. From booking to the session, explained step by step."
       },
       "title": "Your First Massage",
-      "description": "Never had a mobile massage before? No problem, here's a step-by-step guide to how everything works.",
+      "description": "You have never had a mobile massage before? No problem - here you will learn step by step how everything works. From the first contact to aftercare, I guide you through the entire process so you feel comfortable from the start and know what to expect.",
       "booking": {
         "title": "1. Book via WhatsApp",
-        "description": "Simply send me a message on WhatsApp. We'll discuss your needs, choose the right massage, and schedule an appointment that fits your schedule, including evenings and weekends."
+        "description": "Simply send me a message via WhatsApp. We discuss your wishes, choose the appropriate massage and schedule an appointment that fits your timetable, including evenings and weekends. I am happy to answer all your questions about the treatment, contraindications or pricing. If you are not yet sure which massage is right for you, I advise you without obligation. Appointments can usually be arranged within a few days, often even at short notice. You will receive an appointment confirmation via WhatsApp and a reminder the day before. Should you need to cancel or reschedule an appointment, this is possible free of charge up to 24 hours beforehand."
       },
       "preparation": {
         "title": "2. Prepare at Home",
-        "description": "You only need 2 large towels and 1 small towel, plus a room of about 3x3 meters. I bring everything else: professional massage table, premium oils, and relaxing music."
+        "description": "You only need 2 large and 1 small towel plus a room of about 3x3 metres. I bring the rest: professional massage table, high-quality oils and relaxing music. The room should ideally be quiet, warm and well ventilated. A bedroom or living room is perfect for this. Set the room temperature to about 22-24 degrees so you don't get cold during the massage. If you prefer certain oils or scents, or have allergies, please let me know in advance. It is advisable not to eat a heavy meal 1-2 hours before the massage. A glass of water before the treatment helps your body respond optimally to the massage."
       },
       "arrival": {
         "title": "3. Setup and Welcome",
-        "description": "I arrive 10-15 minutes before the appointment to set everything up. We briefly discuss your current issues, preferences, and any restrictions."
+        "description": "I arrive 10-15 minutes before the appointment to set everything up. The professional massage table is ready in just a few minutes and is fitted with fresh covers. We briefly discuss your current complaints, wishes and any limitations. This preliminary conversation is important so I can tailor the treatment precisely to you. I ask about problem areas, pain sensitivity and whether there are areas that should be avoided. Information about pre-existing conditions, surgeries or pregnancy is also relevant for a safe treatment. Everything you share with me is treated with strict confidentiality."
       },
       "during": {
         "title": "4. During the Massage",
-        "description": "Relax completely. The massage lasts 60 or 90 minutes. You can give feedback at any time, more or less pressure, focus on specific areas, or skip others."
+        "description": "Relax completely. The massage lasts 60 or 90 minutes. You can give feedback at any time - more or less pressure, emphasise or skip certain areas. During the treatment, only the body areas currently being massaged are uncovered. Everything else is draped with towels so you feel comfortable and protected at all times. I usually work with relaxing background music, which you can also have turned off if you prefer silence. You don't have to talk during the massage, but you are welcome to. Many clients even fall asleep, and that is a good sign. I continuously adjust the course of the treatment to your reactions."
       },
       "after": {
         "title": "5. After the Massage",
-        "description": "Drink plenty of water and take it easy. Payment is conveniently made by cash or TWINT. I pack everything up and leave your room as I found it."
+        "description": "Drink plenty of water and allow yourself to rest. Payment is conveniently made in cash or via TWINT. I pack everything up and leave your room just as I found it. Take at least 15-20 minutes after the massage before becoming active again. Your body needs a moment to process the effects of the treatment. Avoid intensive physical activity and hot baths on the same day. Drink plenty of water for the rest of the day to support the removal of released metabolic by-products. If you have questions or notice unusual sensations the next day, you can contact me anytime via WhatsApp."
+      },
+      "whatToWear": {
+        "title": "What should I wear?",
+        "description": "You don't need to prepare any special clothing for the massage. You can wear comfortable everyday clothes that you simply remove before the treatment. During the massage, most clients wear only underwear. You are always covered with towels, and only the body area currently being treated is uncovered. If you feel more comfortable, you can also keep on shorts or a top. Please avoid applying body lotion or perfume before the massage, as these can interfere with the effectiveness of the massage oils. Jewellery such as necklaces, watches or bracelets should be removed beforehand so the massage can flow without interruption."
+      },
+      "commonQuestions": {
+        "title": "Common questions from first-time visitors",
+        "description": "Many people wonder before their first massage: Does it hurt? With a Relaxation or Swedish Massage, the pressure is pleasant and relaxing. With therapeutic massages, a slight pulling sensation may occur, but it should never be uncomfortable. Another common question: Do I have to make conversation? No, you may close your eyes and switch off completely. Others ask whether massage is safe with certain health conditions. Generally, there are few contraindications - these include fever, acute inflammation and certain skin conditions. If you are unsure, we clarify this in the preliminary conversation. Some first-time visitors also worry about hygiene with a mobile massage. I always use fresh covers, disinfect my equipment after every treatment and wash my hands thoroughly. Your health and well-being always come first."
+      },
+      "afterEffects": {
+        "title": "What to expect in the days afterwards",
+        "description": "In the 24-48 hours after your first massage, various reactions may occur that are completely normal. Mild muscle soreness, similar to after a workout, is especially possible after more intensive treatments. Some people feel particularly tired on the evening of the massage and sleep more deeply than usual. Others report a surge of energy the next morning. Increased urination may also occur, as the massage stimulates lymph flow and metabolic by-products are released. Therefore, drink especially plenty of water in the following days. Occasionally, existing pain may briefly intensify before a noticeable improvement occurs. If unusual or persistent complaints arise, contact me via WhatsApp. From the second or third session, your body already knows the treatment, and the after-effects become more pleasant while the positive effects grow stronger."
       }
     },
     "mobileVsStudio": {
@@ -1292,7 +2049,7 @@
         "description": "Why is mobile massage better than visiting a studio? No stress, no commute, no parking. Relaxation starts right at your home."
       },
       "title": "Mobile Massage vs. Studio",
-      "description": "Why are more and more people choosing mobile massage over studio visits? Here are the key differences.",
+      "description": "Why are more and more people choosing mobile massage instead of visiting a studio? The trend towards mobile massage is growing steadily in Switzerland. The reasons are obvious: more comfort, less stress and deeper relaxation. Here are the most important differences in detail.",
       "mobile": {
         "title": "Mobile Massage",
         "1": "No commute, I come to your home",
@@ -1311,7 +2068,19 @@
       },
       "conclusion": {
         "title": "Conclusion",
-        "description": "Mobile massage saves you time, stress, and lets relaxation last much longer. You don't have to worry about anything, I bring everything and leave your room as I found it. As a winner of the Swiss Massage Championship 2026, I guarantee professional quality at the highest level."
+        "description": "Mobile massage saves you time, stress and lets the relaxation last much longer. You don't have to worry about anything - I bring everything and leave your room just as I found it. As a prize winner of the Swiss Massage Championship 2026, I guarantee you professional quality at the highest level. Especially for people with a full schedule, families with small children or persons with limited mobility, mobile massage is a great benefit. The relaxation begins in your familiar surroundings and does not end abruptly at the studio door. Instead, you can let the soothing effect seamlessly flow into your evening."
+      },
+      "costComparison": {
+        "title": "Price-performance comparison",
+        "description": "At first glance, a mobile massage may cost slightly more than a comparable studio treatment. However, when you factor in the hidden costs of a studio visit, the difference quickly puts things in perspective. Travel costs for car or public transport, parking fees, the time spent on the journey there and back, and possibly even a babysitter all add up. With a mobile massage, you pay a transparent price and save 30-60 minutes of travel time at the same time. You can use this gained time for yourself, for example for a walk, time with the family or simply resting. Many of my regular clients say that mobile massage offers better value for money when they consider the total effort involved."
+      },
+      "whoIsItFor": {
+        "title": "Who is mobile massage particularly suited for?",
+        "description": "Mobile massage is ideal for working professionals who have no energy left for a trip to the studio after a long working day. Young parents also benefit enormously, as the massage can take place while the child is sleeping or being looked after by a partner. Older people or persons with limited mobility don't have to struggle with stairs, car parks or public transport. Couples can be treated one after another and let the evening wind down together. Mobile massage is also an attractive option for companies: employee massages directly in the office boost satisfaction and reduce absence. And finally, athletes also appreciate the possibility of being treated directly at home after training, without interrupting the recovery effect with a car journey."
+      },
+      "quality": {
+        "title": "Equipment and quality standards",
+        "description": "A common prejudice against mobile massage is that the quality cannot match a studio. The opposite is the case. I use a professional, height-adjustable massage table that offers the same comfort as the tables in renowned practices. My high-quality massage oils are dermatologically tested and suited to different skin types. Fresh covers and towels are a matter of course with every treatment. Relaxing music from a portable speaker rounds off the atmosphere. As the winner of the Swiss Massage Championship 2026, I bring not only first-class equipment but also the expertise that has been tested at the highest competitive level. Every treatment follows strict hygiene standards, and the equipment is thoroughly cleaned and disinfected after each session."
       }
     },
     "massageFrequency": {
@@ -1320,30 +2089,38 @@
         "description": "How often should you get a massage? The ideal frequency depends on your goals: stress relief, sports recovery, pain management, or prevention."
       },
       "title": "How Often Should You Get a Massage?",
-      "intro": "The ideal massage frequency depends on your personal goals and lifestyle. Here you'll find specific recommendations for every situation.",
+      "intro": "The ideal massage frequency depends on your personal goals and life situation. There is no universal answer, but there are proven guidelines based on years of practical experience. Here you will find specific recommendations for different life situations.",
       "general": {
         "title": "General Recommendation",
-        "description": "For most people, a massage every 2-4 weeks is ideal for preventing tension and promoting overall well-being. Consistency matters more than frequency, your body adapts to regular treatment and benefits more in the long run."
+        "description": "For most people, a massage every 2-4 weeks is ideal for preventing tension and promoting general well-being. Regularity is more important than frequency - your body gets used to the treatment and benefits more from it in the long run. Think of massage like exercise: jogging once a month produces less benefit than regular, moderate training. The body builds on the effects of each previous session. Tension resolves more sustainably, the muscles stay more supple, and the nervous system learns to switch into relaxation mode more quickly. If you are just starting with regular massages, I recommend a bi-weekly rhythm for the first two months. After that, many clients can switch to a monthly schedule and maintain the improved quality of life."
       },
       "stress": {
         "title": "For Stress and Burnout Prevention",
-        "description": "When stress dominates your daily life, I recommend weekly sessions for 4-6 weeks to start. After that, you can reduce to every 2 weeks. Relaxation massage and Swedish massage are particularly effective here, they measurably lower cortisol levels and promote endorphin release."
+        "description": "If stress dominates your daily life, I recommend weekly sessions initially for 4-6 weeks. After that, you can reduce to every 2 weeks. The Relaxation Massage and Swedish Massage are particularly effective here - they have been shown to lower cortisol levels and promote the release of endorphins. With chronic stress, the body enters a permanent state of alert, leading to sleep disorders, digestive problems and muscle tension. Regular massages help break this cycle. After just a few sessions, many clients report better sleep, fewer headaches and greater resilience in daily life. Long-term, a rhythm of every 2-3 weeks is recommended to keep stress levels at a healthy level. In addition to massage, breathing exercises and short stretching breaks during the day can also be helpful."
       },
       "sport": {
         "title": "For Athletes and Active People",
-        "description": "Athletes who train regularly benefit from weekly sports massages. Before competitions, I recommend a session 2-3 days prior. After intense workouts, within 24-48 hours. During rest periods, every 2-3 weeks is sufficient."
+        "description": "Regularly training athletes benefit from weekly sports massages during intensive training phases. Before competitions, I recommend a session 2-3 days beforehand; after intensive exertion, within 24-48 hours. During rest phases, every 2-3 weeks is sufficient. The Sports Massage measurably shortens recovery time by promoting circulation and accelerating the removal of metabolic by-products. For endurance athletes like runners or cyclists, I focus particularly on the leg muscles and hip flexors. Strength athletes benefit from targeted treatment of shoulders, back and arms. Important: Immediately after a competition, a gentler massage is appropriate than during the regular training rhythm. Listen to your body and adjust the frequency to your training intensity. During pre-season preparation, a higher frequency may be beneficial, while in the off-season, a relaxed maintenance massage is sufficient."
       },
       "pain": {
         "title": "For Chronic Pain",
-        "description": "For chronic back or neck pain, we start with 2 sessions per week for 3-4 weeks. Once the pain subsides, we gradually reduce to weekly, then to every 2 weeks. Cupping massage can be a powerful complement in these cases."
+        "description": "For chronic back or neck pain, we start with 2 sessions per week for 3-4 weeks. Once the pain subsides, we gradually reduce to weekly and then to every 2 weeks. Cupping massage can be used as an effective complement here. Chronic pain often results from an interplay of muscle tension, poor posture and psychological stress. A single massage can bring short-term relief, but for lasting results, a consistent treatment plan is crucial. During the intensive phase, I work specifically on the pain causes: shortened muscles are stretched, trigger points are deactivated and adhesions in the fascia are released. At the same time, I show you simple exercises for home that support the treatment success between sessions. Many clients reach a pain level after 6-8 weeks of intensive treatment that can be maintained with a monthly maintenance massage."
       },
       "pregnancy": {
         "title": "During Pregnancy",
-        "description": "From the second trimester onwards, I recommend a gentle pregnancy massage every 2-3 weeks. In the third trimester, weekly sessions are possible if needed. The massage is individually adapted to each phase of pregnancy."
+        "description": "From the second trimester, I recommend a gentle pregnancy massage every 2-3 weeks. In the third trimester, weekly massage can be given if needed. The massage is individually adjusted to the respective phase. In the second trimester, the focus is often on preventing back pain and promoting circulation. In the third trimester, relieving swollen legs and easing pelvic and lumbar pain are the priorities. Many expectant mothers report that regular massages also improve their emotional balance and reduce fears about the birth. After delivery, a postnatal massage at intervals of 2-3 weeks can support the healing process. Please also discuss your massage plan with your midwife or gynaecologist, especially in high-risk pregnancies."
       },
       "maintenance": {
         "title": "For Prevention and Self-Care",
-        "description": "Even without acute issues, a monthly massage is an excellent investment in your health. It prevents tension, improves sleep quality, and strengthens the immune system. Many of my regular clients have been coming for years, and report significantly fewer sick days."
+        "description": "Even without acute complaints, a monthly massage is an excellent investment in your health. It prevents tension, improves sleep quality and strengthens the immune system. Many of my regular clients have been coming for years and report significantly fewer sick days. Preventive massage is comparable to regular dental cleaning: it doesn't wait for a problem but prevents it. People who sit at a desk a lot particularly benefit from a monthly treatment that relieves the neck, shoulders and lower back. Mental health also benefits, because one hour of conscious relaxation acts like a reset for body and mind. In the long run, prevention saves you not only medical costs but also gains you quality of life. I recommend my regular clients schedule fixed monthly appointments so that massage becomes a permanent part of their self-care routine."
+      },
+      "signs": {
+        "title": "Recognising your body's signals",
+        "description": "Your body sends clear signals when it needs a massage. Frequent headaches, especially in the temple or back of the head area, often indicate neck tension. A stiff neck in the morning, despite a good mattress, is a clear sign of muscular overload. If you feel a pulling sensation when turning your head or your shoulders are constantly raised, it is high time for a treatment. Sleep disturbances, a restless mind and a feeling of inner tension that you cannot let go of are also signs that your nervous system needs a break. Tingling or numbness in the arms may indicate tension in the shoulder-neck area that is impairing nerve flow. Pay attention to these signals and don't wait until minor complaints become chronic problems. Early and regular massage is the best way to keep your body healthy and performing well."
+      },
+      "longTerm": {
+        "title": "Long-term benefits of regular massage",
+        "description": "The true benefits of regular massage only reveal themselves over months and years. Studies confirm that regular massage can lower blood pressure, strengthen the immune system and sustainably improve sleep quality. People who receive regular massages report better body awareness and respond more quickly to early signs of overload. The muscles remain more supple long-term and the fascia more elastic, promoting mobility well into old age. The psychological effects are also considerable: less anxiety, better mood and greater stress resilience. Regular massage can also reduce the frequency of tension headaches and migraines. Many of my long-standing clients describe regular massage as a fixed anchor in their daily life that helps them cope better with life's demands. Investing in regular massage is an investment in your long-term health and quality of life."
       }
     },
     "backPain": {
@@ -1352,34 +2129,46 @@
         "description": "Learn how massage helps with back pain. Which massage types are most effective and how often you should get treated."
       },
       "title": "Does Massage Help with Back Pain?",
-      "intro": "Back pain is the leading cause of missed work days in Switzerland. Massage is one of the most effective non-pharmaceutical treatments available.",
+      "intro": "Back pain is the most common cause of work absences in Switzerland. Around 80 percent of all adults suffer from back pain at least once in their lives, and for many, the complaints become chronic. Massage is one of the most effective non-pharmaceutical treatments for it. As a mobile massage therapist in the Zurich Lake region, I treat clients with all kinds of back problems every day. The results are often noticeable after the very first session. In this guide, you will learn which types of massage best help with back pain, how often you should have treatment and what you can do yourself.",
       "causes": {
         "title": "Common Causes of Back Pain",
-        "description": "Prolonged sitting at a desk, lack of exercise, poor posture, stress, and one-sided strain, these are the most common triggers. Muscles shorten and harden, fascia becomes adhesive, and pain becomes chronic. Massage breaks this vicious cycle."
+        "description": "Prolonged sitting at the office, lack of exercise, poor posture, stress and one-sided strain - these are the most common triggers. Muscles shorten and harden, fascia become adhesive, and the pain becomes chronic. Massage breaks this vicious cycle. Office workers who spend eight hours or more per day in front of the computer are particularly affected. The back muscles are continuously strained one-sidedly, while the stabilising abdominal muscles weaken. Psychological stress also plays a major role: under tension, many people unconsciously raise their shoulders and tense the neck muscles. Added to this are factors like incorrect lifting, a soft mattress or missing ergonomic adjustments at the workplace. All these causes lead to muscular imbalances that continue to worsen without treatment."
       },
       "whichMassage": {
         "title": "Which Massage Works Best?",
-        "description": "Choosing the right massage depends on the type and intensity of your back pain. Here's an overview of the most effective options."
+        "description": "The choice of the right massage depends on the type and intensity of your back pain. Here is an overview of the most effective options. For mild to moderate complaints, the Classic Massage is the ideal starting point. For deep-seated, chronic tension, the Sports Massage is better suited. For particularly stubborn problem areas, the Cupping Massage complements the treatment optimally. In an initial consultation, I analyse your complaints and recommend the right combination. Often a mix of different techniques is most effective, adapted to the course of each session."
       },
       "classical": {
         "title": "Classical Massage for General Back Pain",
-        "description": "Classical massage is the all-rounder for back pain. It releases tension throughout the entire back musculature, improves circulation, and promotes recovery. Ideal for mild to moderate discomfort and as regular prevention."
+        "description": "The Classic Massage is the all-rounder for back pain. It releases tension throughout the back muscles, improves circulation and promotes recovery. Ideal for mild to moderate complaints and as regular prevention. The treatment begins with gentle stroking movements that warm the tissue and stimulate circulation. Then I use kneading and rubbing techniques to target tense areas. The pressure is gradually increased to reach deeper muscle layers as well. The Classic Massage is particularly effective for tension in the upper back, the shoulder-neck area and along the spine. Many clients report noticeable relief and improved mobility after just one session. With regular application, the Classic Massage prevents new tension and keeps the muscles supple."
       },
       "sports": {
         "title": "Sports Massage for Deep-Seated Tension",
-        "description": "When surface-level techniques aren't enough, sports massage steps in. With targeted deep tissue pressure and specialized techniques, even stubborn knots and adhesions are released. Particularly effective for pain between the shoulder blades and in the lower back."
+        "description": "When surface-level techniques are not enough, the Sports Massage comes into play. With targeted deep tissue pressure and specialised grips, even stubborn knots and adhesions are released. Particularly effective for pain between the shoulder blades and in the lower back. The Sports Massage works more intensively than the Classic Massage and reaches the deep muscle layers that are often affected in chronic complaints. Techniques such as trigger point treatment, myofascial release techniques and cross-fibre friction are used. The pressure is more noticeable than with a Classic Massage but always remains within a therapeutically appropriate range. After a Sports Massage, mild muscle soreness may occur, similar to after an intensive workout. This subsides within one to two days and is a sign that deep tension has been released. For athletes and physically active people, the Sports Massage is often the first choice for back pain."
       },
       "cupping": {
         "title": "Cupping Massage for Chronic Issues",
-        "description": "Cupping massage creates strong suction that dramatically increases blood flow to affected areas. Especially effective for chronic conditions that only partially respond to regular massage. Can be added as a complement to any massage session."
+        "description": "Cupping massage creates strong negative pressure that massively increases circulation in the affected areas. Particularly effective for chronic complaints that only partially respond to regular massage. It can be added as a complement to any massage. The cupping glasses are placed on the back and create a vacuum that lifts the skin and underlying tissue. This effect releases fascial adhesions, which are often a main cause of chronic back pain. The increased circulation brings fresh nutrients to the tissue and accelerates the removal of metabolic waste products. After the treatment, circular reddening may appear on the skin, which disappears on its own after a few days. Especially for clients who have had back pain for months and for whom classic massage techniques alone are insufficient, the cupping massage often provides the decisive breakthrough."
       },
       "frequency": {
         "title": "How Often for Back Pain?",
-        "description": "For acute issues, I recommend 2 sessions per week for 2-3 weeks. For chronic pain, a long-term approach with weekly sessions over 6-8 weeks is more effective. For prevention afterwards, one session every 2-4 weeks is sufficient."
+        "description": "For acute complaints, I recommend 2 sessions per week for 2-3 weeks. For chronic pain, a long-term approach with weekly sessions over 6-8 weeks is more effective. For prevention, one session every 2-4 weeks is then sufficient. The optimal frequency depends on the severity and duration of your complaints. Clients with acute back pain, for example after a strain, often feel noticeable improvement after just 3-4 intensive sessions. For chronic complaints that have persisted for months or years, the body needs more time for recovery. Patience is required here, but the results are more lasting. Many of my clients stay on a regular schedule of one massage per month after the acute treatment to remain pain-free. This preventive approach is more effective and less costly long-term than repeated acute treatments."
       },
       "prevention": {
         "title": "Preventing Back Pain",
-        "description": "Regular massage combined with movement is the best protection against back pain. Stand up briefly every hour, stretch regularly, and invest in an ergonomic workspace. A monthly massage keeps your muscles supple and prevents adhesions."
+        "description": "Regular massage combined with exercise is the best protection against back pain. Stand up briefly every hour, stretch regularly and invest in an ergonomic workplace. A monthly massage keeps your muscles supple and prevents adhesions. Pay attention to balanced posture in daily life, whether sitting, standing or walking. Strengthen your core muscles specifically through regular training, as strong abdominal and back muscles stabilise the spine. Avoid lifting heavy objects with a rounded back - go into your knees instead. Stress management also contributes to back health, because psychological tension leads directly to muscle tension. Try relaxation techniques such as conscious breathing or short breaks during the working day."
+      },
+      "exercises": {
+        "title": "Complementary exercises and stretches",
+        "description": "Targeted exercises between massage appointments significantly enhance the therapeutic effect. I recommend my clients a simple routine of 10-15 minutes daily. Start with the cat-cow exercise: on all fours, alternately round your back and arch it, 10 repetitions each. This exercise mobilises the entire spine and releases light tension. The child's pose (sitting on your heels with arms stretched forward on the floor) gently stretches the lower back and lateral trunk muscles. Hold the position for 30 seconds. For the shoulder-neck area, lateral head tilts and slow shoulder circles are suitable. The chest stretch in the doorframe is also very effective against the typical office worker posture with shoulders pulled forward. Regularity is key: short daily stretching sessions are more effective than infrequent long training sessions. I am happy to show you the exercises suited to your complaints at your next appointment."
+      },
+      "ergonomics": {
+        "title": "Workplace ergonomics",
+        "description": "An ergonomically set up workplace can massively reduce or even completely prevent back pain. The top of the screen should be at eye level so you don't have to lower or raise your head. The rule of thumb for sitting posture is 90-90-90: hips, knees and ankles each form a right angle. Invest in a good office chair with an adjustable lumbar support that follows the natural curve of the lumbar spine. Even better is a height-adjustable desk where you can alternate between sitting and standing. A switch every 30-45 minutes is recommended. The position of the keyboard and mouse is also important: your forearms should rest comfortably and your shoulders should not be raised. Anyone who talks on the phone a lot should use a headset instead of clamping the phone between ear and shoulder. Even small adjustments can make a big difference. Combined with regular massage and exercise, an ergonomic workplace forms the foundation for a pain-free back."
+      },
+      "whenToSeeDoctor": {
+        "title": "When you should see a doctor",
+        "description": "Massage is an excellent treatment for most back pain. However, there are warning signs where you should see a doctor first. Seek medical help if the pain occurred after an accident or fall. Radiating pain into the legs, tingling, numbness or loss of strength in the legs are signs of possible nerve involvement and should be medically examined. Pain that worsens at night or wakes you from sleep may point to more serious causes. Further warning signs include fever combined with back pain, unintentional weight loss or problems with urination. If your back pain does not improve despite regular massage treatment over 4-6 weeks, I also recommend a medical evaluation. In most cases, the doctor gives the all-clear after examination and recommends massage as part of the therapy. Don't hesitate to see a doctor one time too many rather than too few in case of doubt."
       }
     },
     "swedishVsClassical": {
@@ -1388,34 +2177,42 @@
         "description": "What's the difference between Swedish and Classical massage? Techniques, effects, and which massage is better suited for you."
       },
       "title": "Swedish vs. Classical Massage, The Difference",
-      "intro": "Both massage styles are therapeutically valuable but differ in technique, goals, and effects. As a winner of the Swiss Massage Championship 2026 in the Swedish Massage category, I'll explain the differences.",
+      "intro": "Both massage types are therapeutically valuable but differ in technique, purpose and effect. As the winner of the Swiss Massage Championship 2026 in the Swedish Massage category, I explain the differences. Many clients ask me which of the two massage types is better suited for them. The answer depends on your individual needs, complaints and preferences. In this guide, you will learn the key differences, similarities and which massage is the better choice for which situations. Both forms have their merits and can complement each other excellently.",
       "overview": {
         "title": "Similarities and Differences",
-        "description": "Both massage styles use oil and work with the entire body. The main difference lies in technique: Swedish massage uses five specific stroke techniques in a set sequence, while Classical massage is more flexible in addressing individual problem areas."
+        "description": "Both massage types use oil and work with the entire body. The main difference lies in the technique: Swedish Massage uses five specific stroke techniques in a set sequence, while Classic Massage is more flexible in addressing individual problem areas. Both massages promote circulation, release muscle tension and support the body's recovery. Swedish Massage follows a structured protocol and treats the entire body in a systematic order. Classic Massage, on the other hand, allows the therapist to respond spontaneously to the client's needs and spend more time on particularly affected areas. Both massages can be booked as 60 or 90-minute sessions. In practice, the techniques of both massage types overlap considerably, though the weighting and application differ."
       },
       "swedish": {
         "title": "What Makes Swedish Massage Special?",
-        "description": "Swedish massage was developed in the 19th century by Per Henrik Ling and is the most widely practiced massage form in the world. It combines effleurage (long strokes), petrissage (kneading), friction (rubbing), tapotement (tapping), and vibration in a harmonious sequence. The result is deep relaxation with simultaneous therapeutic benefits."
+        "description": "Swedish Massage was developed in the 19th century by Per Henrik Ling and is the most widely practised massage form in the world. It combines Effleurage (stroking), Petrissage (kneading), Friction (rubbing), Tapotement (tapping) and Vibration in a harmonious sequence. The result is deep relaxation with simultaneous therapeutic effect. Each of the five techniques has a specific function: Effleurage warms the tissue and calms the nervous system, Petrissage loosens the muscles, Friction releases adhesions in deeper tissue layers, Tapotement stimulates circulation and invigorates the muscles, Vibration has a decramp and pain-relieving effect. The harmonious alternation of these techniques creates an overall experience that alleviates physical complaints while simultaneously promoting deep mental relaxation. Swedish Massage is therefore particularly suitable for people seeking both physical and psychological relief."
       },
       "classical": {
         "title": "What Makes Classical Massage Special?",
-        "description": "Classical massage is the European approach, more closely aligned with medical principles. It's more flexible in technique selection and focuses specifically on the areas that need the most attention. It's often recommended by doctors and physiotherapists."
+        "description": "Classic Massage is the European approach that is more strongly oriented towards medical principles. It is more flexible in the choice of techniques and focuses specifically on the areas that need the most attention. It is often recommended by doctors and physiotherapists. The therapist selects from a broad repertoire of techniques those that are most effective for the particular client and their complaints. This means that two sessions with the same therapist may well proceed differently, depending on the client's current condition. Classic Massage can be focused locally on a specific body region, for example only on the neck-shoulder area or the lower back. This flexibility makes it particularly valuable for specific complaints and in the rehabilitation area. In Switzerland, Classic Massage is the most commonly prescribed massage form by doctors."
       },
       "techniques": {
         "title": "Techniques Compared",
-        "description": "Swedish massage follows a systematic full-body protocol, each area is treated in a specific order. Classical massage is more adaptive, I can spend more time on problem areas and adjust techniques spontaneously. Both use similar foundational strokes but apply them differently."
+        "description": "Swedish Massage follows a systematic full-body protocol - each area is treated in a specific order. Classic Massage is more adaptive: I can spend more time on problem areas and adjust techniques spontaneously. Both use similar basic strokes but apply them differently. In Swedish Massage, the sequence of techniques and body regions is fixed, creating a rhythmic, flowing progression. The transitions between techniques are smooth and harmonious, which contributes to deep relaxation. In Classic Massage, I can for example treat only the neck for 20 minutes if the main complaints are located there. The intensity also varies: while Swedish Massage tends to use consistent pressure, Classic Massage can range from very gentle to intensive. In practice, I combine my knowledge and experience in both forms to achieve the best result for each client."
       },
       "whenSwedish": {
         "title": "When Is Swedish Massage the Better Choice?",
-        "description": "Choose Swedish massage when you're looking for a holistic treatment that addresses body and mind equally. Ideal for stress relief, general recovery, improved sleep quality, and as a regular wellness ritual. Especially recommended for massage newcomers."
+        "description": "Choose Swedish Massage if you are looking for a holistic treatment that addresses body and mind equally. Ideal for stress reduction, general recovery, improving sleep quality and as a regular wellness ritual. Particularly recommended for massage newcomers. Swedish Massage is the best choice when you have a demanding daily life and simply want to switch off. Thanks to the systematic full-body protocol, no area is neglected - you receive a complete treatment from head to toe. Many of my clients choose Swedish Massage as a regular monthly ritual for their health maintenance. Also for diffuse complaints, when you cannot pinpoint exactly where it hurts, Swedish Massage is ideal. The deep relaxation it creates helps the body activate its own healing processes."
       },
       "whenClassical": {
         "title": "When Is Classical Massage the Better Choice?",
-        "description": "Choose Classical massage when you want to work on specific issues, such as neck tension, lower back pain, or limited mobility. Here I can focus the treatment more strongly on your specific problems."
+        "description": "Choose Classic Massage if you want to work specifically on certain complaints, for example tension in the neck, pain in the lower back or restricted mobility. Here I can focus the treatment more strongly on your specific problems. Classic Massage is particularly effective for concrete, localisable complaints. When you know exactly that your neck is tense or your lower back hurts, I can concentrate the entire session on these areas. After sports injuries or during rehabilitation measures, Classic Massage is often the better choice. For clients who already have massage experience and want to address specific problems, Classic Massage offers the greatest benefit. In combination with medical therapy or physiotherapy, it is a valuable component of the treatment plan."
       },
       "verdict": {
         "title": "My Recommendation",
-        "description": "Both massages are excellent. If you're unsure, start with Swedish massage, it offers the best overall experience and deepest relaxation. For targeted issues, we then switch to Classical massage. As the winner of the Swiss Massage Championship in the Swedish Massage category, I can offer both forms at the highest level."
+        "description": "Both massages are outstanding. If you are unsure, start with Swedish Massage - it offers the best overall experience and the deepest relaxation. For targeted complaints, we then switch to Classic Massage. As the winner of the Swiss Massage Championship in the Swedish Massage category, I can offer both forms at the highest level. In practice, I recommend many of my clients alternate between both massage types. For example, a Swedish Massage as a regular relaxation ritual and a Classic Massage when specific complaints arise. This way, you benefit from the strengths of both approaches. Some clients discover after their first Swedish Massage that they want to work on specific areas and then switch to Classic Massage. Others stay with Swedish Massage because the holistic experience appeals to them most. There is no wrong choice - both massages are therapeutically effective and beneficial."
+      },
+      "history": {
+        "title": "History and origins",
+        "description": "Swedish Massage dates back to Per Henrik Ling (1776-1839), a Swedish gymnastics teacher and fencer. Ling developed a system of medical gymnastics that also included massage techniques. His student Johan Georg Mezger (1838-1909), a Dutch physician, systematised the techniques and gave them the French names still used today: Effleurage, Petrissage, Friction, Tapotement and Vibration. Classic Massage has its roots in European medical tradition and developed over centuries from various healing practices. Already in antiquity, Greek and Roman physicians used massage techniques to treat injuries and diseases. In the 19th and 20th centuries, Classic Massage was further developed and standardised in Central Europe as a medical therapy form. Interestingly, both traditions influenced each other. Swedish Massage adopted elements from the European medical tradition, while Classic Massage benefited from Ling's systematic approach. Today, both massage types are recognised worldwide and taught in professional training programmes."
+      },
+      "duration": {
+        "title": "Recommended session duration",
+        "description": "The optimal session duration differs depending on the massage type and objectives. For Swedish Massage, I generally recommend 90 minutes. The full-body protocol needs sufficient time to thoroughly treat each area and fully develop the relaxing effect. A 60-minute session is also possible but requires adjustments to the procedure, with some areas being treated for less time. For Classic Massage, 60 minutes is often sufficient, especially when the focus is on one or two problem areas. Those who want a more comprehensive treatment also benefit from 90 minutes here. For acute complaints, a focused 60-minute Classic Massage can be more effective than a longer session, as the concentration on the problem area is at its maximum. My tip: for the first appointment, choose 90 minutes, regardless of the massage type. This gives us enough time for a thorough conversation, the complete treatment and a brief follow-up discussion. For subsequent appointments, you can then choose between 60 and 90 minutes depending on your needs."
       }
     },
     "pregnancyMassage": {
@@ -1424,30 +2221,42 @@
         "description": "Everything about massage during pregnancy: when it's safe, the benefits, which techniques are used. Professional prenatal massage at your home."
       },
       "title": "Massage During Pregnancy, When Is It Safe?",
-      "intro": "Massage during pregnancy is safe from the second trimester and offers numerous benefits for mother and baby. Here's everything you need to know.",
+      "intro": "Massage during pregnancy is safe from the second trimester and offers numerous benefits for mother and child. Here you will find everything you need to know. Pregnancy brings wonderful changes but also physical challenges such as back pain, swollen legs and sleep problems. A professional pregnancy massage can significantly alleviate these complaints and contribute to overall well-being. As a mobile massage therapist, I come directly to your home, which is a great advantage especially during pregnancy.",
       "safety": {
         "title": "When Is Prenatal Massage Safe?",
-        "description": "Prenatal massage is safe from week 13 (the start of the second trimester). Massage is avoided during the first trimester as a precaution. For high-risk pregnancies, please consult your doctor or midwife beforehand."
+        "description": "Pregnancy massage is safe from week 13 (start of the second trimester). In the first trimester, massage is avoided as a precaution. For high-risk pregnancies, you should consult your doctor or midwife beforehand. The caution in the first trimester is purely a precautionary measure, as the risk of complications is generally highest during this phase. There is no scientific evidence that gentle massage is harmful in the first trimester. Nevertheless, I follow the principle of caution. From week 13, the pregnancy is more stable and the massage can be carried out without concern. I adjust the pressure, techniques and positioning throughout the entire treatment to your pregnancy week. Before each session, I have a brief conversation about your current health status and any new complaints."
       },
       "benefits": {
         "title": "Benefits of Prenatal Massage",
-        "description": "Prenatal massage relieves back pain (the most common complaint), reduces swelling in legs and feet, improves sleep quality, lowers stress hormones, and strengthens the emotional bond with your baby. Studies also show a reduction in anxiety and depression."
+        "description": "Pregnancy massage alleviates back pain (the most common complaint), reduces swelling in legs and feet, improves sleep quality, lowers stress hormones and promotes emotional connection with the baby. Studies also show a reduction in anxiety and depression. The hormonal changes during the massage are measurable: cortisol levels (stress hormone) decrease, while serotonin and dopamine (feel-good hormones) increase. This effect lasts several days after the massage. For the baby, less stress in the mother means a calmer environment and better nourishment. Many pregnant women also report that the massage helps them find a more conscious connection to their changing body. The improved circulation also supports the baby's nutrient supply and can noticeably reduce water retention."
       },
       "trimester": {
         "title": "Massage by Trimester",
-        "description": "In the second trimester, the focus is on relieving back pain and muscle tension. In the third trimester, we concentrate on swollen legs, hip pain, and general relaxation. The massage is performed in a comfortable side-lying position, supported by special cushions."
+        "description": "In the second trimester, the focus is on alleviating back pain and muscle tension. In the third trimester, we concentrate on swollen legs, hip pain and general relaxation. The massage is performed in a comfortable side-lying position, supported by special cushions. In the second trimester, the belly grows visibly and the body begins to adapt: posture changes, the chest becomes heavier and the lower back is more heavily strained. The massage focuses here on the lumbar area, the shoulder-neck area and the leg muscles. In the third trimester, complaints often increase: the hip joints widen, the baby's weight presses on the pelvic area, and water retention can cause legs and feet to swell. Here I use gentle lymphatic drainage techniques to reduce swelling, and I focus on the lower back and hip muscles. The pressure is adjusted to be increasingly gentle as the pregnancy progresses."
       },
       "techniques": {
         "title": "Which Techniques Are Used?",
-        "description": "I use exclusively gentle techniques with light to moderate pressure. Certain pressure points and areas are deliberately avoided. Only natural oils without artificial additives are used. The entire treatment is designed to provide maximum relaxation with complete safety."
+        "description": "I use exclusively gentle techniques with light to medium pressure. Certain pressure points and areas are deliberately avoided. Only natural oils without artificial additives are used. The entire treatment is designed to provide maximum relaxation with complete safety. Long, flowing stroking movements are primarily used, which have a calming effect and promote circulation. Kneading techniques are applied only lightly to loosen tense muscles in the back and shoulder area. Deep tissue work and strong pressure are avoided during pregnancy. Certain areas such as the abdomen, the inner ankles and specific acupressure points are avoided, as these could trigger contractions. The oils used are purely natural and free from essential oils that are not recommended during pregnancy. On request, I also use fragrance-neutral oils, as many pregnant women have heightened sensitivity to smells."
       },
       "contraindications": {
         "title": "When Should You Avoid Massage?",
-        "description": "Massage is not recommended in cases of: bleeding, preeclampsia, placenta previa, premature contractions, fever, or acute infections. If you're unsure, discuss it with your doctor. I always ask about your current health status before each treatment."
+        "description": "Massage is not recommended in cases of: bleeding, preeclampsia, placenta praevia, premature contractions, fever or acute infections. If you are unsure, discuss it with your doctor. I ask about the current health status before each treatment. Further contraindications include severe nausea with vomiting, dizziness, unusual swelling (especially in the face and hands, which may indicate preeclampsia) and fresh injuries or surgeries. For multiple pregnancies or after IVF, I also recommend speaking with the treating physician before the first massage. If you experience discomfort, pain or contractions during a massage session, let me know immediately. The safety of you and your baby always has the highest priority. When in doubt, the rule is: ask your doctor, then have the massage."
       },
       "frequency": {
         "title": "How Often During Pregnancy?",
-        "description": "In the second trimester, I recommend a session every 2-3 weeks. In the third trimester, weekly massage is possible, especially as issues like back pain or swelling increase. Many of my clients particularly appreciate mobile massage, they don't have to travel to a studio and can rest immediately afterwards."
+        "description": "In the second trimester, I recommend a session every 2-3 weeks. In the third trimester, weekly massage is possible, especially when complaints such as back pain or swelling increase. Many of my clients particularly appreciate the mobile massage - they don't have to travel to a studio and can rest directly afterwards. The ideal schedule is individual and depends on your complaints and your budget. Some clients begin in the fourth month with monthly sessions and increase the frequency to weekly in the last trimester. Others book only as needed when complaints increase. Generally, regular sessions are more effective than sporadic single appointments, as the body gets used to the treatment and the effects build on each other. The 60-minute session is ideal for most pregnant women, as it provides sufficient time for a thorough treatment without being too tiring."
+      },
+      "positioning": {
+        "title": "Positioning during the massage",
+        "description": "Proper positioning is particularly important during pregnancy massage for both safety and comfort. From the second trimester, the prone position is avoided for obvious reasons. Instead, I work mainly in the side-lying position, which is considered the safest and most comfortable position. The client lies on her side while special cushions support the belly, knees and head. This position relieves the lower back and allows optimal access to the back and hip muscles. During the session, we switch sides so both halves of the body can be treated. Short segments in the supine position are possible in the second trimester but are avoided from week 20 onwards, as the baby's weight can compress the large vena cava. In the semi-seated position with a slightly elevated upper body, the neck, shoulders and arms can be treated well. I bring all necessary cushions and positioning aids, so you don't need to prepare anything at home."
+      },
+      "postpartum": {
+        "title": "Massage after birth",
+        "description": "The time after birth presents the body with new challenges. Massage can effectively support the recovery process. After a natural birth without complications, massage can be resumed after 1-2 weeks. After a caesarean section, I recommend waiting 4-6 weeks and obtaining the doctor's clearance. Postpartum massage helps with muscle recovery, relieves tension from frequent breastfeeding and carrying the baby, and supports the hormonal balance in returning to equilibrium. Many new mothers develop neck and shoulder pain from breastfeeding and the constant downward gaze at the baby. The lower back also suffers from frequent lifting and carrying. Last but not least, massage contributes to emotional well-being and can counteract postpartum exhaustion. Mobile massage is ideal during this phase, as you don't have to leave your newborn or transport them. You can have the massage while a partner or another caregiver looks after the baby."
+      },
+      "mobileAdvantage": {
+        "title": "Why mobile massage is ideal during pregnancy",
+        "description": "Especially during pregnancy, mobile massage offers decisive advantages over visiting a studio. The most obvious: you don't have to drive. Particularly in the third trimester, driving can be uncomfortable, and public transport with a large belly is exhausting. Then there is the time saving, which is especially valuable during pregnancy when energy is limited. After the massage, you can lie down and rest directly without having to make the journey home. The relaxation effect is thereby fully preserved. In your own surroundings, it is also easier to relax. You know every smell, every sound and feel safe. During pregnancy, when the senses are particularly sensitive, this is a great advantage. The privacy of your own home is especially important to many pregnant women. Should you need to use the bathroom during or after the massage (which happens frequently during pregnancy), your own bathroom is just a few steps away. I bring all necessary equipment and leave your room exactly as I found it."
       }
     },
     "mobileBenefits": {
@@ -1456,30 +2265,42 @@
         "description": "Why mobile massage in Zurich is increasingly popular: no commute, relaxation at home, flexible scheduling. Professional quality without compromise."
       },
       "title": "Benefits of Mobile Massage",
-      "intro": "More and more people in Zurich are choosing mobile massage over studio visits. The reasons are compelling.",
+      "intro": "More and more people in Zurich are choosing mobile massage instead of studio visits. The reasons are compelling. Mobile massage combines professional quality with maximum comfort. You save time, stay in your familiar surroundings and can make optimal use of the therapeutic effect of the massage. As a mobile massage therapist with distinction at the Swiss Massage Championship 2026, I bring everything needed for a first-class treatment. In this guide, you will learn why mobile massage is the best choice for different life situations.",
       "convenience": {
         "title": "No Commute, Save Time",
-        "description": "In Zurich, just getting to a massage studio can take 30-60 minutes round trip. With mobile massage, you save all that time. I come to you with a professional massage table, high-quality oils, and all necessary equipment. Especially during rush hour and bad weather, this is an enormous advantage."
+        "description": "In Zurich, the journey to a massage studio alone can take 30-60 minutes, there and back. With a mobile massage, you save this time entirely. I come to you with a professional massage table, high-quality oils and all necessary equipment. Especially during heavy traffic and bad weather, this is an enormous advantage. Add up the journey there and back, the search for parking and the waiting time at the studio, and you quickly lose 60-90 minutes on top of your treatment time. With a 60-minute massage, you spend a total of 2 to 2.5 hours, even though only one hour of that is the actual massage. With mobile massage, the time invested equals the treatment time. You open the door, I set up in a few minutes, and the massage begins. Afterwards, I pack up and you can immediately enjoy your evening. For working professionals with a full schedule, this time saving is often the decisive reason for choosing mobile massage."
       },
       "comfort": {
         "title": "Relaxation in Familiar Surroundings",
-        "description": "In your own home, it's easier to fully relax. No unfamiliar environment, no strange sounds, no waiting in a reception area. After the massage, you can go straight to your sofa or bed, the relaxation doesn't fade on the journey home."
+        "description": "In your own flat, it is easier to relax completely. No unfamiliar environment, no unusual sounds, no waiting in a reception area. After the massage, you can go straight to the sofa or bed - the relaxation is not lost on the way home. The effect of a massage unfolds best when you can let go completely. In a studio, you have to get dressed again after the treatment, pay at the reception, drive home through traffic. All of this can undo the deep relaxation built up during the massage. At home, on the other hand, you can lie on the couch in your own bathrobe after the massage, listen to your favourite music and enjoy the warmth and suppleness of your muscles. Many of my clients report that they sleep better after a mobile massage than after a studio visit, because the relaxation is not interrupted by the journey home."
       },
       "hygiene": {
         "title": "Hygiene and Cleanliness",
-        "description": "I bring fresh towels, sanitized equipment, and new oils to every session. You benefit from the hygiene of your own home combined with professional standards. After the massage, I leave your space exactly as I found it."
+        "description": "I bring fresh towels, disinfected equipment and new oils to every session. You benefit from the hygiene of your own home combined with professional standards. After the massage, I leave your room just as I found it. My massage table is thoroughly disinfected after every use and fitted with fresh covers. The oils used are in sealed containers and freshly dispensed for each client. Towels are washed at 90 degrees and transported individually wrapped. Compared to some studios where multiple therapists use the same rooms and tables, with mobile massage you have the certainty that everything is fresh and prepared only for you. For clients with allergies or sensitive skin, I can adjust the oils and products individually. Simply let me know before the treatment."
       },
       "flexibility": {
         "title": "Flexible Scheduling",
-        "description": "Massage studios have fixed opening hours. I offer appointments Monday through Sunday, 08:00 to 20:00, including evenings and weekends. Perfect for professionals with packed schedules or families who need flexible timing."
+        "description": "Massage studios have fixed opening hours. I offer appointments from Monday to Sunday, 08:00 to 20:00, including evenings and weekends. Perfect for working professionals with a full schedule or families who need flexible times. Appointment changes are possible without fuss up to 24 hours beforehand. You don't have to work around a studio's opening hours or book weeks in advance. Spontaneous appointments are also possible subject to availability - simply contact me via WhatsApp or phone. The weekend flexibility is particularly valued: while many studios close early on Saturdays and are closed on Sundays, I offer the full time window on these days as well. For shift workers who are free at atypical times, mobile massage is often the only way to integrate professional massage treatments into their routine."
       },
       "aftercare": {
         "title": "Optimal Aftercare",
-        "description": "An often underestimated benefit: after a mobile massage, you can rest immediately. Drink a glass of water, lie down, fall asleep. No driving, no subway, no journey home. The therapeutic effects of the massage can unfold to their full potential."
+        "description": "An often underestimated advantage: after a mobile massage, you can rest immediately. Drink a glass of water, lie down, fall asleep. No driving, no public transport, no journey home. The therapeutic effect of the massage can thus unfold optimally. In the 30-60 minutes after a massage, the most important regeneration processes take place in the body: circulation is elevated, muscles continue to relax, and stress hormones are broken down. If you are sitting in a car during this phase, battling through traffic, a large part of this effect is lost. At home, you can instead take a warm bath that enhances the massage's effect, or simply lie quietly. Evening massages in particular benefit from the possibility of going straight to bed afterwards. Many of my clients deliberately book the last appointment of the day and fall into a deep, restful sleep after the massage."
       },
       "zurich": {
         "title": "Mobile Massage in the Zurich Region",
-        "description": "I offer mobile massage throughout Zurich, along Lake Zurich, and in the surrounding cantons. From Kreis 1 to Kreis 12, from Meilen to Wadenswil, from Schwyz to Rapperswil, I come to you. As a winner of the Swiss Massage Championship 2026, I guarantee professional quality at the highest level, right at your doorstep."
+        "description": "I offer mobile massage throughout Zurich, around Lake Zurich and in the surrounding cantons. From Kreis 1 to Kreis 12, from Meilen to Waedenswil, from Schwyz to Rapperswil - I come to you. As a prize winner of the Swiss Massage Championship 2026, I guarantee professional quality at the highest level, directly at your home. My service area covers the entire Lake Zurich region and surrounding municipalities. Whether you live in the city of Zurich, on the right or left shore of Lake Zurich, in the canton of Schwyz or in the Rapperswil-Jona region - I come to you. Travel is included in the price, there are no hidden additional costs. My location in Sattel (SZ) enables central and flexible accessibility to the entire region. If you have questions about coverage in your municipality, simply contact me via WhatsApp or phone."
+      },
+      "families": {
+        "title": "Benefits for families with children",
+        "description": "For parents with small children, visiting a massage studio is often a logistical challenge. Who looks after the children? How long will I be away? What if something happens? Mobile massage solves all these problems. You can book the massage while the children are sleeping, playing or being looked after by a partner. You are in the house and reachable at all times should anything come up. The time commitment is limited to the treatment time itself - no travel, no waiting area, no return journey. Especially for mothers on parental leave, mobile massage is ideal: you can plan the appointment flexibly around the baby's routine. It is no problem for older children either. They play in the next room while you enjoy your massage. Many of my clients with children say that without mobile massage, they would have to go without regular massage treatments because organising a studio visit would be too much effort. The massage can take place in any room that has enough space for the table, from the living room to the bedroom."
+      },
+      "elderly": {
+        "title": "Benefits for older and mobility-impaired people",
+        "description": "For older people or persons with limited mobility, the journey to a massage studio can be a considerable hurdle. Stairs, public transport, long walks from the car park - all of this can be difficult or even impossible. Mobile massage brings professional treatment directly to the living room. Many older clients particularly benefit from regular massage: it improves circulation, maintains mobility, alleviates joint complaints and reduces feelings of loneliness and isolation. Massage in familiar surroundings is often more relaxing for older people, as they feel safe and don't have to cope with unfamiliar places. I adapt the treatment individually, take health limitations into account and work particularly gently. Mobile massage is also a relief for caring relatives: they don't have to transport anyone and can use the gained time for other tasks. For people in assisted living or senior residences, I come directly to the facility. Get in touch with me - I will find a suitable solution."
+      },
+      "corporate": {
+        "title": "Massage at the workplace",
+        "description": "More and more companies in Zurich recognise the value of massage as an employee benefit. Mobile massage in the office is straightforward, effective and shows employees appreciation. Even short sessions of 20-30 minutes can release tension, boost concentration and lift team morale. I bring all the equipment and only need a quiet room - a meeting room or an empty office is sufficient. The massage can be organised as a one-off event or as a regular offering, for example a fixed day per week or month. Employees book their time slots individually, and the workflow is minimally disrupted. For companies, office massage has measurable benefits: fewer sick days due to back pain, higher employee satisfaction and a positive employer brand. Demand is especially high in industries with a lot of screen work, such as IT, finance or media. Contact me for a tailored offer for your company. I am happy to prepare a proposal that suits your team size and budget."
       }
     }
   },
@@ -1572,12 +2393,30 @@
       "faq": {
         "title": "Frequently Asked Questions about Swedish Massage",
         "items": [
-          { "question": "What's the difference between Swedish and Classical massage?", "answer": "Swedish massage uses five specific techniques in a set sequence and focuses particularly on relaxation. Classical massage is more flexible in technique choice and can target individual problem areas more specifically." },
-          { "question": "Do I need to undress completely?", "answer": "No. You can keep your underwear on. During the massage, only the area being treated is uncovered. Your comfort and privacy are top priority." },
-          { "question": "How long does the effect last?", "answer": "The relaxation typically lasts 3-7 days. With regular sessions, every 1-2 weeks, a cumulative effect builds up that permanently reduces tension and improves wellbeing." },
-          { "question": "Can I exercise after the massage?", "answer": "I recommend avoiding intensive physical activity for 24 hours after the massage. Light movement like walking is beneficial and supports the effect." },
-          { "question": "Is Swedish massage painful?", "answer": "No, Swedish massage is one of the gentlest massage types. The pressure is adjusted to your sensitivity. If anything feels uncomfortable, let me know at any time." },
-          { "question": "Why is Oleg Swiss champion in Swedish massage?", "answer": "I won 1st place at the 5th Swiss Massage Championship 2026 in the Swedish Massage category. This competition evaluates technique, rhythm, pressure control, and overall quality, confirming the highest professional level." }
+          {
+            "question": "What's the difference between Swedish and Classical massage?",
+            "answer": "Swedish massage uses five specific techniques in a set sequence and focuses particularly on relaxation. Classical massage is more flexible in technique choice and can target individual problem areas more specifically."
+          },
+          {
+            "question": "Do I need to undress completely?",
+            "answer": "No. You can keep your underwear on. During the massage, only the area being treated is uncovered. Your comfort and privacy are top priority."
+          },
+          {
+            "question": "How long does the effect last?",
+            "answer": "The relaxation typically lasts 3-7 days. With regular sessions, every 1-2 weeks, a cumulative effect builds up that permanently reduces tension and improves wellbeing."
+          },
+          {
+            "question": "Can I exercise after the massage?",
+            "answer": "I recommend avoiding intensive physical activity for 24 hours after the massage. Light movement like walking is beneficial and supports the effect."
+          },
+          {
+            "question": "Is Swedish massage painful?",
+            "answer": "No, Swedish massage is one of the gentlest massage types. The pressure is adjusted to your sensitivity. If anything feels uncomfortable, let me know at any time."
+          },
+          {
+            "question": "Why is Oleg Swiss champion in Swedish massage?",
+            "answer": "I won 1st place at the 5th Swiss Massage Championship 2026 in the Swedish Massage category. This competition evaluates technique, rhythm, pressure control, and overall quality, confirming the highest professional level."
+          }
         ]
       }
     },
@@ -1625,12 +2464,30 @@
       "faq": {
         "title": "Frequently Asked Questions about Classical Massage",
         "items": [
-          { "question": "Who is classical massage best suited for?", "answer": "For practically everyone, from office workers with neck tension to seniors with limited mobility. It's the most versatile massage type and a perfect introduction for massage newcomers." },
-          { "question": "How often should I come?", "answer": "For prevention, one session every 2-3 weeks is sufficient. For acute issues, I recommend 1-2 sessions per week initially for 4-6 weeks, then monthly maintenance sessions." },
-          { "question": "What if I feel pain during the massage?", "answer": "Speak up immediately. Mild pressure pain at tense spots is normal, but strong pain should never occur. I adjust the intensity at any time based on your feedback." },
-          { "question": "Does classical massage help with headaches?", "answer": "Yes, especially tension headaches. Tension in the neck, shoulders, and upper back muscles are common triggers. By releasing these tensions, the frequency and intensity of headaches can be significantly reduced." },
-          { "question": "Should I eat before the massage?", "answer": "Don't eat anything heavy for at least an hour before. A light snack is fine. Drink plenty of water before and especially after treatment." },
-          { "question": "What's the difference between 60 and 90 minutes?", "answer": "At 60 minutes, I focus on the main problem areas (back, neck, shoulders). At 90 minutes, all body areas can be thoroughly treated, ideal for a full-body relaxation." }
+          {
+            "question": "Who is classical massage best suited for?",
+            "answer": "For practically everyone, from office workers with neck tension to seniors with limited mobility. It's the most versatile massage type and a perfect introduction for massage newcomers."
+          },
+          {
+            "question": "How often should I come?",
+            "answer": "For prevention, one session every 2-3 weeks is sufficient. For acute issues, I recommend 1-2 sessions per week initially for 4-6 weeks, then monthly maintenance sessions."
+          },
+          {
+            "question": "What if I feel pain during the massage?",
+            "answer": "Speak up immediately. Mild pressure pain at tense spots is normal, but strong pain should never occur. I adjust the intensity at any time based on your feedback."
+          },
+          {
+            "question": "Does classical massage help with headaches?",
+            "answer": "Yes, especially tension headaches. Tension in the neck, shoulders, and upper back muscles are common triggers. By releasing these tensions, the frequency and intensity of headaches can be significantly reduced."
+          },
+          {
+            "question": "Should I eat before the massage?",
+            "answer": "Don't eat anything heavy for at least an hour before. A light snack is fine. Drink plenty of water before and especially after treatment."
+          },
+          {
+            "question": "What's the difference between 60 and 90 minutes?",
+            "answer": "At 60 minutes, I focus on the main problem areas (back, neck, shoulders). At 90 minutes, all body areas can be thoroughly treated, ideal for a full-body relaxation."
+          }
         ]
       }
     },
@@ -1678,12 +2535,30 @@
       "faq": {
         "title": "Frequently Asked Questions about Sports Massage",
         "items": [
-          { "question": "Is sports massage painful?", "answer": "Sports massage is more intense than classical massage. At tense spots, a brief releasing pressure pain may occur, the so-called 'good pain'. But strong pain should never occur. I always work within your comfort zone." },
-          { "question": "When should I book massage before a competition?", "answer": "Ideally 2-3 days before. A massage directly on competition day can over-relax the muscles. The day before, a short 30-minute stimulating massage is possible." },
-          { "question": "How soon after training can I get a massage?", "answer": "Wait at least 2 hours after intense training. The body needs time to start the acute inflammation process. The optimal time for recovery massage is 6-24 hours after training." },
-          { "question": "Which sports benefit most?", "answer": "All sports benefit from sports massage. I most frequently treat runners, cyclists, CrossFit athletes, swimmers, and strength athletes. It's also ideal for desk workers with active leisure time." },
-          { "question": "Can sports massage prevent injuries?", "answer": "Yes. Regular sports massage improves muscle elasticity, releases hardened areas early, and identifies overload zones before they lead to injuries. Many professional athletes use it as a fixed part of their injury prevention programme." },
-          { "question": "Why is a former Olympic gymnast the right sports massage therapist?", "answer": "Through my career as an Olympic gymnast, I understand the demands of high-performance sport first-hand. I know which muscle groups are particularly stressed by which activities and how to optimally recover them." }
+          {
+            "question": "Is sports massage painful?",
+            "answer": "Sports massage is more intense than classical massage. At tense spots, a brief releasing pressure pain may occur, the so-called 'good pain'. But strong pain should never occur. I always work within your comfort zone."
+          },
+          {
+            "question": "When should I book massage before a competition?",
+            "answer": "Ideally 2-3 days before. A massage directly on competition day can over-relax the muscles. The day before, a short 30-minute stimulating massage is possible."
+          },
+          {
+            "question": "How soon after training can I get a massage?",
+            "answer": "Wait at least 2 hours after intense training. The body needs time to start the acute inflammation process. The optimal time for recovery massage is 6-24 hours after training."
+          },
+          {
+            "question": "Which sports benefit most?",
+            "answer": "All sports benefit from sports massage. I most frequently treat runners, cyclists, CrossFit athletes, swimmers, and strength athletes. It's also ideal for desk workers with active leisure time."
+          },
+          {
+            "question": "Can sports massage prevent injuries?",
+            "answer": "Yes. Regular sports massage improves muscle elasticity, releases hardened areas early, and identifies overload zones before they lead to injuries. Many professional athletes use it as a fixed part of their injury prevention programme."
+          },
+          {
+            "question": "Why is a former Olympic gymnast the right sports massage therapist?",
+            "answer": "Through my career as an Olympic gymnast, I understand the demands of high-performance sport first-hand. I know which muscle groups are particularly stressed by which activities and how to optimally recover them."
+          }
         ]
       }
     },
@@ -1731,11 +2606,26 @@
       "faq": {
         "title": "Frequently Asked Questions about Anti-Cellulite Massage",
         "items": [
-          { "question": "Will cellulite disappear completely through massage?", "answer": "Massage can significantly improve the appearance of cellulite but not eliminate it entirely. Cellulite has genetic and hormonal causes. Massage improves circulation, lymph flow, and skin elasticity, combined with exercise and nutrition, the best results are achievable." },
-          { "question": "Will I get bruises?", "answer": "With proper technique, bruising is rare. Mild redness after treatment is normal and fades within a few hours. Let me know if you tend to bruise easily." },
-          { "question": "How many sessions do I need for visible results?", "answer": "First improvements (firmer skin, less water retention) are noticeable after 3-4 sessions. Clearly visible results show after 8-10 sessions. I recommend a course of 10-12 sessions, 2-3 times per week." },
-          { "question": "Can I support the results at home?", "answer": "Yes! Drink 2-3 litres of water daily, reduce salt and sugar, exercise regularly, and use a dry brush for circulation. These measures significantly enhance the massage effect." },
-          { "question": "Is the massage also suitable for men?", "answer": "Absolutely. Men can also benefit from anti-cellulite massage, especially for reducing water retention, improving skin elasticity, and activating metabolism." }
+          {
+            "question": "Will cellulite disappear completely through massage?",
+            "answer": "Massage can significantly improve the appearance of cellulite but not eliminate it entirely. Cellulite has genetic and hormonal causes. Massage improves circulation, lymph flow, and skin elasticity, combined with exercise and nutrition, the best results are achievable."
+          },
+          {
+            "question": "Will I get bruises?",
+            "answer": "With proper technique, bruising is rare. Mild redness after treatment is normal and fades within a few hours. Let me know if you tend to bruise easily."
+          },
+          {
+            "question": "How many sessions do I need for visible results?",
+            "answer": "First improvements (firmer skin, less water retention) are noticeable after 3-4 sessions. Clearly visible results show after 8-10 sessions. I recommend a course of 10-12 sessions, 2-3 times per week."
+          },
+          {
+            "question": "Can I support the results at home?",
+            "answer": "Yes! Drink 2-3 litres of water daily, reduce salt and sugar, exercise regularly, and use a dry brush for circulation. These measures significantly enhance the massage effect."
+          },
+          {
+            "question": "Is the massage also suitable for men?",
+            "answer": "Absolutely. Men can also benefit from anti-cellulite massage, especially for reducing water retention, improving skin elasticity, and activating metabolism."
+          }
         ]
       }
     },
@@ -1783,12 +2673,30 @@
       "faq": {
         "title": "Frequently Asked Questions about Pregnancy Massage",
         "items": [
-          { "question": "From which week of pregnancy is massage safe?", "answer": "From the second trimester (week 13). In the first trimester, the risk of complications is elevated, so I recommend starting from week 13. In the third trimester up to shortly before the due date, massage is particularly beneficial." },
-          { "question": "In which position is the massage performed?", "answer": "Exclusively in a comfortable side-lying position. I use special positioning cushions for belly, back, and legs. Lying on your stomach is neither necessary nor possible. Side-lying is the safest and most comfortable position." },
-          { "question": "Which oils do you use?", "answer": "Exclusively natural, fragrance-free oils without essential additives. Essential oils like rosemary, peppermint, or sage are deliberately avoided during pregnancy. All products are dermatologically tested." },
-          { "question": "Can the massage trigger contractions?", "answer": "No. I deliberately avoid all pressure points and techniques associated with triggering contractions (e.g., certain points on ankles and hands). The techniques used are gentle and safe." },
-          { "question": "Does the massage help with swollen legs?", "answer": "Yes, very effectively. Gentle massage techniques and lymphatic drainage can significantly reduce swelling in legs and feet. Many pregnant women report immediate relief after a session." },
-          { "question": "Can my partner be present during the massage?", "answer": "Of course. Your partner is very welcome. On request, I also show simple massage techniques your partner can use at home, especially for the lower back." }
+          {
+            "question": "From which week of pregnancy is massage safe?",
+            "answer": "From the second trimester (week 13). In the first trimester, the risk of complications is elevated, so I recommend starting from week 13. In the third trimester up to shortly before the due date, massage is particularly beneficial."
+          },
+          {
+            "question": "In which position is the massage performed?",
+            "answer": "Exclusively in a comfortable side-lying position. I use special positioning cushions for belly, back, and legs. Lying on your stomach is neither necessary nor possible. Side-lying is the safest and most comfortable position."
+          },
+          {
+            "question": "Which oils do you use?",
+            "answer": "Exclusively natural, fragrance-free oils without essential additives. Essential oils like rosemary, peppermint, or sage are deliberately avoided during pregnancy. All products are dermatologically tested."
+          },
+          {
+            "question": "Can the massage trigger contractions?",
+            "answer": "No. I deliberately avoid all pressure points and techniques associated with triggering contractions (e.g., certain points on ankles and hands). The techniques used are gentle and safe."
+          },
+          {
+            "question": "Does the massage help with swollen legs?",
+            "answer": "Yes, very effectively. Gentle massage techniques and lymphatic drainage can significantly reduce swelling in legs and feet. Many pregnant women report immediate relief after a session."
+          },
+          {
+            "question": "Can my partner be present during the massage?",
+            "answer": "Of course. Your partner is very welcome. On request, I also show simple massage techniques your partner can use at home, especially for the lower back."
+          }
         ]
       }
     },
@@ -1836,11 +2744,26 @@
       "faq": {
         "title": "Frequently Asked Questions about Children's Massage",
         "items": [
-          { "question": "From what age is children's massage possible?", "answer": "From about 3 months for baby massage. For older children, there's no age limit. Techniques and duration are age-appropriate, from 15-20 minutes for babies to 45-60 minutes for teenagers." },
-          { "question": "Do I need to be present as a parent?", "answer": "Yes, a parent should always be present with children. This gives your child security and you can observe the techniques and apply them at home." },
-          { "question": "What if my child can't stay still?", "answer": "That's completely normal! Especially with younger children, I adapt, we take breaks, use toys as distraction, or change position. There's no pressure. The massage should be fun." },
-          { "question": "Does massage help with sleep problems?", "answer": "Yes, that's one of the most common reasons for children's massage. Regular gentle massage before bedtime can significantly shorten the time to fall asleep and improve sleep quality, especially for restless or hyperactive children." },
-          { "question": "Can I learn the massage techniques myself?", "answer": "Yes, that's actually encouraged! During each session, I show you simple techniques you can use at home. This makes massage a daily bonding ritual between you and your child." }
+          {
+            "question": "From what age is children's massage possible?",
+            "answer": "From about 3 months for baby massage. For older children, there's no age limit. Techniques and duration are age-appropriate, from 15-20 minutes for babies to 45-60 minutes for teenagers."
+          },
+          {
+            "question": "Do I need to be present as a parent?",
+            "answer": "Yes, a parent should always be present with children. This gives your child security and you can observe the techniques and apply them at home."
+          },
+          {
+            "question": "What if my child can't stay still?",
+            "answer": "That's completely normal! Especially with younger children, I adapt, we take breaks, use toys as distraction, or change position. There's no pressure. The massage should be fun."
+          },
+          {
+            "question": "Does massage help with sleep problems?",
+            "answer": "Yes, that's one of the most common reasons for children's massage. Regular gentle massage before bedtime can significantly shorten the time to fall asleep and improve sleep quality, especially for restless or hyperactive children."
+          },
+          {
+            "question": "Can I learn the massage techniques myself?",
+            "answer": "Yes, that's actually encouraged! During each session, I show you simple techniques you can use at home. This makes massage a daily bonding ritual between you and your child."
+          }
         ]
       }
     },
@@ -1888,11 +2811,26 @@
       "faq": {
         "title": "Frequently Asked Questions about Cupping",
         "items": [
-          { "question": "Are the red circles after cupping dangerous?", "answer": "No, the discolourations are harmless. They result from increased blood flow under the skin and disappear completely in 3-7 days. The colour intensity shows how severe the circulation disturbance in the tissue was." },
-          { "question": "Does cupping hurt?", "answer": "Most clients describe it as an unusual but not painful pulling sensation. The negative pressure is noticeable initially but becomes pleasant after a few seconds. I reduce pressure on sensitive areas." },
-          { "question": "Can I combine cupping with massage?", "answer": "Yes, that's actually the most popular option! 15 minutes of cupping as a supplement to a classical or sports massage. Cupping pre-releases deep tension, and the subsequent massage works it out." },
-          { "question": "How often can I have cupping?", "answer": "Once the marks from the last session have faded, typically every 1-2 weeks. For acute issues, frequency can be higher initially, in consultation with me." },
-          { "question": "Can I shower after cupping?", "answer": "Wait at least 2-3 hours and avoid hot water for 24 hours. Lukewarm showering is fine. Also avoid sauna and swimming pools for 24-48 hours after treatment." }
+          {
+            "question": "Are the red circles after cupping dangerous?",
+            "answer": "No, the discolourations are harmless. They result from increased blood flow under the skin and disappear completely in 3-7 days. The colour intensity shows how severe the circulation disturbance in the tissue was."
+          },
+          {
+            "question": "Does cupping hurt?",
+            "answer": "Most clients describe it as an unusual but not painful pulling sensation. The negative pressure is noticeable initially but becomes pleasant after a few seconds. I reduce pressure on sensitive areas."
+          },
+          {
+            "question": "Can I combine cupping with massage?",
+            "answer": "Yes, that's actually the most popular option! 15 minutes of cupping as a supplement to a classical or sports massage. Cupping pre-releases deep tension, and the subsequent massage works it out."
+          },
+          {
+            "question": "How often can I have cupping?",
+            "answer": "Once the marks from the last session have faded, typically every 1-2 weeks. For acute issues, frequency can be higher initially, in consultation with me."
+          },
+          {
+            "question": "Can I shower after cupping?",
+            "answer": "Wait at least 2-3 hours and avoid hot water for 24 hours. Lukewarm showering is fine. Also avoid sauna and swimming pools for 24-48 hours after treatment."
+          }
         ]
       }
     },
@@ -1940,12 +2878,30 @@
       "faq": {
         "title": "Frequently Asked Questions about Relaxation Massage",
         "items": [
-          { "question": "What if I fall asleep during the massage?", "answer": "That's absolutely welcome! Falling asleep is a sign of complete relaxation. I'll gently wake you at the end of the session. Many clients report that massage naps are some of their best sleep." },
-          { "question": "Can relaxation massage help with burnout?", "answer": "Yes, as a complementary measure. Regular relaxation massage demonstrably lowers cortisol (stress hormone) and increases serotonin and dopamine. It doesn't replace professional burnout therapy but can effectively support it." },
-          { "question": "Should I be quiet or can we talk?", "answer": "Both are perfectly fine! Some clients relax best in silence, others prefer to chat. There's no right or wrong, do what feels natural for you." },
-          { "question": "Can I choose the music?", "answer": "Of course! I bring relaxation music, but you're welcome to play your own playlist. Some clients prefer nature sounds or complete silence, anything goes." },
-          { "question": "How does relaxation massage differ from Swedish?", "answer": "Relaxation massage uses exclusively gentle, flowing techniques and focuses on the overall experience (atmosphere, scents, music). Swedish massage follows a more structured protocol with specific techniques and can also use deeper pressure." },
-          { "question": "Is a relaxation massage suitable as a gift?", "answer": "Absolutely, it's one of the most popular gifts! I can issue a personalised gift voucher. Many gift regular monthly sessions as a special token of appreciation." }
+          {
+            "question": "What if I fall asleep during the massage?",
+            "answer": "That's absolutely welcome! Falling asleep is a sign of complete relaxation. I'll gently wake you at the end of the session. Many clients report that massage naps are some of their best sleep."
+          },
+          {
+            "question": "Can relaxation massage help with burnout?",
+            "answer": "Yes, as a complementary measure. Regular relaxation massage demonstrably lowers cortisol (stress hormone) and increases serotonin and dopamine. It doesn't replace professional burnout therapy but can effectively support it."
+          },
+          {
+            "question": "Should I be quiet or can we talk?",
+            "answer": "Both are perfectly fine! Some clients relax best in silence, others prefer to chat. There's no right or wrong, do what feels natural for you."
+          },
+          {
+            "question": "Can I choose the music?",
+            "answer": "Of course! I bring relaxation music, but you're welcome to play your own playlist. Some clients prefer nature sounds or complete silence, anything goes."
+          },
+          {
+            "question": "How does relaxation massage differ from Swedish?",
+            "answer": "Relaxation massage uses exclusively gentle, flowing techniques and focuses on the overall experience (atmosphere, scents, music). Swedish massage follows a more structured protocol with specific techniques and can also use deeper pressure."
+          },
+          {
+            "question": "Is a relaxation massage suitable as a gift?",
+            "answer": "Absolutely, it's one of the most popular gifts! I can issue a personalised gift voucher. Many gift regular monthly sessions as a special token of appreciation."
+          }
         ]
       }
     }

@@ -41,6 +41,15 @@
           </div>
         </div>
 
+        <div v-for="section in extraSections" :key="section" class="bg-gray-50 rounded-2xl p-8 md:p-12">
+          <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-4">
+            {{ t(`guide.mobileVsStudio.${section}.title`) }}
+          </h2>
+          <p class="text-lg text-gray-700 leading-relaxed">
+            {{ t(`guide.mobileVsStudio.${section}.description`) }}
+          </p>
+        </div>
+
         <div class="bg-gray-50 rounded-2xl p-8 md:p-12">
           <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-4">
             {{ t("guide.mobileVsStudio.conclusion.title") }}
@@ -59,6 +68,8 @@
 <script setup lang="ts">
 const { t } = useI18n();
 const localePath = useLocalePath();
+
+const extraSections = ["costComparison", "whoIsItFor", "quality"];
 
 useHead(() => ({
   title: t("guide.mobileVsStudio.meta.title"),

@@ -44,7 +44,7 @@
 const { t } = useI18n();
 const localePath = useLocalePath();
 
-const sections = ["overview", "swedish", "classical", "techniques", "whenSwedish", "whenClassical", "verdict"];
+const sections = ["overview", "history", "swedish", "classical", "techniques", "duration", "whenSwedish", "whenClassical", "verdict"];
 
 useHead(() => ({
   title: t("guide.swedishVsClassical.meta.title"),

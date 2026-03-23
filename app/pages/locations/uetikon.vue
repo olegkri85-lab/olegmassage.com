@@ -6,6 +6,8 @@
     :why-title="t('location.uetikon.why.title')"
     :benefits="benefits"
     :services-title="t('location.uetikon.services.title')"
+    location-key="uetikon"
+    location-slug="uetikon"
   />
 </template>
 
@@ -20,6 +22,8 @@ const benefits = computed(() => [
   t("location.uetikon.benefits.4"),
   t("location.uetikon.benefits.5"),
 ]);
+
+const faqSchema = useLocationFaqSchema("uetikon");
 
 useHead(() => ({
   title: t("location.uetikon.meta.title"),
@@ -51,6 +55,14 @@ useHead(() => ({
         serviceType: "Mobile Massage",
       }),
     },
+    ...(faqSchema.value
+      ? [
+          {
+            type: "application/ld+json",
+            children: JSON.stringify(faqSchema.value),
+          },
+        ]
+      : []),
   ],
 }));
 </script>

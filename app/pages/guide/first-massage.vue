@@ -35,7 +35,7 @@
 const { t } = useI18n();
 const localePath = useLocalePath();
 
-const steps = ["booking", "preparation", "arrival", "during", "after"];
+const steps = ["booking", "preparation", "whatToWear", "arrival", "during", "after", "afterEffects", "commonQuestions"];
 
 useHead(() => ({
   title: t("guide.firstMassage.meta.title"),

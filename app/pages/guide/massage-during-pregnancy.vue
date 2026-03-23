@@ -44,7 +44,7 @@
 const { t } = useI18n();
 const localePath = useLocalePath();
 
-const sections = ["safety", "benefits", "trimester", "techniques", "contraindications", "frequency"];
+const sections = ["safety", "benefits", "trimester", "positioning", "techniques", "contraindications", "frequency", "postpartum", "mobileAdvantage"];
 
 useHead(() => ({
   title: t("guide.pregnancyMassage.meta.title"),

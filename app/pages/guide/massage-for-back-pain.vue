@@ -44,7 +44,7 @@
 const { t } = useI18n();
 const localePath = useLocalePath();
 
-const sections = ["causes", "whichMassage", "classical", "sports", "cupping", "frequency", "prevention"];
+const sections = ["causes", "whichMassage", "classical", "sports", "cupping", "frequency", "prevention", "exercises", "ergonomics", "whenToSeeDoctor"];
 
 useHead(() => ({
   title: t("guide.backPain.meta.title"),

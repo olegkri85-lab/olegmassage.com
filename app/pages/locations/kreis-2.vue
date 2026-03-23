@@ -6,6 +6,8 @@
     :why-title="t('location.kreis2.why.title')"
     :benefits="benefits"
     :services-title="t('location.kreis2.services.title')"
+    location-key="kreis2"
+    location-slug="kreis-2"
   />
 </template>
 
@@ -20,6 +22,8 @@ const benefits = computed(() => [
   t("location.kreis2.benefits.4"),
   t("location.kreis2.benefits.5"),
 ]);
+
+const faqSchema = useLocationFaqSchema("kreis2");
 
 useHead(() => ({
   title: t("location.kreis2.meta.title"),
@@ -51,6 +55,14 @@ useHead(() => ({
         serviceType: "Mobile Massage",
       }),
     },
+    ...(faqSchema.value
+      ? [
+          {
+            type: "application/ld+json",
+            children: JSON.stringify(faqSchema.value),
+          },
+        ]
+      : []),
   ],
 }));
 </script>

@@ -44,7 +44,7 @@
 const { t } = useI18n();
 const localePath = useLocalePath();
 
-const sections = ["general", "stress", "sport", "pain", "pregnancy", "maintenance"];
+const sections = ["general", "stress", "sport", "pain", "pregnancy", "maintenance", "signs", "longTerm"];
 
 useHead(() => ({
   title: t("guide.massageFrequency.meta.title"),

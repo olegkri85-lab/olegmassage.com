@@ -43,6 +43,12 @@
       </div>
     </section>
 
+    <!-- FAQ Section -->
+    <LocationFaq v-if="locationKey" :location-key="locationKey" />
+
+    <!-- Nearby Locations -->
+    <NearbyLocations v-if="locationSlug" :location-slug="locationSlug" />
+
     <!-- CTA Section -->
     <CallToAction />
   </div>
@@ -56,5 +62,7 @@ defineProps<{
   whyTitle: string
   benefits: string[]
   servicesTitle: string
+  locationKey?: string
+  locationSlug?: string
 }>()
 </script>

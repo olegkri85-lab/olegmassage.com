@@ -44,7 +44,7 @@
 const { t } = useI18n();
 const localePath = useLocalePath();
 
-const sections = ["convenience", "comfort", "hygiene", "flexibility", "aftercare", "zurich"];
+const sections = ["convenience", "comfort", "hygiene", "flexibility", "aftercare", "families", "elderly", "corporate", "zurich"];
 
 useHead(() => ({
   title: t("guide.mobileBenefits.meta.title"),

@@ -53,6 +53,8 @@ const recommendations = [
   { key: "child", link: "/services/children-massage" },
   { key: "chronic", link: "/services/cupping-massage" },
   { key: "premium", link: "/services/swedish-massage" },
+  { key: "howToChoose", link: "/guide" },
+  { key: "combination", link: "/services" },
 ];
 
 useHead(() => ({
