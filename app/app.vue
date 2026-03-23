@@ -12,6 +12,7 @@ const { locale } = useI18n();
 
 const { organizationSchema, personSchema, websiteSchema } = useStructuredData();
 const { breadcrumbSchema } = useBreadcrumbs();
+useTwitterCards();
 
 useHead({
   htmlAttrs: {

@@ -26,9 +26,9 @@
       <!-- Pricing Info -->
       <div class="mt-16 max-w-3xl mx-auto">
         <div class="bg-white rounded-2xl p-8 md:p-12 shadow-sm">
-          <h3 class="text-2xl md:text-3xl font-display text-gray-900 mb-6">
+          <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-6">
             {{ t("services.pricing.title") }}
-          </h3>
+          </h2>
           <div class="space-y-4 text-base md:text-lg text-gray-700">
             <p>
               <strong>{{ t("services.pricing.minOrder") }}:</strong>

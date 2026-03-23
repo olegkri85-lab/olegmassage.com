@@ -129,6 +129,27 @@
       </div>
     </section>
 
+    <!-- Related Guides -->
+    <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-8">
+          {{ t("servicePages.relatedGuides") }}
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          <NuxtLink
+            v-for="guide in relatedGuides"
+            :key="guide.to"
+            :to="localePath(guide.to)"
+            class="group block !no-underline bg-gray-50 rounded-2xl p-6 hover:shadow-md transition-shadow"
+          >
+            <h3 class="text-lg font-display text-gray-900 group-hover:text-[hsl(var(--accent-hsl))] transition-colors">
+              {{ t(guide.titleKey) }}
+            </h3>
+          </NuxtLink>
+        </div>
+      </div>
+    </section>
+
     <!-- Related Services -->
     <RelatedServices :services="[
       { slug: 'sports-massage', key: 'sports', image: 'sports-massage.jpeg' },
@@ -144,6 +165,11 @@
 <script setup lang="ts">
 const { t } = useI18n();
 const localePath = useLocalePath();
+
+const relatedGuides = [
+  { to: "/guide/massage-for-back-pain", titleKey: "guide.backPain.title" },
+  { to: "/guide/massage-frequency", titleKey: "guide.massageFrequency.title" },
+];
 
 useHead(() => ({
   title: t("servicePages.cupping.meta.title"),
