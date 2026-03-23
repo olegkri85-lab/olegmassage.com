@@ -49,9 +49,11 @@ export const useStructuredData = () => {
     },
     address: {
       "@type": "PostalAddress",
+      streetAddress: "Lustnaustrasse 21",
+      postalCode: "6417",
+      addressLocality: "Sattel",
+      addressRegion: "Schwyz",
       addressCountry: "CH",
-      addressRegion: "Zürich",
-      addressLocality: "Zürichsee Region",
     },
     openingHours: "Mo-Su 08:00-20:00",
     hasOfferCatalog: {
