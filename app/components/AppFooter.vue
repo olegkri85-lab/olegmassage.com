@@ -66,16 +66,16 @@
             >
           </li>
           <li>
-            <a href="https://www.threads.com/@massage_in_schweiz">Threads</a>
+            <a href="https://www.threads.com/@massage_in_schweiz" target="_blank" rel="noopener noreferrer">Threads</a>
           </li>
           <li>
-            <a href="https://www.facebook.com/profile.php?id=100079107851071"
+            <a href="https://www.facebook.com/profile.php?id=100079107851071" target="_blank" rel="noopener noreferrer"
               >Facebook</a
             >
           </li>
           <li>
-            <a href="https://www.instagram.com/massage_in_schweiz/"
-              >Instagram</a
+            <a href="https://www.instagram.com/massage_in_schweiz/" target="_blank" rel="noopener noreferrer"
+              >Instagram</
             >
           </li>
         </ul>

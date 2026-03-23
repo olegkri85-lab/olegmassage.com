@@ -5,7 +5,6 @@
       <a
         href="tel:+41798499274"
         class="hover:text-gray-300 hidden transition-colors md:flex gap-2 !no-underline"
-        target="_blank"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
