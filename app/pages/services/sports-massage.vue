@@ -155,6 +155,8 @@
       { slug: 'cupping-massage', key: 'cupping', image: 'cupping-therapy.jpeg' },
     ]" />
 
+    <GiftVoucherBanner />
+
     <CallToAction />
   </div>
 </template>

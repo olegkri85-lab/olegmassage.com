@@ -157,6 +157,9 @@
       { slug: 'sports-massage', key: 'sports', image: 'sports-massage.jpeg' },
     ]" />
 
+    <!-- Gift Voucher Banner -->
+    <GiftVoucherBanner />
+
     <!-- CTA Section -->
     <CallToAction />
   </div>

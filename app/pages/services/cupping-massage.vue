@@ -156,6 +156,9 @@
       { slug: 'anticellulite-massage', key: 'anticellulite', image: 'anticellulite-massage.jpeg' },
     ]" />
 
+    <!-- Gift Voucher Banner -->
+    <GiftVoucherBanner />
+
     <!-- CTA Section -->
     <CallToAction />
   </div>

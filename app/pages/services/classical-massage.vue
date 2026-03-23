@@ -157,6 +157,9 @@
       { slug: 'cupping-massage', key: 'cupping', image: 'cupping-therapy.jpeg' },
     ]" />
 
+    <!-- Gift Voucher Banner -->
+    <GiftVoucherBanner />
+
     <!-- CTA Section -->
     <CallToAction />
   </div>

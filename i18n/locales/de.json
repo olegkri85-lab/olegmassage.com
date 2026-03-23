@@ -3093,6 +3093,11 @@
       "discount": "CHF 20 Rabatt für beide",
       "shareWhatsApp": "Per WhatsApp empfehlen",
       "shareMessage": "Ich kann dir den mobilen Massage-Service von Oleg empfehlen - preisgekrönte Massage direkt bei dir zu Hause! Wenn du buchst, nennen wir beide unsere Namen und bekommen CHF 20 Rabatt. Schau mal: https://olegmassage.com"
+    },
+    "banner": {
+      "title": "Diese Massage verschenken?",
+      "description": "Bestellen Sie einen Gutschein als perfektes Geschenk.",
+      "button": "Zum Gutschein"
     }
   }
 }

@@ -156,6 +156,9 @@
       { slug: 'relaxation-massage', key: 'relaxation', image: 'relaxation-massage.jpeg' },
     ]" />
 
+    <!-- Gift Voucher Banner -->
+    <GiftVoucherBanner />
+
     <!-- CTA Section -->
     <CallToAction />
   </div>

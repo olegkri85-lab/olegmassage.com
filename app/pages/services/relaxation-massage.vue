@@ -157,6 +157,9 @@
       { slug: 'pregnancy-massage', key: 'pregnancy', image: 'pregnancy-massage.jpeg' },
     ]" />
 
+    <!-- Gift Voucher Banner -->
+    <GiftVoucherBanner />
+
     <!-- CTA Section -->
     <CallToAction />
   </div>

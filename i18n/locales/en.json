@@ -3093,6 +3093,11 @@
       "discount": "CHF 20 discount for both",
       "shareWhatsApp": "Refer via WhatsApp",
       "shareMessage": "Hey, I wanted to recommend Oleg's mobile massage service - award-winning massage right at your door! If you book and mention my name, we both get CHF 20 off. Check it out: https://olegmassage.com"
+    },
+    "banner": {
+      "title": "Gift this massage?",
+      "description": "Order a voucher as the perfect gift.",
+      "button": "Get a voucher"
     }
   }
 }

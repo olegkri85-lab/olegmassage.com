@@ -153,6 +153,8 @@
       { slug: 'children-massage', key: 'children', image: 'children-massage.jpeg' },
     ]" />
 
+    <GiftVoucherBanner />
+
     <CallToAction />
   </div>
 </template>
