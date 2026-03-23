@@ -28,6 +28,10 @@
     "faq": {
       "title": "FAQ - Häufig gestellte Fragen | olegmassage.com",
       "description": "Antworten auf häufig gestellte Fragen zu mobilem Massageservice in der Region Zürichsee. Buchung, Preise, Ablauf und mehr."
+    },
+    "contact": {
+      "title": "Kontakt | Mobile Massage Zürich | olegmassage.com",
+      "description": "Kontaktieren Sie Oleg Massage per WhatsApp, Telefon oder E-Mail. Mobile Massage in Zürich und Region Zürichsee. Mo-So 08:00-20:00."
     }
   },
   "nav": {
@@ -238,6 +242,21 @@
         "answer": "Absolut! Ich bin ein professioneller, zertifizierter Therapeut mit langjähriger Erfahrung. Viele Kunden schätzen den Komfort und die Privatsphäre der Massage zu Hause. Sie können auch meine Bewertungen und Referenzen einsehen."
       }
     ]
+  },
+  "contact": {
+    "subtitle": "Kontakt",
+    "title": "Kontaktieren Sie mich",
+    "description": "Ich freue mich auf Ihre Nachricht. Schreiben Sie mir per WhatsApp, rufen Sie an oder senden Sie eine E-Mail.",
+    "whatsapp": "Schreiben Sie mir direkt per WhatsApp - ich antworte schnell.",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "areas": {
+      "title": "Servicegebiet",
+      "description": "Ich biete mobile Massage in ganz Zürich (alle 12 Kreise), am Zürichsee (Meilen, Horgen, Küsnacht, Thalwil, Wädenswil, Stäfa und weitere), sowie in Schwyz, Luzern, Zug, Aargau und Rapperswil-Jona an."
+    },
+    "languages": {
+      "title": "Sprachen"
+    }
   },
   "testimonials": {
     "title": "Was meine Klienten sagen",

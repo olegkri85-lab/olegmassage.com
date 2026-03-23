@@ -28,6 +28,10 @@
     "faq": {
       "title": "FAQ - Frequently Asked Questions | olegmassage.com",
       "description": "Answers to frequently asked questions about mobile massage service in Zürichsee region. Booking, pricing, process and more."
+    },
+    "contact": {
+      "title": "Contact | Mobile Massage Zurich | olegmassage.com",
+      "description": "Contact Oleg Massage via WhatsApp, phone, or email. Mobile massage in Zurich and Lake Zurich region. Mon-Sun 08:00-20:00."
     }
   },
   "nav": {
@@ -238,6 +242,21 @@
         "answer": "Absolutely! I'm a professional, certified therapist with years of experience. Many clients appreciate the comfort and privacy of home massage. You can also check my reviews and references."
       }
     ]
+  },
+  "contact": {
+    "subtitle": "Contact",
+    "title": "Get in Touch",
+    "description": "I look forward to hearing from you. Reach me via WhatsApp, phone, or email.",
+    "whatsapp": "Message me directly on WhatsApp - I respond quickly.",
+    "phone": "Phone",
+    "email": "Email",
+    "areas": {
+      "title": "Service Area",
+      "description": "I offer mobile massage across all of Zurich (all 12 Kreise), along Lake Zurich (Meilen, Horgen, Kusnacht, Thalwil, Wadenswil, Stafa and more), as well as in Schwyz, Luzern, Zug, Aargau, and Rapperswil-Jona."
+    },
+    "languages": {
+      "title": "Languages"
+    }
   },
   "testimonials": {
     "title": "What My Clients Say",
