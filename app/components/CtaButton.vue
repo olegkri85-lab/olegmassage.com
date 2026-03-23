@@ -3,6 +3,7 @@
     :href="whatsappLink"
     target="_blank"
     rel="noopener noreferrer"
+    :aria-label="t('cta.ariaLabel')"
     :class="[
       'inline-flex items-center justify-center gap-3 font-medium transition-all tracking-wide !no-underline',
       variantClasses,

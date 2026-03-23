@@ -46,6 +46,15 @@ export default defineNuxtConfig({
       { code: "uk", language: "uk", name: "Українська", file: "uk.json" },
     ],
   },
+  linkChecker: {
+    skipInspections: ["link-text"],
+  },
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      routes: ["/"],
+    },
+  },
   vite: {
     plugins: [tailwindcss()],
   },

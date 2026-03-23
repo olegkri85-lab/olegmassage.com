@@ -2,7 +2,7 @@
   <div class="bg-gray-50">
     <!-- Hero Section -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
           {{ t("pricing.subtitle") }}
         </p>
@@ -19,7 +19,7 @@
 
     <!-- Pricing Table -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="max-w-4xl mx-auto">
+      <div class="container mx-auto">
         <div class="space-y-6">
           <!-- Swedish -->
           <NuxtLink
@@ -285,7 +285,7 @@
     <section
       class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
     >
-      <div class="max-w-4xl mx-auto">
+      <div class="container mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div class="bg-white rounded-2xl p-8 text-center">
             <h3 class="text-xl font-display text-gray-900 mb-2">

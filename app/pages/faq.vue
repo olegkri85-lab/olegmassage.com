@@ -2,7 +2,7 @@
   <div>
     <!-- Hero Section -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
           {{ t("faq.subtitle") }}
         </p>
@@ -18,7 +18,7 @@
     <section
       class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
     >
-      <div class="max-w-2xl">
+      <div class="container mx-auto">
         <div class="space-y-4">
           <div
             v-for="(item, index) in faqItems"

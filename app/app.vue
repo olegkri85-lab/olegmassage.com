@@ -22,15 +22,15 @@ useHead({
     const scripts = [
       {
         type: "application/ld+json",
-        children: JSON.stringify(organizationSchema),
+        children: JSON.stringify(organizationSchema.value),
       },
       {
         type: "application/ld+json",
-        children: JSON.stringify(personSchema),
+        children: JSON.stringify(personSchema.value),
       },
       {
         type: "application/ld+json",
-        children: JSON.stringify(websiteSchema),
+        children: JSON.stringify(websiteSchema.value),
       },
     ];
 

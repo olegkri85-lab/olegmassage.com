@@ -1,6 +1,6 @@
 <template>
   <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-16 items-center">
+    <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-16 items-center">
       <div class="flex flex-col gap-8">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white">
           {{ t("about.subtitle") }}
@@ -29,7 +29,6 @@
             :alt="t('images.portrait')"
             loading="eager"
             fetchpriority="high"
-            format="webp"
             quality="80"
             class="w-full h-full object-cover"
             style="aspect-ratio: 1/1"

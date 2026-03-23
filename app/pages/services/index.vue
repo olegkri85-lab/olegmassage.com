@@ -2,7 +2,7 @@
   <div class="bg-gray-50">
     <!-- Services Hero -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
           {{ t("services.subtitle") }}
         </p>
@@ -21,6 +21,7 @@
     <section
       class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
     >
+      <div class="container mx-auto">
       <ServicesGrid />
 
       <!-- Pricing Info -->
@@ -41,6 +42,7 @@
             <p class="text-gray-600 italic">{{ t("services.pricing.note") }}</p>
           </div>
         </div>
+      </div>
       </div>
     </section>
 

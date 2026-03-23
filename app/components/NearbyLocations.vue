@@ -1,6 +1,6 @@
 <template>
   <section v-if="nearby.length" class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]">
-    <div class="max-w-4xl">
+    <div class="container mx-auto">
       <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-6">
         {{ t("location.nearbyTitle") }}
       </h2>

@@ -2,7 +2,7 @@
   <div class="bg-gray-50">
     <!-- Hero Section -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
           {{ subtitle }}
         </p>
@@ -18,7 +18,7 @@
 
     <!-- Why Choose Section -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <div class="bg-white rounded-2xl p-8 md:p-12">
           <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-6">
             {{ whyTitle }}
@@ -35,7 +35,7 @@
 
     <!-- Services Section -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <h2 class="text-3xl md:text-4xl lg:text-5xl font-display mb-8">
           {{ servicesTitle }}
         </h2>

@@ -2,7 +2,7 @@
   <div class="bg-gray-50">
     <!-- Hero Section -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
           {{ t("certificates.subtitle") }}
         </p>
@@ -16,7 +16,7 @@
 
     <!-- Championship Awards -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="max-w-5xl mx-auto">
+      <div class="container mx-auto">
         <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-12">
           {{ t("certificates.championship.title") }}
         </h2>
@@ -29,7 +29,6 @@
               src="/certificates/smc-1st-place.jpeg"
               :alt="t('certificates.smc1stPlace.title')"
               loading="lazy"
-              format="webp"
               quality="80"
               class="w-full h-full object-cover"
               style="aspect-ratio: 4/3"
@@ -56,7 +55,6 @@
               src="/certificates/smc-participation.jpeg"
               :alt="t('certificates.smcParticipation.title')"
               loading="lazy"
-              format="webp"
               quality="80"
               class="w-full h-full object-cover"
               style="aspect-ratio: 4/3"
@@ -77,7 +75,7 @@
     <section
       class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
     >
-      <div class="max-w-5xl mx-auto">
+      <div class="container mx-auto">
         <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-12">
           {{ t("certificates.training.title") }}
         </h2>
@@ -90,7 +88,6 @@
               src="/certificates/profmed-classic-massage.jpeg"
               :alt="t('certificates.profmedClassic.title')"
               loading="lazy"
-              format="webp"
               quality="80"
               class="w-full h-full object-cover"
               style="aspect-ratio: 4/3"
@@ -111,7 +108,6 @@
               src="/certificates/profmed-anatomy.jpeg"
               :alt="t('certificates.profmedAnatomy.title')"
               loading="lazy"
-              format="webp"
               quality="80"
               class="w-full h-full object-cover"
               style="aspect-ratio: 4/3"
@@ -132,7 +128,6 @@
               src="/certificates/smc-workshops.jpeg"
               :alt="t('certificates.smcWorkshops.title')"
               loading="lazy"
-              format="webp"
               quality="80"
               class="w-full h-full object-cover"
               style="aspect-ratio: 4/3"

@@ -2,7 +2,7 @@
   <section
     class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--lightAccent-hsl))]"
   >
-    <div class="max-w-6xl mx-auto">
+    <div class="container mx-auto">
       <h2
         class="text-3xl md:text-4xl font-display text-gray-900 mb-12 text-center"
       >

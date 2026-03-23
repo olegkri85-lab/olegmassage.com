@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-50">
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
           {{ t("contact.subtitle") }}
         </p>
@@ -17,7 +17,7 @@
     </section>
 
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="max-w-4xl mx-auto">
+      <div class="container mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
           <a
             href="https://wa.me/380505872464"

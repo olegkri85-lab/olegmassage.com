@@ -2,6 +2,7 @@
   <footer
     class="bg-[hsl(var(--lightAccent-hsl))] rounded-2xl py-16 px-8 xl:py-32 xl:px-16"
   >
+    <div class="container mx-auto">
     <div class="pb-16">
       <NuxtLink
         :to="localePath('/')"
@@ -160,6 +161,7 @@
         <p>{{ t("footer.paymentMethods") }}</p>
       </div>
     </div>
+    </div>
   </footer>
   <div
     class="px-8 xl:px-16 text-center text-white bg-black text-xs md:text-sm py-2"
@@ -186,6 +188,9 @@ const kreise = [
   { to: "/locations/kreis-10", name: "Kreis 10 (Höngg)" },
   { to: "/locations/kreis-11", name: "Kreis 11 (Oerlikon)" },
   { to: "/locations/kreis-12", name: "Kreis 12 (Schwamendingen)" },
+  { to: "/locations/oerlikon", name: "Oerlikon" },
+  { to: "/locations/hoengg", name: "Höngg" },
+  { to: "/locations/wipkingen", name: "Wipkingen" },
 ];
 
 const zuerichsee = [

@@ -1,6 +1,6 @@
 <template>
   <header class="py-8 p-8 xl:p-16 bg-[hsl(var(--lightAccent-hsl))]">
-    <div class="flex justify-between items-center gap-8">
+    <div class="container mx-auto flex justify-between items-center gap-8">
       <div>
         <NuxtLink
           :to="localePath('/')"

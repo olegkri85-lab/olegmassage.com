@@ -2,7 +2,7 @@
   <div class="bg-gray-50">
     <!-- Hero Section -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <p class="text-xs md:text-sm uppercase tracking-widest text-white mb-4">
           {{ t("services.subtitle") }}
         </p>
@@ -29,14 +29,13 @@
 
     <!-- Service Details -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="max-w-4xl mx-auto">
+      <div class="container mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
           <div>
             <NuxtImg
               src="/images/services/large/anticellulite-massage.jpeg"
               :alt="t('services.anticellulite.altText')"
               loading="lazy"
-              format="webp"
               quality="80"
               class="w-full h-full object-cover"
               style="aspect-ratio: 4/3"
@@ -131,7 +130,7 @@
 
     <!-- Related Guides -->
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="max-w-4xl mx-auto">
+      <div class="container mx-auto">
         <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-8">
           {{ t("servicePages.relatedGuides") }}
         </h2>

@@ -3004,5 +3004,37 @@
         "location": "Rüschlikon"
       }
     ]
+  },
+  "schema": {
+    "org": {
+      "name": "Massazh - Mobile Massage Service",
+      "description": "Professional mobile massage service in Zürichsee region. Specialized in sports massage, classical massage, relaxation massage, and cupping therapy."
+    },
+    "person": {
+      "jobTitle": "Professional Massage Therapist",
+      "description": "Former Olympic gymnast for Ukraine and circus artist. 1st Place winner at the 5th Swiss Massage Championship 2026 in Swedish Massage category. Expert in sports massage, classical massage, Swedish massage, and cupping therapy."
+    },
+    "website": {
+      "name": "Massazh - Mobile Massage Zürichsee",
+      "description": "Professional mobile massage service in Zürichsee region"
+    },
+    "services": {
+      "classical": {
+        "name": "Classical Massage",
+        "description": "Relaxing full-body or partial massage. Promotes circulation and releases muscle tension."
+      },
+      "sports": {
+        "name": "Sports Massage",
+        "description": "Ideal for active people and athletes. Supports recovery, prevents injuries, and improves muscle flexibility."
+      },
+      "relaxation": {
+        "name": "Relaxation Massage",
+        "description": "Anti-stress massage with gentle techniques. Focus on stress relief and calming body and mind."
+      },
+      "cupping": {
+        "name": "Cupping Therapy",
+        "description": "Traditional cupping therapy to relieve muscle tension, promote circulation, and support detoxification."
+      }
+    }
   }
 }

@@ -2,7 +2,7 @@
   <div class="bg-gray-50">
     <!-- Hero Section -->
     <div class="py-16 px-8 xl:py-24 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-      <div class="max-w-6xl mx-auto">
+      <div class="container mx-auto">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <div
@@ -29,7 +29,6 @@
               :alt="t('images.championship')"
               loading="eager"
               fetchpriority="high"
-              format="webp"
               quality="80"
               class="w-full h-full object-cover"
               style="aspect-ratio: 4/3"

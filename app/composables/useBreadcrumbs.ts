@@ -126,11 +126,44 @@ export const useBreadcrumbs = () => {
       }
     }
 
+    // Guide section
+    if (path.includes("/guide")) {
+      items.push({
+        name: t("nav.guide"),
+        url: `https://olegmassage.com${localePath("/guide")}`,
+      });
+
+      const guideMap: Record<string, string> = {
+        "which-massage": "guide.whichMassage.title",
+        "first-massage": "guide.firstMassage.title",
+        "mobile-vs-studio": "guide.mobileVsStudio.title",
+        "massage-frequency": "guide.massageFrequency.title",
+        "massage-for-back-pain": "guide.backPain.title",
+        "swedish-vs-classical": "guide.swedishVsClassical.title",
+        "massage-during-pregnancy": "guide.pregnancyMassage.title",
+        "benefits-of-mobile-massage": "guide.mobileBenefits.title",
+      };
+
+      for (const [slug, titleKey] of Object.entries(guideMap)) {
+        if (path.includes(`/guide/${slug}`)) {
+          items.push({
+            name: t(titleKey),
+            url: `https://olegmassage.com${localePath(`/guide/${slug}`)}`,
+          });
+          break;
+        }
+      }
+    }
+
     // Standalone pages
     const standaloneMap: Record<string, string> = {
       "/about": "nav.about",
+      "/contact": "contact.subtitle",
+      "/gift-voucher": "nav.giftVoucher",
       "/faq": "nav.faq",
       "/prices": "nav.prices",
+      "/legal": "footer.legal",
+      "/dataprotection": "footer.dataProtection",
     };
 
     for (const [pagePath, titleKey] of Object.entries(standaloneMap)) {

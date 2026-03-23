@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-50">
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-[hsl(var(--accent-hsl))]">
-      <div class="max-w-4xl">
+      <div class="container mx-auto">
         <NuxtLink
           :to="localePath('/guide')"
           class="text-white/70 hover:text-white text-sm uppercase tracking-widest !no-underline mb-4 inline-block"
@@ -18,7 +18,7 @@
     </section>
 
     <section class="py-16 px-8 xl:py-32 xl:px-16 bg-white">
-      <div class="max-w-4xl mx-auto space-y-12">
+      <div class="container mx-auto space-y-12">
         <div v-for="section in sections" :key="section" class="bg-gray-50 rounded-2xl p-8 md:p-12">
           <h2 class="text-2xl md:text-3xl font-display text-gray-900 mb-4">
             {{ t(`guide.mobileBenefits.${section}.title`) }}

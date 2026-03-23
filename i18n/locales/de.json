@@ -41,7 +41,8 @@
     "prices": "Preise",
     "guide": "Ratgeber",
     "certificates": "Zertifikate",
-    "faq": "Fragen"
+    "faq": "Fragen",
+    "giftVoucher": "Gutschein"
   },
   "footer": {
     "serviceArea": "Servicegebiet",
@@ -3004,5 +3005,94 @@
         "location": "Rüschlikon"
       }
     ]
+  },
+  "schema": {
+    "org": {
+      "name": "Massazh - Mobiler Massage-Service",
+      "description": "Professioneller mobiler Massage-Service in der Region Zürichsee. Spezialisiert auf Sportmassage, Klassische Massage, Relax-Massage und Schröpftherapie."
+    },
+    "person": {
+      "jobTitle": "Professioneller Massagetherapeut",
+      "description": "Ehemaliger Olympia-Turner der Ukraine und Zirkusartist. Gewinner des 1. Platzes am 5. Swiss Massage Championship 2026 in der Kategorie Schwedische Massage. Experte für Sportmassage, Klassische Massage, Schwedische Massage und Schröpftherapie."
+    },
+    "website": {
+      "name": "Massazh - Mobile Massage Zürichsee",
+      "description": "Professioneller mobiler Massage-Service in der Region Zürichsee"
+    },
+    "services": {
+      "classical": {
+        "name": "Klassische Massage",
+        "description": "Entspannende Ganzkörper- oder Teilmassage. Fördert die Durchblutung und löst Muskelverspannungen."
+      },
+      "sports": {
+        "name": "Sportmassage",
+        "description": "Ideal für aktive Menschen und Sportler. Unterstützt die Regeneration, beugt Verletzungen vor und verbessert die Muskelflexibilität."
+      },
+      "relaxation": {
+        "name": "Relax-Massage",
+        "description": "Anti-Stress-Massage mit sanften Techniken. Fokus auf Stressabbau und Beruhigung von Körper und Geist."
+      },
+      "cupping": {
+        "name": "Schröpftherapie",
+        "description": "Traditionelle Schröpftherapie zur Linderung von Muskelverspannungen, Förderung der Durchblutung und Unterstützung der Entgiftung."
+      }
+    }
+  },
+  "gutschein": {
+    "meta": {
+      "title": "Massage Gutschein Zürich | Verschenken Sie Entspannung | olegmassage.com",
+      "description": "Massage Gutschein online bestellen. Verschenken Sie professionelle mobile Massage in der Region Zürichsee. Schwedische Massage, Entspannungsmassage oder freie Wahl. Per WhatsApp oder E-Mail bestellen."
+    },
+    "subtitle": "Das perfekte Geschenk",
+    "title": "Massage Gutschein",
+    "description": "Verschenken Sie Entspannung und Wohlbefinden. Ein Massage-Gutschein ist das ideale Geschenk für jeden Anlass - Geburtstag, Feiertag oder einfach als Dankeschön.",
+    "options": {
+      "title": "Gutschein-Optionen",
+      "relaxation": {
+        "title": "Entspannungsmassage",
+        "duration": "60 Minuten",
+        "price": "120 CHF",
+        "description": "Tiefe Entspannung für Körper und Geist. Sanfte, fliessende Bewegungen lösen Stress und schenken innere Ruhe. Das beliebteste Geschenk.",
+        "badge": "Beliebt"
+      },
+      "swedish": {
+        "title": "Schwedische Massage",
+        "duration": "90 Minuten",
+        "price": "160 CHF",
+        "description": "Die Premium-Erfahrung vom Gewinner der Schweizer Massage-Meisterschaft 2026. Tiefenwirksame Ganzkörpermassage für maximale Erholung.",
+        "badge": "Premium"
+      },
+      "custom": {
+        "title": "Wunschmassage",
+        "duration": "nach Wahl",
+        "price": "ab 100 CHF",
+        "description": "Der Beschenkte wählt selbst: Massageart, Dauer und Termin. Maximale Flexibilität für das perfekte Geschenk.",
+        "badge": "Flexibel"
+      }
+    },
+    "orderWhatsApp": "Per WhatsApp bestellen",
+    "orderEmail": "Per E-Mail bestellen",
+    "howItWorks": {
+      "title": "So funktioniert es",
+      "step1": {
+        "title": "1. Kontakt aufnehmen",
+        "description": "Schreiben Sie mir per WhatsApp oder E-Mail, welchen Gutschein Sie bestellen möchten."
+      },
+      "step2": {
+        "title": "2. Bezahlung",
+        "description": "Bequem per TWINT oder Banküberweisung bezahlen."
+      },
+      "step3": {
+        "title": "3. Gutschein erhalten",
+        "description": "Sie erhalten einen personalisierten Gutschein als PDF per E-Mail oder auf Wunsch als gedruckte Karte per Post."
+      }
+    },
+    "referral": {
+      "title": "Empfehlen & sparen",
+      "description": "Kennen Sie jemanden, der eine Massage braucht? Empfehlen Sie mich weiter und Sie beide sparen CHF 20 auf die nächste Behandlung. Ihr Freund nennt einfach Ihren Namen bei der Buchung.",
+      "discount": "CHF 20 Rabatt für beide",
+      "shareWhatsApp": "Per WhatsApp empfehlen",
+      "shareMessage": "Ich kann dir den mobilen Massage-Service von Oleg empfehlen - preisgekrönte Massage direkt bei dir zu Hause! Wenn du buchst, nennen wir beide unsere Namen und bekommen CHF 20 Rabatt. Schau mal: https://olegmassage.com"
+    }
   }
 }

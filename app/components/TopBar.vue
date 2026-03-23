@@ -1,6 +1,6 @@
 <template>
   <div class="bg-[hsl(var(--accent-hsl))] text-white py-2 px-8 xl:px-16">
-    <div class="flex justify-between items-center text-xs md:text-sm">
+    <div class="container mx-auto flex justify-between items-center text-xs md:text-sm">
       <LanguageSwitcher />
       <div class="flex items-center gap-4">
         <NuxtLink

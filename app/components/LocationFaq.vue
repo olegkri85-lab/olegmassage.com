@@ -1,6 +1,6 @@
 <template>
   <section v-if="items.length" class="py-16 px-8 xl:py-32 xl:px-16 bg-gray-50">
-    <div class="max-w-4xl">
+    <div class="container mx-auto">
       <h2 class="text-3xl md:text-4xl font-display text-gray-900 mb-8">
         {{ t("location.faqTitle") }}
       </h2>

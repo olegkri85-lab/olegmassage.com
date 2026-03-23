@@ -1,13 +1,12 @@
 export const useStructuredData = () => {
-  const { locale } = useI18n();
+  const { t } = useI18n();
 
-  const organizationSchema = {
+  const organizationSchema = computed(() => ({
     "@context": "https://schema.org",
     "@type": ["LocalBusiness", "HealthAndBeautyBusiness"],
     "@id": "https://olegmassage.com/#organization",
-    name: "Massazh - Mobile Massage Service",
-    description:
-      "Professional mobile massage service in Zürichsee region. Specialized in sports massage, classical massage, relaxation massage, and cupping therapy.",
+    name: t("schema.org.name"),
+    description: t("schema.org.description"),
     url: "https://olegmassage.com",
     logo: "https://olegmassage.com/logo.png",
     image: "https://olegmassage.com/images/me.jpeg",
@@ -62,36 +61,32 @@ export const useStructuredData = () => {
           "@type": "Offer",
           itemOffered: {
             "@type": "Service",
-            name: "Classical Massage",
-            description:
-              "Relaxing full-body or partial massage. Promotes circulation and releases muscle tension.",
+            name: t("schema.services.classical.name"),
+            description: t("schema.services.classical.description"),
           },
         },
         {
           "@type": "Offer",
           itemOffered: {
             "@type": "Service",
-            name: "Sports Massage",
-            description:
-              "Ideal for active people and athletes. Supports recovery, prevents injuries, and improves muscle flexibility.",
+            name: t("schema.services.sports.name"),
+            description: t("schema.services.sports.description"),
           },
         },
         {
           "@type": "Offer",
           itemOffered: {
             "@type": "Service",
-            name: "Relaxation Massage",
-            description:
-              "Anti-stress massage with gentle techniques. Focus on stress relief and calming body and mind.",
+            name: t("schema.services.relaxation.name"),
+            description: t("schema.services.relaxation.description"),
           },
         },
         {
           "@type": "Offer",
           itemOffered: {
             "@type": "Service",
-            name: "Cupping Therapy",
-            description:
-              "Traditional cupping therapy to relieve muscle tension, promote circulation, and support detoxification.",
+            name: t("schema.services.cupping.name"),
+            description: t("schema.services.cupping.description"),
           },
         },
       ],
@@ -177,17 +172,16 @@ export const useStructuredData = () => {
       "https://www.instagram.com/massage_in_schweiz/",
       "https://www.threads.com/@massage_in_schweiz",
     ],
-  };
+  }));
 
-  const personSchema = {
+  const personSchema = computed(() => ({
     "@context": "https://schema.org",
     "@type": "Person",
     "@id": "https://olegmassage.com/#person",
     name: "Oleh Kryvorotko",
     alternateName: "Oleg",
-    jobTitle: "Professional Massage Therapist",
-    description:
-      "Former Olympic gymnast for Ukraine and circus artist. 1st Place winner at the 5th Swiss Massage Championship 2026 in Swedish Massage category. Expert in sports massage, classical massage, Swedish massage, and cupping therapy.",
+    jobTitle: t("schema.person.jobTitle"),
+    description: t("schema.person.description"),
     image: "https://olegmassage.com/images/me.jpeg",
     alumniOf: "Olympic Team Ukraine - Gymnastics",
     award: "1st Place, Swiss Massage Championship 2026, Swedish Massage Category",
@@ -233,20 +227,20 @@ export const useStructuredData = () => {
         addressRegion: "Zürich",
       },
     },
-  };
+  }));
 
-  const websiteSchema = {
+  const websiteSchema = computed(() => ({
     "@context": "https://schema.org",
     "@type": "WebSite",
     "@id": "https://olegmassage.com/#website",
     url: "https://olegmassage.com",
-    name: "Massazh - Mobile Massage Zürichsee",
-    description: "Professional mobile massage service in Zürichsee region",
+    name: t("schema.website.name"),
+    description: t("schema.website.description"),
     inLanguage: ["de", "en", "ru", "uk"],
     publisher: {
       "@id": "https://olegmassage.com/#organization",
     },
-  };
+  }));
 
   return {
     organizationSchema,
